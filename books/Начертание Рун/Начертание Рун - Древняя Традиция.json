@@ -1,0 +1,649 @@
+{
+  "name": "Начертание Рун - Древняя Традиция",
+  "description": "",
+  "ownership": {},
+  "tools": "Инструменты каменщика / Mason's Tools, Инструменты художника / Painter's Supplies",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Древняя руна: Свет / Light",
+      "time": 240,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
+              "quantity": "1",
+              "name": "Обычная Первичная Эссенция / Common Primal Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eOwU5533Gna5obG2",
+              "quantity": "1",
+              "name": "Обычные Магические Чернила / Common Magical Ink"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.ogK1qso5woSmg0He",
+              "quantity": 1,
+              "name": "Древняя руна: Свет / Light"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-runed-spiral-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Древняя руна: Огонь / Fire",
+      "time": 360,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "1",
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
+              "quantity": "1",
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
+              "quantity": "2",
+              "name": "Необычный Реактивный Реагент / Uncommon Reactive Reagent"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.ULu8uH59c7Zwlf2N",
+              "quantity": 1,
+              "name": "Древняя руна: Огонь / Fire"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-runed-mem-red.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Древняя руна: Молния / Lightning",
+      "time": 360,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "1",
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
+              "quantity": "1",
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
+              "quantity": "1",
+              "name": "Обычная Первичная Эссенция / Common Primal Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
+              "quantity": "1",
+              "name": "Обычная Арканная Эссенция / Common Arcane Essence"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lriwSAt4NdSM7WuH",
+              "quantity": 1,
+              "name": "Древняя руна: Молния / Lightning"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-engraved-purple-glowing.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Ледяное масло / Frost Oil",
+      "time": 360,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "1",
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
+              "quantity": "1",
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
+              "quantity": "2",
+              "name": "Обычная Первичная Эссенция / Common Primal Essence"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.H5JqgcweudEqxsMG",
+              "quantity": 1,
+              "name": "Ледяное масло / Frost Oil"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/plants/leaf-broad-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Древняя руна: Зрение / Vision",
+      "time": 360,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "1",
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
+              "quantity": "1",
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
+              "quantity": "1",
+              "name": "Обычная Арканная Эссенция / Common Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.fd8yTaU2XEpZKAD6",
+              "quantity": "1",
+              "name": "Обычная Божественная Эссенция / Common Divine Essence"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.xJzQdymVHNh5caey",
+              "quantity": 1,
+              "name": "Древняя руна: Зрение / Vision"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-engraved-pickaxe-pink.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Древняя руна: Размер / Size",
+      "time": 360,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "1",
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
+              "quantity": "1",
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.EeujT8xaZCFHkTcK",
+              "quantity": 1,
+              "name": "Свиток заклинания: Увеличение/уменьшение / Enlarge/Reduce"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.DZjsURxEVkx9a3Ql",
+              "quantity": 1,
+              "name": "Древняя руна: Размер / Size"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-engraved-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Древняя руна: Выносливость / Vigor",
+      "time": 720,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
+              "quantity": "1",
+              "name": "Редкая Первичная Эссенция / Rare Primal Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
+              "quantity": "1",
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.t3ON4hhqI8q1BjAT",
+              "quantity": "4",
+              "name": "Редкий Лечебный Реагент / Rare Curative Reagent"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
+              "quantity": "1",
+              "name": "Необычная Божественная Эссенция / Uncommon Divine Essence"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.dBzOykRYmeW1CvyK",
+              "quantity": 1,
+              "name": "Древняя руна: Выносливость / Vigor"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-engraved-question-green.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Древняя руна: Разрушение / Destruction",
+      "time": 720,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
+              "quantity": "3",
+              "name": "Редкая Первичная Эссенция / Rare Primal Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "3",
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.2hRuzE9CCfIbMXIV",
+              "quantity": "1",
+              "name": "Редкие Магические Чернила / Rare Magical Ink"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.89hhOh3VUd75HIQw",
+              "quantity": 1,
+              "name": "Древняя руна: Разрушение / Destruction"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-engraved-eye-red.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Древняя руна: Жестокость / Brutality",
+      "time": 720,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.2hRuzE9CCfIbMXIV",
+              "quantity": "1",
+              "name": "Редкие Магические Чернила / Rare Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.eGG8CbqpTxxau5ud",
+              "quantity": "3",
+              "name": "Редкая Первичная Эссенция / Rare Primal Essence"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.0fumFd66ncfPFFeW",
+              "quantity": 1,
+              "name": "Древняя руна: Жестокость / Brutality"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-etched-h-brown.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Древняя руна: Гнев / Wrath",
+      "time": 960,
+      "macroName": "Craft|17",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
+              "quantity": "1",
+              "name": "Очень Редкая Первичная Эссенция / Very Rare Primal Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
+              "quantity": "2",
+              "name": "Редкая Первичная Эссенция / Rare Primal Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.MwoMKo4Yfo1aXs5T",
+              "quantity": "1",
+              "name": "Очень Редкие Магические Чернила / Very Rare Magical Ink"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.bq99tr0YhvslWqsf",
+              "quantity": 1,
+              "name": "Древняя руна: Гнев / Wrath"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-engraved-yellow-glowing.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Древняя руна: Смерть / Death",
+      "time": 1440,
+      "macroName": "Craft|19",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
+              "quantity": "1",
+              "name": "Легендарная Божественная Эссенция / Legendary Divine Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
+              "quantity": "1",
+              "name": "Легендарная Первичная Эссенция / Legendary Primal Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.bTvNFMIXHMpSvst6",
+              "quantity": "1",
+              "name": "Легендарные Магические Чернила / Legendary Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
+              "quantity": "4",
+              "name": "Редкая Первичная Эссенция / Rare Primal Essence"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.r21AO6Gj0qgMwuQ1",
+              "quantity": 1,
+              "name": "Древняя руна: Смерть / Death"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-white-skull.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/commodities/treasure/token-runed-spiral-grey.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

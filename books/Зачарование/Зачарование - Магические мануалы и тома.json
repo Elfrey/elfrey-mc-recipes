@@ -1,0 +1,455 @@
+{
+  "name": "Зачарование - Магические мануалы и тома",
+  "description": "",
+  "ownership": {},
+  "tools": "",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Пособие по здоровью тела / Manual of Bodily Health",
+      "time": 24300,
+      "macroName": "Craft|21",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
+              "quantity": "1",
+              "name": "Легендарная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
+              "quantity": "1",
+              "name": "Легендарная Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "quantity": 1,
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.BtQihTP5uME0FiKf",
+              "quantity": 1,
+              "name": "Книга (500 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.1RpBMO1aMPYQkpZn",
+              "quantity": 1,
+              "name": "Пособие по здоровью тела / Manual of Bodily Health"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Manual%20of%20Bodily%20Health.jpg",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Пособие по полезным тренировкам / Manual of Gainful Exercise",
+      "time": 24300,
+      "macroName": "Craft|21",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
+              "quantity": "2",
+              "name": "Легендарная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.BtQihTP5uME0FiKf",
+              "quantity": 1,
+              "name": "Книга (500 зм)"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "quantity": 1,
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.90NBVrbu7flCHWHL",
+              "quantity": 1,
+              "name": "Пособие по полезным тренировкам / Manual of Gainful Exercise"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Manual%20of%20Gainful%20Exercise.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Книга голема / Manual of Golems",
+      "time": 14580,
+      "macroName": "Craft|19",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
+              "quantity": "2",
+              "name": "Очень Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
+              "quantity": "1",
+              "name": "Редкая Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.LVu22qr21HA3Qnsf",
+              "quantity": 1,
+              "name": "Книга (250 зм)"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.SgMFAZIucp56lQWF",
+              "quantity": 1,
+              "name": "Свиток заклинания: Пробуждение / Awaken"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.C0HspXJNot9UQpPk",
+              "quantity": 1,
+              "name": "Свиток заклинания: Оживление вещи / Animate Object"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.6kx3mbj1SNZyynjM",
+              "quantity": 1,
+              "name": "Книга голема / Manual of Golems"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Manual%20of%20Golems.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Пособие по быстроте действий / Manual of Quickness of Action",
+      "time": 24300,
+      "macroName": "Craft|21",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
+              "quantity": "1",
+              "name": "Легендарная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
+              "quantity": "1",
+              "name": "Легендарная Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.BtQihTP5uME0FiKf",
+              "quantity": 1,
+              "name": "Книга (500 зм)"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "quantity": 1,
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.sKWcsa1QQJY7xIaq",
+              "quantity": 1,
+              "name": "Пособие по быстроте действий / Manual of Quickness of Action"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Manual%20of%20Quickness%20of%20Action.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Том ясного мышления / Tome of Clear Thought",
+      "time": 24300,
+      "macroName": "Craft|21",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
+              "quantity": "2",
+              "name": "Легендарная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.BtQihTP5uME0FiKf",
+              "quantity": 1,
+              "name": "Книга (500 зм)"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "quantity": 1,
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.vMyOTdWA28gaSWpE",
+              "quantity": 1,
+              "name": "Том ясного мышления / Tome of Clear Thought"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Tome%20of%20Clear%20Thought.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Том лидерства и влияния / Tome of Leadership and Influence",
+      "time": 24300,
+      "macroName": "Craft|21",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
+              "quantity": "2",
+              "name": "Легендарная Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.BtQihTP5uME0FiKf",
+              "quantity": 1,
+              "name": "Книга (500 зм)"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "quantity": 1,
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.OaqU7uvzshX2N6YR",
+              "quantity": 1,
+              "name": "Том лидерства и влияния / Tome of Leadership and Influence"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Tome%20of%20Leadership%20and%20Influence.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Том понимания / Tome of Understanding",
+      "time": 24300,
+      "macroName": "Craft|21",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
+              "quantity": "1",
+              "name": "Легендарная Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
+              "quantity": "1",
+              "name": "Легендарная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.BtQihTP5uME0FiKf",
+              "quantity": 1,
+              "name": "Книга (500 зм)"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "quantity": 1,
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.IHB97SDJmh9wRZaB",
+              "quantity": 1,
+              "name": "Том понимания / Tome of Understanding"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Tome%20of%20Understanding.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "modules/laaru-dnd5-hw/assets/images/pic/Tome%20of%20Understanding.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

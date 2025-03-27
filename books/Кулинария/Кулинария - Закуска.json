@@ -1,0 +1,334 @@
+{
+  "name": "Кулинария - Закуска",
+  "description": "",
+  "ownership": {
+    "ku28rw7jRukQFKqJ": "2",
+    "XmsJK11v2DlpvsUU": "2",
+    "u2xZq7cRGkZUX1eF": "2",
+    "qg6cjbHqRTCejSCi": "2",
+    "ApTChzA7uOsk0BHP": "2"
+  },
+  "tools": "Инструменты повара, Инструменты повара / Cook's Utensils, Инструменты повара дворфов / Cook's Utensils",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Вяленое Дыхание Пламени",
+      "time": 360,
+      "macroName": "Craft|15",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.sI41EVMd09U3Gtg4",
+              "quantity": 1,
+              "name": "Редкое Мясо которое имеет иммунитет к урону огнем"
+            },
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.PmtzL4TJ5qPhhbiN",
+              "quantity": 1,
+              "name": "Необычное Мясо которое имеет иммунитет к урону огнем"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
+              "quantity": "2",
+              "name": "Необычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
+              "quantity": 1,
+              "name": "Редкие расходные материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.FsDk64pmxI3KEVQL",
+              "quantity": "5",
+              "name": "Вяленое дыхание пламени"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/meat/kebab-skewer-red.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Мятная жуйка",
+      "time": 240,
+      "macroName": "Craft|14",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
+              "quantity": "2",
+              "name": "Необычный Лечебный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
+              "quantity": 1,
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.DII57YIEMKUlRkyQ",
+              "quantity": "5",
+              "name": "Мятная жуйка"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/candy-pattie-pink-white.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Меняющиеся печеньки",
+      "time": 120,
+      "macroName": "Craft|15",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.m16dGAJbWl0Has0s",
+              "quantity": 1,
+              "name": "Ингредиент собранный с Перевертыша"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.pyw3iCztJeEMwOSX",
+              "quantity": 1,
+              "name": "Редкие расходные материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.lLcNNpjGKKYhZTpV",
+              "quantity": 1,
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.O3WXOpln1gnScZkg",
+              "quantity": 1,
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.K1wO6AYZNbBhfOtH",
+              "quantity": "5",
+              "name": "Меняющиеся печеньки"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/grains/waffle-golden-yellow.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Зрячие палочки",
+      "time": 240,
+      "macroName": "Craft|15",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.YgNGuJlYjwmzCczl",
+              "quantity": 1,
+              "name": "Ингредиент собранный с существа имеющие слепое зрение или эхолокацию"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
+              "quantity": 1,
+              "name": "Редкие расходные материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
+              "quantity": 1,
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.5qHiaGlNCFOdRzWY",
+              "quantity": "5",
+              "name": "Зрячие палочки"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/grains/breadsticks-crackers-wrapped-ration-brown.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Ускоряющие конфетки",
+      "time": 240,
+      "macroName": "Craft|18",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
+              "quantity": 1,
+              "name": "Редкие расходные материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
+              "quantity": "2",
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.zJWJJvCmDMzAZ2vL",
+              "quantity": "5",
+              "name": "Ускоряющие конфетки"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/candy-taffy-yellow.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    }
+  ],
+  "img": "icons/consumables/food/dried-fruit-candy-brown.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

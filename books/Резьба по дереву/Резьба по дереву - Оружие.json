@@ -1,0 +1,217 @@
+{
+  "name": "Резьба по дереву - Оружие",
+  "description": "",
+  "ownership": {},
+  "tools": "Инструменты резчика / Woodcarver's Tools",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Короткий лук / Shortbow",
+      "time": 720,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
+              "quantity": "1",
+              "name": "Качественная Ветвь / Quality Branch"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.adBa2eWvJ5KXTHWs",
+              "quantity": "1",
+              "name": "Кусок Кожи / Leather Scraps"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.hDOc8kfHGyQwOMDb",
+              "quantity": 1,
+              "name": "Отрезок лески / Length of String"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.GJv6WkD7D2J6rP6M",
+              "quantity": 1,
+              "name": "Короткий лук / Shortbow"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/bows/shortbow-recurve.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Длинный лук / Longbow",
+      "time": 840,
+      "macroName": "Craft|13",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
+              "quantity": "1",
+              "name": "Качественная Ветвь / Quality Branch"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.adBa2eWvJ5KXTHWs",
+              "quantity": "1",
+              "name": "Кусок Кожи / Leather Scraps"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.hDOc8kfHGyQwOMDb",
+              "quantity": 1,
+              "name": "Отрезок лески / Length of String"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.3cymOVja8jXbzrdT",
+              "quantity": 1,
+              "name": "Длинный лук / Longbow"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/bows/longbow-leather-green.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Композитный лук / Composite Bow",
+      "time": 1440,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
+              "quantity": "1",
+              "name": "Обычная Ветвь / Common Branch"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.adBa2eWvJ5KXTHWs",
+              "quantity": "4",
+              "name": "Кусок Кожи / Leather Scraps"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.hDOc8kfHGyQwOMDb",
+              "quantity": 1,
+              "name": "Отрезок лески / Length of String"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.XnrNlX0XF7MjdqVi",
+              "quantity": 1,
+              "name": "Композитный лук / Composite Bow"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/bows/bow-recurve-black.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Боевой посох / Quarterstaff",
+      "time": 120,
+      "macroName": "Craft|10",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
+              "quantity": "1",
+              "name": "Обычная Ветвь / Common Branch"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.g2dWN7PQiMRYWzyk",
+              "quantity": 1,
+              "name": "Боевой посох / Quarterstaff"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/staves/staff-simple-gold.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/weapons/bows/shortbow-recurve.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

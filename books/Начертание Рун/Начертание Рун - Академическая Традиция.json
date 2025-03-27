@@ -1,0 +1,725 @@
+{
+  "name": "Начертание Рун - Академическая Традиция",
+  "description": "",
+  "ownership": {},
+  "tools": "Инструменты каллиграфа / Calligrapher's Supplies, Инструменты резчика / Woodcarver's Tools",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Академическая руна: Цвет / Color",
+      "time": 120,
+      "macroName": "Craft|13",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eOwU5533Gna5obG2",
+              "quantity": "1",
+              "name": "Обычные Магические Чернила / Common Magical Ink"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.KVFdjoXLkav975In",
+              "quantity": 1,
+              "name": "Академическая руна: Цвет / Color"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-engraved-symbols-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Академическая руна: Понимание / Comprehension",
+      "time": 240,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "1",
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.fd8yTaU2XEpZKAD6",
+              "quantity": "1",
+              "name": "Обычная Божественная Эссенция / Common Divine Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
+              "quantity": "1",
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.KbrGkQjnuH0HcIUF",
+              "quantity": 1,
+              "name": "Свиток заклинания: Понимание языков / Comprehend Languages"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.bPwV4r0ByTtjkmyp",
+              "quantity": 1,
+              "name": "Академическая руна: Понимание / Comprehension"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-engraved-alpha-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Академическая руна: Связь / Connection",
+      "time": 240,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
+              "quantity": "1",
+              "name": "Необычная Божественная Эссенция / Uncommon Divine Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
+              "quantity": "1",
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.3kaWGynGo3OK302o",
+              "quantity": 1,
+              "name": "Свиток заклинания: Обнаружение мыслей / Detect Thoughts"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.UYLsoGx4sdnQBrEb",
+              "quantity": 1,
+              "name": "Академическая руна: Связь / Connection"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/talisman-embossed-rune-red.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Академическая руна: Защита / Protection",
+      "time": 240,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "1",
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
+              "quantity": "1",
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.3oUsGGOT3Sc6NDoV",
+              "quantity": 1,
+              "name": "Свиток заклинания: Щит / Shield"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.7oZQI0nRmlMigkxt",
+              "quantity": 1,
+              "name": "Академическая руна: Защита / Protection"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-runed-os-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Академическая руна: Гравитация / Gravity",
+      "time": 240,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "1",
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
+              "quantity": "1",
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.EC0vpVnHyT7Fp0Bb",
+              "quantity": 1,
+              "name": "Свиток заклинания: Левитация / Levitate"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.CegYO3xhMkScSzS7",
+              "quantity": 1,
+              "name": "Академическая руна: Гравитация / Gravity"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-silver-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Академическая руна: Навык / Skill",
+      "time": 240,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "1",
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
+              "quantity": "1",
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "quantity": 1,
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.nO4g4TvuP1dRwqL1",
+              "quantity": 1,
+              "name": "Академическая руна: Навык / Skill"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-engraved-spiral-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Академическая руна: Кровь / Blood",
+      "time": 480,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "1",
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.2hRuzE9CCfIbMXIV",
+              "quantity": "1",
+              "name": "Редкие Магические Чернила / Rare Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.uANq35lqoZcUyOhz",
+              "quantity": 1,
+              "name": "Свиток заклинания: Касание вампира / Vampiric Touch"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.y5O7fKxeooRtJ8Ea",
+              "quantity": 1,
+              "name": "Академическая руна: Кровь / Blood"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-engraved-eye-red.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Академическая руна: Мощь / Power",
+      "time": 600,
+      "macroName": "Craft|17",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "1",
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.2hRuzE9CCfIbMXIV",
+              "quantity": "1",
+              "name": "Редкие Магические Чернила / Rare Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "2",
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WbwVYSLF9PIgeRsh",
+              "quantity": 1,
+              "name": "Академическая руна: Мощь / Power"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-runed-nyd-yellow.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Академическая руна: Пространство / Space",
+      "time": 600,
+      "macroName": "Craft|17",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "1",
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "2",
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.2hRuzE9CCfIbMXIV",
+              "quantity": "1",
+              "name": "Редкие Магические Чернила / Rare Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.4PZsRjg8vk7h44S3",
+              "quantity": 1,
+              "name": "Свиток заклинания: Дверь в пространстве / Dimension Door"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ErtLLzCh48K6oVgh",
+              "quantity": 1,
+              "name": "Академическая руна: Пространство / Space"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-engraved-spiral-grey-white.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Академическая руна: Скорость / Speed",
+      "time": 720,
+      "macroName": "Craft|17",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
+              "quantity": "1",
+              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.MwoMKo4Yfo1aXs5T",
+              "quantity": "1",
+              "name": "Очень Редкие Магические Чернила / Very Rare Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.pdGu4rtCSItFCoFM",
+              "quantity": 1,
+              "name": "Свиток заклинания: Ускорение / Haste"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.YJ0nZRVWFJorb47i",
+              "quantity": 1,
+              "name": "Академическая руна: Скорость / Speed"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-runed-wyn-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Академическая руна: Реальность / Reality",
+      "time": 960,
+      "macroName": "Craft|18",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
+              "quantity": "1",
+              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "2",
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.MwoMKo4Yfo1aXs5T",
+              "quantity": "1",
+              "name": "Очень Редкие Магические Чернила / Very Rare Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.mNXMDHLoOWGp6Sz6",
+              "quantity": 1,
+              "name": "Свиток заклинания: Полноценный образ / Major Image"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.Ultb03b1nvwMAiaC",
+              "quantity": 1,
+              "name": "Свиток заклинания: Творение / Creation"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ALhpVaUxWNXuLqYn",
+              "quantity": 1,
+              "name": "Академическая руна: Реальность / Reality"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/token-runed-circles-purple.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Академическая руна: Время / Time",
+      "time": 1440,
+      "macroName": "Craft|21",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
+              "quantity": "1",
+              "name": "Легендарная Арканная Эссенция / Legendary Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
+              "quantity": "1",
+              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.bTvNFMIXHMpSvst6",
+              "quantity": "1",
+              "name": "Легендарные Магические Чернила / Legendary Magical Ink"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
+              "quantity": "2",
+              "name": "Редкая Божественная Эссенция / Rare Divine Essence"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.n0WjbbjpHAAKRaXQ",
+              "quantity": 1,
+              "name": "Свиток заклинания: Остановка времени / Time Stop"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.vvkPA8js77sjBknr",
+              "quantity": 1,
+              "name": "Академическая руна: Время / Time"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/treasure/statue-runed-blue-grey.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/commodities/treasure/statue-runed-blue-grey.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

@@ -1,0 +1,355 @@
+{
+  "name": "Зачарование - Магические драгоценные камни",
+  "description": "",
+  "ownership": {},
+  "tools": "",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Бриллиантовый Алмаз",
+      "time": 240,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
+              "quantity": "1",
+              "name": "Обычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.tsB8f9VcfOUHeWKq",
+              "quantity": 1,
+              "name": "Алмаз (25 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.iA8n66QO4jQzoS1m",
+              "quantity": 1,
+              "name": "Бриллиантовый Алмаз"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-faceted-round-white.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Шипучий Изумруд",
+      "time": 240,
+      "macroName": "Craft|13",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
+              "quantity": "1",
+              "name": "Обычная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.Km5voNhf6itPDhKo",
+              "quantity": 1,
+              "name": "Изумруд (25 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.G7Sjg1kR1jk6jB8X",
+              "quantity": 1,
+              "name": "Шипучий Изумруд"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-cut-table-green.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Мерцающий Рубин",
+      "time": 240,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
+              "quantity": "1",
+              "name": "Обычная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.qrGhuYGx3FuJDarX",
+              "quantity": 1,
+              "name": "Рубин (50 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.nDyQW5jXzyrXTEbj",
+              "quantity": 1,
+              "name": "Мерцающий Рубин"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-faceted-radiant-red.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Сияющий Сапфир",
+      "time": 360,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "1",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.xWER7bNGLipqNdpY",
+              "quantity": 1,
+              "name": "Синий сапфир (25 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.R8kDiBTN7JcPDW2k",
+              "quantity": 1,
+              "name": "Сияющий Сапфир"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-faceted-trillion-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Сверкающий Гранат",
+      "time": 360,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.fd8yTaU2XEpZKAD6",
+              "quantity": "1",
+              "name": "Обычная Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "1",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.It0pFzQrDXukwXFC",
+              "quantity": 1,
+              "name": "Гранат (100 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OuAvNScj1eu4bRqD",
+              "quantity": 1,
+              "name": "Сверкающий Гранат"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-rough-drop-red.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Магический Алмаз",
+      "time": 360,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "1",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.IN5BaEiyFoXMsGwj",
+              "quantity": 1,
+              "name": "Алмаз (100 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.oQPW5itOeSKbXJfI",
+              "quantity": 1,
+              "name": "Магический Алмаз"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-faceted-radiant-teal.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Идеальное Инкрустирование",
+      "time": 360,
+      "macroName": "Craft|18",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
+              "quantity": "1",
+              "name": "Обычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
+              "quantity": "1",
+              "name": "Обычная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.XSA0aBZXksWJKnIr",
+              "quantity": 1,
+              "name": "Драгоценный камень (50 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.CswZA5apkkhanXXt",
+              "quantity": 1,
+              "name": "Идеальное Инкрустирование"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/pearl-water.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/commodities/gems/pearl-water.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

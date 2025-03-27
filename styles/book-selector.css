@@ -1,0 +1,192 @@
+/* Main layout */
+.emcr-flexrow {
+    height: 100%;
+    flex-wrap: nowrap;
+}
+
+.emcr-form {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.emcr-container {
+    display: flex;
+    flex-direction: row;
+    flex: 1 0 auto;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.emcr-content {
+    height: 100%;
+    overflow-y: auto;
+    padding: 0.5em;
+}
+
+/* Tabs styling */
+.emcr-sidebar {
+    flex: 0 0 220px;
+    height: 100%;
+    padding: 1rem;
+    border-right: 1px solid var(--color-border-light-primary);
+    font-size: var(--font-size-12);
+}
+
+.emcr-book-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 0;
+    border-bottom: 1px solid var(--color-border-light-primary);
+    text-align: left;
+    width: 100%;
+}
+
+/*.emcr-tab-item {*/
+/*    padding: 0.5em 1em;*/
+/*    margin: 0 0.5em;*/
+/*    border: 1px solid #666;*/
+/*    border-radius: 4px 4px 0 0;*/
+/*    border-bottom: none;*/
+/*    background: rgba(0, 0, 0, 0.1);*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*.emcr-tab-item.active {*/
+/*    background: rgb(255, 255, 255, 0.1);*/
+/*    border-bottom: none;*/
+/*    margin-bottom: -1px;*/
+/*}*/
+
+/*.emcr-tab-item:hover {*/
+/*    background: rgba(0, 0, 0, 0.2);*/
+/*}*/
+
+/* Tab content */
+.emcr-tabs {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    overflow: hidden auto;
+}
+
+.emcr-tab-content {
+    display: none;
+    padding: 1em;
+}
+
+.emcr-tab-content.active {
+    display: block;
+}
+
+/* Book items */
+.emcr-book-item {
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.emcr-book-item label {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    width: 100%;
+}
+
+.emcr-book-name {
+    flex: 1;
+}
+
+.emcr-book-category {
+    color: #666;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+/* Footer */
+.emcr-footer {
+    flex: 0 0 auto;
+    margin: 1em;
+    border-top: 1px solid #666;
+    padding-top: 1em;
+}
+
+.emcr-form-group {
+    margin-bottom: 1em;
+}
+
+.emcr-form-group label {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.emcr-import-button {
+    width: 100%;
+    margin-top: 1em;
+}
+
+.book-list {
+    margin-bottom: 1em;
+}
+
+.book-item:last-child {
+    border-bottom: none;
+}
+
+.category-label {
+    color: #666;
+    font-size: 0.9em;
+    text-transform: capitalize;
+    min-width: 100px;
+}
+
+.dialog-buttons {
+    margin-top: 1em;
+}
+
+.dialog-buttons button {
+    width: 100%;
+}
+
+.category-section {
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #ccc;
+}
+
+.category-section h3 {
+    margin: 0 0 0.5em 0;
+    padding: 0;
+    color: #666;
+    font-size: 1.1em;
+    text-transform: capitalize;
+}
+
+.category-section:last-child {
+    border-bottom: none;
+}
+
+/* Add these styles for the sidebar button */
+.emcr-sidebar-button {
+    flex: 0 0 32px;
+    margin: 0 6px;
+    line-height: 32px;
+    color: #BBB;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.1);
+    border: 1px solid #000;
+    border-radius: 3px;
+}
+
+.emcr-sidebar-button:hover {
+    color: #FFF;
+    border: 1px solid #666;
+    box-shadow: 0 0 4px red;
+}
+
+.emcr-sidebar-button i {
+    margin-right: 5px;
+} 

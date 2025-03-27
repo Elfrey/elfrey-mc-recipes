@@ -1,0 +1,737 @@
+{
+  "name": "Изобретательство - Снаряжение путешественников",
+  "description": "",
+  "ownership": {},
+  "tools": "Инструменты механика / Tinker's Tools",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Фонарь потайной / Bullseye Lantern",
+      "time": 240,
+      "macroName": "Craft|11",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "2",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
+              "quantity": "1",
+              "name": "Стеклянная Колба"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "3",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.UkWdyJYQTfVX2cJW",
+              "quantity": 1,
+              "name": "Фонарь потайной / Bullseye Lantern"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/lights/lantern-bullseye-signal-copper.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Фонарь обычный / Hooded Lantern",
+      "time": 240,
+      "macroName": "Craft|9",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "1",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
+              "quantity": "1",
+              "name": "Стеклянная Колба"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "3",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.i159KL5gSWDP5Rhw",
+              "quantity": 1,
+              "name": "Фонарь обычный / Hooded Lantern"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/lights/lantern-iron-yellow.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Лампа / Lamp",
+      "time": 240,
+      "macroName": "Craft|10",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "2",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.peflR4giVvb8bbtE",
+              "quantity": 1,
+              "name": "Лампа / Lamp"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/lights/lantern-iron-lit-yellow.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Замок / Lock",
+      "time": 480,
+      "macroName": "Craft|17",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "3",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "2",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.xwUWrV15s9jLnmfZ",
+              "quantity": 1,
+              "name": "Замок / Lock"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/misc/lock-bronze-reinforced.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Крюк-кошка / Grapping Hook",
+      "time": 120,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "1",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.xLmr5BfpXh9k6huh",
+              "quantity": 1,
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "2",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.tfDxZIKDpOkz6pbx",
+              "quantity": 1,
+              "name": "Крюк-кошка / Grapping Hook"
+            }
+          ]
+        }
+      ],
+      "img": "icons/tools/fishing/hook-multi-steel-brown.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Набор верхолаза / Climber's Kit",
+      "time": 120,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "4",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
+              "quantity": "1",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.TqyvIglHDj5kfohR",
+              "quantity": "10",
+              "name": "Колышек / Piton"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.paTQEc0X9JZ0Wych",
+              "quantity": 1,
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.ugzwHl8vYaPu2GNd",
+              "quantity": 1,
+              "name": "Набор верхолаза / Climber's Kit"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/sickles/sickle-hooked-wood.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Весы торговые / Merchant's Scale",
+      "time": 120,
+      "macroName": "Craft|10",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "2",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": 1,
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.vJvb6fx3JVPmhG8x",
+              "quantity": 1,
+              "name": "Весы торговые / Merchant's Scale"
+            }
+          ]
+        }
+      ],
+      "img": "icons/tools/hand/scale-balances-merchant-brown.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Огниво / Tinderbox",
+      "time": 120,
+      "macroName": "Craft|10",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "1",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": 1,
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.skm6hRI8A7xJj5qx",
+              "quantity": 1,
+              "name": "Огниво / Tinderbox"
+            }
+          ]
+        }
+      ],
+      "img": "icons/tools/laboratory/burner-steel-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Подзорная труба / Spyglass",
+      "time": 72900,
+      "macroName": "Craft|18",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
+              "quantity": "2",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
+              "quantity": "5",
+              "name": "Экзотические Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "2",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.WCafDVKITxwnlf2x",
+              "quantity": 1,
+              "name": "Подзорная труба / Spyglass"
+            }
+          ]
+        }
+      ],
+      "img": "icons/tools/navigation/spyglass-telescope-brass.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Заводной таймер / Windup Timer",
+      "time": 120,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "1",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "2",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.UspLCsXwwTMpKGk2",
+              "quantity": 1,
+              "name": "Заводной таймер / Windup Timer"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/tech/detonator-timer.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Заводная игрушка / Clockwork Toy",
+      "time": 120,
+      "macroName": "Craft|12",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "3",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "2",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.lLaQCderCbAkHMft",
+              "quantity": 1,
+              "name": "Заводная игрушка / Clockwork Toy"
+            }
+          ]
+        }
+      ],
+      "img": "icons/magic/symbols/mask-metal-silver-white.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Часы / Watch",
+      "time": 480,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "3",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
+              "quantity": "1",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
+              "quantity": "1",
+              "name": "Экзотические Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": 1,
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.YriflOI2pXIm5A6D",
+              "quantity": 1,
+              "name": "Часы / Watch"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/tech/detonator-timer.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Снаряжение для подводного дыхания / Underwater Breathing Apparatus",
+      "time": 480,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
+              "quantity": "2",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "4",
+              "name": "Металлолом"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.e6KCdCaiuFufij6l",
+              "quantity": "3",
+              "name": "Обычная Первичная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.0QZAX6PIxLEch8lj",
+              "quantity": 1,
+              "name": "Снаряжение для подводного дыхания"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/head/greathelm-reticulated-steel.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Дрель / Drill",
+      "time": 120,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "1",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "2",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.oOuBecIMBbTpglcg",
+              "quantity": 1,
+              "name": "Дрель / Drill"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/thrown/bomb-pressure-black.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/tools/navigation/spyglass-telescope-brass.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

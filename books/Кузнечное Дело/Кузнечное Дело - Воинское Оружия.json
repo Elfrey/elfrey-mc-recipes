@@ -1,0 +1,1374 @@
+{
+  "name": "Кузнечное Дело - Воинское Оружия",
+  "description": "",
+  "ownership": {
+    "ku28rw7jRukQFKqJ": "1",
+    "XmsJK11v2DlpvsUU": "1",
+    "u2xZq7cRGkZUX1eF": "1",
+    "qg6cjbHqRTCejSCi": "1",
+    "ApTChzA7uOsk0BHP": "1"
+  },
+  "tools": "Инструменты кузнеца / Smith's Tools",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Боевой Топор",
+      "time": 240,
+      "macroName": "Craft|12",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "3",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "3",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "3",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "3",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "3",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "3",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "3",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "3",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "3",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "3",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.xV0rtPLo4F5UX99U",
+              "quantity": 1,
+              "name": "Короткая рукоять"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.I0WocDSuNpGJayPb",
+              "quantity": 1,
+              "name": "Боевой топор /Battleaxe"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/polearms/halberd-crescent-engraved-steel.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Цеп",
+      "time": 240,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "2",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "2",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "2",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "2",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "2",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "2",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "2",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "2",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "2",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "2",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.xV0rtPLo4F5UX99U",
+              "quantity": 1,
+              "name": "Короткая рукоять"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.T8ZXxIyC4fM0t6nB",
+              "quantity": 1,
+              "name": "Короткая цепь"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.UrH3sMdnUDckIHJ6",
+              "quantity": 1,
+              "name": "Цеп / Flail"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/maces/flail-studded-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Глефа",
+      "time": 240,
+      "macroName": "Craft|13",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "4",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "4",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "4",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "4",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "4",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "4",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "4",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "4",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "4",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "4",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.x4wrLNsr5DV1idSI",
+              "quantity": 1,
+              "name": "Длинная рукоять"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.rOG1OM2ihgPjOvFW",
+              "quantity": 1,
+              "name": "Глефа / Glaive"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/polearms/halberd-crescent-glowing.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Секира",
+      "time": 240,
+      "macroName": "Craft|13",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "8",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "8",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "8",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "8",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "8",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "8",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "8",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "8",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "8",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "8",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.x4wrLNsr5DV1idSI",
+              "quantity": 1,
+              "name": "Длинная рукоять"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.1Lxk6kmoRhG8qQ0u",
+              "quantity": 1,
+              "name": "Двуручный топор / Greataxe"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/axes/axe-double-engraved-black.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Двуручный меч",
+      "time": 240,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "10",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "10",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "10",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "10",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "10",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "10",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "10",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "10",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "10",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "10",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/swords/greatsword-guard-gem-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Алебарда",
+      "time": 240,
+      "macroName": "Craft|13",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "4",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "4",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "4",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "4",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "4",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "4",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "4",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "4",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "4",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "4",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.x4wrLNsr5DV1idSI",
+              "quantity": 1,
+              "name": "Длинная рукоять"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.DMejWAc8r8YvDPP1",
+              "quantity": 1,
+              "name": "Алебарда / Halberd"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/halberd.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Длинный меч",
+      "time": 240,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "4",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "4",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "4",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "4",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "4",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "4",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "4",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "4",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "4",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "4",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
+              "quantity": 1,
+              "name": "Длинный меч / Longsword"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/swords/greatsword-crossguard-steel.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Молот",
+      "time": 240,
+      "macroName": "Craft|12",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "8",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "8",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "8",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "8",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "8",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "8",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "8",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "8",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "8",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "8",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.xV0rtPLo4F5UX99U",
+              "quantity": 1,
+              "name": "Короткая рукоять"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.DizirD7eqjh8n95A",
+              "quantity": 1,
+              "name": "Двуручный молот / Maul"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/hammers/hammer-double-engraved.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Моргенштерн",
+      "time": 240,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "4",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "4",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "4",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "4",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "4",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "4",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "4",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "4",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "4",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "4",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.xV0rtPLo4F5UX99U",
+              "quantity": 1,
+              "name": "Короткая рукоять"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.dX8AxCh9o0A9CkT3",
+              "quantity": 1,
+              "name": "Моргенштерн / Morningstar"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/maces/mace-round-spiked-black.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Пика",
+      "time": 240,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "3",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "3",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "3",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "3",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "3",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "3",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "3",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "3",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "3",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "3",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.x4wrLNsr5DV1idSI",
+              "quantity": 1,
+              "name": "Длинная рукоять"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.tC0kcqZT9HHAO0PD",
+              "quantity": 1,
+              "name": "Пика / Pike"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/polearms/spear-flared-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Рапира",
+      "time": 240,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": 1,
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": 1,
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": 1,
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": 1,
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": 1,
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": 1,
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": 1,
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": 1,
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": 1,
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": 1,
+              "name": "Слиток Хладостали"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
+              "quantity": 1,
+              "name": "Рапира / Rapier"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/rapier.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Скимитар",
+      "time": 240,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "2",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "2",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "2",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "2",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "2",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "2",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "2",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "2",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "2",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "2",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
+              "quantity": 1,
+              "name": "Скимитар / Scimitar"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/swords/scimitar-worn-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Короткий меч",
+      "time": 240,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "2",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "2",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "2",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "2",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "2",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "2",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "2",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "2",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "2",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "2",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/swords/sword-guard-brown.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Боевая Кирка",
+      "time": 240,
+      "macroName": "Craft|12",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "2",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "2",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "2",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "2",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "2",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "2",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "2",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "2",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "2",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "2",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.xV0rtPLo4F5UX99U",
+              "quantity": 1,
+              "name": "Короткая рукоять"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.2YdfjN1PIIrSHZii",
+              "quantity": 1,
+              "name": "Клевец / War pick"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/axes/pickaxe-iron-green.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Боевой Молот",
+      "time": 240,
+      "macroName": "Craft|12",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": "4",
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": "4",
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": "4",
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "4",
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": "4",
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": "4",
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": "4",
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "4",
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": "4",
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": "4",
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.xV0rtPLo4F5UX99U",
+              "quantity": 1,
+              "name": "Короткая рукоять"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.F0Df164Xv1gWcYt0",
+              "quantity": 1,
+              "name": "Боевой молот / Warhammer"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/hammers/hammer-drilling-spiked.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    }
+  ],
+  "img": "icons/weapons/swords/greatsword-guard-gem-blue.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

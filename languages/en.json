@@ -1,3 +1,17 @@
 {
-    "MODULE.hello": "hello"
+    "emcr": {
+        "dialog": {
+            "title": "Recipe Book Selection",
+            "import": "Import Selected Books",
+            "dontShow": "Don't show this window on startup",
+            "bookCategories": "Book Categories"
+        },
+        "notifications": {
+            "selectBooks": "Please select at least one book to import",
+            "importSuccess": "Imported {name}",
+            "importFailed": "Failed to import {name}",
+            "updateSuccess": "Updated {name}",
+            "loadFailed": "Failed to load recipe books"
+        }
+    }
 }

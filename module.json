@@ -1,14 +1,14 @@
 {
-  "id": "module",
-  "title": "New Module",
-  "description": "",
-  "version": "#{VERSION}#",
+  "id": "elfrey-mc-recipes",
+  "title": "Mastercrafted Recipe Importer",
+  "description": "Import recipe books for Mastercrafted module",
+  "version": "1.0.0",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
   "compatibility": {
-    "minimum": 10,
-    "verified": 10,
-    "maximum": 11
+    "minimum": "10",
+    "verified": "10",
+    "maximum": 12
   },
   "authors": [
     {
@@ -28,13 +28,21 @@
     "scripts/lib/lib.js"
   ],
   "styles": [
-    "styles/module.css"
+    "styles/book-selector.css"
+  ],
+  "templates": [
+    "templates/book-selector.html"
   ],
   "languages": [
     {
       "lang": "en",
       "name": "English",
       "path": "languages/en.json"
+    },
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "languages/ru.json"
     }
   ],
   "url": "#{URL}#",
@@ -46,6 +54,12 @@
     {
       "type": "icon",
       "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "mastercrafted",
+      "type": "module"
     }
   ]
 }

@@ -1,0 +1,389 @@
+{
+  "name": "Изобретательство - Оружие",
+  "description": "",
+  "ownership": {},
+  "tools": "Инструменты механика / Tinker's Tools",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Океанический легкий арбалет/ Oceanic Light Crossbow",
+      "time": 240,
+      "macroName": "Craft|13",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.lNY56TEGRxoH6Zkd",
+              "quantity": 1,
+              "name": "Деревянный приклад / Wooden Stock"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "4",
+              "name": "Металлолом"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.JvROpigr0jg2osWb",
+              "quantity": "6",
+              "name": "Обычные запчасти"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.UW21eLrJGdzizbFZ",
+              "quantity": 1,
+              "name": "Океанический легкий арбалет/ Oceanic Light Crossbow"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/crossbows/crossbow-loaded-black.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Ручной арбалет / Hand Crossbow",
+      "time": 480,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "2",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
+              "quantity": "3",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "4",
+              "name": "Металлолом"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.lNY56TEGRxoH6Zkd",
+              "quantity": 1,
+              "name": "Деревянный приклад / Wooden Stock"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.qaSro7kFhxD6INbZ",
+              "quantity": 1,
+              "name": "Ручной арбалет / Hand Crossbow"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/crossbows/handcrossbow-black.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Скорострельный Тяжелый Арбалет",
+      "time": 360,
+      "macroName": "Craft|13",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
+              "quantity": "2",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.lNY56TEGRxoH6Zkd",
+              "quantity": 1,
+              "name": "Деревянный приклад / Wooden Stock"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "8",
+              "name": "Металлолом"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "6",
+              "name": "Обычные запчасти"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.E2Uld1xSTjqhPZNR",
+              "quantity": 1,
+              "name": "Скорострельный Тяжелый Арбалет"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/crossbows/crossbow-purple.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "\"Обычная\" трость",
+      "time": 360,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.qaSro7kFhxD6INbZ",
+              "quantity": "1",
+              "name": "Ручной арбалет / Hand Crossbow"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "3",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.g2dWN7PQiMRYWzyk",
+              "quantity": 1,
+              "name": "Боевой посох / Quarterstaff"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.EHvfNcOGsd6CRyw7",
+              "quantity": 1,
+              "name": "\"Обычная\" трость"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/staves/staff-simple-carved.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Щитовой Фонарь",
+      "time": 960,
+      "macroName": "Craft|18",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
+              "quantity": "3",
+              "name": "Экзотические Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
+              "quantity": "5",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.sSs3hSzkKBMNBgTs",
+              "quantity": 1,
+              "name": "Щит / Shield"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.i159KL5gSWDP5Rhw",
+              "quantity": 1,
+              "name": "Фонарь обычный / Hooded Lantern"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.sl6yiYSlqkHiVVSN",
+              "quantity": 1,
+              "name": "Короткий меч +1 / Shortsword +1"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.jWJnhrX9RE6A4kTj",
+              "quantity": 1,
+              "name": "Щитовой Фонарь"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/shield/heater-steel-boss-red.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Скорострельный Тяжелый Арбалет",
+      "time": 480,
+      "macroName": "Craft|18",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
+              "quantity": "2",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.8wXB18E0oPAYFkqc",
+              "quantity": 1,
+              "name": "Тяжёлый арбалет +2 / Heavy Crossbow +2"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.ltALpmFS5TPtXJsY",
+              "quantity": 1,
+              "name": "Автомагазин для тяжелого арбалета / Autoloader Heavy Crossbow"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.E2Uld1xSTjqhPZNR",
+              "quantity": 1,
+              "name": "Скорострельный Тяжелый Арбалет"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/crossbows/crossbow-purple.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/weapons/crossbows/crossbow-purple.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

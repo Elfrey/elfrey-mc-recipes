@@ -1,0 +1,3124 @@
+{
+  "name": "Зачарование - Магическое оружие",
+  "description": "",
+  "ownership": {},
+  "tools": "",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Топор берсерка",
+      "time": 480,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.eO7Fbv5WBk5zvGOc",
+              "quantity": "1",
+              "name": "Топорик / Handaxe"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.I0WocDSuNpGJayPb",
+              "quantity": 1,
+              "name": "Боевой топор /Battleaxe"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.1Lxk6kmoRhG8qQ0u",
+              "quantity": 1,
+              "name": "Двуручный топор / Greataxe"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "2",
+              "name": "Необычная Первичная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.wjEL5vBOVNMXcCLR",
+              "quantity": 1,
+              "name": "Боевой топор берсерка / Berserker Battleaxe"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.QYvVyX33pwLEC95v",
+              "quantity": 1,
+              "name": "Двуручный топор берсерка / Berserker Greataxe"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.kZlxxBSHJowUVNQm",
+              "quantity": 1,
+              "name": "Топорик берсерка / Berserker Handaxe"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Berserker%20Axe.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Кинжал Огр магаᵈˢ",
+      "time": 72900,
+      "macroName": "Craft|15",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "1",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
+              "quantity": "1",
+              "name": "Обычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.0E565kQUBmndJ1a2",
+              "quantity": 1,
+              "name": "Кинжал / Dagger"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.69p2m0jV2ff2Wbfb",
+              "quantity": 1,
+              "name": "Кинжал Огр мага"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/daggers/dagger-bone-engraved-black.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Пилум молнии / Javelin of Lightning",
+      "time": 480,
+      "macroName": "Craft|15",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.DWLMnODrnHn8IbAG",
+              "quantity": 1,
+              "name": "Пилум / Javelin"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "1",
+              "name": "Необычная Первичная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.PhMke8eiGZk8X7Yq",
+              "quantity": 1,
+              "name": "Пилум молнии / Javelin of Lightning"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Javelin%20of%20Lightning.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Призыватель шквалаᵈˢ",
+      "time": 480,
+      "macroName": "Craft|15",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.I0WocDSuNpGJayPb",
+              "quantity": "1",
+              "name": "Боевой топор /Battleaxe"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "1",
+              "name": "Необычная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
+              "quantity": "1",
+              "name": "Обычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.j2Vo3m49A6uasjcM",
+              "quantity": "1",
+              "name": "Свиток заклинания: Ветровое оружие /Windborne Weapon"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vg0qHKN2jDTKLc10",
+              "quantity": 1,
+              "name": "Свиток заклинания: Возвращающееся оружие / Returning Weapon"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.pLdhSnq9muSqbmBS",
+              "quantity": 1,
+              "name": "Призыватель шквала"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/axes/axe-battle.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Трезубец власти над рыбами / Trident of Fish Command",
+      "time": 480,
+      "macroName": "Craft|15",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.F65ANO66ckP8FDMa",
+              "quantity": "1",
+              "name": "Трезубец / Trident"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
+              "quantity": "1",
+              "name": "Обычная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "1",
+              "name": "Необычная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OrHn85WoQSK9OwRL",
+              "quantity": 1,
+              "name": "Свиток заклинания: Подчинение животного / Dominate Beast"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.3GrD8dWLLn3QRMBr",
+              "quantity": 1,
+              "name": "Трезубец власти над рыбами / Trident of Fish Command"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Trident%20of%20Fish%20Command.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Ядовитый кинжал / Dagger of Venom",
+      "time": 72900,
+      "macroName": "Craft|1",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
+              "quantity": "1",
+              "name": "Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "1",
+              "name": "Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.59pjg8FGM4GG4Fdd",
+              "quantity": 1,
+              "name": "Кинжал +1 / Dagger +1"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.A4YrA8uqRqD9ctsO",
+              "quantity": 1,
+              "name": "Мощный оружейный яд"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.k1zt8pvpzW50Gmhm",
+              "quantity": 1,
+              "name": "Свиток заклинания: Тошнотворный яд / Nauseating Poison"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.ZdXJNt9yVavkTQCK",
+              "quantity": 1,
+              "name": "Ядовитый кинжал / Dagger of Venom"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Dagger%20of%20Venom.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Язык пламени / Flame Tongue",
+      "time": 9720,
+      "macroName": "Craft|18",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
+              "quantity": 1,
+              "name": "Длинный меч / Longsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
+              "quantity": 1,
+              "name": "Рапира / Rapier"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
+              "quantity": 1,
+              "name": "Скимитар / Scimitar"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
+              "quantity": 1,
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
+              "quantity": "5",
+              "name": "Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "1",
+              "name": "Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.HpzceYVAbiGmTsg2",
+              "quantity": 1,
+              "name": "Пылающее масло"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.eVV6L5r5OtngaiCO",
+              "quantity": 1,
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.SFO9pdmMRLliafLW",
+              "quantity": 1,
+              "name": "Двухклинковый скимитар Язык пламени / Flame Tongue Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.33yZpFkA8FjkzHSk",
+              "quantity": 1,
+              "name": "Двуручный меч Язык пламени / Flame Tongue Greatsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.WSnYNEAbWFMOCVuM",
+              "quantity": 1,
+              "name": "Длинный меч Язык пламени / Flame Tongue Longsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.ZhMbCMEnvcES8c54",
+              "quantity": 1,
+              "name": "Короткий меч Язык пламени / Flame Tongue Shortsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.FoQPKgPfxB5P11iS",
+              "quantity": 1,
+              "name": "Рапира Язык пламени / Flame Tongue Rapier"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.00hEi1FnMaoszZgC",
+              "quantity": 1,
+              "name": "Скимитар Язык пламени / Flame Tongue Scimitar"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Flame%20Tongue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Убийца великанов / Giant Slayer",
+      "time": 9720,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Оружие стоимостью не менее 100 зм.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.eO7Fbv5WBk5zvGOc",
+              "quantity": 1,
+              "name": "Топорик / Handaxe"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.I0WocDSuNpGJayPb",
+              "quantity": 1,
+              "name": "Боевой топор /Battleaxe"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.1Lxk6kmoRhG8qQ0u",
+              "quantity": 1,
+              "name": "Двуручный топор / Greataxe"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
+              "quantity": 1,
+              "name": "Длинный меч / Longsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
+              "quantity": 1,
+              "name": "Рапира / Rapier"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
+              "quantity": 1,
+              "name": "Скимитар / Scimitar"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.aEiM49V8vWpWw7rU",
+              "quantity": 1,
+              "name": "Сеть / Net"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
+              "quantity": 1,
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "2",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "2",
+              "name": "Необычная Первичная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xInLv14Q4otKr1z7",
+              "quantity": 1,
+              "name": "Убийца великанов (Боевой топор) / Giant Slayer Battleaxe"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.9GLqhOCQ5PtNRgGN",
+              "quantity": 1,
+              "name": "Убийца великанов (Двуручный меч) / Giant Slayer Greatsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.ogotwMr6zOtrvOwi",
+              "quantity": 1,
+              "name": "Убийца великанов (Двуручный топор) / Giant Slayer Greataxe"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.bx1FlBRoys5oiwTr",
+              "quantity": 1,
+              "name": "Убийца великанов (Двухклинковый скимитар) / Giant Slayer Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.UliItTDF5f6KgvF4",
+              "quantity": 1,
+              "name": "Убийца великанов (Длинный меч) / Giant Slayer Longsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.asIvWkrpB4uZxKOQ",
+              "quantity": 1,
+              "name": "Убийца великанов (Короткий меч) / Giant Slayer Shortsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.BfpWlAVNZPORIBKY",
+              "quantity": 1,
+              "name": "Убийца великанов (Рапира) / Giant Slayer Rapier"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.gDSSwCYmZ4pjkHbu",
+              "quantity": 1,
+              "name": "Убийца великанов (Скимитар) / Giant Slayer Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.tKn1oWxH9aQ69KZz",
+              "quantity": 1,
+              "name": "Убийца великанов (Топорик) / Giant Slayer Handaxe"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Giant%20Slayer.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Булава разрушения / Mace of Disruption",
+      "time": 9720,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
+              "quantity": "2",
+              "name": "Редкая Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
+              "quantity": "1",
+              "name": "Необычная Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "1",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Ajyq6nGwF7FtLhDQ",
+              "quantity": 1,
+              "name": "Булава / Mace"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vupyuVvVlJeG1IHy",
+              "quantity": 1,
+              "name": "Свиток заклинания: Изгнание / Banishment"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.87KOo0LtkZUbr5hx",
+              "quantity": 1,
+              "name": "Булава разрушения / Mace of Disruption"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Mace%20of%20Disruption.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Убийца драконов / Dragon Slayer",
+      "time": 9720,
+      "macroName": "Craft|18",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Меч стоимостью не менее 1 000 зм",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
+              "quantity": "2",
+              "name": "Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
+              "quantity": "1",
+              "name": "Редкая Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
+              "quantity": 1,
+              "name": "Рапира / Rapier"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
+              "quantity": 1,
+              "name": "Скимитар / Scimitar"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
+              "quantity": 1,
+              "name": "Длинный меч / Longsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
+              "quantity": 1,
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.hAPYOH7iyMERRUA8",
+              "quantity": 1,
+              "name": "Убийца драконов (Двуручный меч) / Dragon Slayer Greatsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.or18eO5pxFWuIo7t",
+              "quantity": 1,
+              "name": "Убийца драконов (Двухклинковый скимитар) / Dragon Slayer Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.jWLOY2jWeQE52Fo5",
+              "quantity": 1,
+              "name": "Убийца драконов (Длинный меч) / Dragon Slayer Longsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.zlbOBJvAIB0WB2JR",
+              "quantity": 1,
+              "name": "Убийца драконов (Короткий меч) / Dragon Slayer Shortsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.jj8mRLY5oePclJNq",
+              "quantity": 1,
+              "name": "Убийца драконов (Рапира) / Dragon Slayer Rapier"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.A9fLg4mY9NSY0a6h",
+              "quantity": 1,
+              "name": "Убийца драконов (Скимитар) / Dragon Slayer Scimitar"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Dragon%20Slayer.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Булава сокрушения / Mace of Smiting",
+      "time": 72900,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Ajyq6nGwF7FtLhDQ",
+              "quantity": "1",
+              "name": "Булава / Mace"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "1",
+              "name": "Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "1",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
+              "quantity": "1",
+              "name": "Необычная Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.4Q7luIuqyYTXedlO",
+              "quantity": 1,
+              "name": "Свиток заклинания: Рассеивание магии / Dispel Magic"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.6pP8TzkjAzmJCKRN",
+              "quantity": 1,
+              "name": "Булава сокрушения / Mace of Smiting"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Mace%20of%20Smiting.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Булава ужаса / Mace of Terror",
+      "time": 72900,
+      "macroName": "Craft|17",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Ajyq6nGwF7FtLhDQ",
+              "quantity": "1",
+              "name": "Булава / Mace"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "1",
+              "name": "Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "2",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vYpTa9sd0wD3zL6D",
+              "quantity": 1,
+              "name": "Свиток заклинания: Ужас / Fear"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.hAURPEMG0iDQG8rh",
+              "quantity": 1,
+              "name": "Булава ужаса / Mace of Terror"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Mace%20of%20Terror.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Солнечный клинок / Sun Blade",
+      "time": 14580,
+      "macroName": "Craft|17",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
+              "quantity": "3",
+              "name": "Редкая Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "2",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "2",
+              "name": "Необычная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vV8fbU9o7mcdQ6pH",
+              "quantity": 1,
+              "name": "Рукоять меча (200 зм)"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vV8fbU9o7mcdQ6pH",
+              "quantity": 1,
+              "name": "Рукоять меча (200 зм)"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.eVV6L5r5OtngaiCO",
+              "quantity": 1,
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.4cRhNfQ1l2933Z90",
+              "quantity": 1,
+              "name": "Свиток заклинания: Призрачное оружие / Spiritual weapon"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.j5CBvnNwclXxPQd3",
+              "quantity": 1,
+              "name": "Свиток заклинания: Дневной свет / Daylight"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.24Snl9EIxNbjiasA",
+              "quantity": 1,
+              "name": "Солнечный клинок / Sun Blade"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Sun%20Blade.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Свирепое оружие / Vicious weapon",
+      "time": 480,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.g2dWN7PQiMRYWzyk",
+              "quantity": 1,
+              "name": "Боевой посох / Quarterstaff"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Ajyq6nGwF7FtLhDQ",
+              "quantity": 1,
+              "name": "Булава / Mace"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.QRCsxkCwWNwswL9o",
+              "quantity": 1,
+              "name": "Дубина / Greatclub"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.nfIRTECQIG81CvM4",
+              "quantity": 1,
+              "name": "Дубинка / Club"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.0E565kQUBmndJ1a2",
+              "quantity": 1,
+              "name": "Кинжал / Dagger"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.OG4nBBydvmfWYXIk",
+              "quantity": 1,
+              "name": "Копьё / Spear"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.XVK6TOL4sGItssAE",
+              "quantity": 1,
+              "name": "Лёгкий молот / Light Hammer"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.DWLMnODrnHn8IbAG",
+              "quantity": 1,
+              "name": "Пилум / Javelin"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.i4NeNZ30ycwPDHMx",
+              "quantity": 1,
+              "name": "Серп / Sickle"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.eO7Fbv5WBk5zvGOc",
+              "quantity": 1,
+              "name": "Топорик / Handaxe"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3rCO8MTIdPGSW6IJ",
+              "quantity": 1,
+              "name": "Дротик / Dart"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.GJv6WkD7D2J6rP6M",
+              "quantity": 1,
+              "name": "Короткий лук / Shortbow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.ddWvQRLmnnIS0eLF",
+              "quantity": 1,
+              "name": "Лёгкий арбалет / Light Crossbow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3gynWO9sN4OLGMWD",
+              "quantity": 1,
+              "name": "Праща / Sling"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.DMejWAc8r8YvDPP1",
+              "quantity": 1,
+              "name": "Алебарда / Halberd"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.F0Df164Xv1gWcYt0",
+              "quantity": 1,
+              "name": "Боевой молот / Warhammer"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.I0WocDSuNpGJayPb",
+              "quantity": 1,
+              "name": "Боевой топор /Battleaxe"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.rOG1OM2ihgPjOvFW",
+              "quantity": 1,
+              "name": "Глефа / Glaive"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.DizirD7eqjh8n95A",
+              "quantity": 1,
+              "name": "Двуручный молот / Maul"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.1Lxk6kmoRhG8qQ0u",
+              "quantity": 1,
+              "name": "Двуручный топор / Greataxe"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
+              "quantity": 1,
+              "name": "Длинный меч / Longsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.RnuxdHUAIgxccVwj",
+              "quantity": 1,
+              "name": "Кавалерийская пика / Lance"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.2YdfjN1PIIrSHZii",
+              "quantity": 1,
+              "name": "Клевец / War pick"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.QKTyxoO0YDnAsbYe",
+              "quantity": 1,
+              "name": "Кнут / Whip"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.dX8AxCh9o0A9CkT3",
+              "quantity": 1,
+              "name": "Моргенштерн / Morningstar"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.tC0kcqZT9HHAO0PD",
+              "quantity": 1,
+              "name": "Пика / Pike"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
+              "quantity": 1,
+              "name": "Рапира / Rapier"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
+              "quantity": 1,
+              "name": "Скимитар / Scimitar"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.F65ANO66ckP8FDMa",
+              "quantity": 1,
+              "name": "Трезубец / Trident"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.UrH3sMdnUDckIHJ6",
+              "quantity": 1,
+              "name": "Цеп / Flail"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3cymOVja8jXbzrdT",
+              "quantity": 1,
+              "name": "Длинный лук / Longbow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.wNWK6yJMHG9ANqQV",
+              "quantity": 1,
+              "name": "Духовая трубка / Blowgun"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.qaSro7kFhxD6INbZ",
+              "quantity": 1,
+              "name": "Ручной арбалет / Hand Crossbow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.aEiM49V8vWpWw7rU",
+              "quantity": 1,
+              "name": "Сеть / Net"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.RmP0mYRn2J7K26rX",
+              "quantity": 1,
+              "name": "Тяжёлый арбалет / Heavy Crossbow"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "3",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.ELpmu22p03Mf8gZa",
+              "quantity": 1,
+              "name": "Свиток заклинания: Головоруб / Vorpal Blade"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.2vwobFVctcjSfXMX",
+              "quantity": 1,
+              "name": "Свирепое оружие / Vicious weapon"
+            }
+          ]
+        }
+      ],
+      "img": "icons/skills/melee/strike-dagger-blood-red.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Меч похищения жизни / Sword of Life Stealing",
+      "time": 72900,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Меч стоимостью не менее 200 зм.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "1",
+              "name": "Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "2",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
+              "quantity": 1,
+              "name": "Длинный меч / Longsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3fSQbemHKQVdOjro",
+              "quantity": 1,
+              "name": "Двуручный меч похищения жизни / Greatsword of Life Stealing"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.druvudy7QVkT06Ko",
+              "quantity": 1,
+              "name": "Длинный меч похищения жизни / Longsword of Life Stealing"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.ZoanA8a05yThNaic",
+              "quantity": 1,
+              "name": "Короткий меч похищения жизни / Shortsword of Life Stealing"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/sword%20of%20Life%20Stealing.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Ранящий меч / Sword of wounding",
+      "time": 72900,
+      "macroName": "Craft|17",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Меч стоимостью не менее 200 зм.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "2",
+              "name": "Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.FSHhU2kc6pgDLAf9",
+              "quantity": "2",
+              "name": "Очень Редкий Ядовитый Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
+              "quantity": "1",
+              "name": "Редкий Ядовитый Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
+              "quantity": 1,
+              "name": "Длинный меч / Longsword"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.4sWsYC8FV5jQMEvE",
+              "quantity": 1,
+              "name": "Ранящий двуручный меч / Greatsword of Wounding"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.bTTghRkuzEATBx59",
+              "quantity": 1,
+              "name": "Ранящий длинный меч / Longsword of Wounding"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.kqybsNvrsXipQund",
+              "quantity": 1,
+              "name": "Ранящий короткий меч / Shortsword of Wounding"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/sword%20of%20Wounding.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Метательное копье Ореола Гарпии",
+      "time": 72900,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Пилумстоимостью не менее 100 зм",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
+              "quantity": "1",
+              "name": "Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.DWLMnODrnHn8IbAG",
+              "quantity": 1,
+              "name": "Пилум / Javelin"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vg0qHKN2jDTKLc10",
+              "quantity": 1,
+              "name": "Свиток заклинания: Возвращающееся оружие / Returning Weapon"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.a6BDLM9QZqUfqsTf",
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.vWzlUscZte5mlwXu",
+              "quantity": 1,
+              "name": "Метательное копье Ореола Гарпии"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/polearms/spear-barbed-silver.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Стрела истребления / Arrow of Slaying",
+      "time": 480,
+      "macroName": "Craft|18",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.3c7JXOzsv55gqJS5",
+              "quantity": "1",
+              "name": "Стрела / Arrow"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
+              "quantity": "2",
+              "name": "Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "2",
+              "name": "Необычная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.tc1He4DMOoO2FcR5",
+              "quantity": 1,
+              "name": "Свиток заклинания: Проклятие / Bestow Curse"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.a4wm7t6fu2Y0NvoF",
+              "quantity": 1,
+              "name": "Стрела истребления / Arrow of Slaying"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Arrow%20of%20Slaying.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Пляшущий меч / Dancing sword",
+      "time": 14580,
+      "macroName": "Craft|19",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Меч стоимостью не менее 100 зм.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
+              "quantity": "2",
+              "name": "Очень Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
+              "quantity": 1,
+              "name": "Длинный меч / Longsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
+              "quantity": 1,
+              "name": "Рапира / Rapier"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
+              "quantity": 1,
+              "name": "Скимитар / Scimitar"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
+              "quantity": 1,
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.4nhmDTan5oYACVhX",
+              "quantity": 1,
+              "name": "Пляшущая рапира / Dancing Rapier"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.hHvrie2LNrnEhCtm",
+              "quantity": 1,
+              "name": "Пляшущий двуручный меч / Dancing Greatsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.JWd8bi7p14PdaKjO",
+              "quantity": 1,
+              "name": "Пляшущий двухклинковый скимитар / Dancing Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Wb4VcTuSrrhpU7br",
+              "quantity": 1,
+              "name": "Пляшущий длинный меч / Dancing Longsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.OXOa5a2DUVSGXYRG",
+              "quantity": 1,
+              "name": "Пляшущий короткий меч / Dancing Shortsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.luLT8i7Leaikw6vF",
+              "quantity": 1,
+              "name": "Пляшущий скимитар / Dancing Scimitar"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/dancing_sword.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Дварфийский метательный молот / Dwarven Thrower",
+      "time": 9720,
+      "macroName": "Craft|18",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.setcTdSZ09rmsqMn",
+              "quantity": 1,
+              "name": "Боевой молот +3 / Warhammer +3"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vg0qHKN2jDTKLc10",
+              "quantity": 1,
+              "name": "Свиток заклинания: Возвращающееся оружие / Returning Weapon"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.FgIjMHzsMAP22g9s",
+              "quantity": 1,
+              "name": "Очень Редкая Первичная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.m52jcW1xGl0QS37i",
+              "quantity": 1,
+              "name": "Дварфийский метательный молот / Dwarven Thrower"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Dwarven%20Thrower.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Лук волшебных стрелᵗᵃᵍ",
+      "time": 9720,
+      "macroName": "Craft|18",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "3",
+              "name": "Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
+              "quantity": "1",
+              "name": "Очень Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3cymOVja8jXbzrdT",
+              "quantity": 1,
+              "name": "Длинный лук / Longbow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.GJv6WkD7D2J6rP6M",
+              "quantity": 1,
+              "name": "Короткий лук / Shortbow"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OZOl1kaltt7Qf7kH",
+              "quantity": 1,
+              "name": "Свиток заклинания: Волшебная стрела / Magic missile"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.eVV6L5r5OtngaiCO",
+              "quantity": 1,
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.KbM1oeUI6t0oOhRR",
+              "quantity": 1,
+              "name": "Лук волшебных стрел"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/bows/shortbow-recurve-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Морозный клинок / Frost brand",
+      "time": 9720,
+      "macroName": "Craft|19",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
+              "quantity": 1,
+              "name": "Длинный меч / Longsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
+              "quantity": 1,
+              "name": "Рапира / Rapier"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
+              "quantity": 1,
+              "name": "Скимитар / Scimitar"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
+              "quantity": 1,
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
+              "quantity": "1",
+              "name": "Очень Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
+              "quantity": "3",
+              "name": "Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "1",
+              "name": "Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.rVp2nb6WgsH5cYdl",
+              "quantity": 1,
+              "name": "Свиток заклинания: Мгновенная заморозка / Flash Freeze"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.rVp2nb6WgsH5cYdl",
+              "quantity": 1,
+              "name": "Свиток заклинания: Мгновенная заморозка / Flash Freeze"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.QxMDvjOY2zrc1D7A",
+              "quantity": 1,
+              "name": "Морозный клинок (Двуручный меч) / Frost Brand Greatsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.OoL6bqFPO0i4lBzr",
+              "quantity": 1,
+              "name": "Морозный клинок (Двухклинковый скимитар) / Frost Brand Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.w5m4HsgqCxQzBMCB",
+              "quantity": 1,
+              "name": "Морозный клинок (Длинный меч) / Frost Brand Longsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.BjNvQSXzrsIwHe0u",
+              "quantity": 1,
+              "name": "Морозный клинок (Короткий меч) / Frost Brand Shortsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.BqK0cJj8QFQh4gm7",
+              "quantity": 1,
+              "name": "Морозный клинок (Рапира) / Frost Brand Rapier"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.G2JUYqy3OcJeJ7Yx",
+              "quantity": 1,
+              "name": "Морозный клинок (Скимитар) / Frost Brand Scimitar"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Frost%20Brand.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Вор девяти жизней / Nine Lives Stealer",
+      "time": 9720,
+      "macroName": "Craft|17",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Меч стоимостью не менее 500 зм.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
+              "quantity": 1,
+              "name": "Длинный меч / Longsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
+              "quantity": 1,
+              "name": "Рапира / Rapier"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
+              "quantity": 1,
+              "name": "Скимитар / Scimitar"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
+              "quantity": 1,
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.zW2lK4EdltTaalv3",
+              "quantity": 1,
+              "name": "Свиток заклинания: Слово силы: смерть / Power Word Kill"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.fBQJ0X2IrOot5ZNS",
+              "quantity": 1,
+              "name": "Свиток заклинания: Колдовской сосуд / Magic Jar"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.JiFV6KNP9uyhSwVq",
+              "quantity": 1,
+              "name": "Вор девяти жизней (Рапира) / Nine Lives Stealer Rapier"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.ooZwuIqx0nCR0YGU",
+              "quantity": 1,
+              "name": "Вор девяти жизней (Двухклинковый скимитар) / Nine Lives Stealer Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.cJdbWduGoMiCSY1p",
+              "quantity": 1,
+              "name": "Вор девяти жизней (Двуручный меч) / Nine Lives Stealer Greatsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.pMVR5fL7BQL1ZZJd",
+              "quantity": 1,
+              "name": "Вор девяти жизней (Короткий меч) / Nine Lives Stealer Shortsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.5DlsDJfjgsNMefYP",
+              "quantity": 1,
+              "name": "Вор девяти жизней (Длинный меч) / Nine Lives Stealer Longsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.SAJHyv83LniD3IaY",
+              "quantity": 1,
+              "name": "Вор девяти жизней (Скимитар) / Nine Lives Stealer Scimitar"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Nine%20Lives%20Steal.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Клятвeнный лук / Oathbow",
+      "time": 14580,
+      "macroName": "Craft|19",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Длинный лук стоимостью не менее 500 зм.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
+              "quantity": "4",
+              "name": "Очень Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3cymOVja8jXbzrdT",
+              "quantity": 1,
+              "name": "Длинный лук / Longbow"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.XeDZviSfuerxEatM",
+              "quantity": 1,
+              "name": "Свиток заклинания: Верный удар / True Strike"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.KG0s76G07L2rM7e4",
+              "quantity": 1,
+              "name": "Свиток заклинания: Метка охотника / Hunter's Mark"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.FBdZfJYD4zRcuKXr",
+              "quantity": 1,
+              "name": "Свиток заклинания: Сглаз / Hex"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.lPm9H44LeYkNRvR3",
+              "quantity": 1,
+              "name": "Клятвeнный лук / Oathbow"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Oathbow.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Скимитар скорости / Scimitar of Speed",
+      "time": 9720,
+      "macroName": "Craft|18",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Скимитар стоимостью не менее 500 зм",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
+              "quantity": "1",
+              "name": "Очень Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
+              "quantity": "1",
+              "name": "Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
+              "quantity": 1,
+              "name": "Скимитар / Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.pdGu4rtCSItFCoFM",
+              "quantity": 1,
+              "name": "Свиток заклинания: Ускорение / Haste"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.4yucgRXEdutquHIo",
+              "quantity": 1,
+              "name": "Скимитар скорости / Scimitar of Speed"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Scimitar%20of%20Speed.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Меч остроты / Sword of Sharpness",
+      "time": 9720,
+      "macroName": "Craft|18",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Меч стоимостью не менее 500 зм.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
+              "quantity": "1",
+              "name": "Очень Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "1",
+              "name": "Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.yPAMAkQBaj3JEql3",
+              "quantity": 1,
+              "name": "Свиток заклинания: Вострое оружие / Vorpal Weapon"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
+              "quantity": 1,
+              "name": "Скимитар / Scimitar"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
+              "quantity": 1,
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.bIF9TG6asxeecJ4H",
+              "quantity": 1,
+              "name": "Двухклинковый скимитар остроты / Double-Bladed Scimitar of Sharpness"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.M5wAxfqpfIzSTPvG",
+              "quantity": 1,
+              "name": "Скимитар остроты / Scimitar of Sharpness"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.HVpxwwZJ0pYNO02b",
+              "quantity": 1,
+              "name": "Двуручный меч остроты / Greatsword of Sharpness"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Sword%20of%20Sharpness.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Священный мститель / Holy Avenger",
+      "time": 24300,
+      "macroName": "Craft|22",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
+              "quantity": 1,
+              "name": "Рапира / Rapier"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
+              "quantity": 1,
+              "name": "Скимитар / Scimitar"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
+              "quantity": 1,
+              "name": "Длинный меч / Longsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
+              "quantity": 1,
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
+              "quantity": "3",
+              "name": "Легендарная Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
+              "quantity": "3",
+              "name": "Очень Редкая Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.8Qgcu4y91QIBclxd",
+              "quantity": 1,
+              "name": "Свиток заклинания: Священное оружие / Holy Weapon"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OPmVnUv0tp1zpFxD",
+              "quantity": 1,
+              "name": "Свиток заклинания: Аура святости / Holy aura"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.eVV6L5r5OtngaiCO",
+              "quantity": 1,
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.2Ye2onLbMJBmQhCh",
+              "quantity": 1,
+              "name": "Священный мститель (Рапира) / Holy Avenger Rapier"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.YgXOIXdMwzpSWu5m",
+              "quantity": 1,
+              "name": "Священный мститель (Скимитар) / Holy Avenger Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.8G3fVpWW6IxA8tZc",
+              "quantity": 1,
+              "name": "Священный мститель (Длинный меч) / Holy Avenger Longsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.S5J8TnujkIAUrUG3",
+              "quantity": 1,
+              "name": "Священный мститель (Короткий меч) / Holy Avenger Shortsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.SkjCdWjFn6g0n90G",
+              "quantity": 1,
+              "name": "Священный мститель (Двуручный меч) / Holy Avenger Greatsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.LRT9Inss6K3XPPW8",
+              "quantity": 1,
+              "name": "Священный мститель (Двухклинковый скимитар) / Holy Avenger Double-Bladed Scimitar"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Holy%20Avenger.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Клинок удачи / Luck blade",
+      "time": 19440,
+      "macroName": "Craft|20",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.IPkf0XNowClwXnjQ",
+              "quantity": "1",
+              "name": "Длинный меч +1 / Longsword +1"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.S7AhpCPDBGUBbg7b",
+              "quantity": 1,
+              "name": "Рапира +1 / Rapier +1"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.sl6yiYSlqkHiVVSN",
+              "quantity": 1,
+              "name": "Короткий меч +1 / Shortsword +1"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.kBVK2IiZYRkEYtcM",
+              "quantity": 1,
+              "name": "Двуручный меч +1  / Greatsword +1"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.VGtyTdVLoWls8FL5",
+              "quantity": 1,
+              "name": "Скимитар +1 / Scimitar +1"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.FwhQ8KVfNhbSdoph",
+              "quantity": 1,
+              "name": "Двухклинковый скимитар +1/ +1 Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.aCCTs3Cjat6ABd4d",
+              "quantity": "2",
+              "name": "Свиток заклинания: Желание / Wish"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.PlII9nIoqvebBUn1",
+              "quantity": 1,
+              "name": "Клинок удачи (Двуручный меч) / Luck Blade Greatsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.DiQnnoZz9DJ39UMD",
+              "quantity": 1,
+              "name": "Клинок удачи (Двухклинковый скимитар) / Luck Blade Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.l2XcHGfxhKCFQ6jh",
+              "quantity": 1,
+              "name": "Клинок удачи (Длинный меч) / Luck Blade Longsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Ehmut6RufmDaNMF4",
+              "quantity": 1,
+              "name": "Клинок удачи (Короткий меч) / Luck Blade Shortsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.eZPVvZ04gcLlvuRy",
+              "quantity": 1,
+              "name": "Клинок удачи (Рапира) / Luck Blade Rapier"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.YRWYzEyjHasJZfHo",
+              "quantity": 1,
+              "name": "Клинок удачи (Скимитар) / Luck Blade Scimitar"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Luck%20Blade.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Молот грома / Hammer of Thunderbolts",
+      "time": 24300,
+      "macroName": "Craft|20",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Молот стоимостью не менее 1 000 зм",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
+              "quantity": "1",
+              "name": "Легендарная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
+              "quantity": "2",
+              "name": "Очень Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.DizirD7eqjh8n95A",
+              "quantity": 1,
+              "name": "Двуручный молот / Maul"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.U5mFk0WX9mDmShsX",
+              "quantity": 1,
+              "name": "Свиток заклинания: Громовая волна / Thunderwave"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.IHmYngMnU3pgKGfB",
+              "quantity": 1,
+              "name": "Молот грома / Hammer of Thunderbolts"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Hammer%20of%20Thunderbolts.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Защитник / Defender",
+      "time": 19440,
+      "macroName": "Craft|20",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Меч стоимостью не менее 1 000 зм.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
+              "quantity": "1",
+              "name": "Легендарная Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.WfqBg3yBNoJQtVEB",
+              "quantity": "1",
+              "name": "Щит +3 / Shield +3"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
+              "quantity": 1,
+              "name": "Длинный меч / Longsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
+              "quantity": 1,
+              "name": "Скимитар / Scimitar"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
+              "quantity": 1,
+              "name": "Рапира / Rapier"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
+              "quantity": 1,
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OmiYxavSaAlXr7Ji",
+              "quantity": 1,
+              "name": "Свиток заклинания: Щит веры / Shield of faith"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.eVV6L5r5OtngaiCO",
+              "quantity": 1,
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.UFj8nuUCFKetsLJP",
+              "quantity": 1,
+              "name": "Защитник (Двуручный меч) / Defender Greatsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.t3lXP16R2ZWcFBYh",
+              "quantity": 1,
+              "name": "Защитник (Двухклинковый скимитар) / Defender Double-Bladed Scimitar"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.rtDGNnTrdlxNHf1v",
+              "quantity": 1,
+              "name": "Защитник (Длинный меч) / Defender Longsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.pNucfcEvR2Lqz11H",
+              "quantity": 1,
+              "name": "Защитник (Короткий меч) / Defender Shortsword"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.dGBhEHvcc118D98a",
+              "quantity": 1,
+              "name": "Защитник (Рапира) / Defender Rapier"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.JL7BHZiOOKPVpGIk",
+              "quantity": 1,
+              "name": "Защитник (Скимитар) / Defender Scimitar"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Defender.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Длинное копье укротителя драконовᵈˢ / Dragon Tamer Lance",
+      "time": 19440,
+      "macroName": "Craft|20",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "Кавалерийская пика стоимостью 1 000 зм.",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
+              "quantity": "1",
+              "name": "Легендарная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
+              "quantity": "2",
+              "name": "Очень Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "8",
+              "name": "Необычная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.RnuxdHUAIgxccVwj",
+              "quantity": 1,
+              "name": "Кавалерийская пика / Lance"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.nchZap33mCDg7fXs",
+              "quantity": 1,
+              "name": "Свиток заклинания: Призыв духа дракона / Summon Draconic Spirit"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.487P7CrSN3RzDXep",
+              "quantity": 1,
+              "name": "Свиток заклинания: Хроматический шар / Chromatic Orb"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.LlcTm1LtXLbxGksS",
+              "quantity": 1,
+              "name": "Длинное копье укротителя драконов"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/polearms/spear-ice-crystal-blue.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "modules/laaru-dnd5-hw/assets/images/pic/Nine%20Lives%20Steal.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

@@ -1,0 +1,828 @@
+{
+  "name": "Кузнечное Дело - Компоненты и материалы",
+  "description": "",
+  "ownership": {
+    "ku28rw7jRukQFKqJ": "1",
+    "XmsJK11v2DlpvsUU": "1",
+    "u2xZq7cRGkZUX1eF": "1",
+    "qg6cjbHqRTCejSCi": "1",
+    "ApTChzA7uOsk0BHP": "1"
+  },
+  "tools": "Инструменты кузнеца / Smith's Tools",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Слиток Адамантита",
+      "time": 120,
+      "macroName": "Craft|15",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": 1,
+              "name": "Слиток Стали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": 1,
+              "name": "Слиток Адаманта"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": 1,
+              "name": "Слиток Адамантита"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kraywell-compendium/icons/adamantite%20%20ignot.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Запчасти",
+      "time": 240,
+      "macroName": "Craft|9",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "5",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.JvROpigr0jg2osWb",
+              "quantity": 1,
+              "name": "Обычные запчасти"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/tech/cog-brass.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "5 х Пряжка",
+      "time": 120,
+      "macroName": "Craft|8",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "5",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.V9ZIv3uOSFrXYIKd",
+              "quantity": "5",
+              "name": "Пряжка"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/metal/clasp-steel-green.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "20 х Металлолома",
+      "time": 120,
+      "macroName": "Craft|5",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": 1,
+              "name": "Слиток Железа"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "20",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/metal/barstock-teal.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Железный Слиток",
+      "time": 120,
+      "macroName": "Craft|5",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "20",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": 1,
+              "name": "Слиток Железа"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kraywell-compendium/icons/iron%20ignot.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "10 х Железные слиткиˢ",
+      "time": 240,
+      "macroName": "Craft|5",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.EpVmgI0yj2gznyQ6",
+              "quantity": "10",
+              "name": "Железная руда"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": "10",
+              "name": "Слиток Железа"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kraywell-compendium/icons/iron%20ignot.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "10 х Стальные слиткиˢ",
+      "time": 240,
+      "macroName": "Craft|8",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.EpVmgI0yj2gznyQ6",
+              "quantity": "10",
+              "name": "Железная руда"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.O3WXOpln1gnScZkg",
+              "quantity": 1,
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": "10",
+              "name": "Слиток Стали"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kraywell-compendium/icons/steel%20ignot.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Слиток Серебра",
+      "time": 120,
+      "macroName": "Craft|5",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OPRBZh6a8qdoPl3C",
+              "quantity": "20",
+              "name": "Кусочек серебра"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.yOEZ7hHRfGjAUNO7",
+              "quantity": 1,
+              "name": "Слиток Серебра"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kraywell-compendium/icons/steel%20ignot.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "20 х Кусочков Серебра",
+      "time": 120,
+      "macroName": "Craft|5",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.yOEZ7hHRfGjAUNO7",
+              "quantity": 1,
+              "name": "Слиток Серебра"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OPRBZh6a8qdoPl3C",
+              "quantity": "20",
+              "name": "Кусочек серебра"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kraywell-compendium/icons/mythril%20ore.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Необычные Детали",
+      "time": 240,
+      "macroName": "Craft|12",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": 1,
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": 1,
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": 1,
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": 1,
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": 1,
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": 1,
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": 1,
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": 1,
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": 1,
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": 1,
+              "name": "Слиток Хладостали"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.nJkIHRsAdpwgSqbJ",
+              "quantity": 1,
+              "name": "Необычные Детали"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/tech/cog-brass.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Слиток золота",
+      "time": 120,
+      "macroName": "Craft|5",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.1z1TZCPVFduJ7lc6",
+              "quantity": "20",
+              "name": "Кусочек золота"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.3ZE11ma5fA9STGyo",
+              "quantity": 1,
+              "name": "Слиток золота"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/metal/ingot-gold.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "20 х Кусочков Золота",
+      "time": 120,
+      "macroName": "Craft|5",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.3ZE11ma5fA9STGyo",
+              "quantity": 1,
+              "name": "Слиток золота"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.1z1TZCPVFduJ7lc6",
+              "quantity": "20",
+              "name": "Кусочек золота"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/stone/ore-pile-gold.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Слиток Мифрилаˢ",
+      "time": 120,
+      "macroName": "Craft|15",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.kn6ZpmvSZJhJ3uHi",
+              "quantity": 1,
+              "name": "Мифриловая Руда"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": 1,
+              "name": "Слиток Мифрила"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kraywell-compendium/icons/mythril%20ignot.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Слиток Адамантаˢ",
+      "time": 120,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.V8rjqptEw5cD6hlL",
+              "quantity": 1,
+              "name": "Адамантовая руда"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": 1,
+              "name": "Слиток Адаманта"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kraywell-compendium/icons/adamant%20ignot.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Слиток Хладосталиˢ",
+      "time": 120,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.93qj7Iasv0aJ9I82",
+              "quantity": 1,
+              "name": "Хладосталевая руда"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
+              "quantity": 1,
+              "name": "Обычная Первичная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": 1,
+              "name": "Слиток Хладостали"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kraywell-compendium/icons/coldsteel%20ignot.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Слиток Темносталиˢ",
+      "time": 120,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.YXDMsVd1QdTBagRG",
+              "quantity": 1,
+              "name": "Темносталевая руда"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
+              "quantity": 1,
+              "name": "Обычная Первичная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": 1,
+              "name": "Слиток Темностали"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kraywell-compendium/icons/darksteel%20ignot.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Слиток Огнесталиˢ",
+      "time": 120,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.cQycYdS1kI64hVzQ",
+              "quantity": 1,
+              "name": "Огнесталевая руда"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hvLwoGx3M7yTCWrN",
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": 1,
+              "name": "Слиток Огнестали"
+            }
+          ]
+        }
+      ],
+      "img": "modules/kraywell-compendium/icons/firesteel%20ignot.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    }
+  ],
+  "img": "modules/kraywell-compendium/icons/firesteel%20ignot.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

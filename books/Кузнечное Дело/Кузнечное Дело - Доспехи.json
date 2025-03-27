@@ -1,0 +1,751 @@
+{
+  "name": "Кузнечное Дело - Доспехи",
+  "description": "",
+  "ownership": {
+    "ku28rw7jRukQFKqJ": "1",
+    "XmsJK11v2DlpvsUU": "1",
+    "u2xZq7cRGkZUX1eF": "1",
+    "qg6cjbHqRTCejSCi": "1",
+    "ApTChzA7uOsk0BHP": "1"
+  },
+  "tools": "Инструменты кузнеца / Smith's Tools",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Кольчужная рубаха",
+      "time": 840,
+      "macroName": "Craft|13",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": 5,
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": 5,
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": 5,
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": 5,
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": 5,
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": 5,
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": 5,
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": 5,
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": 5,
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": 5,
+              "name": "Слиток Хладостали"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.p2zChy24ZJdVqMSH",
+              "quantity": 1,
+              "name": "Кольчужная рубаха / Chain Shirt"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/chest/breastplate-scale-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Чешуйчатый доспех",
+      "time": 840,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": 8,
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": 8,
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": 8,
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": 8,
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": 8,
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": 8,
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": 8,
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": 8,
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": 8,
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": 8,
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.sXuLhplb8x3lidzt",
+              "quantity": 1,
+              "name": "Набивка доспеха"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.XmnlF5fgIO3tg6TG",
+              "quantity": 1,
+              "name": "Чешуйчатый доспех / Scale Mail"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Scale_mail-5e.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Кираса",
+      "time": 960,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": 10,
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": 10,
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": 10,
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": 10,
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": 10,
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": 10,
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": 10,
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": 10,
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": 10,
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": 10,
+              "name": "Слиток Хладостали"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.SK2HATQ4abKUlV8i",
+              "quantity": 1,
+              "name": "Нагрудник / Breastplate"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/chest/breastplate-collared-steel-grey.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Полулаты",
+      "time": 1680,
+      "macroName": "Craft|17",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": 16,
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": 16,
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": 16,
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": 16,
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": 16,
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": 16,
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": 16,
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": 16,
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": 16,
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": 16,
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.sXuLhplb8x3lidzt",
+              "quantity": 1,
+              "name": "Набивка доспеха"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.vsgmACFYINloIdPm",
+              "quantity": 1,
+              "name": "Кольчужно-латный доспех / Half Plate Armor"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/chest/breastplate-cuirass-steel-grey.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Кольчатый доспех",
+      "time": 600,
+      "macroName": "Craft|11",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": 4,
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": 4,
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": 4,
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": 4,
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": 4,
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": 4,
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": 4,
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": 4,
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": 4,
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": 4,
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.sXuLhplb8x3lidzt",
+              "quantity": 1,
+              "name": "Набивка доспеха"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.nsXZejlmgalj4he9",
+              "quantity": 1,
+              "name": "Кольчатый доспех / Ring Mail"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Ringmail-5e.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Кольчуга",
+      "time": 840,
+      "macroName": "Craft|13",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": 9,
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": 9,
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": 9,
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": 9,
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": 9,
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": 9,
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": 9,
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": 9,
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": 9,
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": 9,
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.sXuLhplb8x3lidzt",
+              "quantity": 1,
+              "name": "Набивка доспеха"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.rLMflzmxpe8JGTOA",
+              "quantity": 1,
+              "name": "Кольчуга / Chain Mail"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Chain_shirt-5e.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Шипованный доспех",
+      "time": 1680,
+      "macroName": "Craft|14",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": 12,
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": 12,
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": 12,
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": 12,
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": 12,
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": 12,
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": 12,
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": 12,
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": 12,
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": 12,
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.sXuLhplb8x3lidzt",
+              "quantity": 1,
+              "name": "Набивка доспеха"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.cKpJmsJmU8YaiuqG",
+              "quantity": 1,
+              "name": "Пластинчатый доспех / Splint Armor"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Splintmail-5e.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Латы",
+      "time": 3480,
+      "macroName": "Craft|17",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
+              "quantity": 30,
+              "name": "Слиток Адаманта"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
+              "quantity": 30,
+              "name": "Слиток Адамантита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
+              "quantity": 30,
+              "name": "Слиток Бронзы"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
+              "quantity": 30,
+              "name": "Слиток Железа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
+              "quantity": 30,
+              "name": "Слиток Метеорита"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
+              "quantity": 30,
+              "name": "Слиток Мифрила"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
+              "quantity": 30,
+              "name": "Слиток Огнестали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
+              "quantity": 30,
+              "name": "Слиток Стали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
+              "quantity": 30,
+              "name": "Слиток Темностали"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
+              "quantity": 30,
+              "name": "Слиток Хладостали"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.sXuLhplb8x3lidzt",
+              "quantity": 1,
+              "name": "Набивка доспеха"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.OjkIqlW2UpgFcjZa",
+              "quantity": 1,
+              "name": "Латный доспех / Plate Armor"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/chest/breastplate-collared-steel.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    }
+  ],
+  "img": "icons/equipment/chest/breastplate-layered-steel-green.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}
