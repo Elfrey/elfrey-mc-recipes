@@ -19,7 +19,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.kRSZB73OZ8oYhjI8",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kRSZB73OZ8oYhjI8",
               "quantity": 1,
               "name": "Единица камня / Unit of Stone"
             }
@@ -29,7 +29,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.iqT9WLpOjfOiuj33",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.iqT9WLpOjfOiuj33",
               "quantity": 1,
               "name": "Цемент / Cement"
             }
@@ -41,7 +41,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.fYF7zFiEb4hWUoUs",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.fYF7zFiEb4hWUoUs",
               "quantity": 1,
               "name": "Маленькая каменная стена (10 фт) / Low Stone Wall"
             }
@@ -65,7 +65,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.iqT9WLpOjfOiuj33",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.iqT9WLpOjfOiuj33",
               "quantity": "5",
               "name": "Цемент / Cement"
             }
@@ -75,7 +75,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.kRSZB73OZ8oYhjI8",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kRSZB73OZ8oYhjI8",
               "quantity": "5",
               "name": "Единица камня / Unit of Stone"
             }
@@ -87,7 +87,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.C8TYbWONWKwRx4Oy",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.C8TYbWONWKwRx4Oy",
               "quantity": 1,
               "name": "Каменные зубчатые стены (10 фт) / Stone Battlements"
             }
@@ -111,7 +111,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.kKWvbYeym8nk9ijt",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
               "quantity": "2",
               "name": "Еденица Дерева / Unit of Lumber"
             }
@@ -123,7 +123,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.hGWBDktdcyTRUnFW",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.hGWBDktdcyTRUnFW",
               "quantity": 1,
               "name": "Палисад  (10 фт) / Palisade (per 10 ft)"
             }
@@ -147,7 +147,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.kKWvbYeym8nk9ijt",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
               "quantity": "8",
               "name": "Еденица Дерева / Unit of Lumber"
             }
@@ -169,7 +169,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.GafRjOIggyN11X5r",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.GafRjOIggyN11X5r",
               "quantity": 1,
               "name": "Смотровая Башня / Watch Tower"
             }
@@ -193,7 +193,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.kKWvbYeym8nk9ijt",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
               "quantity": "5",
               "name": "Еденица Дерева / Unit of Lumber"
             }
@@ -225,7 +225,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.cxrCi6L5YXV7bFQ8",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.cxrCi6L5YXV7bFQ8",
               "quantity": 1,
               "name": "Деревянная зубчатая стена (10 фт) / Wooden Battlement (10 ft)"
             }

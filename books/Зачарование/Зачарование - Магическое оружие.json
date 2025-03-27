@@ -232,7 +232,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.j2Vo3m49A6uasjcM",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.j2Vo3m49A6uasjcM",
               "quantity": "1",
               "name": "Свиток заклинания: Ветровое оружие /Windborne Weapon"
             }
@@ -242,7 +242,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vg0qHKN2jDTKLc10",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vg0qHKN2jDTKLc10",
               "quantity": 1,
               "name": "Свиток заклинания: Возвращающееся оружие / Returning Weapon"
             }
@@ -308,7 +308,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OrHn85WoQSK9OwRL",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OrHn85WoQSK9OwRL",
               "quantity": 1,
               "name": "Свиток заклинания: Подчинение животного / Dominate Beast"
             }
@@ -384,7 +384,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.k1zt8pvpzW50Gmhm",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.k1zt8pvpzW50Gmhm",
               "quantity": 1,
               "name": "Свиток заклинания: Тошнотворный яд / Nauseating Poison"
             }
@@ -485,7 +485,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.eVV6L5r5OtngaiCO",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
               "quantity": 1,
               "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
             }
@@ -792,7 +792,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vupyuVvVlJeG1IHy",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vupyuVvVlJeG1IHy",
               "quantity": 1,
               "name": "Свиток заклинания: Изгнание / Banishment"
             }
@@ -999,7 +999,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.4Q7luIuqyYTXedlO",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4Q7luIuqyYTXedlO",
               "quantity": 1,
               "name": "Свиток заклинания: Рассеивание магии / Dispel Magic"
             }
@@ -1065,7 +1065,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vYpTa9sd0wD3zL6D",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vYpTa9sd0wD3zL6D",
               "quantity": 1,
               "name": "Свиток заклинания: Ужас / Fear"
             }
@@ -1131,7 +1131,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vV8fbU9o7mcdQ6pH",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vV8fbU9o7mcdQ6pH",
               "quantity": 1,
               "name": "Рукоять меча (200 зм)"
             }
@@ -1141,7 +1141,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vV8fbU9o7mcdQ6pH",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vV8fbU9o7mcdQ6pH",
               "quantity": 1,
               "name": "Рукоять меча (200 зм)"
             }
@@ -1151,7 +1151,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.eVV6L5r5OtngaiCO",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
               "quantity": 1,
               "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
             }
@@ -1161,7 +1161,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.4cRhNfQ1l2933Z90",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4cRhNfQ1l2933Z90",
               "quantity": 1,
               "name": "Свиток заклинания: Призрачное оружие / Spiritual weapon"
             }
@@ -1171,7 +1171,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.j5CBvnNwclXxPQd3",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.j5CBvnNwclXxPQd3",
               "quantity": 1,
               "name": "Свиток заклинания: Дневной свет / Daylight"
             }
@@ -1407,7 +1407,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.ELpmu22p03Mf8gZa",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ELpmu22p03Mf8gZa",
               "quantity": 1,
               "name": "Свиток заклинания: Головоруб / Vorpal Blade"
             }
@@ -1645,7 +1645,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vg0qHKN2jDTKLc10",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vg0qHKN2jDTKLc10",
               "quantity": 1,
               "name": "Свиток заклинания: Возвращающееся оружие / Returning Weapon"
             }
@@ -1721,7 +1721,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.tc1He4DMOoO2FcR5",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.tc1He4DMOoO2FcR5",
               "quantity": 1,
               "name": "Свиток заклинания: Проклятие / Bestow Curse"
             }
@@ -1888,7 +1888,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vg0qHKN2jDTKLc10",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vg0qHKN2jDTKLc10",
               "quantity": 1,
               "name": "Свиток заклинания: Возвращающееся оружие / Returning Weapon"
             }
@@ -1969,7 +1969,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OZOl1kaltt7Qf7kH",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OZOl1kaltt7Qf7kH",
               "quantity": 1,
               "name": "Свиток заклинания: Волшебная стрела / Magic missile"
             }
@@ -1979,7 +1979,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.eVV6L5r5OtngaiCO",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
               "quantity": 1,
               "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
             }
@@ -2080,7 +2080,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.rVp2nb6WgsH5cYdl",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.rVp2nb6WgsH5cYdl",
               "quantity": 1,
               "name": "Свиток заклинания: Мгновенная заморозка / Flash Freeze"
             }
@@ -2090,7 +2090,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.rVp2nb6WgsH5cYdl",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.rVp2nb6WgsH5cYdl",
               "quantity": 1,
               "name": "Свиток заклинания: Мгновенная заморозка / Flash Freeze"
             }
@@ -2211,7 +2211,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.zW2lK4EdltTaalv3",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.zW2lK4EdltTaalv3",
               "quantity": 1,
               "name": "Свиток заклинания: Слово силы: смерть / Power Word Kill"
             }
@@ -2221,7 +2221,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.fBQJ0X2IrOot5ZNS",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.fBQJ0X2IrOot5ZNS",
               "quantity": 1,
               "name": "Свиток заклинания: Колдовской сосуд / Magic Jar"
             }
@@ -2327,7 +2327,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.XeDZviSfuerxEatM",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.XeDZviSfuerxEatM",
               "quantity": 1,
               "name": "Свиток заклинания: Верный удар / True Strike"
             }
@@ -2337,7 +2337,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.KG0s76G07L2rM7e4",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.KG0s76G07L2rM7e4",
               "quantity": 1,
               "name": "Свиток заклинания: Метка охотника / Hunter's Mark"
             }
@@ -2347,7 +2347,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.FBdZfJYD4zRcuKXr",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.FBdZfJYD4zRcuKXr",
               "quantity": 1,
               "name": "Свиток заклинания: Сглаз / Hex"
             }
@@ -2413,7 +2413,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.pdGu4rtCSItFCoFM",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.pdGu4rtCSItFCoFM",
               "quantity": 1,
               "name": "Свиток заклинания: Ускорение / Haste"
             }
@@ -2469,7 +2469,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.yPAMAkQBaj3JEql3",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.yPAMAkQBaj3JEql3",
               "quantity": 1,
               "name": "Свиток заклинания: Вострое оружие / Vorpal Weapon"
             }
@@ -2600,7 +2600,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.8Qgcu4y91QIBclxd",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.8Qgcu4y91QIBclxd",
               "quantity": 1,
               "name": "Свиток заклинания: Священное оружие / Holy Weapon"
             }
@@ -2610,7 +2610,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OPmVnUv0tp1zpFxD",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OPmVnUv0tp1zpFxD",
               "quantity": 1,
               "name": "Свиток заклинания: Аура святости / Holy aura"
             }
@@ -2620,7 +2620,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.eVV6L5r5OtngaiCO",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
               "quantity": 1,
               "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
             }
@@ -2741,7 +2741,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.aCCTs3Cjat6ABd4d",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.aCCTs3Cjat6ABd4d",
               "quantity": "2",
               "name": "Свиток заклинания: Желание / Wish"
             }
@@ -2857,7 +2857,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.U5mFk0WX9mDmShsX",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.U5mFk0WX9mDmShsX",
               "quantity": 1,
               "name": "Свиток заклинания: Громовая волна / Thunderwave"
             }
@@ -2948,7 +2948,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OmiYxavSaAlXr7Ji",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OmiYxavSaAlXr7Ji",
               "quantity": 1,
               "name": "Свиток заклинания: Щит веры / Shield of faith"
             }
@@ -2958,7 +2958,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.eVV6L5r5OtngaiCO",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
               "quantity": 1,
               "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
             }
@@ -3084,7 +3084,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.nchZap33mCDg7fXs",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.nchZap33mCDg7fXs",
               "quantity": 1,
               "name": "Свиток заклинания: Призыв духа дракона / Summon Draconic Spirit"
             }
@@ -3094,7 +3094,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.487P7CrSN3RzDXep",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.487P7CrSN3RzDXep",
               "quantity": 1,
               "name": "Свиток заклинания: Хроматический шар / Chromatic Orb"
             }

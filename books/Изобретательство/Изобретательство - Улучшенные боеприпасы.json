@@ -368,17 +368,17 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.ajBlG1p7q5TF72mu",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ajBlG1p7q5TF72mu",
               "quantity": 1,
               "name": "Свиток заклинания: Опутывание / Entangle"
             },
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.D8h3JiarnjJrExXa",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.D8h3JiarnjJrExXa",
               "quantity": 1,
               "name": "Свиток заклинания: Облако тумана / Fog Cloud"
             },
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.w5HbNcPXFLSyiAjN",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.w5HbNcPXFLSyiAjN",
               "quantity": 1,
               "name": "Свиток заклинания: Мультивыстрел / Multishot"
             }

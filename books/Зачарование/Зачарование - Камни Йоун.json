@@ -39,7 +39,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.wERJ6VNbO3BJouXO",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.wERJ6VNbO3BJouXO",
               "quantity": 1,
               "name": "Розовый драгоценный камень (200 зм)"
             }
@@ -49,7 +49,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.MCAqRJcI8zVGAEBX",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.MCAqRJcI8zVGAEBX",
               "quantity": 1,
               "name": "Свиток заклинания: Магический доспех / Mage armor"
             }
@@ -105,7 +105,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
               "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
             }
@@ -115,7 +115,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OvWIqwr1VC0g2I8f",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OvWIqwr1VC0g2I8f",
               "quantity": 1,
               "name": "Темно-синий драгоценный камень (200 зм)"
             }
@@ -171,7 +171,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.lknyI1R5Fl1ScAH8",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lknyI1R5Fl1ScAH8",
               "quantity": 1,
               "name": "Свиток заклинания: Создание еды и питья / Create Food and Water"
             }
@@ -181,7 +181,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.VGyVuG1EXzoZXfTe",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VGyVuG1EXzoZXfTe",
               "quantity": 1,
               "name": "Прозрачный драгоценый камень (200 зм)"
             }
@@ -237,7 +237,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.sUmqzQtKwa2UnVzM",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sUmqzQtKwa2UnVzM",
               "quantity": 1,
               "name": "Фиолетовый драгоценный камень (200 зм)"
             }
@@ -283,7 +283,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.SWYntxCPgzOQSwWn",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.SWYntxCPgzOQSwWn",
               "quantity": 1,
               "name": "Бледно-голубой драгоценный камень (500 зм)"
             }
@@ -293,7 +293,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
               "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
             }
@@ -349,7 +349,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.4Q7luIuqyYTXedlO",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4Q7luIuqyYTXedlO",
               "quantity": 1,
               "name": "Свиток заклинания: Рассеивание магии / Dispel Magic"
             }
@@ -359,7 +359,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.fzFEEoDJTp09ip8n",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.fzFEEoDJTp09ip8n",
               "quantity": 1,
               "name": "Бледно-лавандовый  драгоценный камень (500 зм)"
             }
@@ -415,7 +415,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.N3V1cngOIbNoQadU",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.N3V1cngOIbNoQadU",
               "quantity": 1,
               "name": "Темно-красный драгоценный камень (500 зм)"
             }
@@ -425,7 +425,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
               "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
             }
@@ -481,7 +481,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.5Mlfm0ngFmYT8MKT",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.5Mlfm0ngFmYT8MKT",
               "quantity": 1,
               "name": "Розовый драгоценный камень (500 зм)"
             }
@@ -491,7 +491,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
               "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
             }
@@ -547,7 +547,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.QuwfEFm8FwJuWFec",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.QuwfEFm8FwJuWFec",
               "quantity": 1,
               "name": "Ярко синий драгоценный камень (500 зм)"
             }
@@ -557,7 +557,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
               "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
             }
@@ -593,7 +593,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.QuwfEFm8FwJuWFec",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.QuwfEFm8FwJuWFec",
               "quantity": 1,
               "name": "Ярко синий драгоценный камень (500 зм)"
             }
@@ -603,7 +603,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
               "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
             }
@@ -669,7 +669,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.5Mlfm0ngFmYT8MKT",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.5Mlfm0ngFmYT8MKT",
               "quantity": 1,
               "name": "Розовый драгоценный камень (500 зм)"
             }
@@ -679,7 +679,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
               "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
             }
@@ -735,7 +735,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.3h5ow5C4wTEimcwX",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3h5ow5C4wTEimcwX",
               "quantity": 1,
               "name": "Лавандовый драгоценный камень (500 зм)"
             }
@@ -745,7 +745,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.Ag8pucYVg45kRygi",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Ag8pucYVg45kRygi",
               "quantity": 1,
               "name": "Зеленый драгоценный камень (500 зм)"
             }
@@ -755,7 +755,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.yXqZppFbVzQbbSVE",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.yXqZppFbVzQbbSVE",
               "quantity": 1,
               "name": "Свиток заклинания: Поле антимагии / Antimagic Field"
             }
@@ -821,7 +821,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.SVc5QBpSXVfNtxhm",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.SVc5QBpSXVfNtxhm",
               "quantity": 1,
               "name": "Зеленый драгоценный камень (1000зм)"
             }
@@ -831,7 +831,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
               "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
             }
@@ -887,7 +887,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.Jhls19rDYumYP6GQ",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Jhls19rDYumYP6GQ",
               "quantity": 1,
               "name": "Жемчуг (1000 зм)"
             }
@@ -897,7 +897,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.GLjfDYSCx5RANHA5",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.GLjfDYSCx5RANHA5",
               "quantity": 1,
               "name": "Свиток заклинания: Регенерация / Regenerate"
             }

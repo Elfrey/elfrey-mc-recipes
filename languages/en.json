@@ -12,6 +12,7 @@
             "importFailed": "Failed to import {name}",
             "updateSuccess": "Updated {name}",
             "loadFailed": "Failed to load recipe books"
-        }
+        },
+        "importBook": "Import Recipe Books"
     }
 }

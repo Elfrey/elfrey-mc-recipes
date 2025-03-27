@@ -131,7 +131,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.V9ZIv3uOSFrXYIKd",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.V9ZIv3uOSFrXYIKd",
               "quantity": "5",
               "name": "Пряжка"
             }
@@ -339,7 +339,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OPRBZh6a8qdoPl3C",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OPRBZh6a8qdoPl3C",
               "quantity": "20",
               "name": "Кусочек серебра"
             }
@@ -351,7 +351,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.yOEZ7hHRfGjAUNO7",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.yOEZ7hHRfGjAUNO7",
               "quantity": 1,
               "name": "Слиток Серебра"
             }
@@ -381,7 +381,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.yOEZ7hHRfGjAUNO7",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.yOEZ7hHRfGjAUNO7",
               "quantity": 1,
               "name": "Слиток Серебра"
             }
@@ -393,7 +393,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OPRBZh6a8qdoPl3C",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OPRBZh6a8qdoPl3C",
               "quantity": "20",
               "name": "Кусочек серебра"
             }
@@ -480,7 +480,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.nJkIHRsAdpwgSqbJ",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.nJkIHRsAdpwgSqbJ",
               "quantity": 1,
               "name": "Необычные Детали"
             }
@@ -510,7 +510,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.1z1TZCPVFduJ7lc6",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.1z1TZCPVFduJ7lc6",
               "quantity": "20",
               "name": "Кусочек золота"
             }
@@ -522,7 +522,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.3ZE11ma5fA9STGyo",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3ZE11ma5fA9STGyo",
               "quantity": 1,
               "name": "Слиток золота"
             }
@@ -552,7 +552,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.3ZE11ma5fA9STGyo",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3ZE11ma5fA9STGyo",
               "quantity": 1,
               "name": "Слиток золота"
             }
@@ -564,7 +564,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.1z1TZCPVFduJ7lc6",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.1z1TZCPVFduJ7lc6",
               "quantity": "20",
               "name": "Кусочек золота"
             }

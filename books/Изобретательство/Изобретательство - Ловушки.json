@@ -41,7 +41,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.PUMoFFOWzCGmydlX",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.PUMoFFOWzCGmydlX",
               "quantity": 1,
               "name": "Шумовая Ловушка / Noise Trap"
             }
@@ -87,7 +87,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.dh0LRWPfNCozh6Ec",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.dh0LRWPfNCozh6Ec",
               "quantity": 1,
               "name": "Охотничья Ловушка / Hunting Trap"
             }
@@ -133,7 +133,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.3r0Saf978P3tY0Nd",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3r0Saf978P3tY0Nd",
               "quantity": 1,
               "name": "Натяжной трос / Trip Wire"
             }

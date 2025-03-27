@@ -31,7 +31,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.lNY56TEGRxoH6Zkd",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lNY56TEGRxoH6Zkd",
               "quantity": 1,
               "name": "Деревянный приклад / Wooden Stock"
             }
@@ -67,7 +67,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.cfnV0I3lq1lbaY5x",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.cfnV0I3lq1lbaY5x",
               "quantity": 1,
               "name": "Длинная рукоять / Long Haft"
             }
@@ -103,7 +103,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.lNY56TEGRxoH6Zkd",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.lNY56TEGRxoH6Zkd",
               "quantity": 1,
               "name": "Деревянный приклад / Wooden Stock"
             }
@@ -183,7 +183,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.hDOc8kfHGyQwOMDb",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.hDOc8kfHGyQwOMDb",
               "quantity": "3",
               "name": "Отрезок лески / Length of String"
             }
@@ -195,7 +195,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.HV77IP7ujKLfnfVi",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.HV77IP7ujKLfnfVi",
               "quantity": 1,
               "name": "Удочка / Fishing Pole"
             }
@@ -219,7 +219,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.MT4KM5z3xsSTW9Jy",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.MT4KM5z3xsSTW9Jy",
               "quantity": "1",
               "name": "Кусок дерева / Wood scraps"
             }
@@ -231,7 +231,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.7uUvDQWSqcLHp0vL",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.7uUvDQWSqcLHp0vL",
               "quantity": 1,
               "name": "Резная Фигурка / Carved Figurine"
             }
@@ -267,7 +267,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.5jsBvN3QEO3KwrkT",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.5jsBvN3QEO3KwrkT",
               "quantity": 1,
               "name": "Качественная Резная Фигурка / Quality Figurine"
             }
@@ -303,7 +303,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.Tssxg68JMglgH5h3",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Tssxg68JMglgH5h3",
               "quantity": 1,
               "name": "Шедевральная Резкая Фигурка / Superb Figurine"
             }
@@ -339,7 +339,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.MT4KM5z3xsSTW9Jy",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.MT4KM5z3xsSTW9Jy",
               "quantity": "5",
               "name": "Кусок дерева / Wood scraps"
             }

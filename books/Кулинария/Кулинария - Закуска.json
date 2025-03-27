@@ -25,12 +25,12 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.sI41EVMd09U3Gtg4",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sI41EVMd09U3Gtg4",
               "quantity": 1,
               "name": "Редкое Мясо которое имеет иммунитет к урону огнем"
             },
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.PmtzL4TJ5qPhhbiN",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.PmtzL4TJ5qPhhbiN",
               "quantity": 1,
               "name": "Необычное Мясо которое имеет иммунитет к урону огнем"
             }
@@ -144,7 +144,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.m16dGAJbWl0Has0s",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.m16dGAJbWl0Has0s",
               "quantity": 1,
               "name": "Ингредиент собранный с Перевертыша"
             }
@@ -216,7 +216,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.YgNGuJlYjwmzCczl",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.YgNGuJlYjwmzCczl",
               "quantity": 1,
               "name": "Ингредиент собранный с существа имеющие слепое зрение или эхолокацию"
             }

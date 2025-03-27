@@ -85,7 +85,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.CN28125Uz18PPFoW",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.CN28125Uz18PPFoW",
               "quantity": 1,
               "name": "Свиток заклинания: Мелкие фокусы / Prestidigitation"
             }
@@ -141,7 +141,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.2uhI34LXFKkZvQg3",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.2uhI34LXFKkZvQg3",
               "quantity": 1,
               "name": "Свиток заклинания: Малая иллюзия / Minor Illusion"
             }
@@ -151,7 +151,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.11VE4mAfpT7kfCqS",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.11VE4mAfpT7kfCqS",
               "quantity": 1,
               "name": "Шляпа / Hat"
             }
@@ -207,7 +207,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.b4qG7KFx5G8hBclA",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.b4qG7KFx5G8hBclA",
               "quantity": 1,
               "name": "Свиток заклинания: Вкусные ягоды / Goodberry"
             }
@@ -273,7 +273,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.4bD9IpGJ3nDGnU2A",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4bD9IpGJ3nDGnU2A",
               "quantity": 1,
               "name": "Свиток заклинания: Сообщение / Message"
             }
@@ -329,7 +329,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.KGikYYqwCdRAGU7F",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.KGikYYqwCdRAGU7F",
               "quantity": 1,
               "name": "Свиток заклинания: Обнаружение магии / Detect magic"
             }
@@ -385,7 +385,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OZOl1kaltt7Qf7kH",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OZOl1kaltt7Qf7kH",
               "quantity": 1,
               "name": "Свиток заклинания: Волшебная стрела / Magic missile"
             }
@@ -451,7 +451,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.6p8LOvdmbjZ9ccL4",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.6p8LOvdmbjZ9ccL4",
               "quantity": 1,
               "name": "Свиток заклинания: Обнаружение ловушек / Find Traps"
             }
@@ -517,7 +517,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.slIbSrpEipGzaUfq",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.slIbSrpEipGzaUfq",
               "quantity": 1,
               "name": "Свиток заклинания: Паутина / Web"
             }
@@ -593,7 +593,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.ixeJQdE88erSac18",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ixeJQdE88erSac18",
               "quantity": 1,
               "name": "Драгоценный камень (150 зм)"
             }
@@ -649,7 +649,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.8wx2J4x7D4xfG7g9",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.8wx2J4x7D4xfG7g9",
               "quantity": 1,
               "name": "Свиток заклинания: Паралич гуманоида / Hold person"
             }
@@ -659,7 +659,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.tJ0jOG3ucFjPVbZY",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.tJ0jOG3ucFjPVbZY",
               "quantity": 1,
               "name": "Свиток заклинания: Паралич чудовища / Hold Monster"
             }
@@ -715,7 +715,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.pMpNn4ki6D5s8ZE0",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.pMpNn4ki6D5s8ZE0",
               "quantity": 1,
               "name": "Свиток заклинания: Видение невидимого / See Invisibility"
             }
@@ -725,7 +725,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.POxLNwDfBvgNC54e",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.POxLNwDfBvgNC54e",
               "quantity": 1,
               "name": "Свиток заклинания: Истинное видение / True Seeing"
             }
@@ -791,7 +791,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.vYpTa9sd0wD3zL6D",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vYpTa9sd0wD3zL6D",
               "quantity": 1,
               "name": "Свиток заклинания: Ужас / Fear"
             }
@@ -857,7 +857,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.53Sqq4gOcxI3m9Si",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.53Sqq4gOcxI3m9Si",
               "quantity": 1,
               "name": "Свиток заклинания: Огненный шар / Fireball"
             }
@@ -867,7 +867,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.Mpc1AS77nvHJkPLG",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Mpc1AS77nvHJkPLG",
               "quantity": 1,
               "name": "Рубин (500 зм)"
             }
@@ -933,7 +933,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.EFrwRjSyLuyBT46p",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EFrwRjSyLuyBT46p",
               "quantity": 1,
               "name": "Свиток заклинания: Удар молнии / Lightning bolt"
             }
@@ -999,7 +999,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.lM1t96LXKy4V8AVx",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lM1t96LXKy4V8AVx",
               "quantity": 1,
               "name": "Свиток заклинания: Сковывающее проклятие / Binding Curse"
             }
@@ -1075,7 +1075,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.CN28125Uz18PPFoW",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.CN28125Uz18PPFoW",
               "quantity": 1,
               "name": "Свиток заклинания: Мелкие фокусы / Prestidigitation"
             }
@@ -1085,7 +1085,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.AG5NGC7KoWNFN2cB",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.AG5NGC7KoWNFN2cB",
               "quantity": 1,
               "name": "Свиток заклинания: Фейское сияние / Faerie fire"
             }
@@ -1095,7 +1095,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.Sb6xM2jRd2BOEJhp",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Sb6xM2jRd2BOEJhp",
               "quantity": 1,
               "name": "Свиток заклинания: Смрадное облако / Stinking Cloud"
             }
@@ -1105,7 +1105,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.3zmvYN733Ifr1bmO",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3zmvYN733Ifr1bmO",
               "quantity": 1,
               "name": "Свиток заклинания: Тьма / Darkness"
             }
@@ -1115,7 +1115,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.EeujT8xaZCFHkTcK",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EeujT8xaZCFHkTcK",
               "quantity": 1,
               "name": "Свиток заклинания: Увеличение/уменьшение / Enlarge/Reduce"
             }
@@ -1125,7 +1125,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.nIyELgy43O6lvFm0",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.nIyELgy43O6lvFm0",
               "quantity": 1,
               "name": "Свиток заклинания: Невидимость / Invisibility"
             }
@@ -1135,7 +1135,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.EFrwRjSyLuyBT46p",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EFrwRjSyLuyBT46p",
               "quantity": 1,
               "name": "Свиток заклинания: Удар молнии / Lightning bolt"
             }
@@ -1155,7 +1155,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.XSA0aBZXksWJKnIr",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.XSA0aBZXksWJKnIr",
               "quantity": "2",
               "name": "Драгоценный камень (50 зм)"
             }
@@ -1231,7 +1231,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.l2nRsDeueDefan6w",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.l2nRsDeueDefan6w",
               "quantity": 1,
               "name": "Драгоценный камень (300 зм)"
             }
@@ -1297,7 +1297,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.HDkAHulxL0iDAJqR",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.HDkAHulxL0iDAJqR",
               "quantity": 1,
               "name": "Свиток заклинания: Полиморф / Polymorph"
             }
@@ -1373,7 +1373,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.7BVOVAe8jbe4Jjsv",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.7BVOVAe8jbe4Jjsv",
               "quantity": 1,
               "name": "Драгоценный камень (500 зм)"
             }

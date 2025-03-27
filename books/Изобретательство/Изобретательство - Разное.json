@@ -87,7 +87,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.Z9fLKEgLMb1U7JqR",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Z9fLKEgLMb1U7JqR",
               "quantity": 1,
               "name": "Автомагазин для ручного арбалета / Autoloader Hand Crossbow"
             }
@@ -97,7 +97,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.ltALpmFS5TPtXJsY",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ltALpmFS5TPtXJsY",
               "quantity": 1,
               "name": "Автомагазин для тяжелого арбалета / Autoloader Heavy Crossbow"
             }
@@ -107,7 +107,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.cqXj0Pkpp6dQtAtM",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.cqXj0Pkpp6dQtAtM",
               "quantity": 1,
               "name": "Автомазагин для лёгкого арбалета / Autoloader Light Crossbow"
             }

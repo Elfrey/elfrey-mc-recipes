@@ -39,7 +39,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.7udisrW44lvmljrU",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.7udisrW44lvmljrU",
               "quantity": 1,
               "name": "Свиток заклинания: Призыв животных / Conjure Animals"
             }
@@ -115,7 +115,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.bQKUuRKyuaykqk9p",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.bQKUuRKyuaykqk9p",
               "quantity": 1,
               "name": "Свиток заклинания: Приказ / Command"
             }
@@ -125,7 +125,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.KbrGkQjnuH0HcIUF",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.KbrGkQjnuH0HcIUF",
               "quantity": 1,
               "name": "Свиток заклинания: Понимание языков / Comprehend Languages"
             }
@@ -135,7 +135,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.XrXbZDVhhliMIqf4",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.XrXbZDVhhliMIqf4",
               "quantity": 1,
               "name": "Свиток заклинания: Приворот гуманоида / Charm Person"
             }
@@ -201,7 +201,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.4ARGSFvVU6TjWIYj",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4ARGSFvVU6TjWIYj",
               "quantity": 1,
               "name": "Свиток заклинания: Массовое исцеление ран / Mass Cure Wounds"
             }
@@ -211,7 +211,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.lgXJcc9IkCaahsc0",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lgXJcc9IkCaahsc0",
               "quantity": 1,
               "name": "Свиток заклинания: Исцеление ран / Cure Wounds"
             }
@@ -221,7 +221,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.DKGIqjItvkvHl4Xp",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.DKGIqjItvkvHl4Xp",
               "quantity": 1,
               "name": "Свиток заклинания: Низшее восстановление / Lesser Restoration"
             }
@@ -297,7 +297,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.zcUG1QrV7VDsllCg",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.zcUG1QrV7VDsllCg",
               "quantity": 1,
               "name": "Свиток заклинания: Гигантское насекомое / Giant Insect"
             }
@@ -307,7 +307,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.iNkvpQFg2Z8wFVck",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.iNkvpQFg2Z8wFVck",
               "quantity": 1,
               "name": "Свиток заклинания: Рой саранчи / Insect Plague"
             }
@@ -373,7 +373,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.s9JLHtBR1seBzXCG",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.s9JLHtBR1seBzXCG",
               "quantity": 1,
               "name": "Свиток заклинания: Увядание / Blight"
             }
@@ -485,7 +485,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.Mpc1AS77nvHJkPLG",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Mpc1AS77nvHJkPLG",
               "quantity": 1,
               "name": "Рубин (500 зм)"
             }
@@ -495,7 +495,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.trw81mrWYmpskTES",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.trw81mrWYmpskTES",
               "quantity": 1,
               "name": "Свиток заклинания: Пылающие руки / Burning Hands"
             }
@@ -505,7 +505,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.53Sqq4gOcxI3m9Si",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.53Sqq4gOcxI3m9Si",
               "quantity": 1,
               "name": "Свиток заклинания: Огненный шар / Fireball"
             }
@@ -515,7 +515,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.EXOJ6ZuKxi6F7Pnl",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EXOJ6ZuKxi6F7Pnl",
               "quantity": 1,
               "name": "Свиток заклинания: Огненная стена / Wall of Fire"
             }
@@ -591,7 +591,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.fSfqb8Rb9riAb6lD",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.fSfqb8Rb9riAb6lD",
               "quantity": 1,
               "name": "Синий сапфир (500 зм)"
             }
@@ -601,7 +601,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.Cb4CugI9PiVA7I0A",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Cb4CugI9PiVA7I0A",
               "quantity": 1,
               "name": "Свиток заклинания: Конус холода / Cone of cold"
             }
@@ -611,7 +611,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.D8h3JiarnjJrExXa",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.D8h3JiarnjJrExXa",
               "quantity": 1,
               "name": "Свиток заклинания: Облако тумана / Fog Cloud"
             }
@@ -621,7 +621,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.zzaDvs2bsUZ7Sn4L",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.zzaDvs2bsUZ7Sn4L",
               "quantity": 1,
               "name": "Свиток заклинания: Ледяная буря / Ice storm"
             }
@@ -631,7 +631,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.zs6dcKJn2C3Tmdld",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.zs6dcKJn2C3Tmdld",
               "quantity": 1,
               "name": "Свиток заклинания: Стена льда / Wall of Ice"
             }
@@ -707,7 +707,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.Cb4CugI9PiVA7I0A",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Cb4CugI9PiVA7I0A",
               "quantity": 1,
               "name": "Свиток заклинания: Конус холода / Cone of cold"
             }
@@ -717,7 +717,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.53Sqq4gOcxI3m9Si",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.53Sqq4gOcxI3m9Si",
               "quantity": 1,
               "name": "Свиток заклинания: Огненный шар / Fireball"
             }
@@ -727,7 +727,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.JU8FeQcy4OFXzwL2",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.JU8FeQcy4OFXzwL2",
               "quantity": 1,
               "name": "Свиток заклинания: Сфера неуязвимости / Globe of Invulnerability"
             }
@@ -737,7 +737,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.tJ0jOG3ucFjPVbZY",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.tJ0jOG3ucFjPVbZY",
               "quantity": 1,
               "name": "Свиток заклинания: Паралич чудовища / Hold Monster"
             }
@@ -747,7 +747,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.EC0vpVnHyT7Fp0Bb",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EC0vpVnHyT7Fp0Bb",
               "quantity": 1,
               "name": "Свиток заклинания: Левитация / Levitate"
             }
@@ -757,7 +757,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.EFrwRjSyLuyBT46p",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EFrwRjSyLuyBT46p",
               "quantity": 1,
               "name": "Свиток заклинания: Удар молнии / Lightning bolt"
             }
@@ -767,7 +767,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.OZOl1kaltt7Qf7kH",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OZOl1kaltt7Qf7kH",
               "quantity": 1,
               "name": "Свиток заклинания: Волшебная стрела / Magic missile"
             }
@@ -777,7 +777,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.Y53OfEuobldNSekL",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Y53OfEuobldNSekL",
               "quantity": 1,
               "name": "Свиток заклинания: Ослабляющий луч / Ray of Enfeeblement"
             }
@@ -787,7 +787,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.dWh83avBJqiTaBJv",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.dWh83avBJqiTaBJv",
               "quantity": 1,
               "name": "Свиток заклинания: Силовая стена / Wall of Force"
             }
@@ -889,7 +889,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.EFrwRjSyLuyBT46p",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EFrwRjSyLuyBT46p",
               "quantity": 1,
               "name": "Свиток заклинания: Удар молнии / Lightning bolt"
             }
@@ -899,7 +899,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.MH2oE9tjZKoV0qBY",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.MH2oE9tjZKoV0qBY",
               "quantity": 1,
               "name": "Свиток заклинания: Громовой импульс / Thunder Pulse"
             }

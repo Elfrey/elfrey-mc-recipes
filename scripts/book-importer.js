@@ -13,7 +13,7 @@ function generateIdFromName(name) {
     // Convert hash to base36 and take last 16 characters
     const positiveHash = Math.abs(hash);
     const base36 = positiveHash.toString(36);
-    
+
     // Pad with zeros if needed to ensure 16 characters
     const padded = '0'.repeat(16) + base36;
     return padded.slice(-16);
@@ -25,17 +25,28 @@ class BookImporter extends FormApplication {
             id: `${MODULE_ID}-book-importer`,
             title: game.i18n.localize("emcr.dialog.title"),
             template: `modules/${MODULE_ID}/templates/book-selector.html`,
-            width: 890,
+            width: 670,
             height: 640,
             closeOnSubmit: false,
             resizable: true,
-            tabs: [{ navSelector: ".emcr-tabs", contentSelector: ".emcr-content", initial: "all" }]
+            tabs: [{navSelector: ".emcr-tabs", contentSelector: ".emcr-content", initial: "all"}]
         });
     }
 
     constructor(options = {}) {
         super(options);
         this.books = [];
+    }
+
+    _removeCircularRefs(obj, seen = new WeakSet()) {
+        if (typeof obj === 'object' && obj !== null) {
+            if (seen.has(obj)) return;
+            seen.add(obj);
+            for (const key of Object.keys(obj)) {
+                obj[key] = this._removeCircularRefs(obj[key], seen);
+            }
+        }
+        return obj;
     }
 
     async getData(options = {}) {
@@ -56,9 +67,9 @@ class BookImporter extends FormApplication {
         try {
             const response = await fetch(`modules/${MODULE_ID}/books/index.json`);
             const bookIndex = await response.json();
-            
+
             this.books = [];
-            
+
             for (const [category, paths] of Object.entries(bookIndex)) {
                 for (const path of paths) {
                     const response = await fetch(`modules/${MODULE_ID}/books/${path}`);
@@ -85,7 +96,7 @@ class BookImporter extends FormApplication {
             // Remove active class from all tabs and contents
             html.find('.emcr-tab-item').removeClass('active');
             html.find('.emcr-tab-content').removeClass('active');
-            
+
             // Add active class to clicked tab and corresponding content
             const tab = ev.currentTarget.dataset.tab;
             ev.currentTarget.classList.add('active');
@@ -93,7 +104,6 @@ class BookImporter extends FormApplication {
         });
 
         html.find('.emcr-book-checkbox').on('change', this._onToggleBook.bind(this));
-        html.find('.emcr-dont-show').on('change', this._onToggleShow.bind(this));
         html.find('.emcr-import-button').click(this._onImport.bind(this));
         html.find('.emcr-book-checkbox').on('change', this._onToggleBook.bind(this));
     }
@@ -107,10 +117,6 @@ class BookImporter extends FormApplication {
         }
     }
 
-    _onToggleShow(event) {
-        const showDialog = !event.currentTarget.checked;
-        game.settings.set(MODULE_ID, 'showDialog', showDialog);
-    }
 
     async _onImport(event) {
         event.preventDefault();
@@ -122,27 +128,33 @@ class BookImporter extends FormApplication {
         }
 
         try {
-            let recipeBooks = game.settings.get('mastercrafted', 'recipeBooks') || [];
+            let recipeBooks = game.settings.get(MASTERCRAFTED_MODULE_ID, 'recipeBooks') || [];
+            const RecipeBook = ui.RecipeApp.RecipeBook;
 
             for (const book of selectedBooks) {
                 const existingBookIndex = recipeBooks.findIndex(b => b.name === book.name);
-                
+                const {
+                    category, documentName, enabled, path, id, ...restBook
+                } = book;
+                const newBook = new RecipeBook({
+                    ...restBook,
+                    id: id ? id : foundry.utils.randomID(),
+                });
+                const newBookParsed = this._removeCircularRefs(newBook);
+
                 if (existingBookIndex !== -1) {
                     recipeBooks[existingBookIndex] = {
-                        ...recipeBooks[existingBookIndex],
-                        ...book,
-                        recipes: book.recipes,
-                        id: foundry.utils.randomID()
+                        ...newBookParsed
                     };
                     ui.notifications.info(game.i18n.format("emcr.notifications.updateSuccess", {name: book.name}));
                 } else {
-                    recipeBooks.push(book);
+                    recipeBooks.push(newBookParsed);
                     ui.notifications.info(game.i18n.format("emcr.notifications.importSuccess", {name: book.name}));
                 }
             }
 
-            await game.settings.set('mastercrafted', 'recipeBooks', recipeBooks);
-            
+            await game.settings.set(MASTERCRAFTED_MODULE_ID, 'recipeBooks', recipeBooks);
+
         } catch (error) {
             console.error('Error importing books:', error);
             ui.notifications.error(game.i18n.localize("emcr.notifications.loadFailed"));
@@ -152,4 +164,4 @@ class BookImporter extends FormApplication {
     }
 }
 
-export { BookImporter }; 
+export {BookImporter};

@@ -39,7 +39,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.fRiqZGmvVvS7Fg7m",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.fRiqZGmvVvS7Fg7m",
               "quantity": 1,
               "name": "Лодка"
             }
@@ -135,7 +135,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.1f7BmmNZIsrRhax8",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.1f7BmmNZIsrRhax8",
               "quantity": 1,
               "name": "Повозка / Cart"
             }
@@ -147,7 +147,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.jZkWkDzHMBAGj4JQ",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.jZkWkDzHMBAGj4JQ",
               "quantity": 1,
               "name": "Складная Повозка / Folding Cart"
             }

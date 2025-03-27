@@ -505,7 +505,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.UspLCsXwwTMpKGk2",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.UspLCsXwwTMpKGk2",
               "quantity": 1,
               "name": "Заводной таймер / Windup Timer"
             }
@@ -551,7 +551,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.lLaQCderCbAkHMft",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lLaQCderCbAkHMft",
               "quantity": 1,
               "name": "Заводная игрушка / Clockwork Toy"
             }
@@ -617,7 +617,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.YriflOI2pXIm5A6D",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.YriflOI2pXIm5A6D",
               "quantity": 1,
               "name": "Часы / Watch"
             }
@@ -719,7 +719,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.oOuBecIMBbTpglcg",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.oOuBecIMBbTpglcg",
               "quantity": 1,
               "name": "Дрель / Drill"
             }

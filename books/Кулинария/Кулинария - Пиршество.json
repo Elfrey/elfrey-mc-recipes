@@ -35,7 +35,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.XJyfVKQfgL2wetlg",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.XJyfVKQfgL2wetlg",
               "quantity": 1,
               "name": "Обычный свежий ингредиент"
             }
@@ -97,7 +97,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.oBmw2d3kRx9tkgns",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.oBmw2d3kRx9tkgns",
               "quantity": 1,
               "name": "Необычный свежий ингредиент"
             }
@@ -201,7 +201,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.qLmOuBjvSo2NBSJz",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.qLmOuBjvSo2NBSJz",
               "quantity": 1,
               "name": "Необычное Мясо от существа которое наносит урон ядом"
             }
@@ -273,7 +273,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.sknXwexy0RCoXJOX",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sknXwexy0RCoXJOX",
               "quantity": 1,
               "name": "Необычное мясо, чья скорость плаванья больше чем ходьбы"
             }
@@ -335,7 +335,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.pFGtTrvRdXUFoEZ3",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.pFGtTrvRdXUFoEZ3",
               "quantity": 1,
               "name": "редкий свежий ингредиент"
             }
@@ -509,7 +509,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.3wxm6RLZMOYO5lXw",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3wxm6RLZMOYO5lXw",
               "quantity": 1,
               "name": "Редкое мясо от существа с сопротивлением к элементу или иммунитетом"
             }
@@ -673,7 +673,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.jpFqZDQPN1gk1uva",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.jpFqZDQPN1gk1uva",
               "quantity": 1,
               "name": "Очень редкий свежий ингредиент"
             }
@@ -949,7 +949,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.HJNcuF4vfeAFhd7b",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.HJNcuF4vfeAFhd7b",
               "quantity": 1,
               "name": "Легендарный свежий ингредиент"
             }

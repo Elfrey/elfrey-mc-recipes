@@ -85,7 +85,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.KbrGkQjnuH0HcIUF",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.KbrGkQjnuH0HcIUF",
               "quantity": 1,
               "name": "Свиток заклинания: Понимание языков / Comprehend Languages"
             }
@@ -141,7 +141,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.3kaWGynGo3OK302o",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3kaWGynGo3OK302o",
               "quantity": 1,
               "name": "Свиток заклинания: Обнаружение мыслей / Detect Thoughts"
             }
@@ -197,7 +197,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.3oUsGGOT3Sc6NDoV",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3oUsGGOT3Sc6NDoV",
               "quantity": 1,
               "name": "Свиток заклинания: Щит / Shield"
             }
@@ -253,7 +253,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.EC0vpVnHyT7Fp0Bb",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EC0vpVnHyT7Fp0Bb",
               "quantity": 1,
               "name": "Свиток заклинания: Левитация / Levitate"
             }
@@ -309,7 +309,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.a0lkZGzBbqcfN11U",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
               "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
             }
@@ -365,7 +365,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.uANq35lqoZcUyOhz",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.uANq35lqoZcUyOhz",
               "quantity": 1,
               "name": "Свиток заклинания: Касание вампира / Vampiric Touch"
             }
@@ -487,7 +487,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.4PZsRjg8vk7h44S3",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4PZsRjg8vk7h44S3",
               "quantity": 1,
               "name": "Свиток заклинания: Дверь в пространстве / Dimension Door"
             }
@@ -543,7 +543,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.pdGu4rtCSItFCoFM",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.pdGu4rtCSItFCoFM",
               "quantity": 1,
               "name": "Свиток заклинания: Ускорение / Haste"
             }
@@ -609,7 +609,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.mNXMDHLoOWGp6Sz6",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.mNXMDHLoOWGp6Sz6",
               "quantity": 1,
               "name": "Свиток заклинания: Полноценный образ / Major Image"
             }
@@ -619,7 +619,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.Ultb03b1nvwMAiaC",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Ultb03b1nvwMAiaC",
               "quantity": 1,
               "name": "Свиток заклинания: Творение / Creation"
             }
@@ -695,7 +695,7 @@
           "name": null,
           "components": [
             {
-              "uuid": "Compendium.mm-recepty.mmr-ignridienty.Item.n0WjbbjpHAAKRaXQ",
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.n0WjbbjpHAAKRaXQ",
               "quantity": 1,
               "name": "Свиток заклинания: Остановка времени / Time Stop"
             }
