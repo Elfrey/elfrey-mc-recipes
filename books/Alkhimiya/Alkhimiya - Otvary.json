@@ -1,0 +1,550 @@
+{
+  "name": "Алхимия - Отвары",
+  "description": "",
+  "ownership": {
+    "ku28rw7jRukQFKqJ": "1",
+    "XmsJK11v2DlpvsUU": "1",
+    "u2xZq7cRGkZUX1eF": "1",
+    "qg6cjbHqRTCejSCi": "1",
+    "ApTChzA7uOsk0BHP": "1"
+  },
+  "tools": "Инструменты алхимика / Alchemist's Supplies",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Алхимическая кислотаᵏ",
+      "time": 120,
+      "macroName": "Craft|13",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
+              "quantity": "2",
+              "name": "Обычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
+              "quantity": "1",
+              "name": "Обычный Ядовитый Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
+              "quantity": "1",
+              "name": "Стеклянная Колба"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.pHRenwieHMl3fbQ4",
+              "quantity": 1,
+              "name": "Алхимическая Кислота"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-conical-bubbling-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Алхимический огоньᵏ",
+      "time": 120,
+      "macroName": "Craft|13",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
+              "quantity": "1",
+              "name": "Стеклянная Колба"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.17PBLoPMIUMTJx7K",
+              "quantity": "3",
+              "name": "Обычный Реактивный Реагент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.yAuVeXpGwL9mIhf7",
+              "quantity": 1,
+              "name": "Алхимический Огонь"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-round-corked-yellow.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Алхимический напалмᵏ",
+      "time": 120,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.leJAbEhrPXbNXosC",
+              "quantity": "1",
+              "name": "Обычный Лечебный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
+              "quantity": "1",
+              "name": "Стеклянная Колба"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.17PBLoPMIUMTJx7K",
+              "quantity": "3",
+              "name": "Обычный Реактивный Реагент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.TJgNDjhvDVjC1cNd",
+              "quantity": 1,
+              "name": "Алхимический Напалм"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-metal-yellow-gray.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Ветер в бутылкеᵏ",
+      "time": 120,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
+              "quantity": "2",
+              "name": "Обычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
+              "quantity": "1",
+              "name": "Стеклянная Колба"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.xOB8gYfIjyQFcMWr",
+              "quantity": 1,
+              "name": "Ветер в Бутылке"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/bottle-corked-empty.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Средняя алхимическая кислотаᵏ",
+      "time": 120,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
+              "quantity": "2",
+              "name": "Необычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
+              "quantity": "1",
+              "name": "Необычный Ядовитый Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
+              "quantity": "1",
+              "name": "Стеклянная Колба"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.bxMnIpcD8MxX5S7S",
+              "quantity": 1,
+              "name": "Средняя Алхимическая Кислота"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-bottle-corked-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Средний алхимический огоньᵏ",
+      "time": 120,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
+              "quantity": "3",
+              "name": "Необычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
+              "quantity": "1",
+              "name": "Стеклянная Колба"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lbsOy4SVUZsvXY42",
+              "quantity": 1,
+              "name": "Средний Алхимический Огонь"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-jar-corked-orange.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Бутылка липкой слизиᵏ",
+      "time": 120,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
+              "quantity": "1",
+              "name": "Необычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
+              "quantity": "1",
+              "name": "Стеклянная Колба"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.AKWDG56NdLlh5sPR",
+              "quantity": "2",
+              "name": "Необычный Ядовитый Реагент"
+            },
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.slIbSrpEipGzaUfq",
+              "quantity": 1,
+              "name": "Свиток заклинания: Паутина / Web"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.7hzYtORJcqLN9IlL",
+              "quantity": 1,
+              "name": "Бутылка липкой слизи"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-round-corked-glowing-green.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Мощная алхимическая кислотаᵏ",
+      "time": 120,
+      "macroName": "Craft|17",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
+              "quantity": "2",
+              "name": "Редкий Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
+              "quantity": "1",
+              "name": "Редкий Ядовитый Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
+              "quantity": "1",
+              "name": "Стеклянная Колба"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.DvfWAc5nYKgiV0KQ",
+              "quantity": 1,
+              "name": "Мощная Алхимическая Кислота"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-bottle-fumes-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Мощный алхимический огоньᵏ",
+      "time": 120,
+      "macroName": "Craft|17",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
+              "quantity": "1",
+              "name": "Стеклянная Колба"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.xTfhJGsI7x1WotjZ",
+              "quantity": "3",
+              "name": "Редкий Реактивный Реагент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.S3H2p7ClTFNmH7HV",
+              "quantity": 1,
+              "name": "Мощный Алхимический Огонь"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-flask-corked-orange.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Жидкая Молнияᵈˢ",
+      "time": 120,
+      "macroName": "Craft|18",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "1",
+              "name": "Необычная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
+              "quantity": "1",
+              "name": "Стеклянный Флакон"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.xTfhJGsI7x1WotjZ",
+              "quantity": "2",
+              "name": "Редкий Реактивный Реагент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.vnUMqneAx6c1V0ti",
+              "quantity": 1,
+              "name": "Жидкая Молния"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-flash-open-blue.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    }
+  ],
+  "img": "icons/consumables/potions/potion-flash-open-blue.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

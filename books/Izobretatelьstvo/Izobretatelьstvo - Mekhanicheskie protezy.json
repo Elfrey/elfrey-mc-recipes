@@ -1,0 +1,409 @@
+{
+  "name": "Изобретательство - Механические протезы",
+  "description": "",
+  "ownership": {},
+  "tools": "Инструменты механика / Tinker's Tools",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Базовый протез ноги",
+      "time": 240,
+      "macroName": "Craft|10",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "1",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "8",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.mWR1I6PFnqGNvKNq",
+              "quantity": 1,
+              "name": "Базовый протез ноги"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/feet/boots-armored-banded-steel.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Механическая рука",
+      "time": 480,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "4",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
+              "quantity": "1",
+              "name": "Обычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "6",
+              "name": "Металлолом"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
+              "quantity": "2",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JuFGwy4dczs9UOy0",
+              "quantity": 1,
+              "name": "Механическая рука"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/hand/gauntlet-tooled-steel.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Механическая нога",
+      "time": 480,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "4",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
+              "quantity": "1",
+              "name": "Обычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "8",
+              "name": "Металлолом"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
+              "quantity": "2",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.XBOLKPEjmUqF7VIg",
+              "quantity": 1,
+              "name": "Механическая нога"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/feet/boots-armored-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Боевая рука",
+      "time": 480,
+      "macroName": "Craft|15",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "1 одноручное рукопашное оружие",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "4",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
+              "quantity": "1",
+              "name": "Экзотические Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "8",
+              "name": "Металлолом"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
+              "quantity": "2",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.BeKidZp7UuK8s7fU",
+              "quantity": 1,
+              "name": "Боевая рука"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/hand/gauntlet-studded-steel-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Специализированная механическая рука",
+      "time": 480,
+      "macroName": "Craft|15",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "1 инструменты на ваш выбор",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
+              "quantity": "1",
+              "name": "Экзотические Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
+              "quantity": "1",
+              "name": "Обычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.YN1Af9CjpThY5jlZ",
+              "quantity": 1,
+              "name": "Инструменты механика / Tinker's Tools"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "6",
+              "name": "Металлолом"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
+              "quantity": "4",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Ylf4iufRn7VPValn",
+              "quantity": 1,
+              "name": "Специализированная механическая рука"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/hand/gauntlet-armored-steel-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Подпружиненная нога",
+      "time": 480,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "4",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
+              "quantity": "2",
+              "name": "Экзотические Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
+              "quantity": "1",
+              "name": "Обычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": "8",
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Odjp4tEtFDKDqau1",
+              "quantity": 1,
+              "name": "Подпружиненная нога"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/feet/boots-armored-brass.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/equipment/feet/boots-armored-brass.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

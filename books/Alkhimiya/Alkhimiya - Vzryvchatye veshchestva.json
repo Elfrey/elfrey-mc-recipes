@@ -1,0 +1,393 @@
+{
+  "name": "Алхимия - Взрывчатые вещества",
+  "description": "",
+  "ownership": {
+    "ku28rw7jRukQFKqJ": "1",
+    "XmsJK11v2DlpvsUU": "1",
+    "u2xZq7cRGkZUX1eF": "1",
+    "qg6cjbHqRTCejSCi": "1",
+    "ApTChzA7uOsk0BHP": "1"
+  },
+  "tools": "Инструменты алхимика / Alchemist's Supplies",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Дварфийский алкоголь",
+      "time": 480,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
+              "quantity": "1",
+              "name": "Обычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.jdICB4DHiOB9haqe",
+              "quantity": 1,
+              "name": "Фляга алкоголя"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Jumj90miiwA61k9m",
+              "quantity": 1,
+              "name": "Прочная металлическая колба"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.c7L6dAMMhTowrv2J",
+              "quantity": 1,
+              "name": "Дварфийский алкоголь"
+            }
+          ]
+        }
+      ],
+      "img": "icons/skills/ranged/bomb-grenade-thrown-yellow.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Мешочек взрывчатого порошка",
+      "time": 120,
+      "macroName": "Craft|14",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
+              "quantity": "2",
+              "name": "Обычный Реактивный Реагент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.pcDyeOO3tzZQ9XZr",
+              "quantity": 1,
+              "name": "Взрывной порошок / Blasting Powder"
+            }
+          ]
+        }
+      ],
+      "img": "icons/containers/bags/sack-leather-red.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Дымовой порошок",
+      "time": 120,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
+              "quantity": "2",
+              "name": "Обычный Реактивный Реагент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aDqzuW4l0uOpOa8o",
+              "quantity": 1,
+              "name": "Дымовой порошок"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/materials/powder-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Простая взрывчатка",
+      "time": 120,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
+              "quantity": "1",
+              "name": "Обычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.pcDyeOO3tzZQ9XZr",
+              "quantity": "2",
+              "name": "Взрывной порошок / Blasting Powder"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ERgQReIhCxZFQ9AV",
+              "quantity": 1,
+              "name": "Простая Взрывчатка"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/tech/detonator-radio.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Корпус гранаты",
+      "time": 240,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "2",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
+              "quantity": "1",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
+              "quantity": "1",
+              "name": "Стеклянная Колба"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.23NT9sUMvFAz08lO",
+              "quantity": 1,
+              "name": "Корпус Гранаты"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/tech/fuse-copper.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Средняя взрывчатка",
+      "time": 120,
+      "macroName": "Craft|17",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
+              "quantity": "1",
+              "name": "Обычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.pcDyeOO3tzZQ9XZr",
+              "quantity": "4",
+              "name": "Взрывной порошок / Blasting Powder"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.d9cJ0hW1AfHHOycw",
+              "quantity": 1,
+              "name": "Средняя Взрывчатка"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/tech/detonator-radio.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Гвоздевая бомба",
+      "time": 120,
+      "macroName": "Craft|17",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "3",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.8VDj01mqzoLtj7ef",
+              "quantity": "2",
+              "name": "Необычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.pcDyeOO3tzZQ9XZr",
+              "quantity": 1,
+              "name": "Взрывной порошок / Blasting Powder"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZO7uQnP4WExaQ2zb",
+              "quantity": 1,
+              "name": "Гвоздевая бомба"
+            }
+          ]
+        }
+      ],
+      "img": "icons/skills/ranged/bomb-grenade-thrown-stars-orange.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Мощная взрывчатка",
+      "time": 240,
+      "macroName": "Craft|19",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.pcDyeOO3tzZQ9XZr",
+              "quantity": "8",
+              "name": "Взрывной порошок / Blasting Powder"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.u16rkZxLruF2kc9l",
+              "quantity": 1,
+              "name": "Мощная Взрывчатка"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/tech/detonator-radio.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/containers/bags/sack-leather-red.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

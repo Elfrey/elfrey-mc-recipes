@@ -1,0 +1,1035 @@
+{
+  "name": "Кулинария - Пиршество",
+  "description": "",
+  "ownership": {
+    "ku28rw7jRukQFKqJ": "2",
+    "XmsJK11v2DlpvsUU": "2",
+    "u2xZq7cRGkZUX1eF": "2",
+    "qg6cjbHqRTCejSCi": "2",
+    "ApTChzA7uOsk0BHP": "2"
+  },
+  "tools": "Инструменты повара, Инструменты повара / Cook's Utensils, Инструменты повара дворфов / Cook's Utensils",
+  "ingredientsInspection": "2",
+  "productInspection": "2",
+  "recipes": [
+    {
+      "name": "Обычный Пир",
+      "time": 60,
+      "macroName": "Craft|8",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.O3WXOpln1gnScZkg",
+              "quantity": 1,
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.XJyfVKQfgL2wetlg",
+              "quantity": 1,
+              "name": "Обычный свежий ингредиент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.VlodWhBmmflVmosY",
+              "quantity": 1,
+              "name": "Обычный пир"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/bowl-stew-brown.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "1",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Улучшенный пир",
+      "time": 120,
+      "macroName": "Craft|8",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.lLcNNpjGKKYhZTpV",
+              "quantity": 1,
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.O3WXOpln1gnScZkg",
+              "quantity": "2",
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.oBmw2d3kRx9tkgns",
+              "quantity": 1,
+              "name": "Необычный свежий ингредиент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.1QkSumPZvlgUcQ9F",
+              "quantity": 1,
+              "name": "Улучшенный пир"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/bowl-stew-tofu-potato-red.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "1",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Мясной пир",
+      "time": 120,
+      "macroName": "Craft|14",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.4Jyo5YRpe4LDzoBQ",
+              "quantity": 1,
+              "name": "Необычное Мясо"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.lLcNNpjGKKYhZTpV",
+              "quantity": 1,
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.O3WXOpln1gnScZkg",
+              "quantity": "2",
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.wewmvVyQfC6ikSPd",
+              "quantity": 1,
+              "name": "Обычный мясной пир"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/cooked-chicken-turkey-leg-brown.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "1",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Всё что не убивает тебя...",
+      "time": 120,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.qLmOuBjvSo2NBSJz",
+              "quantity": 1,
+              "name": "Необычное Мясо от существа которое наносит урон ядом"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.AKWDG56NdLlh5sPR",
+              "quantity": "2",
+              "name": "Необычный Ядовитый Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.lLcNNpjGKKYhZTpV",
+              "quantity": 1,
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.O3WXOpln1gnScZkg",
+              "quantity": "2",
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.KZ912pklrGU9aRzb",
+              "quantity": 1,
+              "name": "Всё что не убивает тебя..."
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/skewer-bug-insect-worm-purple.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "1",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Морской Балбес",
+      "time": 120,
+      "macroName": "Craft|12",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sknXwexy0RCoXJOX",
+              "quantity": 1,
+              "name": "Необычное мясо, чья скорость плаванья больше чем ходьбы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
+              "quantity": "2",
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
+              "quantity": "2",
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.UQqidLMRh6rakiws",
+              "quantity": 1,
+              "name": "Морской балбес"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/soup-broth-bowl-tentacle.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "1",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Чудесный пир",
+      "time": 120,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.pFGtTrvRdXUFoEZ3",
+              "quantity": 1,
+              "name": "редкий свежий ингредиент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
+              "quantity": 1,
+              "name": "Необычный Лечебный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
+              "quantity": 1,
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
+              "quantity": "2",
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.ATiaFo0Z9qGXuEru",
+              "quantity": 1,
+              "name": "Чудесный пир"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/plate-fish-grilled-brown.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "1",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Сытный Мясной пир",
+      "time": 120,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.wL4UgfZb9ndS7J2L",
+              "quantity": 1,
+              "name": "Редкое Мясо"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
+              "quantity": 1,
+              "name": "Необычный Лечебный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
+              "quantity": 1,
+              "name": "Редкие расходные материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
+              "quantity": 1,
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
+              "quantity": "2",
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.CfoKzB8RuFxviTOb",
+              "quantity": 1,
+              "name": "Сытный мясной пир"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/chicken-bird-cooked.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Элементальный пир",
+      "time": 120,
+      "macroName": "Craft|16",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3wxm6RLZMOYO5lXw",
+              "quantity": 1,
+              "name": "Редкое мясо от существа с сопротивлением к элементу или иммунитетом"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
+              "quantity": "2",
+              "name": "Необычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
+              "quantity": 1,
+              "name": "Обычная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
+              "quantity": "2",
+              "name": "Редкие расходные материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
+              "quantity": "2",
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
+              "quantity": "2",
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.UXmu3RH97uSblmZl",
+              "quantity": 1,
+              "name": "Элементальный пир"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/berries-cream-bowl-mint-red.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Пир Героев",
+      "time": 240,
+      "macroName": "Craft|18",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.t3ON4hhqI8q1BjAT",
+              "quantity": "4",
+              "name": "Редкий Лечебный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
+              "quantity": "2",
+              "name": "Необычная Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
+              "quantity": "4",
+              "name": "Редкие расходные материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
+              "quantity": "4",
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.bDyOlgojWZPMOLH0",
+              "quantity": 1,
+              "name": "Пир Героев"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/plate-lobster-red.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Суперский пир",
+      "time": 240,
+      "macroName": "Craft|18",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.jpFqZDQPN1gk1uva",
+              "quantity": 1,
+              "name": "Очень редкий свежий ингредиент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.t3ON4hhqI8q1BjAT",
+              "quantity": 1,
+              "name": "Редкий Лечебный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
+              "quantity": 1,
+              "name": "Редкий Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.lLcNNpjGKKYhZTpV",
+              "quantity": "2",
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.pyw3iCztJeEMwOSX",
+              "quantity": "2",
+              "name": "Редкие расходные материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.O3WXOpln1gnScZkg",
+              "quantity": "2",
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.QFmTAdfj8FvC9qvp",
+              "quantity": 1,
+              "name": "Отличный пир"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/plate-steak-grilled-brown-green.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Суперский Мясной пир",
+      "time": 240,
+      "macroName": "Craft|18",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.Oqw2hrM1DIbvmqrI",
+              "quantity": 1,
+              "name": "Очень Редкое Мясо"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.t3ON4hhqI8q1BjAT",
+              "quantity": 1,
+              "name": "Редкий Лечебный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
+              "quantity": 1,
+              "name": "Редкий Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
+              "quantity": "2",
+              "name": "Редкие расходные материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
+              "quantity": "2",
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
+              "quantity": "2",
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.CfoKzB8RuFxviTOb",
+              "quantity": 1,
+              "name": "Сытный мясной пир"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/chicken-bird-cooked.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Легендарный Мясной пир",
+      "time": 360,
+      "macroName": "Craft|20",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lmeA6IXdcsZuIKwN",
+              "quantity": 1,
+              "name": "Легендарное Мясо"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lKj6NlZtvZiS2MQl",
+              "quantity": 1,
+              "name": "Очень Редкий Реактивный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.SMplSIkHRu0GWtii",
+              "quantity": 1,
+              "name": "Очень Редкий Лечебный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.FSHhU2kc6pgDLAf9",
+              "quantity": 1,
+              "name": "Очень Редкий Ядовитый Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
+              "quantity": "3",
+              "name": "Редкие расходные материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
+              "quantity": "3",
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
+              "quantity": 1,
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.nPEVwZ35ivH3qyRb",
+              "quantity": 1,
+              "name": "Легендарный мясной пир"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/bowl-ribs-meat-rice-mash-brown-white.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Легендарный пир",
+      "time": 360,
+      "macroName": "Craft|20",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.HJNcuF4vfeAFhd7b",
+              "quantity": 1,
+              "name": "Легендарный свежий ингредиент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lKj6NlZtvZiS2MQl",
+              "quantity": 1,
+              "name": "Очень Редкий Реактивный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.SMplSIkHRu0GWtii",
+              "quantity": 1,
+              "name": "Очень Редкий Лечебный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.FSHhU2kc6pgDLAf9",
+              "quantity": 1,
+              "name": "Очень Редкий Ядовитый Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
+              "quantity": "3",
+              "name": "Редкие расходные материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
+              "quantity": "3",
+              "name": "Необычные Расходные Материалы"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
+              "quantity": 1,
+              "name": "Обычные Расходные Материалы"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.zg2stKXY90jGyQjr",
+              "quantity": 1,
+              "name": "Легендарный пир"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/food/soup-tentacle-blue-yellow.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    }
+  ],
+  "img": "icons/consumables/food/plate-steak-grilled-brown-green.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

@@ -1,0 +1,417 @@
+{
+  "name": "Алхимия - Масла",
+  "description": "",
+  "ownership": {
+    "ku28rw7jRukQFKqJ": "1",
+    "XmsJK11v2DlpvsUU": "1",
+    "u2xZq7cRGkZUX1eF": "1",
+    "qg6cjbHqRTCejSCi": "1",
+    "ApTChzA7uOsk0BHP": "1"
+  },
+  "tools": "Инструменты алхимика / Alchemist's Supplies",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Пылающее Маслоᵏ",
+      "time": 120,
+      "macroName": "Craft|13",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
+              "quantity": "1",
+              "name": "Стеклянный Флакон"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.17PBLoPMIUMTJx7K",
+              "quantity": "2",
+              "name": "Обычный Реактивный Реагент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.HpzceYVAbiGmTsg2",
+              "quantity": 1,
+              "name": "Пылающее масло"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/plants/tearthumb-dried-halberd-leaf-brown.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Ледяное Маслоᵏ",
+      "time": 120,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
+              "quantity": "1",
+              "name": "Обычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
+              "quantity": "1",
+              "name": "Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
+              "quantity": "1",
+              "name": "Стеклянный Флакон"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.H5JqgcweudEqxsMG",
+              "quantity": 1,
+              "name": "Ледяное масло"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/plants/leaf-broad-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Серебряное Маслоᵏ",
+      "time": 120,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
+              "quantity": "1",
+              "name": "Обычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
+              "quantity": "1",
+              "name": "Стеклянный Флакон"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OPRBZh6a8qdoPl3C",
+              "quantity": "4",
+              "name": "Кусочек серебра"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.vKyY6yjhDkG5XojX",
+              "quantity": 1,
+              "name": "Серебряное масло"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/plants/leaf-hastate-white-green.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Масло Языка Пламениᵏ",
+      "time": 120,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
+              "quantity": "1",
+              "name": "Обычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.8VDj01mqzoLtj7ef",
+              "quantity": "2",
+              "name": "Необычный Реактивный Реагент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.iOxJFyAixH3dG0nU",
+              "quantity": 1,
+              "name": "Масло Языка Пламени"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/plants/flax-leaves-spiked-bundle-orange.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Масло ускользания ▲",
+      "time": 120,
+      "macroName": "Craft|14",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
+              "quantity": "1",
+              "name": "Стеклянный Флакон"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.8VDj01mqzoLtj7ef",
+              "quantity": "2",
+              "name": "Необычный Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.17PBLoPMIUMTJx7K",
+              "quantity": "2",
+              "name": "Обычный Реактивный Реагент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.kwg0UMBf853PGxuY",
+              "quantity": 1,
+              "name": "Масло скольжения / Oil of Slipperiness"
+            }
+          ]
+        }
+      ],
+      "img": "icons/tools/laboratory/bowl-liquid-black.webp",
+      "sound": "",
+      "ownership": {
+        "ku28rw7jRukQFKqJ": "0",
+        "XmsJK11v2DlpvsUU": "0",
+        "u2xZq7cRGkZUX1eF": "0",
+        "qg6cjbHqRTCejSCi": "0",
+        "ApTChzA7uOsk0BHP": "0"
+      }
+    },
+    {
+      "name": "Масло эфирности ▲",
+      "time": 240,
+      "macroName": "Craft|17",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
+              "quantity": "1",
+              "name": "Редкий Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "1",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
+              "quantity": "1",
+              "name": "Необычная Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
+              "quantity": "1",
+              "name": "Стеклянный Флакон"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.8VDj01mqzoLtj7ef",
+              "quantity": "2",
+              "name": "Необычный Реактивный Реагент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.vhoLALvyurMqpMSA",
+              "quantity": 1,
+              "name": "Масло эфирности / Oil of Etherealness"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Oil%20of%20Etherealness.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Масло Остроты",
+      "time": 240,
+      "macroName": "Craft|19",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
+              "quantity": "1",
+              "name": "Редкий Ядовитый Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.lKj6NlZtvZiS2MQl",
+              "quantity": "2",
+              "name": "Очень Редкий Реактивный Реагент"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
+              "quantity": "1",
+              "name": "Хрустальный Флакон"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.YhZ9ugSgydHXhvxd",
+              "quantity": 1,
+              "name": "Масло остроты / Oil of Sharpness"
+            }
+          ]
+        }
+      ],
+      "img": "icons/consumables/potions/potion-tube-corked-bat-gold-red.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/consumables/potions/potion-tube-corked-bat-gold-red.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

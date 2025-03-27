@@ -1,0 +1,250 @@
+{
+  "name": "Зачарование - Магические мануалы и тома",
+  "description": "",
+  "ownership": {},
+  "tools": "",
+  "ingredientsInspection": 0,
+  "productInspection": 0,
+  "recipes": [
+    {
+      "name": "Справочник телесного здоровья",
+      "time": 24300,
+      "macroName": "Craft|21",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
+              "quantity": "1",
+              "name": "Легендарная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
+              "quantity": "1",
+              "name": "Легендарная Божественная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [],
+      "img": "icons/sundries/documents/document-bound-white-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Справочник полезных упражнений",
+      "time": 24300,
+      "macroName": "Craft|21",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
+              "quantity": "2",
+              "name": "Легендарная Первичная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [],
+      "img": "icons/sundries/documents/document-bound-white-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Справочник по големам*",
+      "time": 14580,
+      "macroName": "Craft|19",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
+              "quantity": "2",
+              "name": "Очень Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
+              "quantity": "1",
+              "name": "Редкая Божественная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [],
+      "img": "icons/sundries/documents/document-bound-white-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Справочник быстроты действий",
+      "time": 24300,
+      "macroName": "Craft|21",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
+              "quantity": "1",
+              "name": "Легендарная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
+              "quantity": "1",
+              "name": "Легендарная Божественная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [],
+      "img": "icons/sundries/documents/document-bound-white-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Том чистых мыслей",
+      "time": 24300,
+      "macroName": "Craft|21",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
+              "quantity": "2",
+              "name": "Легендарная Арканная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [],
+      "img": "icons/sundries/documents/document-bound-white-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Том лидерства и влияния",
+      "time": 24300,
+      "macroName": "Craft|21",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
+              "quantity": "2",
+              "name": "Легендарная Божественная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.OaqU7uvzshX2N6YR",
+              "quantity": 1,
+              "name": "Том лидерства и влияния / Tome of Leadership and Influence"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Tome%20of%20Leadership%20and%20Influence.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Топ понимания",
+      "time": 24300,
+      "macroName": "Craft|21",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
+              "quantity": "1",
+              "name": "Легендарная Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
+              "quantity": "1",
+              "name": "Легендарная Первичная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.IHB97SDJmh9wRZaB",
+              "quantity": 1,
+              "name": "Том понимания / Tome of Understanding"
+            }
+          ]
+        }
+      ],
+      "img": "modules/laaru-dnd5-hw/assets/images/pic/Tome%20of%20Understanding.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/sundries/books/book-worn-brown-grey.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

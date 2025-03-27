@@ -1,0 +1,621 @@
+{
+  "name": "Изобретательство - Улучшенные боеприпасы",
+  "description": "",
+  "ownership": {},
+  "tools": "Инструменты механика / Tinker's Tools",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Свистящий снаряд",
+      "time": 120,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "2",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
+              "quantity": 1,
+              "name": "Арбалетный болт / Crossbow Bolt"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
+              "quantity": 1,
+              "name": "Стрела / Arrow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.z9SbsMIBZzuhZOqT",
+              "quantity": 1,
+              "name": "Ядро для пращи / Sling Bullet"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.gBQ8xqTA5f8wP5iu",
+              "quantity": 1,
+              "name": "Игла для трубки / Blowgun Needle"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
+              "quantity": 1,
+              "name": "Боеприпас для пистоля"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
+              "quantity": 1,
+              "name": "Пули для старинного огнестрельного оружия"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.lwc3gullR2NEZl4T",
+              "quantity": 1,
+              "name": "Свистящий снаряд"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/ammunition/arrow-broadhead-bent-teal.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Опутывающий снаряд",
+      "time": 120,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.aEiM49V8vWpWw7rU",
+              "quantity": "1",
+              "name": "Сеть / Net"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "2",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
+              "quantity": 1,
+              "name": "Стрела / Arrow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
+              "quantity": 1,
+              "name": "Арбалетный болт / Crossbow Bolt"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
+              "quantity": 1,
+              "name": "Ядро для пращи / Sling Bullet"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
+              "quantity": 1,
+              "name": "Игла для трубки / Blowgun Needle"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
+              "quantity": 1,
+              "name": "Боеприпас для пистоля"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
+              "quantity": 1,
+              "name": "Пули для старинного огнестрельного оружия"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.M61nzvgYgea7FjQo",
+              "quantity": 1,
+              "name": "Опутывающий снаряд"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/ammunition/arrow-broadhead.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Доставляющий снаряд",
+      "time": 120,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "1",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
+              "quantity": "1",
+              "name": "Стрела / Arrow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
+              "quantity": "1",
+              "name": "Арбалетный болт / Crossbow Bolt"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
+              "quantity": "1",
+              "name": "Ядро для пращи / Sling Bullet"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
+              "quantity": "1",
+              "name": "Игла для трубки / Blowgun Needle"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
+              "quantity": 1,
+              "name": "Боеприпас для пистоля"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
+              "quantity": 1,
+              "name": "Пули для старинного огнестрельного оружия"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.43BOToVa9oDwV59l",
+              "quantity": "1",
+              "name": "Доставляющий снаряд"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/ammunition/arrows-fletching.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Дальнобойный снаряд х 10",
+      "time": 120,
+      "macroName": "Craft|15",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "5",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
+              "quantity": "10",
+              "name": "Стрела / Arrow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
+              "quantity": "10",
+              "name": "Арбалетный болт / Crossbow Bolt"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
+              "quantity": "10",
+              "name": "Ядро для пращи / Sling Bullet"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
+              "quantity": "10",
+              "name": "Игла для трубки / Blowgun Needle"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
+              "quantity": 1,
+              "name": "Боеприпас для пистоля"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
+              "quantity": 1,
+              "name": "Пули для старинного огнестрельного оружия"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.OedOUNN3YNTvruCT",
+              "quantity": 1,
+              "name": "Взрывчатый порошок"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.L9JwrZyKD7nMzXnk",
+              "quantity": "10",
+              "name": "Дальнобойный снаряд"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/ammunition/arrow-simple-brown.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Заклинательный снаряд",
+      "time": 120,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
+              "quantity": "1",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
+              "quantity": 1,
+              "name": "Стрела / Arrow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
+              "quantity": 1,
+              "name": "Арбалетный болт / Crossbow Bolt"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
+              "quantity": 1,
+              "name": "Ядро для пращи / Sling Bullet"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
+              "quantity": 1,
+              "name": "Игла для трубки / Blowgun Needle"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
+              "quantity": 1,
+              "name": "Боеприпас для пистоля"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
+              "quantity": 1,
+              "name": "Пули для старинного огнестрельного оружия"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ajBlG1p7q5TF72mu",
+              "quantity": 1,
+              "name": "Свиток заклинания: Опутывание / Entangle"
+            },
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.D8h3JiarnjJrExXa",
+              "quantity": 1,
+              "name": "Свиток заклинания: Облако тумана / Fog Cloud"
+            },
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.w5HbNcPXFLSyiAjN",
+              "quantity": 1,
+              "name": "Свиток заклинания: Мультивыстрел / Multishot"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.WbzVWa7yQUUCWn1r",
+              "quantity": 1,
+              "name": "Заклинательный снаряд"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/ammunition/arrowhead-glowing-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Адаптивный снаряд",
+      "time": 120,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "1",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
+              "quantity": 1,
+              "name": "Стрела / Arrow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
+              "quantity": 1,
+              "name": "Арбалетный болт / Crossbow Bolt"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
+              "quantity": 1,
+              "name": "Ядро для пращи / Sling Bullet"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
+              "quantity": 1,
+              "name": "Игла для трубки / Blowgun Needle"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
+              "quantity": 1,
+              "name": "Боеприпас для пистоля"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
+              "quantity": 1,
+              "name": "Пули для старинного огнестрельного оружия"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.gKmKgZfSjfDhqXfw",
+              "quantity": 1,
+              "name": "Адаптивный снаряд"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/ammunition/arrows-war-white.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Прыгающий снаряд",
+      "time": 120,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
+              "quantity": "1",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
+              "quantity": 1,
+              "name": "Стрела / Arrow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
+              "quantity": 1,
+              "name": "Арбалетный болт / Crossbow Bolt"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
+              "quantity": 1,
+              "name": "Ядро для пращи / Sling Bullet"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
+              "quantity": 1,
+              "name": "Игла для трубки / Blowgun Needle"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
+              "quantity": 1,
+              "name": "Боеприпас для пистоля"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
+              "quantity": 1,
+              "name": "Пули для старинного огнестрельного оружия"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.yIt3OZkUg2vUQ32L",
+              "quantity": 1,
+              "name": "Прыгающий снаряд"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/ammunition/arrow-fletching.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Рикошетный снаряд",
+      "time": 120,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
+              "quantity": "1",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
+              "quantity": 1,
+              "name": "Стрела / Arrow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
+              "quantity": 1,
+              "name": "Арбалетный болт / Crossbow Bolt"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
+              "quantity": 1,
+              "name": "Ядро для пращи / Sling Bullet"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
+              "quantity": 1,
+              "name": "Игла для трубки / Blowgun Needle"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
+              "quantity": 1,
+              "name": "Боеприпас для пистоля"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
+              "quantity": 1,
+              "name": "Пули для старинного огнестрельного оружия"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.0zzClckdpjmkEsSC",
+              "quantity": 1,
+              "name": "Рикошетный снаряд"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/ammunition/arrow-broadhead-glowing-orange.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/weapons/ammunition/arrow-broadhead-bent-teal.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

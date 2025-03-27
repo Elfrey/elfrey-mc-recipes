@@ -1,0 +1,289 @@
+{
+  "name": "Инженерия - Мосты",
+  "description": "",
+  "ownership": {},
+  "tools": "Инструменты плотника / Carpenter's Tools",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Узкий деревянный мост (10 фт) / Narrow Wooden Bridge (10 ft)",
+      "time": 240,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "2",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
+              "quantity": 1,
+              "name": "Единица Дерева / Unit of Lumber"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.oaqJZZB0U0g8aOxS",
+              "quantity": 1,
+              "name": "Узкий деревянный мост (10 фт) / Narrow Wooden Bridge (10 ft)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/environment/settlement/bridge-stone.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Большой деревянный мост (10 фт) / Large Wooden Bridge (10 ft)",
+      "time": 480,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "6",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
+              "quantity": "3",
+              "name": "Единица Дерева / Unit of Lumber"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.SlzwO158g6UAsuRL",
+              "quantity": 1,
+              "name": "Большой деревянный мост (10 фт) / Large Wooden Bridge (10 ft)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/environment/settlement/bridge-stone.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Огромный деревянный мост  (10 фт) / Huge Wooden Bridge (10 ft)",
+      "time": 9720,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "10",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
+              "quantity": "5",
+              "name": "Еденица Дерева / Unit of Lumber"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.7KCMHUrVes21aHFc",
+              "quantity": 1,
+              "name": "Огромный деревянный мост  (10 фт) / Huge Wooden Bridge (10 ft)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/environment/settlement/bridge-stone.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Узкий каменный мост (10 фт) / Narrow Stone Bridge (10 ft)",
+      "time": 480,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kRSZB73OZ8oYhjI8",
+              "quantity": 1,
+              "name": "Единица камня / Unit of Stone"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.iqT9WLpOjfOiuj33",
+              "quantity": 1,
+              "name": "Цемент / Cement"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.2LD8HlVK8qUBCSVV",
+              "quantity": 1,
+              "name": "Узкий каменный мост (10 фт) / Narrow Stone Bridge (10 ft)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/environment/settlement/bridge-stone.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Большой каменный мост (10 фт) / Large Stone Bridge (10 ft)",
+      "time": 9720,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kRSZB73OZ8oYhjI8",
+              "quantity": "3",
+              "name": "Единица камня / Unit of Stone"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.iqT9WLpOjfOiuj33",
+              "quantity": "3",
+              "name": "Цемент / Cement"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.xkA7kCOPFsulJUsY",
+              "quantity": 1,
+              "name": "Большой каменный мост (10 фт) / Large Stone Bridge (10 ft)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/environment/settlement/bridge-stone.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Огромный каменный мост (10 фт) / Huge Stone Bridge (10 ft)",
+      "time": 19380,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kRSZB73OZ8oYhjI8",
+              "quantity": "5",
+              "name": "Единица камня / Unit of Stone"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.iqT9WLpOjfOiuj33",
+              "quantity": "5",
+              "name": "Цемент / Cement"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.V6Os51LSObvWDTDD",
+              "quantity": 1,
+              "name": "Огромный каменный мост (10 фт) / Huge Stone Bridge (10 ft)"
+            }
+          ]
+        }
+      ],
+      "img": "icons/environment/settlement/bridge-stone.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/environment/settlement/bridge-stone.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

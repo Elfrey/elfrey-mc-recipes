@@ -1,0 +1,1270 @@
+{
+  "name": "Кожевничество - Разное",
+  "description": "",
+  "ownership": {},
+  "tools": "Инструменты кожевенника / Leatherworker's Tools",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Сыромятная Кожа",
+      "time": 480,
+      "macroName": "Craft|6",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.h9RgEwLap30QmQwl",
+              "quantity": "1",
+              "name": "Шкура"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.KHOOuEKSawFdosbb",
+              "quantity": 1,
+              "name": "Сыромятная Кожа"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/leather/leather-worn-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Дубленая Кожа",
+      "time": 960,
+      "macroName": "Craft|6",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.h9RgEwLap30QmQwl",
+              "quantity": 1,
+              "name": "Шкура"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.KHOOuEKSawFdosbb",
+              "quantity": 1,
+              "name": "Сыромятная Кожа"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.XvyMF34Mqq7LaVKN",
+              "quantity": 1,
+              "name": "Дубленая Кожа"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/leather/leather-bolt-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Вареная Кожа",
+      "time": 960,
+      "macroName": "Craft|6",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.h9RgEwLap30QmQwl",
+              "quantity": 1,
+              "name": "Шкура"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.KHOOuEKSawFdosbb",
+              "quantity": 1,
+              "name": "Сыромятная Кожа"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.VOKRsYmEEg45mcsv",
+              "quantity": 1,
+              "name": "Вареная Кожа"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/leather/leather-bolt-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "20 x Лоскутки кожи / Leather Scraps",
+      "time": 120,
+      "macroName": "Craft|4",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.VOKRsYmEEg45mcsv",
+              "quantity": 1,
+              "name": "Вареная Кожа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.XvyMF34Mqq7LaVKN",
+              "quantity": 1,
+              "name": "Дубленая Кожа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.SVCbE3fGzit2vVDN",
+              "quantity": 1,
+              "name": "Жесткая Кожа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.vG2qzJsUbZOUQ7VX",
+              "quantity": 1,
+              "name": "Устойчивая Кожа"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.KHOOuEKSawFdosbb",
+              "quantity": 1,
+              "name": "Сыромятная Кожа"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": "20",
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/leather/leather-scraps-yellow.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Шкура",
+      "time": 120,
+      "macroName": "Craft|10",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": "20",
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.h9RgEwLap30QmQwl",
+              "quantity": 1,
+              "name": "Шкура"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/leather/fur-pelt-spotted-brown.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "20 x Кусок Шкуры",
+      "time": 120,
+      "macroName": "Craft|4",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.h9RgEwLap30QmQwl",
+              "quantity": "1",
+              "name": "Шкура"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.zfvUEzGoUAazUbOK",
+              "quantity": "20",
+              "name": "Кусок Шкуры"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/leather/fur-white-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Пояс",
+      "time": 120,
+      "macroName": "Craft|9",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.V9ZIv3uOSFrXYIKd",
+              "quantity": "1",
+              "name": "Пряжка"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": "4",
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.alsfqEAppfgeSa5e",
+              "quantity": 1,
+              "name": "Пояс"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/waist/belt-buckle-round.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Колчан для стрел / Quiver",
+      "time": 120,
+      "macroName": "Craft|9",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": "5",
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.4MtQKPn9qMWCFjDA",
+              "quantity": 1,
+              "name": "Колчан для стрел / Quiver"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.eJtPBiZtr2pp6ynt",
+              "quantity": 1,
+              "name": "Колчан для арбалетных болтов / Crossbow Bolt Case"
+            }
+          ]
+        }
+      ],
+      "img": "icons/containers/ammunition/arrows-quiver-brown-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Ножны / Sheath",
+      "time": 120,
+      "macroName": "Craft|9",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": "5",
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.2AOjUnx0kouuAXio",
+              "quantity": 1,
+              "name": "Ножны / Sheath"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/swords/shortsword-sheathed-brown.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Кобура / Holster",
+      "time": 120,
+      "macroName": "Craft|9",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": "2",
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Wtx1dfegDMs90bb4",
+              "quantity": 1,
+              "name": "Кобура / Holster"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/leather/leather-scraps-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Бурдюк / Waterskin",
+      "time": 120,
+      "macroName": "Craft|8",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": "2",
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.94VHtMrf3Jm1uGHb",
+              "quantity": 1,
+              "name": "Бурдюк / Waterskin"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/survival/wetskin-leather-purple.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Рюкзак / Backpack",
+      "time": 120,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.5oe0OgPSkba9fhsJ",
+              "quantity": 1,
+              "name": "Лист кожи / Sheet of leather"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": "4",
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sOFgvkLDup8OJf39",
+              "quantity": "2",
+              "name": "Пряжка / Buckle"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.H8YCd689ezlD26aT",
+              "quantity": 1,
+              "name": "Рюкзак / Backpack"
+            }
+          ]
+        }
+      ],
+      "img": "icons/containers/bags/pack-simple-leather.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Мешок / Bag",
+      "time": 120,
+      "macroName": "Craft|10",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.V9ZIv3uOSFrXYIKd",
+              "quantity": "1",
+              "name": "Пряжка"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": "10",
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.q9iFrax0dVbJZsos",
+              "quantity": 1,
+              "name": "Мешок / Bag"
+            }
+          ]
+        }
+      ],
+      "img": "icons/containers/bags/sack-simple-leather-brown.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "10 x Обычный Пергамент",
+      "time": 120,
+      "macroName": "Craft|8",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": "10",
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.5YkEkqNODg6X7QHQ",
+              "quantity": "10",
+              "name": "Обычный Пергамент"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Необычный Пергамент",
+      "time": 120,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.XvyMF34Mqq7LaVKN",
+              "quantity": "1",
+              "name": "Дубленая Кожа"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.leJAbEhrPXbNXosC",
+              "quantity": "2",
+              "name": "Обычный Лечебный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.17PBLoPMIUMTJx7K",
+              "quantity": "2",
+              "name": "Обычный Реактивный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.4t2Fg8wXzMtORyZ2",
+              "quantity": "2",
+              "name": "Обычный Ядовитый Реагент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.WMGTPS47ZpLvRAu6",
+              "quantity": 1,
+              "name": "Необычный Пергамент"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Редкий Пергамент",
+      "time": 120,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "1",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.XvyMF34Mqq7LaVKN",
+              "quantity": 1,
+              "name": "Дубленая Кожа"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.l5adns90BMgqvG0u",
+              "quantity": 1,
+              "name": "Редкий Пергамент"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Очень Редкий Пергамент",
+      "time": 240,
+      "macroName": "Craft|18",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.SVCbE3fGzit2vVDN",
+              "quantity": "1",
+              "name": "Жесткая Кожа"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
+              "quantity": "2",
+              "name": "Необычная Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.XtNxshbTL3JEAdPf",
+              "quantity": 1,
+              "name": "Очень Редкий Пергамент"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Легендарный Пергамент",
+      "time": 240,
+      "macroName": "Craft|20",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.SVCbE3fGzit2vVDN",
+              "quantity": "1",
+              "name": "Жесткая Кожа"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
+              "quantity": "2",
+              "name": "Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.SMplSIkHRu0GWtii",
+              "quantity": "2",
+              "name": "Очень Редкий Лечебный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.lKj6NlZtvZiS2MQl",
+              "quantity": "2",
+              "name": "Очень Редкий Реактивный Реагент"
+            },
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.FSHhU2kc6pgDLAf9",
+              "quantity": "2",
+              "name": "Очень Редкий Ядовитый Реагент"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Lg2xjZ9ZiQke6ZQB",
+              "quantity": 1,
+              "name": "Легендарный Пергамент"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Набивка доспеха",
+      "time": 120,
+      "macroName": "Craft|10",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.XvyMF34Mqq7LaVKN",
+              "quantity": 1,
+              "name": "Дубленая Кожа"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sOFgvkLDup8OJf39",
+              "quantity": "2",
+              "name": "Пряжка / Buckle"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.sXuLhplb8x3lidzt",
+              "quantity": 1,
+              "name": "Набивка доспеха"
+            }
+          ]
+        }
+      ],
+      "img": "icons/tools/smithing/plate-steel-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Мешочек для костей / Dice bag",
+      "time": 120,
+      "macroName": "Craft|9",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": 1,
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.LBWcvXKHFFX9jCx4",
+              "quantity": 1,
+              "name": "Мешочек для костей / Dice bag"
+            }
+          ]
+        }
+      ],
+      "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Экзотическое седло / Exotic Saddle",
+      "time": 360,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.KHOOuEKSawFdosbb",
+              "quantity": "4",
+              "name": "Сыромятная Кожа"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "2",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
+              "quantity": "1",
+              "name": "Необычные Запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.XvyMF34Mqq7LaVKN",
+              "quantity": "4",
+              "name": "Дубленая Кожа"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.4932CLHvjZYxOm4g",
+              "quantity": 1,
+              "name": "Экзотическое седло / Exotic Saddle"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/shoulder/pauldron-segmented-red.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Кавалерийское седло / Military Saddle",
+      "time": 240,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.KHOOuEKSawFdosbb",
+              "quantity": "2",
+              "name": "Сыромятная Кожа"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "2",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.XvyMF34Mqq7LaVKN",
+              "quantity": "2",
+              "name": "Дубленая Кожа"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.PLkzJ310FzBnRrI5",
+              "quantity": 1,
+              "name": "Кавалерийское седло / Military Saddle"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/shoulder/shoulderpad-leather-banded-ring.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Вьючное седло / Pack Saddle",
+      "time": 120,
+      "macroName": "Craft|10",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.XvyMF34Mqq7LaVKN",
+              "quantity": 1,
+              "name": "Дубленая Кожа"
+            },
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": "2",
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.ecz2fVDyAg8YgJGe",
+              "quantity": 1,
+              "name": "Вьючное седло / Pack Saddle"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/shoulder/shoulderpad-fur-leather.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Скаковое седло / Riding Saddle",
+      "time": 240,
+      "macroName": "Craft|10",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
+              "quantity": "1",
+              "name": "Обычные запчасти"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.XvyMF34Mqq7LaVKN",
+              "quantity": "2",
+              "name": "Дубленая Кожа"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.N0in6FE8DQdZrHei",
+              "quantity": 1,
+              "name": "Скаковое седло / Riding Saddle"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/shoulder/pauldron-leather-molded.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Седельные сумки / Saddlebag",
+      "time": 120,
+      "macroName": "Craft|10",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.XvyMF34Mqq7LaVKN",
+              "quantity": 1,
+              "name": "Дубленая Кожа"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.TmfaFUSZJAotndn9",
+              "quantity": 1,
+              "name": "Седельные сумки / Saddlebag"
+            }
+          ]
+        }
+      ],
+      "img": "icons/containers/bags/pack-leather-black-brown.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Бит и уздечка / Bit and Bridele",
+      "time": 120,
+      "macroName": "Craft|10",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": "4",
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.MT4KM5z3xsSTW9Jy",
+              "quantity": 1,
+              "name": "Кусок дерева / Wood scraps"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
+              "quantity": 1,
+              "name": "Металлолом"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.S0dMaEhzdKiMGgya",
+              "quantity": 1,
+              "name": "Бит и уздечка / Bit and Bridele"
+            }
+          ]
+        }
+      ],
+      "img": "icons/sundries/survival/leather-strap-brown.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Метательный патронташ",
+      "time": 240,
+      "macroName": "Craft|12",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Item.XvyMF34Mqq7LaVKN",
+              "quantity": 1,
+              "name": "Дубленая Кожа"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
+              "quantity": "3",
+              "name": "Лоскутки кожи / Leather Scraps"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sOFgvkLDup8OJf39",
+              "quantity": 1,
+              "name": "Пряжка / Buckle"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.LRI0uIMVdBY7rfcJ",
+              "quantity": 1,
+              "name": "Метательный патронташ"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/waist/belt-buckle-ring-leather-tan.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/commodities/leather/leather-worn-tan.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}

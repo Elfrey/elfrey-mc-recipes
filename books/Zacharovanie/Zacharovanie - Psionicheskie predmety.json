@@ -1,0 +1,1033 @@
+{
+  "name": "Зачарование - Псионические предметы",
+  "description": "",
+  "ownership": {},
+  "tools": "",
+  "ingredientsInspection": "1",
+  "productInspection": "1",
+  "recipes": [
+    {
+      "name": "Камень зренияᵏ / Vision Stone",
+      "time": 240,
+      "macroName": "Craft|13",
+      "ingredientsInspection": "0",
+      "productInspection": "0",
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZPzb9s06KKH8D86j",
+              "quantity": "1",
+              "name": "Обычная Псионическая эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.goods.VGcurFeTLOjt1Ex2",
+              "quantity": 1,
+              "name": "Кристалл / Crystal"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.VbhoxOmriSILjEP2",
+              "quantity": 1,
+              "name": "Камень зрения"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-cluster-purple.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "+1 Усиливающий кристаллᵏ",
+      "time": 480,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
+              "quantity": "2",
+              "name": "Необычная Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZPzb9s06KKH8D86j",
+              "quantity": "2",
+              "name": "Обычная Псионическая эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VCmTBRhGKpTlLFXC",
+              "quantity": 1,
+              "name": "Кристалл (20 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.9bhJ8hHNnzxDVcW6",
+              "quantity": 1,
+              "name": "Усиливающий кристалл +1"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-faceted-cushion-teal.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "+1 Кристалл пси-лезвияᵏ",
+      "time": 480,
+      "macroName": "Craft|14",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
+              "quantity": "1",
+              "name": "Необычная Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZPzb9s06KKH8D86j",
+              "quantity": "1",
+              "name": "Обычная Псионическая эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
+              "quantity": "1",
+              "name": "Обычная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VCmTBRhGKpTlLFXC",
+              "quantity": 1,
+              "name": "Кристалл (20 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.1aC0NNvYxgW6y4VG",
+              "quantity": 1,
+              "name": "Кристалл пси-лезвия +1"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-rough-navette-purple.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Взрывной кристаллᵏ",
+      "time": 480,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
+              "quantity": "1",
+              "name": "Необычная Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
+              "quantity": "1",
+              "name": "Необычная Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VCmTBRhGKpTlLFXC",
+              "quantity": 1,
+              "name": "Кристалл (20 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.KVqwz3SkNNbrRsuc",
+              "quantity": 1,
+              "name": "Взрывной кристалл"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-rough-oval-purple.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Фокусирующий кристаллᵏ",
+      "time": 480,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
+              "quantity": "2",
+              "name": "Необычная Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZPzb9s06KKH8D86j",
+              "quantity": "1",
+              "name": "Обычная Псионическая эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VCmTBRhGKpTlLFXC",
+              "quantity": 1,
+              "name": "Кристалл (20 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ncWxWOZWl2Rxwg0c",
+              "quantity": 1,
+              "name": "Фокусирующий кристалл"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-raw-rough-purple.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Псионически настроенное оружиеᵏ",
+      "time": 240,
+      "macroName": "Craft|13",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZPzb9s06KKH8D86j",
+              "quantity": "1",
+              "name": "Обычная Псионическая эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.g2dWN7PQiMRYWzyk",
+              "quantity": 1,
+              "name": "Боевой посох / Quarterstaff"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Ajyq6nGwF7FtLhDQ",
+              "quantity": 1,
+              "name": "Булава / Mace"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.QRCsxkCwWNwswL9o",
+              "quantity": 1,
+              "name": "Дубина / Greatclub"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.nfIRTECQIG81CvM4",
+              "quantity": 1,
+              "name": "Дубинка / Club"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.0E565kQUBmndJ1a2",
+              "quantity": 1,
+              "name": "Кинжал / Dagger"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.OG4nBBydvmfWYXIk",
+              "quantity": 1,
+              "name": "Копьё / Spear"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.XVK6TOL4sGItssAE",
+              "quantity": 1,
+              "name": "Лёгкий молот / Light Hammer"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.DWLMnODrnHn8IbAG",
+              "quantity": 1,
+              "name": "Пилум / Javelin"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.i4NeNZ30ycwPDHMx",
+              "quantity": 1,
+              "name": "Серп / Sickle"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.eO7Fbv5WBk5zvGOc",
+              "quantity": 1,
+              "name": "Топорик / Handaxe"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3rCO8MTIdPGSW6IJ",
+              "quantity": 1,
+              "name": "Дротик / Dart"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.GJv6WkD7D2J6rP6M",
+              "quantity": 1,
+              "name": "Короткий лук / Shortbow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.ddWvQRLmnnIS0eLF",
+              "quantity": 1,
+              "name": "Лёгкий арбалет / Light Crossbow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3gynWO9sN4OLGMWD",
+              "quantity": 1,
+              "name": "Праща / Sling"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.DMejWAc8r8YvDPP1",
+              "quantity": 1,
+              "name": "Алебарда / Halberd"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.F0Df164Xv1gWcYt0",
+              "quantity": 1,
+              "name": "Боевой молот / Warhammer"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.I0WocDSuNpGJayPb",
+              "quantity": 1,
+              "name": "Боевой топор /Battleaxe"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.rOG1OM2ihgPjOvFW",
+              "quantity": 1,
+              "name": "Глефа / Glaive"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
+              "quantity": 1,
+              "name": "Двуручный меч / Greatsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.DizirD7eqjh8n95A",
+              "quantity": 1,
+              "name": "Двуручный молот / Maul"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.1Lxk6kmoRhG8qQ0u",
+              "quantity": 1,
+              "name": "Двуручный топор / Greataxe"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
+              "quantity": 1,
+              "name": "Длинный меч / Longsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.RnuxdHUAIgxccVwj",
+              "quantity": 1,
+              "name": "Кавалерийская пика / Lance"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.2YdfjN1PIIrSHZii",
+              "quantity": 1,
+              "name": "Клевец / War pick"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.QKTyxoO0YDnAsbYe",
+              "quantity": 1,
+              "name": "Кнут / Whip"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
+              "quantity": 1,
+              "name": "Короткий меч / Shortsword"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.dX8AxCh9o0A9CkT3",
+              "quantity": 1,
+              "name": "Моргенштерн / Morningstar"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.tC0kcqZT9HHAO0PD",
+              "quantity": 1,
+              "name": "Пика / Pike"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
+              "quantity": 1,
+              "name": "Рапира / Rapier"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
+              "quantity": 1,
+              "name": "Скимитар / Scimitar"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.F65ANO66ckP8FDMa",
+              "quantity": 1,
+              "name": "Трезубец / Trident"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.UrH3sMdnUDckIHJ6",
+              "quantity": 1,
+              "name": "Цеп / Flail"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.3cymOVja8jXbzrdT",
+              "quantity": 1,
+              "name": "Длинный лук / Longbow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.wNWK6yJMHG9ANqQV",
+              "quantity": 1,
+              "name": "Духовая трубка / Blowgun"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.qaSro7kFhxD6INbZ",
+              "quantity": 1,
+              "name": "Ручной арбалет / Hand Crossbow"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.aEiM49V8vWpWw7rU",
+              "quantity": 1,
+              "name": "Сеть / Net"
+            },
+            {
+              "uuid": "Compendium.laaru-dnd5-hw.items.Item.RmP0mYRn2J7K26rX",
+              "quantity": 1,
+              "name": "Тяжёлый арбалет / Heavy Crossbow"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.7YzM0QePRk40QkQM",
+              "quantity": 1,
+              "name": "Псионически настроенное оружие"
+            }
+          ]
+        }
+      ],
+      "img": "icons/weapons/swords/sword-winged-pink.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Резонирующий кристаллᵏ",
+      "time": 480,
+      "macroName": "Craft|15",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
+              "quantity": "2",
+              "name": "Необычная Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VCmTBRhGKpTlLFXC",
+              "quantity": 1,
+              "name": "Кристалл (20 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ktEYqhJ29szm7Lxz",
+              "quantity": 1,
+              "name": "Резонирующий кристалл"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-faceted-cushion-teal-black.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "+2 Усиливающий кристаллᵏ",
+      "time": 72900,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.oOnvTb6pe2zoDIVx",
+              "quantity": "2",
+              "name": "Редкая Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
+              "quantity": "1",
+              "name": "Необычная Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ItiijZOPUgo3auG2",
+              "quantity": 1,
+              "name": "Кристалл (100 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ybWUzdxmYTA49rGC",
+              "quantity": 1,
+              "name": "Усиливающий кристалл +2"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-faceted-tapered-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "+2 Кристалл пси-лезвияᵏ",
+      "time": 72900,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.oOnvTb6pe2zoDIVx",
+              "quantity": "1",
+              "name": "Редкая Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
+              "quantity": "1",
+              "name": "Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
+              "quantity": "2",
+              "name": "Необычная Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ItiijZOPUgo3auG2",
+              "quantity": 1,
+              "name": "Кристалл (100 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.12M1thE4LAM3GyBD",
+              "quantity": 1,
+              "name": "Кристалл пси-лезвия +2"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-rough-navette-purple-pink.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Оттискивающий кристаллᵏ",
+      "time": 72900,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.oOnvTb6pe2zoDIVx",
+              "quantity": "2",
+              "name": "Редкая Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
+              "quantity": "2",
+              "name": "Необычная Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ItiijZOPUgo3auG2",
+              "quantity": 1,
+              "name": "Кристалл (100 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Nnje1deUHAjJro0I",
+              "quantity": 1,
+              "name": "Оттискивающий кристалл"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-rough-cushion-pink-yellow.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Чистота разумаᵏ",
+      "time": 9720,
+      "macroName": "Craft|16",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.oOnvTb6pe2zoDIVx",
+              "quantity": "2",
+              "name": "Редкая Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
+              "quantity": "1",
+              "name": "Необычная Божественная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.qygrAJat62A7XnSP",
+              "quantity": 1,
+              "name": "Повязка на глаза (10)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qnUhipVQo5s3v7m2",
+              "quantity": 1,
+              "name": "Чистота разума"
+            }
+          ]
+        }
+      ],
+      "img": "icons/equipment/head/goggles-leather-grey.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "+3 Усиливающий кристаллᵏ",
+      "time": 14580,
+      "macroName": "Craft|18",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Ud6FG2ICRVeE8TCu",
+              "quantity": "4",
+              "name": "Очень Редкая Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.oOnvTb6pe2zoDIVx",
+              "quantity": "2",
+              "name": "Редкая Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vNgBl5hhnivdLZkU",
+              "quantity": 1,
+              "name": "Кристалл (200 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.TMdNYEdKPtgOLOdj",
+              "quantity": 1,
+              "name": "Усиливающий кристалл +3"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-faceted-teardrop-blue.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "+3 Кристалл пси-лезвияᵏ",
+      "time": 14580,
+      "macroName": "Craft|18",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Ud6FG2ICRVeE8TCu",
+              "quantity": "2",
+              "name": "Очень Редкая Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
+              "quantity": "1",
+              "name": "Очень Редкая Первичная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
+              "quantity": "1",
+              "name": "Очень Редкая Арканная Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vNgBl5hhnivdLZkU",
+              "quantity": 1,
+              "name": "Кристалл (200 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.ohaU8QWG12eIDLD2",
+              "quantity": 1,
+              "name": "Кристалл пси-лезвия +3"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-rough-navette-pink.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Осколок разумаᵏ",
+      "time": 19440,
+      "macroName": "Craft|19",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Ud6FG2ICRVeE8TCu",
+              "quantity": "3",
+              "name": "Очень Редкая Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.oOnvTb6pe2zoDIVx",
+              "quantity": "2",
+              "name": "Редкая Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EseZkGM9QLTwaUKS",
+              "quantity": 1,
+              "name": "Кристалл (50 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.y9og3qxK50PQMUr4",
+              "quantity": 1,
+              "name": "Осколок разума"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/gem-rough-round-pink.webp",
+      "sound": "",
+      "ownership": {}
+    },
+    {
+      "name": "Осколок душиᵏ",
+      "time": 24300,
+      "macroName": "Craft|20",
+      "ingredientsInspection": 0,
+      "productInspection": 0,
+      "description": "",
+      "tools": "",
+      "ingredients": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.qIJrgi31KsSgjvP5",
+              "quantity": "1",
+              "name": "Легендарная Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.Ud6FG2ICRVeE8TCu",
+              "quantity": "2",
+              "name": "Очень Редкая Псионическая Эссенция"
+            }
+          ]
+        },
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VCmTBRhGKpTlLFXC",
+              "quantity": 1,
+              "name": "Кристалл (20 зм)"
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "name": null,
+          "components": [
+            {
+              "uuid": "Compendium.kraywell-compendium.items.jWXhiYAdZmSebVJu",
+              "quantity": 1,
+              "name": "Осколок души"
+            }
+          ]
+        }
+      ],
+      "img": "icons/commodities/gems/pearl-water.webp",
+      "sound": "",
+      "ownership": {}
+    }
+  ],
+  "img": "icons/commodities/gems/pearl-water.webp",
+  "sound": "",
+  "documentName": "RecipeBook"
+}
