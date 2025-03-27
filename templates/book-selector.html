@@ -1,8 +1,5 @@
 <div class="emcr-flexrow flexrow">
     <aside class="emcr-sidebar sidebar flexcol">
-        <div class="entry-filter form-group">
-            <input name="filter" type="search" placeholder="Фильтр" value="">
-        </div>
         <nav class="emcr-tabs tabs" aria-label="eemcr.dialog.bookCategories">
             <a class="item category-tab emcr-tab-item active" data-tab="all">
                 <i class="fas fa-books"></i> {{localize "emcr.dialog.allBooks"}}
@@ -13,57 +10,50 @@
             </a>
             {{/each}}
         </nav>
+        <footer class="emcr-footer">
+            <form>
+                <div class="emcr-form-group form-group">
+                    <label>{{localize "emcr.dialog.dontShow"}}</label>
+                    <input type="checkbox" class="emcr-dont-show" data-dtype="Boolean" name="dontShow">
+                </div>
+                <button type="button" class="emcr-import-button">
+                    <i class="fas fa-file-import"></i> {{localize "emcr.dialog.import"}}
+                </button>
+            </form>
+        </footer>
     </aside>
     <form class="emcr-form">
-        <div class="emcr-container">
-            <section class="emcr-content">
-                {{!-- All Books Tab --}}
-                <div class="emcr-tab-content active" data-tab="all">
-                    {{#each books}}
-                    <div class="emcr-book-item" data-category="{{this.category}}">
-                        <label>
-                            <input type="checkbox"
-                                   class="emcr-book-checkbox"
-                                   data-book-id="{{this.name}}"
-                                   {{#if this.enabled}}checked{{/if}}>
-                            <span class="emcr-book-name">{{this.name}}</span>
-                            <span class="emcr-book-category">({{this.category}})</span>
-                        </label>
-                    </div>
-                    {{/each}}
-                </div>
-
-                {{!-- Category Tabs --}}
-                {{#each (uniqueCategories books) as |category|}}
-                <div class="emcr-tab-content" data-tab="{{category}}">
-                    {{#each ../books}}
-                    {{#if (eq this.category category)}}
-                    <div class="emcr-book-item">
-                        <label>
-                            <input type="checkbox"
-                                   class="emcr-book-checkbox"
-                                   data-book-id="{{this.name}}"
-                                   {{#if this.enabled}}checked{{/if}}>
-                            <span class="emcr-book-name">{{this.name}}</span>
-                        </label>
-                    </div>
-                    {{/if}}
-                    {{/each}}
+        <div class="emcr-content">
+            {{!-- All Books Tab --}}
+            <section class="emcr-tab-content active" data-tab="all">
+                {{#each books}}
+                <div class="emcr-book-item emcr-form-group form-group" data-category="{{this.category}}">
+                    <input type="checkbox"
+                           class="emcr-book-checkbox"
+                           data-book-id="{{this.name}}"
+                           {{#if this.enabled}} checked{{/if}}>
+                    <label>{{this.name}}</label>
                 </div>
                 {{/each}}
             </section>
+
+            {{!-- Category Tabs --}}
+            {{#each (uniqueCategories books) as |category|}}
+            <section class="emcr-tab-content" data-tab="{{category}}">
+                {{#each ../books}}
+                {{#if (eq this.category category)}}
+                <div class="emcr-book-item emcr-form-group form-group">
+                    <input type="checkbox"
+                           class="emcr-book-checkbox"
+                           data-book-id="{{this.name}}"
+                           {{#if this.enabled}} checked{{/if}}>
+                    <label>{{this.name}}</label>
+                </div>
+                {{/if}}
+                {{/each}}
+            </section>
+            {{/each}}
         </div>
 
     </form>
 </div>
-<footer class="emcr-footer">
-    <div class="emcr-form-group">
-        <label>
-            <input type="checkbox" class="emcr-dont-show">
-            <span>{{localize "emcr.dialog.dontShow"}}</span>
-        </label>
-    </div>
-    <button type="button" class="emcr-import-button">
-        <i class="fas fa-file-import"></i> {{localize "emcr.dialog.import"}}
-    </button>
-</footer>

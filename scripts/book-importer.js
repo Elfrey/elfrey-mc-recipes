@@ -25,10 +25,11 @@ class BookImporter extends FormApplication {
             id: `${MODULE_ID}-book-importer`,
             title: game.i18n.localize("emcr.dialog.title"),
             template: `modules/${MODULE_ID}/templates/book-selector.html`,
-            width: 540,
+            width: 890,
             height: 640,
             closeOnSubmit: false,
-            tabs: [{ navSelector: ".mcr-tabs", contentSelector: ".mcr-content", initial: "all" }]
+            resizable: true,
+            tabs: [{ navSelector: ".emcr-tabs", contentSelector: ".emcr-content", initial: "all" }]
         });
     }
 
@@ -80,21 +81,21 @@ class BookImporter extends FormApplication {
         super.activateListeners(html);
 
         // Tab handling
-        html.find('.mcr-tab-item').click(ev => {
+        html.find('.emcr-tab-item').click(ev => {
             // Remove active class from all tabs and contents
-            html.find('.mcr-tab-item').removeClass('active');
-            html.find('.mcr-tab-content').removeClass('active');
+            html.find('.emcr-tab-item').removeClass('active');
+            html.find('.emcr-tab-content').removeClass('active');
             
             // Add active class to clicked tab and corresponding content
             const tab = ev.currentTarget.dataset.tab;
             ev.currentTarget.classList.add('active');
-            html.find(`.mcr-tab-content[data-tab="${tab}"]`).addClass('active');
+            html.find(`.emcr-tab-content[data-tab="${tab}"]`).addClass('active');
         });
 
-        html.find('.mcr-book-checkbox').on('change', this._onToggleBook.bind(this));
-        html.find('.mcr-dont-show').on('change', this._onToggleShow.bind(this));
-        html.find('.mcr-import-button').click(this._onImport.bind(this));
-        html.find('.mcr-book-checkbox').on('change', this._onToggleBook.bind(this));
+        html.find('.emcr-book-checkbox').on('change', this._onToggleBook.bind(this));
+        html.find('.emcr-dont-show').on('change', this._onToggleShow.bind(this));
+        html.find('.emcr-import-button').click(this._onImport.bind(this));
+        html.find('.emcr-book-checkbox').on('change', this._onToggleBook.bind(this));
     }
 
     _onToggleBook(event) {
