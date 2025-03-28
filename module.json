@@ -42,11 +42,7 @@
       }
     ],
     "recommends": [
-      {
-        "id": "item-piles",
-        "type": "module",
-        "compatibility": {}
-      }
+
     ]
   },
   "esmodules": [

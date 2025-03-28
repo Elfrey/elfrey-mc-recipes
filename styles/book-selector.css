@@ -62,6 +62,10 @@ form .emcr-form-group.form-group > label {
     font-weight: 400;
 }
 
+form .emcr-book-item.form-group {
+    align-items: flex-start;
+}
+
 .emcr-footer {
     flex: 0;
 }

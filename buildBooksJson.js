@@ -16,7 +16,7 @@ function scanDirectory(dir) {
                 const folderEntries = fs.readdirSync(fullPath, { withFileTypes: true });
                 const jsonFiles = folderEntries
                     .filter(file => file.isFile() && file.name.endsWith('.json'))
-                    .map(file => path.join(folderName, file.name));
+                    .map(file => path.join(folderName, file.name).replace('\\', '/'));
                 
                 if (jsonFiles.length > 0) {
                     bookIndex[folderName] = jsonFiles;

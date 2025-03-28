@@ -1,9 +1,10 @@
 {
     "emcr": {
         "dialog": {
-            "title": "Recipe Book Selection",
-            "import": "Import Selected Books",
+            "title": "Recipe Book Import",
+            "import": "Import Selected",
             "dontShow": "Don't show this window on startup",
+            "allBooks": "All Books",
             "bookCategories": "Book Categories"
         },
         "notifications": {
