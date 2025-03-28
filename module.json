@@ -2,7 +2,7 @@
   "id": "elfrey-mc-recipes",
   "title": "Набор рецептов для крафта.",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12",
