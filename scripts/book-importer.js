@@ -65,21 +65,22 @@ class BookImporter extends FormApplication {
 
     async loadBooks() {
         try {
-            const response = await fetch(`modules/${MODULE_ID}/books/index.json`);
-            const bookIndex = await response.json();
+            const pack = game.packs.get('elfrey-mc-recipes.emcr-books');
+            const journals = await pack.getDocuments();
 
             this.books = [];
 
-            for (const [category, paths] of Object.entries(bookIndex)) {
-                for (const path of paths) {
-                    const response = await fetch(`modules/${MODULE_ID}/books/${path}`);
-                    const book = await response.json();
-                    this.books.push({
-                        ...book,
-                        path,
-                        category,
-                        enabled: false
-                    });
+            for (const journal of journals) {
+                for (const page of journal.pages) {
+                    const bookData = page.flags[MODULE_ID]?.book;
+                    if (bookData) {
+                        this.books.push({
+                            ...bookData,
+                            category: journal.name,
+
+                            enabled: false
+                        });
+                    }
                 }
             }
         } catch (error) {

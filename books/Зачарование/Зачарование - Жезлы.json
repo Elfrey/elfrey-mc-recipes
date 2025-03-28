@@ -3,8 +3,8 @@
   "description": "",
   "ownership": {},
   "tools": "",
-  "ingredientsInspection": 0,
-  "productInspection": 0,
+  "ingredientsInspection": 2,
+  "productInspection": 2,
   "recipes": [
     {
       "name": "Справочник телесного здоровья",

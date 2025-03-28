@@ -3,8 +3,8 @@
   "description": "",
   "ownership": {},
   "tools": "Инструменты механика / Tinker's Tools",
-  "ingredientsInspection": "1",
-  "productInspection": "1",
+  "ingredientsInspection": 2,
+  "productInspection": 2,
   "recipes": [
     {
       "name": "Складная лодка / Folding Boat",

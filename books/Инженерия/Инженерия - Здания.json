@@ -3,8 +3,8 @@
   "description": "В результате будет добавлена добыча. Модуль пока не умеет создавать постройки.",
   "ownership": {},
   "tools": "Инструменты плотника / Carpenter's Tools",
-  "ingredientsInspection": "1",
-  "productInspection": "1",
+  "ingredientsInspection": 2,
+  "productInspection": 2,
   "recipes": [
     {
       "name": "Базовое убежище (10 x 10 фт) / Basic Shelter (10 x 10 ft)",

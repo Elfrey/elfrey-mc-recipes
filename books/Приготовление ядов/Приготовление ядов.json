@@ -3,8 +3,8 @@
   "description": "",
   "ownership": {},
   "tools": "Набор отравителя / Poisoner's Kit",
-  "ingredientsInspection": "1",
-  "productInspection": "1",
+  "ingredientsInspection": 2,
+  "productInspection": 2,
   "recipes": [
     {
       "name": "Сбивающее касание / Dizzying Touch",

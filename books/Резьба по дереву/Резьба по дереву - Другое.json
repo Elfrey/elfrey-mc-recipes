@@ -3,8 +3,8 @@
   "description": "",
   "ownership": {},
   "tools": "Инструменты резчика / Woodcarver's Tools",
-  "ingredientsInspection": 0,
-  "productInspection": 0,
+  "ingredientsInspection": 2,
+  "productInspection": 2,
   "recipes": [
     {
       "name": "Деревянный приклад / Wooden Stock",

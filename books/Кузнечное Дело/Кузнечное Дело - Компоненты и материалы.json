@@ -1,16 +1,10 @@
 {
   "name": "Кузнечное Дело - Компоненты и материалы",
   "description": "",
-  "ownership": {
-    "ku28rw7jRukQFKqJ": "1",
-    "XmsJK11v2DlpvsUU": "1",
-    "u2xZq7cRGkZUX1eF": "1",
-    "qg6cjbHqRTCejSCi": "1",
-    "ApTChzA7uOsk0BHP": "1"
-  },
+  "ownership": {},
   "tools": "Инструменты кузнеца / Smith's Tools",
-  "ingredientsInspection": "1",
-  "productInspection": "1",
+  "ingredientsInspection": 2,
+  "productInspection": 2,
   "recipes": [
     {
       "name": "Слиток Адамантита",

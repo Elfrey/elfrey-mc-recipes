@@ -1,8 +1,7 @@
 {
   "id": "elfrey-mc-recipes",
   "title": "Набор рецептов для крафта.",
-  "description": "",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12",
@@ -40,9 +39,6 @@
         "type": "module",
         "compatibility": {}
       }
-    ],
-    "recommends": [
-
     ]
   },
   "esmodules": [
@@ -70,19 +66,39 @@
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
   "readme": "README.md",
-  "media": [
-  ],
   "packs": [
     {
       "name": "emcr-ignridienty",
       "label": "EMCR Предметы",
       "path": "packs/emcr-ignridienty",
       "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "emcr-books",
+      "label": "EMCR Книги рецептов",
+      "path": "packs/emcr-books",
+      "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
       "system": "dnd5e"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "EMCR Книги рецептов",
+      "sorting": "a",
+      "color": "#2a9144",
+      "packs": [
+        "emcr-ignridienty",
+        "emcr-books"
+      ]
     }
   ]
 }

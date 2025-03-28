@@ -69,3 +69,7 @@ form .emcr-book-item.form-group {
 .emcr-footer {
     flex: 0;
 }
+.emcr-table ul {
+    list-style: none;
+    padding: 0;
+}

@@ -1,16 +1,10 @@
 {
   "name": "Кулинария - Пиршество",
   "description": "",
-  "ownership": {
-    "ku28rw7jRukQFKqJ": "2",
-    "XmsJK11v2DlpvsUU": "2",
-    "u2xZq7cRGkZUX1eF": "2",
-    "qg6cjbHqRTCejSCi": "2",
-    "ApTChzA7uOsk0BHP": "2"
-  },
+  "ownership": {},
   "tools": "Инструменты повара, Инструменты повара / Cook's Utensils, Инструменты повара дворфов / Cook's Utensils",
-  "ingredientsInspection": "2",
-  "productInspection": "2",
+  "ingredientsInspection": 2,
+  "productInspection": 2,
   "recipes": [
     {
       "name": "Обычный Пир",

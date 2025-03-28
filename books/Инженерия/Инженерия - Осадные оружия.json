@@ -3,8 +3,8 @@
   "description": "Некоторые объекты являются актерами и их нельзя сложить в инвенталь. Поэтому просто выдайте игрокам актера по завершению крафта.",
   "ownership": {},
   "tools": "Инструменты плотника / Carpenter's Tools",
-  "ingredientsInspection": "1",
-  "productInspection": "1",
+  "ingredientsInspection": 2,
+  "productInspection": 2,
   "recipes": [
     {
       "name": "Балиста (Большая)",

@@ -1,10 +1,10 @@
 {
-  "name": "Написания Свитков",
+  "name": "Написание Свитков",
   "description": "",
   "ownership": {},
   "tools": "Инструменты каллиграфа / Calligrapher's Supplies",
-  "ingredientsInspection": "1",
-  "productInspection": "1",
+  "ingredientsInspection": 2,
+  "productInspection": 2,
   "recipes": [
     {
       "name": "Свиток фокуса / Spell Scroll Cantrip",
