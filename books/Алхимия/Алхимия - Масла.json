@@ -14,11 +14,8 @@
   "recipes": [
     {
       "name": "Пылающее Маслоᵏ",
-      "time": 120,
-      "macroName": "Craft|13",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -56,15 +53,15 @@
       ],
       "img": "icons/consumables/plants/tearthumb-dried-halberd-leaf-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 13"
     },
     {
       "name": "Ледяное Маслоᵏ",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -112,15 +109,15 @@
       ],
       "img": "icons/consumables/plants/leaf-broad-blue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "Серебряное Маслоᵏ",
-      "time": 120,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -168,15 +165,15 @@
       ],
       "img": "icons/consumables/plants/leaf-hastate-white-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 12"
     },
     {
       "name": "Масло Языка Пламениᵏ",
-      "time": 120,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -214,15 +211,15 @@
       ],
       "img": "icons/consumables/plants/flax-leaves-spiked-bundle-orange.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 16"
     },
     {
       "name": "Масло ускользания ▲",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -276,15 +273,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "Масло эфирности ▲",
-      "time": 240,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -352,15 +349,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Oil%20of%20Etherealness.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 17"
     },
     {
       "name": "Масло Остроты",
-      "time": 240,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -408,7 +405,10 @@
       ],
       "img": "icons/consumables/potions/potion-tube-corked-bat-gold-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 19"
     }
   ],
   "img": "icons/consumables/potions/potion-tube-corked-bat-gold-red.webp",

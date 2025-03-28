@@ -14,11 +14,8 @@
   "recipes": [
     {
       "name": "Порошок исчезновения",
-      "time": 240,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -76,15 +73,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Dust%20of%20Disappearance.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 15"
     },
     {
       "name": "Порошок сухости",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -142,15 +139,15 @@
       ],
       "img": "icons/containers/bags/coinpouch-leather-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     },
     {
       "name": "Порошок чихания и удушья",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -204,7 +201,10 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     }
   ],
   "img": "modules/laaru-dnd5-hw/assets/images/pic/Dust%20of%20Disappearance.webp",

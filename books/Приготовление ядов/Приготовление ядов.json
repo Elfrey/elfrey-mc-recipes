@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Сбивающее касание / Dizzying Touch",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -60,15 +57,15 @@
       ],
       "img": "icons/consumables/potions/bottle-conical-corked-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "Простой оружейный яд / Simple Injury Poison",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -106,15 +103,15 @@
       ],
       "img": "icons/consumables/potions/potion-flask-corked-cyan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "Простой вдыхаемый яд / Simple Inhaled Poison",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -162,15 +159,15 @@
       ],
       "img": "icons/consumables/potions/potion-jar-corked-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "Простой контактный яд / Simple Contact Poison",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -208,15 +205,15 @@
       ],
       "img": "icons/consumables/potions/potion-flask-corked-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "Простой поглощаемый яд / Simple Ingested Poison",
-      "time": 120,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -254,15 +251,15 @@
       ],
       "img": "icons/consumables/potions/potion-flask-capped-yellow-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 12"
     },
     {
       "name": "Пылающая рана / Burning Wound",
-      "time": 120,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -320,15 +317,15 @@
       ],
       "img": "icons/consumables/potions/bottle-round-corked-orange.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 16"
     },
     {
       "name": "Старый и надежный / Old Reliable",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -376,15 +373,15 @@
       ],
       "img": "icons/consumables/potions/potion-jar-corked-labeled-poison-skull-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "Мощный оружейный яд / Potent Injury Poison",
-      "time": 120,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -422,15 +419,15 @@
       ],
       "img": "icons/consumables/potions/potion-jar-corked-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 15"
     },
     {
       "name": "Мощный вдыхаемый яд / Potent Inhaled Poison",
-      "time": 120,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -478,15 +475,15 @@
       ],
       "img": "icons/consumables/potions/potion-flask-corked-cyan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 15"
     },
     {
       "name": "Мощный контактный яд / Potent Contact Poison",
-      "time": 120,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -524,15 +521,15 @@
       ],
       "img": "icons/consumables/potions/potion-flask-corked-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 15"
     },
     {
       "name": "Мощный поглощаемый яд / Potent Ingested Poison",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -570,15 +567,15 @@
       ],
       "img": "icons/consumables/potions/bottle-round-corked-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "Иссушающий Душу / Withering Soul",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -626,15 +623,15 @@
       ],
       "img": "icons/consumables/potions/bottle-conical-corked-labeled-shell-cyan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "Ползучая слизь / Crawler Mucus",
-      "time": 120,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -672,15 +669,15 @@
       ],
       "img": "icons/consumables/potions/bottle-conical-corked-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 16"
     },
     {
       "name": "Обморочные испарения / Fainting Fumes",
-      "time": 240,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -738,15 +735,15 @@
       ],
       "img": "icons/consumables/potions/bottle-conical-fumes-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 16"
     },
     {
       "name": "Эссенция эфира / Essence of Ether",
-      "time": 120,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -784,15 +781,15 @@
       ],
       "img": "icons/consumables/potions/potion-tube-corked-labeled-cyan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 17"
     },
     {
       "name": "Злоба / Malice",
-      "time": 120,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -830,15 +827,15 @@
       ],
       "img": "icons/consumables/potions/bottle-conical-fumes-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 16"
     },
     {
       "name": "Нокаутирующий яд / Knockout Poison",
-      "time": 240,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -876,15 +873,15 @@
       ],
       "img": "icons/consumables/potions/potion-flask-capped-yellow-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 17"
     },
     {
       "name": "Парализующий яд / Paralyzing Poison",
-      "time": 240,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -932,15 +929,15 @@
       ],
       "img": "icons/consumables/potions/bottle-round-label-cork-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 16"
     },
     {
       "name": "Деготь по вене / Veins of Tar",
-      "time": 240,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -998,15 +995,15 @@
       ],
       "img": "icons/consumables/potions/bottle-conical-fumes-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 15"
     },
     {
       "name": "Шепот безумия / Whispers of Madness",
-      "time": 240,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1054,15 +1051,15 @@
       ],
       "img": "icons/consumables/potions/potion-bottle-corked-labeled-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 16"
     },
     {
       "name": "Полночные слёзы / Midnight Tears",
-      "time": 240,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1100,15 +1097,15 @@
       ],
       "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 16"
     },
     {
       "name": "Тяжелый оружейный яд / Grievous Injury Poison",
-      "time": 240,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1146,15 +1143,15 @@
       ],
       "img": "icons/consumables/potions/bottle-conical-corked-labeled-skull-poison-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 18"
     },
     {
       "name": "Медленная смерть / Slow Death",
-      "time": 360,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1202,15 +1199,15 @@
       ],
       "img": "icons/consumables/potions/round-decorated-snake-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 18"
     },
     {
       "name": "Бесконечные мечты / Endless Dreams",
-      "time": 480,
-      "macroName": "Craft|20",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1258,7 +1255,10 @@
       ],
       "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 20"
     }
   ],
   "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",

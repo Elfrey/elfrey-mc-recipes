@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Взрывная палочка / Blast Stick",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -50,15 +47,15 @@
       ],
       "img": "icons/weapons/wands/wand-gem-blue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Домашняя палочка / Wand of Chores",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -106,15 +103,15 @@
       ],
       "img": "icons/weapons/wands/wand-star-gold.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Палочка фокусника / Magician’s Wand",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -172,15 +169,15 @@
       ],
       "img": "icons/weapons/wands/wand-star-white.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Чудоягодный раздатчик / Goodberry Dispenser",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -228,15 +225,15 @@
       ],
       "img": "icons/weapons/wands/wand-gem-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Тихая палочка / Whisperstick",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -294,15 +291,15 @@
       ],
       "img": "icons/weapons/wands/wand-gem-teal.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Жезл обнаружения магии / Wand of Magic Detection",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -350,15 +347,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Wand%20of%20Magic%20Detection.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Жезл волшебных стрел / Wand of Magic Missiles",
-      "time": 720,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -406,15 +403,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Wand%20of%20Magic%20Missiles.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 17"
     },
     {
       "name": "Жезл секретов / Wand of Secrets",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -472,15 +469,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/wand-of-secrets.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Жезл паутины / Wand of Web",
-      "time": 720,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -538,15 +535,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Wand%20of%20Web.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "Жезл боевого мага + 1 / Wand of the War Mage +1",
-      "time": 480,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -614,15 +611,15 @@
       ],
       "img": "icons/weapons/staves/staff-engraved-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 16"
     },
     {
       "name": "Жезл сковывания / Wand of Binding",
-      "time": 1440,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -680,15 +677,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Wand%20of%20Binding.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 17"
     },
     {
       "name": "Жезл обнаружения врагов / Wand of Enemy Detection",
-      "time": 960,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -746,15 +743,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Wand%20of%20Enemy%20Detection.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Жезл ужаса / Wand of Fear",
-      "time": 960,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -812,15 +809,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Wand%20of%20Fear.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Жезл огненных шаров / Wand of Fireballs",
-      "time": 1440,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -888,15 +885,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Wand%20of%20Fireballs.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 18"
     },
     {
       "name": "Жезл молний / Wand of Lightning Bolts",
-      "time": 1440,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -964,15 +961,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Wand%20of%20Lightning%20Bolts.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 18"
     },
     {
       "name": "Жезл паралича / Wand of Paralysis",
-      "time": 1440,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1020,15 +1017,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Wand%20of%20Paralysis.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 17"
     },
     {
       "name": "Жезл чудес / Wand of Wonder",
-      "time": 960,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1176,15 +1173,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Wand%20of%20Wonder.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Жезл боевого мага + 2 / Wand of the War Mage +2",
-      "time": 1440,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1252,15 +1249,15 @@
       ],
       "img": "icons/weapons/staves/staff-engraved-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Жезл полиморфа / Wand of Polymorph",
-      "time": 1440,
-      "macroName": "Craft|",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1318,15 +1315,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Wand%20of%20Polymorph.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: "
     },
     {
       "name": "Жезл боевого мага + 3 / Wand of the War Mage +3",
-      "time": 2880,
-      "macroName": "Craft|",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1394,7 +1391,10 @@
       ],
       "img": "icons/weapons/staves/staff-engraved-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 48<br>\nКоличество проверок: 24<br>\nСложность крафта: "
     }
   ],
   "img": "icons/weapons/staves/staff-engraved-red.webp",

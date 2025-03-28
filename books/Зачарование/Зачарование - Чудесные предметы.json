@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Кольцо каракулейᵍˢ",
-      "time": 480,
-      "macroName": "Craft|12",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -66,15 +63,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 12"
     },
     {
       "name": "Сумка бобов / Bag of Beans",
-      "time": 14580,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -148,15 +145,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 15"
     },
     {
       "name": "Бездонная сумка / Bag of Holding",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -210,15 +207,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Сумка сюрпризов / Bag of Tricks",
-      "time": 72900,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -272,15 +269,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 14"
     },
     {
       "name": "Эльфийские сапоги / Boots of Elvenkind",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -354,15 +351,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Ботинки бега и прыжков / Boots of Striding and Springing",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -426,15 +423,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Сапоги приполярья / Boots of the Winterlands",
-      "time": 72900,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -508,15 +505,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 15"
     },
     {
       "name": "Наручи лучника / Bracers of Archery",
-      "time": 72900,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -580,15 +577,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 15"
     },
     {
       "name": "Летающая метла / Broom of flying",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -662,15 +659,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Шапка дыхания под водой / Cap of Water Breathing",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -734,15 +731,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Плащ ската / Cloak of the Manta Ray",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -806,15 +803,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Плащ защиты / Cloak of Protection",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -918,15 +915,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Опаляющий венец / Circlet of blasting",
-      "time": 480,
-      "macroName": "Craft|12",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -990,15 +987,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 12"
     },
     {
       "name": "Ночные очки / Goggles of Night",
-      "time": 480,
-      "macroName": "Craft|13",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1062,15 +1059,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 13"
     },
     {
       "name": "Жемчужина магической силы / Pearl of Power",
-      "time": 480,
-      "macroName": "Craft|12",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1114,15 +1111,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 12"
     },
     {
       "name": "Эльфийский плащ / Cloak of Elvenkind",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1186,15 +1183,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Источник бесконечной воды / Decanter of Endless Water",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1258,15 +1255,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Колода иллюзий / Deck of Illusions",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1330,15 +1327,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Колчан Элонны / Quiver of Ehlonna",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1392,15 +1389,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Бутылка с дымом / Eversmoking Bottle",
-      "time": 480,
-      "macroName": "Craft|13",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1474,15 +1471,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 13"
     },
     {
       "name": "Очки обворожения / Eyes of Charming",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1536,15 +1533,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     },
     {
       "name": "Очки детального зрения / Eyes of Minute Seeing",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1598,15 +1595,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     },
     {
       "name": "Очки орла / Eyes of the Eagle",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1660,15 +1657,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     },
     {
       "name": "Чудесная статуэтка, Серебряный ворон / Figurine of Wondrous Power, Silver Raven",
-      "time": 480,
-      "macroName": "Craft|13",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1742,15 +1739,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 13"
     },
     {
       "name": "Перчатки силы огра / Gauntlets of Ogre Power",
-      "time": 72900,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1824,15 +1821,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 14"
     },
     {
       "name": "Самоцвет яркости / Gem of Brightness",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1906,15 +1903,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Перчатки ловли снарядов / Gloves of Missile Snaring",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1978,15 +1975,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Перчатки плавания и лазания / Gloves of Swimming and Climbing",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2050,15 +2047,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Шляпа маскировки / Hat of Disguise",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2132,15 +2129,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Тиара интеллекта / Headband of Intellect",
-      "time": 72900,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2204,15 +2201,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 14"
     },
     {
       "name": "Шлем понимания языков / Helm of Comprehending Languages",
-      "time": 9720,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2276,15 +2273,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 14"
     },
     {
       "name": "Шлем телепатии / Helm of Telepathy",
-      "time": 9720,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2358,15 +2355,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 15"
     },
     {
       "name": "Камень удачи / Stone of Good Luck",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2430,15 +2427,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Фонарь разоблачения / Lantern of Revealing",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2502,15 +2499,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Флейта испуга / Pipes of Haunting",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2574,15 +2571,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Флейта крысолова / Pipes of the Sewers",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2646,15 +2643,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Мантия полезных вещей / Robe of Useful Items (со всеми заплатками)",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2818,15 +2815,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Верёвка лазания / Rope of Climbing",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2890,15 +2887,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     },
     {
       "name": "Камень послания / Sending Stone",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2952,15 +2949,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     },
     {
       "name": "Горн расколаᵈˢ",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -3034,15 +3031,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Паучьи тапки / Slippers of Spider Climbing",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -3106,15 +3103,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Воровские инструменты Иваᵈˢ",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -3178,15 +3175,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Крылатые сапоги / Winged Boots",
-      "time": 9720,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -3270,15 +3267,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 15"
     },
     {
       "name": "Бусина силовой сферы / Bead of Force",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -3322,15 +3319,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Дварфийский пояс / Belt of Dwarvenkind",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -3414,15 +3411,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Пояс силы холмового великана / Belt of Hill Giant Strength",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -3486,15 +3483,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Сапоги левитации / Boots of Levitation",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -3558,15 +3555,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Сапоги скорости / Boots of Speed",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -3640,15 +3637,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Наручи защиты / Bracers of Defense",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -3722,15 +3719,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Жаровня власти над элементалями огня / Brazier of Commanding Fire Elementals",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -3794,15 +3791,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Чаша власти над элементалями воды / Bowl of Commanding Water Elementals",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -3866,15 +3863,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Курильница власти над элементалями воздуха / Censer of Controlling Air Elementals",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -3948,15 +3945,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Плащ шарлатана / Cape of the Mountebank",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4030,15 +4027,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Отпирающий звонок / Chime of Opening",
-      "time": 600,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4092,15 +4089,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 10<br>\nКоличество проверок: 5<br>\nСложность крафта: 14"
     },
     {
       "name": "Плащ ускользания / Cloak of Displacement",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4164,15 +4161,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "Плащ летучей мыши / Cloak of the Bat",
-      "time": 72900,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4256,15 +4253,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 15"
     },
     {
       "name": "Пространственные оковы / Dimensional Shackles",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4338,15 +4335,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Чудесное перо кваала, якорь / Quaal's Feather Token, Anchor",
-      "time": 360,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4420,15 +4417,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 15"
     },
     {
       "name": "Чудесное перо кваала, птица / Quaal's Feather Token, Bird",
-      "time": 360,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4486,15 +4483,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Quaal%27s%20Feather%20Tokenbi.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 17"
     },
     {
       "name": "Чудесное перо кваала, веер / Quaal's Feather Token, Fan",
-      "time": 360,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4562,15 +4559,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Quaal%27s%20Feather%20Tokenfan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 15"
     },
     {
       "name": "Чудесное перо кваала, ладья-лебедь / Quaal's Feather Token, Swan Boat",
-      "time": 480,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4628,15 +4625,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Quaal%27s%20Featherbir.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 16"
     },
     {
       "name": "Чудесное перо кваала, дерево / Quaal's Feather Token, Tree",
-      "time": 360,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4684,15 +4681,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Quaal%27s%20Feather%20Tokentre.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 15"
     },
     {
       "name": "Чудесное перо кваала, кнут / Quaal's Feather Token, Whip",
-      "time": 360,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4750,15 +4747,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Quaal%27s%20Feather%20Tokenwh.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 14"
     },
     {
       "name": "Чудесная статуэтка, Бронзовый грифон / Figurine of Wondrous Power, Bronze Griffon",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4816,15 +4813,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Figurine%20of%20Wondrous%20Powergri.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Чудесная статуэтка, Эбеновая муха / Figurine of Wondrous Power, Ebony Fly",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4882,15 +4879,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Figurine%20of%20Wondrous%20Powerfly.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Чудесная статуэтка, Золотые львы / Figurine of Wondrous Power, Golden Lions",
-      "time": 72900,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -4948,15 +4945,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Figurine%20of%20Wondrous%20Powerlio.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 15"
     },
     {
       "name": "Чудесная статуэтка, Костяные козлы / Figurine of Wondrous Power, Ivory Goats",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5024,15 +5021,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Figurine%20of%20Wondrous%20Powergoat.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Чудесная статуэтка, Мраморный слон / Figurine of Wondrous Power, Marble Elephant",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5090,15 +5087,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Figurine%20of%20Wondrous%20Powereleph.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Чудесная статуэтка, Ониксовая собака / Figurine of Wondrous Power, Onyx Dog",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5146,15 +5143,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Figurine%20of%20Wondrous%20Powerdog.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Чудесная статуэтка, Серпентиновая сова / Figurine of Wondrous Power, Serpentine Owl",
-      "time": 480,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5212,15 +5209,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Figurine%20of%20Wondrous%20Powerowl.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 16"
     },
     {
       "name": "Самоцвет видения / Gem of Seeing",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5278,15 +5275,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Gem_of_Seeing.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Удобный рюкзак  Хьюварда / Heward's Handy Haversack",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5354,15 +5351,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Heward%27s%20Handy%20Haversack.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Шлем телепортации / Helm of Teleportation",
-      "time": 14580,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5420,15 +5417,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Helm%20of%20Teleportation.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 18"
     },
     {
       "name": "Звучный рог / Horn of Blasting",
-      "time": 14580,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5476,15 +5473,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/hornblast.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 17"
     },
     {
       "name": "Рог Вальхаллы, Серебряный / Horn of Valhalla, Silver",
-      "time": 14580,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5552,15 +5549,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Horn%20of%20Valhallasil.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 17"
     },
     {
       "name": "Рог Вальхаллы, Латунный / Horn of Valhalla, Brass",
-      "time": 14580,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5628,15 +5625,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Horn%20of%20Valhallabra.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 17"
     },
     {
       "name": "Подковы скорости / Horseshoes of Speed",
-      "time": 14580,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5694,15 +5691,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Horseshoes%20of%20Speed.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 16"
     },
     {
       "name": "Шлем Героевᵍˢ",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5770,15 +5767,15 @@
       ],
       "img": "icons/equipment/head/helm-norman-horned-gold.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Железные оковы Биларро / Iron Bands of Bilarro",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5846,15 +5843,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Iron%20Bands%20of%20Bilarro.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Мантия устойчивости к заклинаниям / Mantle of Spell Resistance",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5912,15 +5909,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Mantle%20of%20Spell%20Resistance.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Карманная яма / Portable Hole",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -5998,15 +5995,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/portable-hole.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Глазастая мантия / Robe of Eyes",
-      "time": 14580,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6084,15 +6081,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Robe%20of%20Eyes.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 17"
     },
     {
       "name": "Верёвка опутывания / Rope of Entanglement",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6150,15 +6147,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Rope%20of%20Entanglement.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Камень власти над элементалями земли / Stone of Controlling Earth Elementals",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6216,15 +6213,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Stone%20of%20Controlling%20Earth%20Elementals.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Воротник шквала / Squall Collar",
-      "time": 480,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6292,15 +6289,15 @@
       ],
       "img": "icons/equipment/head/hood-cloth-blue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 16"
     },
     {
       "name": "Крылья полёта / Wings of flying",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6368,15 +6365,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Wings%20of%20Flying.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Оживший щит / Animated Shield",
-      "time": 14580,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6444,15 +6441,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Animated%20Shield.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 18"
     },
     {
       "name": "Прожорливая сумка / Bag of Devouring",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6500,15 +6497,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Bag%20of%20Devouring.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Свеча воззвания / Candle of Invocation",
-      "time": 19440,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6566,15 +6563,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Candle%20of%20Invocation.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 19"
     },
     {
       "name": "Ковёр-самолёт / Carpet of Flying",
-      "time": 19440,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6652,15 +6649,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Carpet%20of%20Flying.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 19"
     },
     {
       "name": "Плащ паука / Cloak of Arachnida",
-      "time": 14580,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6738,15 +6735,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Cloak%20of%20Arachnida.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 18"
     },
     {
       "name": "Чудесная статуэтка, Обсидиановый конь / Figurine of Wondrous Power, Obsidian Steed",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6804,15 +6801,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Figurine%20of%20Wondrous%20Powerhorse.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Хрустальный шар / Crystal Ball",
-      "time": 14580,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6870,15 +6867,15 @@
       ],
       "img": "icons/commodities/treasure/crystal-ball-blue-purple.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 18"
     },
     {
       "name": "Хрустальный шар обнаружения мыслей / Crystal Ball of Mind Reading",
-      "time": 480,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6926,15 +6923,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Crystal%20Ball.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 19"
     },
     {
       "name": "Хрустальный шар телепатии / Crystal Ball of Telepathy",
-      "time": 480,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -6982,15 +6979,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Crystal%20Ball.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 20"
     },
     {
       "name": "Силовой куб / Cube of Force",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -7078,15 +7075,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Cube%20of%20Force.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Бутылка с ифритом / Efreeti Bottle",
-      "time": 19440,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -7164,15 +7161,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Efreeti%20Bottle.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 18"
     },
     {
       "name": "Кубические врата / Cubic Gate",
-      "time": 19440,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -7240,15 +7237,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Cubic%20Gate.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 20"
     },
     {
       "name": "Шлем сияния  (со всеми драгоценными камнями) / Helm of Brilliance",
-      "time": 14580,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -7376,15 +7373,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Helm%20of%20Brilliance.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 18"
     },
     {
       "name": "Рог Вальхаллы, Бронзовый / Horn of Valhalla, Bronze",
-      "time": 19440,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -7462,15 +7459,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Horn%20of%20Valhallabro.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 19"
     },
     {
       "name": "Подковы ветра / Horseshoes of a Zephyr",
-      "time": 14580,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -7548,15 +7545,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Horseshoes%20of%20a%20Zephyr.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 18"
     },
     {
       "name": "Мгновенная крепость Дэйрн / Daern's Instant Fortress",
-      "time": 24300,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -7634,15 +7631,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Daern%27s%20Instant%20Fortress.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 18"
     },
     {
       "name": "Зеркало захвата жизни / Mirror of Life Trapping",
-      "time": 19440,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -7710,15 +7707,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Mirror%20of%20Life%20Trapping.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 19"
     },
     {
       "name": "Переливчатая мантия / Robe of Scintillating Colors",
-      "time": 14580,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -7806,15 +7803,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Robe%20of%20scintillating%20colors.jpg",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 18"
     },
     {
       "name": "Звёздная мантия / Robe of Stars",
-      "time": 19440,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -7892,15 +7889,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Robe%20of%20Stars.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 19"
     },
     {
       "name": "Пояс силы каменного великана / Belt of Stone Giant Strength",
-      "time": 14580,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -7968,15 +7965,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Belt%20of%20Stone%20Giant%20Strength.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 20"
     },
     {
       "name": "Пояс силы огненного великана / Belt of Fire Giant Strength",
-      "time": 19440,
-      "macroName": "Craft|22",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -8044,15 +8041,15 @@
       ],
       "img": "icons/equipment/waist/belt-buckle-gem-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 22"
     },
     {
       "name": "Железная фляжка (пустая) / Iron Flask",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -8120,15 +8117,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Iron%20Flask.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Рог Вальхаллы, Железный / Horn of Valhalla, Iron",
-      "time": 24300,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -8196,15 +8193,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Horn%20of%20Valhallairo.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 20"
     },
     {
       "name": "Колода чудес / Deck of Many Things",
-      "time": 1320,
-      "macroName": "Craft|100",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -8242,15 +8239,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Deck%20of%20Many%20Things.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 22<br>\nКоличество проверок: 11<br>\nСложность крафта: 100"
     },
     {
       "name": "Пояс силы облачного великана / Belt of Cloud Giant Strength",
-      "time": 24300,
-      "macroName": "Craft|23",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -8338,15 +8335,15 @@
       ],
       "img": "icons/equipment/waist/belt-thick-gemmed-steel-grey.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 23"
     },
     {
       "name": "Пояс силы штормового великана / Belt of Storm Giant Strength",
-      "time": 29160,
-      "macroName": "Craft|25",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -8434,15 +8431,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Belt%20of%20Storm%20Giant%20Strength.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 48<br>\nКоличество проверок: 24<br>\nСложность крафта: 25"
     },
     {
       "name": "Хрустальный шар истинного видения / Crystal Ball of True Seeing",
-      "time": 480,
-      "macroName": "Craft|21",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -8490,15 +8487,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Crystal%20Ball.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 21"
     },
     {
       "name": "Мантия архимага / Robe of the Archmagi",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -8566,15 +8563,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Robe%20of%20the%20Archmagi.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Сфера аннигиляции / Sphere of Annihilation",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -8652,15 +8649,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Sphere%20of%20Annihilation.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Колодец миров / Well of Many Worlds",
-      "time": 24300,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -8728,15 +8725,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Well%20of%20Many%20Worlds.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 20"
     },
     {
       "name": "Хрустальный шар Воровстваᵈˢ",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -8804,7 +8801,10 @@
       ],
       "img": "icons/sundries/documents/document-bound-white-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     }
   ],
   "img": "modules/laaru-dnd5-hw/assets/images/pic/Bag%20of%20Holding.webp",

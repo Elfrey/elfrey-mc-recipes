@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Базовый протез ноги",
-      "time": 240,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -50,15 +47,15 @@
       ],
       "img": "icons/equipment/feet/boots-armored-banded-steel.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 10"
     },
     {
       "name": "Механическая рука",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -116,15 +113,15 @@
       ],
       "img": "icons/equipment/hand/gauntlet-tooled-steel.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Механическая нога",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -182,15 +179,15 @@
       ],
       "img": "icons/equipment/feet/boots-armored-grey.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Боевая рука",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "1 одноручное рукопашное оружие",
       "tools": "",
       "ingredients": [
         {
@@ -258,15 +255,15 @@
       ],
       "img": "icons/equipment/hand/gauntlet-studded-steel-grey.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Специализированная механическая рука",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "1 инструменты на ваш выбор",
       "tools": "",
       "ingredients": [
         {
@@ -334,15 +331,15 @@
       ],
       "img": "icons/equipment/hand/gauntlet-armored-steel-grey.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Подпружиненная нога",
-      "time": 480,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -400,7 +397,10 @@
       ],
       "img": "icons/equipment/feet/boots-armored-brass.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 16"
     }
   ],
   "img": "icons/equipment/feet/boots-armored-brass.webp",

@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Сыромятная Кожа",
-      "time": 480,
-      "macroName": "Craft|6",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -40,15 +37,15 @@
       ],
       "img": "icons/commodities/leather/leather-worn-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 6"
     },
     {
       "name": "Дубленая Кожа",
-      "time": 960,
-      "macroName": "Craft|6",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -86,15 +83,15 @@
       ],
       "img": "icons/commodities/leather/leather-bolt-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 6"
     },
     {
       "name": "Вареная Кожа",
-      "time": 960,
-      "macroName": "Craft|6",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -132,15 +129,15 @@
       ],
       "img": "icons/commodities/leather/leather-bolt-grey.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 6"
     },
     {
       "name": "20 x Лоскутки кожи / Leather Scraps",
-      "time": 120,
-      "macroName": "Craft|4",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -188,15 +185,15 @@
       ],
       "img": "icons/commodities/leather/leather-scraps-yellow.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 4"
     },
     {
       "name": "Шкура",
-      "time": 120,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -224,15 +221,15 @@
       ],
       "img": "icons/commodities/leather/fur-pelt-spotted-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 10"
     },
     {
       "name": "20 x Кусок Шкуры",
-      "time": 120,
-      "macroName": "Craft|4",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -260,15 +257,15 @@
       ],
       "img": "icons/commodities/leather/fur-white-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 4"
     },
     {
       "name": "Пояс",
-      "time": 120,
-      "macroName": "Craft|9",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -306,15 +303,15 @@
       ],
       "img": "icons/equipment/waist/belt-buckle-round.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 9"
     },
     {
       "name": "Колчан для стрел / Quiver",
-      "time": 120,
-      "macroName": "Craft|9",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -352,15 +349,15 @@
       ],
       "img": "icons/containers/ammunition/arrows-quiver-brown-grey.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 9"
     },
     {
       "name": "Ножны / Sheath",
-      "time": 120,
-      "macroName": "Craft|9",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -388,15 +385,15 @@
       ],
       "img": "icons/weapons/swords/shortsword-sheathed-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 9"
     },
     {
       "name": "Кобура / Holster",
-      "time": 120,
-      "macroName": "Craft|9",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -424,15 +421,15 @@
       ],
       "img": "icons/commodities/leather/leather-scraps-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 9"
     },
     {
       "name": "Бурдюк / Waterskin",
-      "time": 120,
-      "macroName": "Craft|8",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -460,15 +457,15 @@
       ],
       "img": "icons/sundries/survival/wetskin-leather-purple.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 8"
     },
     {
       "name": "Рюкзак / Backpack",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -516,15 +513,15 @@
       ],
       "img": "icons/containers/bags/pack-simple-leather.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "Мешок / Bag",
-      "time": 120,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -562,15 +559,15 @@
       ],
       "img": "icons/containers/bags/sack-simple-leather-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 10"
     },
     {
       "name": "10 x Обычный Пергамент",
-      "time": 120,
-      "macroName": "Craft|8",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -598,15 +595,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 8"
     },
     {
       "name": "Необычный Пергамент",
-      "time": 120,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -654,15 +651,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 12"
     },
     {
       "name": "Редкий Пергамент",
-      "time": 120,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -700,15 +697,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 16"
     },
     {
       "name": "Очень Редкий Пергамент",
-      "time": 240,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -756,15 +753,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 18"
     },
     {
       "name": "Легендарный Пергамент",
-      "time": 240,
-      "macroName": "Craft|20",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -822,15 +819,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-plain-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 20"
     },
     {
       "name": "Набивка доспеха",
-      "time": 120,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -868,15 +865,15 @@
       ],
       "img": "icons/tools/smithing/plate-steel-grey.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 10"
     },
     {
       "name": "Мешочек для костей / Dice bag",
-      "time": 120,
-      "macroName": "Craft|9",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -904,15 +901,15 @@
       ],
       "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 9"
     },
     {
       "name": "Экзотическое седло / Exotic Saddle",
-      "time": 360,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -970,15 +967,15 @@
       ],
       "img": "icons/equipment/shoulder/pauldron-segmented-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 14"
     },
     {
       "name": "Кавалерийское седло / Military Saddle",
-      "time": 240,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1026,15 +1023,15 @@
       ],
       "img": "icons/equipment/shoulder/shoulderpad-leather-banded-ring.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 12"
     },
     {
       "name": "Вьючное седло / Pack Saddle",
-      "time": 120,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1067,15 +1064,15 @@
       ],
       "img": "icons/equipment/shoulder/shoulderpad-fur-leather.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 10"
     },
     {
       "name": "Скаковое седло / Riding Saddle",
-      "time": 240,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1113,15 +1110,15 @@
       ],
       "img": "icons/equipment/shoulder/pauldron-leather-molded.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 10"
     },
     {
       "name": "Седельные сумки / Saddlebag",
-      "time": 120,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1149,15 +1146,15 @@
       ],
       "img": "icons/containers/bags/pack-leather-black-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 10"
     },
     {
       "name": "Бит и уздечка / Bit and Bridele",
-      "time": 120,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1205,15 +1202,15 @@
       ],
       "img": "icons/sundries/survival/leather-strap-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 10"
     },
     {
       "name": "Метательный патронташ",
-      "time": 240,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1261,7 +1258,10 @@
       ],
       "img": "icons/equipment/waist/belt-buckle-ring-leather-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 12"
     }
   ],
   "img": "icons/commodities/leather/leather-worn-tan.webp",

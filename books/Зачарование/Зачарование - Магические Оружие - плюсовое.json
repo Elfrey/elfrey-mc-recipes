@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "+1 Боеприпасы",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -95,15 +92,15 @@
       ],
       "img": "icons/weapons/ammunition/arrow-simple-grey.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "+1 Оружие",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "1 оружие. Замените результат на желаемое оружие.\nДобавлять все виды оружия не имеет смысла.",
       "tools": "",
       "ingredients": [
         {
@@ -151,15 +148,15 @@
       ],
       "img": "icons/skills/melee/strike-weapons-orange.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "+2 Боеприпасы",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -242,15 +239,15 @@
       ],
       "img": "icons/weapons/ammunition/arrow-simple-grey.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "+3 Боеприпасы",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -343,15 +340,15 @@
       ],
       "img": "icons/weapons/ammunition/arrow-simple-grey.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "+2 Оружие",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "1 оружие. Замените результат на желаемое оружие.\nДобавлять все виды оружия не имеет смысла.",
       "tools": "",
       "ingredients": [
         {
@@ -409,15 +406,15 @@
       ],
       "img": "icons/skills/melee/strike-weapons-orange.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "+3 Оружие",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "1 оружие стоимостью не менее 1 000 зм. Замените результат на желаемое оружие.\nДобавлять все виды оружия не имеет смысла.",
       "tools": "",
       "ingredients": [
         {
@@ -485,7 +482,10 @@
       ],
       "img": "icons/skills/melee/strike-weapons-orange.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     }
   ],
   "img": "modules/laaru-dnd5-hw/assets/images/pic/halberd.webp",

@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Топор берсерка",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -80,15 +77,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Berserker%20Axe.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Кинжал Огр магаᵈˢ",
-      "time": 72900,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -141,15 +138,15 @@
       ],
       "img": "icons/weapons/daggers/dagger-bone-engraved-black.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 15"
     },
     {
       "name": "Пилум молнии / Javelin of Lightning",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -187,15 +184,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Javelin%20of%20Lightning.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Призыватель шквалаᵈˢ",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -263,15 +260,15 @@
       ],
       "img": "icons/weapons/axes/axe-battle.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Трезубец власти над рыбами / Trident of Fish Command",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -329,15 +326,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Trident%20of%20Fish%20Command.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Ядовитый кинжал / Dagger of Venom",
-      "time": 72900,
-      "macroName": "Craft|1",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -405,15 +402,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Dagger%20of%20Venom.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 1"
     },
     {
       "name": "Язык пламени / Flame Tongue",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -556,15 +553,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Flame%20Tongue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Убийца великанов / Giant Slayer",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Оружие стоимостью не менее 100 зм.",
       "tools": "",
       "ingredients": [
         {
@@ -737,15 +734,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Giant%20Slayer.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Булава разрушения / Mace of Disruption",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -813,15 +810,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Mace%20of%20Disruption.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Убийца драконов / Dragon Slayer",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Меч стоимостью не менее 1 000 зм",
       "tools": "",
       "ingredients": [
         {
@@ -944,15 +941,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Dragon%20Slayer.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Булава сокрушения / Mace of Smiting",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1020,15 +1017,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Mace%20of%20Smiting.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "Булава ужаса / Mace of Terror",
-      "time": 72900,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1086,15 +1083,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Mace%20of%20Terror.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 17"
     },
     {
       "name": "Солнечный клинок / Sun Blade",
-      "time": 14580,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1192,15 +1189,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Sun%20Blade.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 17"
     },
     {
       "name": "Свирепое оружие / Vicious weapon",
-      "time": 480,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1428,15 +1425,15 @@
       ],
       "img": "icons/skills/melee/strike-dagger-blood-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 16"
     },
     {
       "name": "Меч похищения жизни / Sword of Life Stealing",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Меч стоимостью не менее 200 зм.",
       "tools": "",
       "ingredients": [
         {
@@ -1514,15 +1511,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/sword%20of%20Life%20Stealing.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "Ранящий меч / Sword of wounding",
-      "time": 72900,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Меч стоимостью не менее 200 зм.",
       "tools": "",
       "ingredients": [
         {
@@ -1610,15 +1607,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/sword%20of%20Wounding.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 17"
     },
     {
       "name": "Метательное копье Ореола Гарпии",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Пилумстоимостью не менее 100 зм",
       "tools": "",
       "ingredients": [
         {
@@ -1676,15 +1673,15 @@
       ],
       "img": "icons/weapons/polearms/spear-barbed-silver.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "Стрела истребления / Arrow of Slaying",
-      "time": 480,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1742,15 +1739,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Arrow%20of%20Slaying.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 18"
     },
     {
       "name": "Пляшущий меч / Dancing sword",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Меч стоимостью не менее 100 зм.",
       "tools": "",
       "ingredients": [
         {
@@ -1863,15 +1860,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/dancing_sword.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Дварфийский метательный молот / Dwarven Thrower",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1919,15 +1916,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Dwarven%20Thrower.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Лук волшебных стрелᵗᵃᵍ",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2000,15 +1997,15 @@
       ],
       "img": "icons/weapons/bows/shortbow-recurve-blue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Морозный клинок / Frost brand",
-      "time": 9720,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2161,15 +2158,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Frost%20Brand.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 19"
     },
     {
       "name": "Вор девяти жизней / Nine Lives Stealer",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Меч стоимостью не менее 500 зм.",
       "tools": "",
       "ingredients": [
         {
@@ -2292,15 +2289,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Nine%20Lives%20Steal.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Клятвeнный лук / Oathbow",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Длинный лук стоимостью не менее 500 зм.",
       "tools": "",
       "ingredients": [
         {
@@ -2368,15 +2365,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Oathbow.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Скимитар скорости / Scimitar of Speed",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Скимитар стоимостью не менее 500 зм",
       "tools": "",
       "ingredients": [
         {
@@ -2434,15 +2431,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Scimitar%20of%20Speed.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Меч остроты / Sword of Sharpness",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Меч стоимостью не менее 500 зм.",
       "tools": "",
       "ingredients": [
         {
@@ -2530,15 +2527,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Sword%20of%20Sharpness.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Священный мститель / Holy Avenger",
-      "time": 24300,
-      "macroName": "Craft|22",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2691,15 +2688,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Holy%20Avenger.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 22"
     },
     {
       "name": "Клинок удачи / Luck blade",
-      "time": 19440,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -2812,15 +2809,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Luck%20Blade.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 20"
     },
     {
       "name": "Молот грома / Hammer of Thunderbolts",
-      "time": 24300,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Молот стоимостью не менее 1 000 зм",
       "tools": "",
       "ingredients": [
         {
@@ -2878,15 +2875,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Hammer%20of%20Thunderbolts.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 20"
     },
     {
       "name": "Защитник / Defender",
-      "time": 19440,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Меч стоимостью не менее 1 000 зм.",
       "tools": "",
       "ingredients": [
         {
@@ -3029,15 +3026,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Defender.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 20"
     },
     {
       "name": "Длинное копье укротителя драконовᵈˢ / Dragon Tamer Lance",
-      "time": 19440,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Кавалерийская пика стоимостью 1 000 зм.",
       "tools": "",
       "ingredients": [
         {
@@ -3115,7 +3112,10 @@
       ],
       "img": "icons/weapons/polearms/spear-ice-crystal-blue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 20"
     }
   ],
   "img": "modules/laaru-dnd5-hw/assets/images/pic/Nine%20Lives%20Steal.webp",

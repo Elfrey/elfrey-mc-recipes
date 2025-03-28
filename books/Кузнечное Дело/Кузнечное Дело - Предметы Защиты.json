@@ -14,11 +14,8 @@
   "recipes": [
     {
       "name": "Щит",
-      "time": 360,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -91,15 +88,15 @@
       ],
       "img": "icons/equipment/shield/round-wooden-boss-steel-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 10"
     },
     {
       "name": "Башенный Щитᵏ",
-      "time": 600,
-      "macroName": "Craft|13",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -178,15 +175,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 10<br>\nКоличество проверок: 5<br>\nСложность крафта: 13"
     },
     {
       "name": "Шипастый Щитᵏ",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -265,15 +262,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Наручиᵏ",
-      "time": 240,
-      "macroName": "Craft|13",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -352,7 +349,10 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 13"
     }
   ],
   "img": "icons/equipment/shield/buckler-wooden-boss-glowing-blue.webp",

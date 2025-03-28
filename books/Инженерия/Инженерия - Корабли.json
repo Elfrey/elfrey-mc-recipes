@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Галера (гигантская) / Galley (Gargantuan)",
-      "time": 96120600,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -80,15 +77,15 @@
       ],
       "img": "icons/environment/settlement/ship.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Килевая лодка (гигантская) / Keelboat (Gargantuan)",
-      "time": 2430600,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -156,15 +153,15 @@
       ],
       "img": "icons/environment/settlement/ship.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 14"
     },
     {
       "name": "Драккар (гигантская) / Longship (Gargantuan)",
-      "time": 48060600,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -232,15 +229,15 @@
       ],
       "img": "icons/environment/settlement/ship.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 80<br>\nКоличество проверок: 40<br>\nСложность крафта: 15"
     },
     {
       "name": "Гребная лодка (большая) / Rowboat (Large)",
-      "time": 480,
-      "macroName": "Craft|13",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -278,15 +275,15 @@
       ],
       "img": "icons/environment/settlement/ship.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 13"
     },
     {
       "name": "Парусное Судно (гигантская) / Sailing Ship (Gargantuan)",
-      "time": 48060600,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -354,15 +351,15 @@
       ],
       "img": "icons/environment/settlement/ship.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 80<br>\nКоличество проверок: 40<br>\nСложность крафта: 15"
     },
     {
       "name": "Военный Корабль (гигантская) / Warship (Gargantuan)",
-      "time": 48060600,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -430,7 +427,10 @@
       ],
       "img": "icons/environment/settlement/ship.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 80<br>\nКоличество проверок: 40<br>\nСложность крафта: 17"
     }
   ],
   "img": "icons/environment/settlement/ship.webp",

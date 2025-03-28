@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Кольцо прыжков / Ring of Jumping",
-      "time": 480,
-      "macroName": "Craft|12",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -60,15 +57,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/jump.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 12"
     },
     {
       "name": "Кольцо скрытого разума / Ring of Mind Shielding",
-      "time": 72900,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -136,15 +133,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Mind%20Shielding.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 15"
     },
     {
       "name": "Кольцо плавания / Ring of Swimming",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -192,15 +189,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Swimming.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     },
     {
       "name": "Кольцо теплоты / Ring of Warmth",
-      "time": 9720,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -268,15 +265,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Warmth.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 14"
     },
     {
       "name": "Кольцо хождения по воде / Ring of Water Walking",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -324,15 +321,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Water%20Walking.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Кольцо устойчивости / Ring of Resistance",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -490,15 +487,15 @@
       ],
       "img": "icons/equipment/finger/ring-cabochon-gold-orange.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Кольцо изворотливости / Ring of Evasion",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -556,15 +553,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Evasion.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Кольцо плавного падения / Ring of Feather Falling",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -632,15 +629,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Feather%20Falling.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Кольцо свободы действий / Ring of Free Action",
-      "time": 14580,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -708,15 +705,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Free%20Action.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 17"
     },
     {
       "name": "Кольцо защиты / Ring of Protection",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -814,15 +811,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Protection.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Кольцо влияния нa животных / Ring of Animal Influence",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -890,15 +887,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Animal%20Influence.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "Кольцо хранения заклинаний / Ring of Spell Storing",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -966,15 +963,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Spell%20Storing.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Кольцо сквозного зрения / Ring of X-ray Vision",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1032,15 +1029,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20X-ray%20Vision.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "Кольцо барана / Ring of the Ram",
-      "time": 72900,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1108,15 +1105,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/ring_of_the_ram.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 15"
     },
     {
       "name": "Кольцо регенерации / Ring of Regeneration",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1184,15 +1181,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Regeneration.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Кольцо падающих звёзд / Ring of Shooting Stars",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1250,15 +1247,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Shooting%20Stars.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Кольцо телекинеза / Ring of Telekinesis",
-      "time": 9720,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1316,15 +1313,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Telekinesis.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 19"
     },
     {
       "name": "Кольцо отражения заклинаний / Ring of Spell Turning",
-      "time": 19440,
-      "macroName": "Craft|22",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1382,15 +1379,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Spell%20Turning.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 22"
     },
     {
       "name": "Кольцо трёх желаний / Ring of Three Wishes",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1428,15 +1425,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Three%20Wishes.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Кольцо призыва джинна / Ring of Djinni Summoning",
-      "time": 14580,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1504,15 +1501,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Djinni%20Summoning.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 20"
     },
     {
       "name": "Кольцо владыки стихии / Ring of Elemental Command",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1610,15 +1607,15 @@
       ],
       "img": "icons/equipment/finger/ring-band-gold.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Кольцо невидимости / Ring of Invisibility",
-      "time": 19440,
-      "macroName": "Craft|22",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1676,7 +1673,10 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Ring%20of%20Invisibility.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 22"
     }
   ],
   "img": "modules/laaru-dnd5-hw/assets/images/pic/jump.webp",

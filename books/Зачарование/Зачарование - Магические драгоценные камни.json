@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Бриллиантовый Алмаз",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -50,15 +47,15 @@
       ],
       "img": "icons/commodities/gems/gem-faceted-round-white.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     },
     {
       "name": "Шипучий Изумруд",
-      "time": 240,
-      "macroName": "Craft|13",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -96,15 +93,15 @@
       ],
       "img": "icons/commodities/gems/gem-cut-table-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 13"
     },
     {
       "name": "Мерцающий Рубин",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -142,15 +139,15 @@
       ],
       "img": "icons/commodities/gems/gem-faceted-radiant-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     },
     {
       "name": "Сияющий Сапфир",
-      "time": 360,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -188,15 +185,15 @@
       ],
       "img": "icons/commodities/gems/gem-faceted-trillion-blue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 15"
     },
     {
       "name": "Сверкающий Гранат",
-      "time": 360,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -244,15 +241,15 @@
       ],
       "img": "icons/commodities/gems/gem-rough-drop-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 16"
     },
     {
       "name": "Магический Алмаз",
-      "time": 360,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -290,15 +287,15 @@
       ],
       "img": "icons/commodities/gems/gem-faceted-radiant-teal.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 16"
     },
     {
       "name": "Идеальное Инкрустирование",
-      "time": 360,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -346,7 +343,10 @@
       ],
       "img": "icons/commodities/gems/pearl-water.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 18"
     }
   ],
   "img": "icons/commodities/gems/pearl-water.webp",

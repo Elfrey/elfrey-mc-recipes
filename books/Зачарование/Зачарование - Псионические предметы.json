@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Камень зренияᵏ / Vision Stone",
-      "time": 240,
-      "macroName": "Craft|13",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -50,15 +47,15 @@
       ],
       "img": "icons/commodities/gems/gem-cluster-purple.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 13"
     },
     {
       "name": "+1 Усиливающий кристаллᵏ",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -106,15 +103,15 @@
       ],
       "img": "icons/commodities/gems/gem-faceted-cushion-teal.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "+1 Кристалл пси-лезвияᵏ",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -172,15 +169,15 @@
       ],
       "img": "icons/commodities/gems/gem-rough-navette-purple.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Взрывной кристаллᵏ",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -228,15 +225,15 @@
       ],
       "img": "icons/commodities/gems/gem-rough-oval-purple.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Фокусирующий кристаллᵏ",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -284,15 +281,15 @@
       ],
       "img": "icons/commodities/gems/gem-raw-rough-purple.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Псионически настроенное оружиеᵏ",
-      "time": 240,
-      "macroName": "Craft|13",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -510,15 +507,15 @@
       ],
       "img": "icons/weapons/swords/sword-winged-pink.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 13"
     },
     {
       "name": "Резонирующий кристаллᵏ",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -556,15 +553,15 @@
       ],
       "img": "icons/commodities/gems/gem-faceted-cushion-teal-black.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "+2 Усиливающий кристаллᵏ",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -612,15 +609,15 @@
       ],
       "img": "icons/commodities/gems/gem-faceted-tapered-blue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "+2 Кристалл пси-лезвияᵏ",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -678,15 +675,15 @@
       ],
       "img": "icons/commodities/gems/gem-rough-navette-purple-pink.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "Оттискивающий кристаллᵏ",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -734,15 +731,15 @@
       ],
       "img": "icons/commodities/gems/gem-rough-cushion-pink-yellow.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "Чистота разумаᵏ",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -790,15 +787,15 @@
       ],
       "img": "icons/equipment/head/goggles-leather-grey.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "+3 Усиливающий кристаллᵏ",
-      "time": 14580,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -846,15 +843,15 @@
       ],
       "img": "icons/commodities/gems/gem-faceted-teardrop-blue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 18"
     },
     {
       "name": "+3 Кристалл пси-лезвияᵏ",
-      "time": 14580,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -912,15 +909,15 @@
       ],
       "img": "icons/commodities/gems/gem-rough-navette-pink.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 18"
     },
     {
       "name": "Осколок разумаᵏ",
-      "time": 19440,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -968,15 +965,15 @@
       ],
       "img": "icons/commodities/gems/gem-rough-round-pink.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 19"
     },
     {
       "name": "Осколок душиᵏ",
-      "time": 24300,
-      "macroName": "Craft|20",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1024,7 +1021,10 @@
       ],
       "img": "icons/commodities/gems/pearl-water.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 20"
     }
   ],
   "img": "icons/commodities/gems/pearl-water.webp",

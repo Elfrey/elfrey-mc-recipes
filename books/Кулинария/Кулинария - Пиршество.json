@@ -14,11 +14,8 @@
   "recipes": [
     {
       "name": "Обычный Пир",
-      "time": 60,
-      "macroName": "Craft|8",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -62,15 +59,15 @@
         "u2xZq7cRGkZUX1eF": "1",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 1<br>\nКоличество проверок: 0.5<br>\nСложность крафта: 8"
     },
     {
       "name": "Улучшенный пир",
-      "time": 120,
-      "macroName": "Craft|8",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -124,15 +121,15 @@
         "u2xZq7cRGkZUX1eF": "1",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 8"
     },
     {
       "name": "Мясной пир",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -186,15 +183,15 @@
         "u2xZq7cRGkZUX1eF": "1",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "Всё что не убивает тебя...",
-      "time": 120,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -258,15 +255,15 @@
         "u2xZq7cRGkZUX1eF": "1",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 16"
     },
     {
       "name": "Морской Балбес",
-      "time": 120,
-      "macroName": "Craft|12",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -320,15 +317,15 @@
         "u2xZq7cRGkZUX1eF": "1",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 12"
     },
     {
       "name": "Чудесный пир",
-      "time": 120,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -402,15 +399,15 @@
         "u2xZq7cRGkZUX1eF": "1",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 16"
     },
     {
       "name": "Сытный Мясной пир",
-      "time": 120,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -494,15 +491,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 16"
     },
     {
       "name": "Элементальный пир",
-      "time": 120,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -586,15 +583,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 16"
     },
     {
       "name": "Пир Героев",
-      "time": 240,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -658,15 +655,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 18"
     },
     {
       "name": "Суперский пир",
-      "time": 240,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -750,15 +747,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 18"
     },
     {
       "name": "Суперский Мясной пир",
-      "time": 240,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -842,15 +839,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 18"
     },
     {
       "name": "Легендарный Мясной пир",
-      "time": 360,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -934,15 +931,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 20"
     },
     {
       "name": "Легендарный пир",
-      "time": 360,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1026,7 +1023,10 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 20"
     }
   ],
   "img": "icons/consumables/food/plate-steak-grilled-brown-green.webp",

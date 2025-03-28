@@ -14,11 +14,8 @@
   "recipes": [
     {
       "name": "Боеприпасы Громовой пушки х 10",
-      "time": 120,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -97,15 +94,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 15"
     },
     {
       "name": "Боеприпасы огнестрельного оружия х 20",
-      "time": 240,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -149,15 +146,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 15"
     },
     {
       "name": "Пистоль",
-      "time": 960,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -250,15 +247,15 @@
       ],
       "img": "icons/weapons/guns/gun-pistol-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Мушкет",
-      "time": 960,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -351,15 +348,15 @@
       ],
       "img": "icons/weapons/guns/gun-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Дробовик",
-      "time": 1920,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -462,15 +459,15 @@
       ],
       "img": "icons/weapons/guns/gun-double-barrel.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 19"
     },
     {
       "name": "Громовая пушкаᵏ",
-      "time": 480,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -599,7 +596,10 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 17"
     }
   ],
   "img": "icons/weapons/guns/gun-topbarrel.webp",

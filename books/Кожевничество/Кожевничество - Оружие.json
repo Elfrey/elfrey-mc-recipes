@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Кнут / Whip",
-      "time": 240,
-      "macroName": "Craft|9",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -40,15 +37,15 @@
       ],
       "img": "icons/weapons/misc/whip-red-yellow.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 9"
     },
     {
       "name": "Хлыст",
-      "time": 360,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -86,7 +83,10 @@
       ],
       "img": "icons/weapons/misc/whip-red-yellow.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 14"
     }
   ],
   "img": "icons/weapons/misc/whip-red-yellow.webp",

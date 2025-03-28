@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Амулет необнаружимости / Amulet of Proof against Detection and Location",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -50,15 +47,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Amulet%20of%20Proof%20against%20Detection%20and%20Location.jpg",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Брошь щита / Brooch of Shielding",
-      "time": 360,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -116,15 +113,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Brooch%20of%20Shielding_1.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 14"
     },
     {
       "name": "Медальон чтения мыслей / Medallion of Thoughts",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -182,15 +179,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/medallion-of-thoughts.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Ожерелье адаптации / Necklace of Adaptation",
-      "time": 360,
-      "macroName": "Craft|12",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -248,15 +245,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/necklace-of-adaptation.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 12"
     },
     {
       "name": "Оберег против болезней / Periapt of Health",
-      "time": 72900,
-      "macroName": "Craft|12",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -314,15 +311,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Periapt%20of%20Health.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 12"
     },
     {
       "name": "Оберег затягивания ран / Periapt of Wound Closure",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -380,15 +377,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/periapt_of_wound_closure.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Талисман дикаряᵏ",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -446,15 +443,15 @@
       ],
       "img": "icons/equipment/neck/necklace-carved-bone-skull.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Амулет здоровья / Amulet of Health",
-      "time": 72900,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -502,15 +499,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/amulet_of_health.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 18"
     },
     {
       "name": "Ожерелье молитвeнных чёток / Necklace of Prayer Beads",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -618,15 +615,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Necklace%20of%20Prayer%20Beads.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "Планарный амулет / Amulet of the Planes",
-      "time": 14580,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -684,15 +681,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Amulet%20of%20the%20Planes.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 18"
     },
     {
       "name": "Защитный скарабей / Scarab of Protection",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -740,15 +737,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Scarab%20of%20Protection.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Талисман чистого добра / Talisman of Pure Good",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Легендарная божественная эссенция от доброго источника",
       "tools": "",
       "ingredients": [
         {
@@ -806,15 +803,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Talisman%20of%20Pure%20Good.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Талисман запредельного зла / Talisman of Ultimate Evil",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Легендарная божественная эссенция от злого источника",
       "tools": "",
       "ingredients": [
         {
@@ -872,15 +869,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Talisman%20of%20Ultimate%20Evil.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Талисман сферы / Talisman of the Sphere",
-      "time": 14580,
-      "macroName": "Craft|22",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -918,7 +915,10 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Talisman%20of%20the%20Sphere.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 22"
     }
   ],
   "img": "modules/laaru-dnd5-hw/assets/images/pic/Talisman%20of%20the%20Sphere.webp",

@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Свиток фокуса / Spell Scroll Cantrip",
-      "time": 120,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -50,15 +47,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-rolled-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 12"
     },
     {
       "name": "Свиток заклинания 1-го круга / Spell Scroll 1st level",
-      "time": 120,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -106,15 +103,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-bound-black-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 12"
     },
     {
       "name": "Свиток заклинания 2-го круга / Spell Scroll 2nd level",
-      "time": 120,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -162,15 +159,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-bound-white-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 14"
     },
     {
       "name": "Свиток заклинания 3-го круга / Spell Scroll 3rd level",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -218,15 +215,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-bound-tan-grey.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     },
     {
       "name": "Свиток заклинания 4-го круга / Spell Scroll 4th level",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -274,15 +271,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-bound-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     },
     {
       "name": "Свиток заклинания 5-го круга / Spell Scroll 5th level",
-      "time": 240,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -330,15 +327,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-bound-sealed-black-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 15"
     },
     {
       "name": "Свиток заклинания 6-го круга / Spell Scroll 6th level",
-      "time": 240,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -386,15 +383,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-bound-sealed-brown-grey.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 16"
     },
     {
       "name": "Свиток заклинания 7-го круга / Spell Scroll 7th level",
-      "time": 480,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -442,15 +439,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-bound-sealed-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 17"
     },
     {
       "name": "Свиток заклинания 8-го круга / Spell Scroll 8th level",
-      "time": 480,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -498,15 +495,15 @@
       ],
       "img": "icons/sundries/scrolls/scroll-bound-sealed-gold-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 18"
     },
     {
       "name": "Свиток заклинания 9-го круга / Spell Scroll 9th level",
-      "time": 14580,
-      "macroName": "Craft|20",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -554,7 +551,10 @@
       ],
       "img": "icons/sundries/scrolls/scroll-bound-sealed-red-yellow.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 20"
     }
   ],
   "img": "icons/sundries/scrolls/scroll-bound-sealed-red-yellow.webp",

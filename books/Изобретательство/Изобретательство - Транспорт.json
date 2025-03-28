@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Складная лодка / Folding Boat",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -80,15 +77,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Folding%20Boat.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Складная Повозка / Folding Cart",
-      "time": 9720,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -156,7 +153,10 @@
       ],
       "img": "icons/containers/boxes/crates-wooden-stacked.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 15"
     }
   ],
   "img": "modules/laaru-dnd5-hw/assets/images/pic/Folding%20Boat.webp",

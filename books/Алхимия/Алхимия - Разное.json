@@ -14,11 +14,8 @@
   "recipes": [
     {
       "name": "Восстанавливающая мазь",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -72,15 +69,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Универсальный Клей",
-      "time": 9720,
-      "macroName": "Craft|22",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -134,15 +131,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 22"
     },
     {
       "name": "Универсальный Растворитель",
-      "time": 9720,
-      "macroName": "Craft|22",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -190,7 +187,10 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Universal%20Solvent.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 22"
     }
   ],
   "img": "modules/laaru-dnd5-hw/assets/images/pic/Keoghtom%27s%20Ointment.webp",

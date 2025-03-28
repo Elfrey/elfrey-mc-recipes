@@ -14,11 +14,8 @@
   "recipes": [
     {
       "name": "Эльфийский Хлеб",
-      "time": 360,
-      "macroName": "Craft|8",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -72,15 +69,15 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 8"
     },
     {
       "name": "Железный Рацион",
-      "time": 60,
-      "macroName": "Craft|8",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -114,7 +111,10 @@
         "u2xZq7cRGkZUX1eF": "0",
         "qg6cjbHqRTCejSCi": "0",
         "ApTChzA7uOsk0BHP": "0"
-      }
+      },
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 1<br>\nКоличество проверок: 0.5<br>\nСложность крафта: 8"
     }
   ],
   "img": "icons/consumables/food/soup-broth-bowl-wooden-yellow.webp",

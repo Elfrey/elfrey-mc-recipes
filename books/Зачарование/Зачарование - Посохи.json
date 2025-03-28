@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Посох питона / Staff of the Python",
-      "time": 480,
-      "macroName": "Craft|12",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -60,15 +57,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Staff%20of%20the%20Python.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 12"
     },
     {
       "name": "Посох обворожения / Staff of Charming",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -156,15 +153,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Staff%20of%20Charming.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Посох исцеления / Staff of Healing",
-      "time": 72900,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -242,15 +239,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Staff%20of%20Healing.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 18"
     },
     {
       "name": "Посох призыва насекомых / Staff of Swarming Insects",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -328,15 +325,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Staff%20of%20Swarming%20Insects.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "Посох увядания / Staff of Withering",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -394,15 +391,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Staff%20of%20Withering.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Посох лесов / Staff of the Woodlands",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -450,15 +447,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Staff%20of%20the%20Woodlands.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Посох огня / Staff of Fire",
-      "time": 9720,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -536,15 +533,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Staff%20of%20Fire.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 19"
     },
     {
       "name": "Посох мороза / Staff of Frost",
-      "time": 9720,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -652,15 +649,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Staff%20of%20Frost.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 19"
     },
     {
       "name": "Посох могущества / Staff of Power",
-      "time": 19440,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -808,15 +805,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Staff%20of%20Power.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 20"
     },
     {
       "name": "Посох ударов / Staff of Striking",
-      "time": 9720,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -854,15 +851,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Staff%20of%20Striking.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Посох грома и молнии / Staff of Thunder and Lightning",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -920,15 +917,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Staff%20of%20Thunder%20and%20Lightning.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Посох мага / Staff of the Magi",
-      "time": 24300,
-      "macroName": "Craft|22",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Книга заклинаний волшебник содержащая все заклинания посоха мага.",
       "tools": "",
       "ingredients": [
         {
@@ -986,7 +983,10 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Staff%20of%20the%20Magi.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 22"
     }
   ],
   "img": "modules/laaru-dnd5-hw/assets/images/pic/Staff%20of%20the%20Magi.webp",

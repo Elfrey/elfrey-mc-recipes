@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Камень Иун, Защита / Ioun Stone, Protection",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -70,15 +67,15 @@
       ],
       "img": "icons/commodities/gems/gem-rough-navette-red-pink.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Камень Иун, Бдительность / Ioun Stone, Awareness",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -136,15 +133,15 @@
       ],
       "img": "icons/commodities/gems/gem-faceted-diamond-blue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Камень Иун, Сытость / Ioun Stone, Sustenance",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -202,15 +199,15 @@
       ],
       "img": "icons/commodities/gems/gem-faceted-tapered-blue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Камень Иун, Запас / Ioun Stone, Reserve",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -258,15 +255,15 @@
       ],
       "img": "icons/commodities/gems/gem-faceted-diamond-pink.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Камень Иун, Сила / Ioun Stone, Strength",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -314,15 +311,15 @@
       ],
       "img": "icons/commodities/gems/gem-rough-oval-teal.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Камень Иун, Поглощение / Ioun Stone, Absorption",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -380,15 +377,15 @@
       ],
       "img": "icons/commodities/gems/gem-rough-ball-purple.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Камень Иун, Подвижность / Ioun Stone, Agility",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -446,15 +443,15 @@
       ],
       "img": "icons/commodities/gems/pearl-fire-swirl.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Камень Иун, Стойкость / Ioun Stone, Fortitude",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -512,15 +509,15 @@
       ],
       "img": "icons/commodities/gems/gem-rough-ball-purple.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Камень Иун, Проницательность / Ioun Stone, Insight",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -578,15 +575,15 @@
       ],
       "img": "icons/commodities/gems/pearl-swirl-blue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Камень Иун, Интеллект / Ioun Stone, Intellect",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -644,15 +641,15 @@
       ],
       "img": "icons/commodities/gems/pearl-red-gold.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Камень Иун, Лидерство / Ioun Stone, Leadership",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -700,15 +697,15 @@
       ],
       "img": "icons/commodities/gems/pearl-turquoise.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Камень Иун, Высшее поглощение / Ioun Stone, Greater Absorption",
-      "time": 19440,
-      "macroName": "Craft|20",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -776,15 +773,15 @@
       ],
       "img": "icons/commodities/gems/pearl-rough-turquoise.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 20"
     },
     {
       "name": "Камень Иун, Мастерство / Ioun Stone, Mastery",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -852,15 +849,15 @@
       ],
       "img": "icons/commodities/gems/gem-rough-faceted-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Камень Иун, Регенерация / Ioun Stone, Regeneration",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -918,7 +915,10 @@
       ],
       "img": "icons/commodities/stone/ore-chunk-white.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     }
   ],
   "img": "icons/commodities/gems/gem-rough-navette-red-pink.webp",

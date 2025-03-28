@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Океанический легкий арбалет/ Oceanic Light Crossbow",
-      "time": 240,
-      "macroName": "Craft|13",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -60,15 +57,15 @@
       ],
       "img": "icons/weapons/crossbows/crossbow-loaded-black.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 13"
     },
     {
       "name": "Ручной арбалет / Hand Crossbow",
-      "time": 480,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -126,15 +123,15 @@
       ],
       "img": "icons/weapons/crossbows/handcrossbow-black.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 16"
     },
     {
       "name": "Скорострельный Тяжелый Арбалет",
-      "time": 360,
-      "macroName": "Craft|13",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -192,15 +189,15 @@
       ],
       "img": "icons/weapons/crossbows/crossbow-purple.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 13"
     },
     {
       "name": "\"Обычная\" трость",
-      "time": 360,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -248,15 +245,15 @@
       ],
       "img": "icons/weapons/staves/staff-simple-carved.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 14"
     },
     {
       "name": "Щитовой Фонарь",
-      "time": 960,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -324,15 +321,15 @@
       ],
       "img": "icons/equipment/shield/heater-steel-boss-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Скорострельный Тяжелый Арбалет",
-      "time": 480,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -380,7 +377,10 @@
       ],
       "img": "icons/weapons/crossbows/crossbow-purple.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 18"
     }
   ],
   "img": "icons/weapons/crossbows/crossbow-purple.webp",

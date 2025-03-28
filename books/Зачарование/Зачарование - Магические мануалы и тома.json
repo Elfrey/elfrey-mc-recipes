@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Пособие по здоровью тела / Manual of Bodily Health",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -70,15 +67,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Manual%20of%20Bodily%20Health.jpg",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Пособие по полезным тренировкам / Manual of Gainful Exercise",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -126,15 +123,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Manual%20of%20Gainful%20Exercise.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Книга голема / Manual of Golems",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -202,15 +199,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Manual%20of%20Golems.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Пособие по быстроте действий / Manual of Quickness of Action",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -268,15 +265,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Manual%20of%20Quickness%20of%20Action.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Том ясного мышления / Tome of Clear Thought",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -324,15 +321,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Tome%20of%20Clear%20Thought.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Том лидерства и влияния / Tome of Leadership and Influence",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -380,15 +377,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Tome%20of%20Leadership%20and%20Influence.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Том понимания / Tome of Understanding",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -446,7 +443,10 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Tome%20of%20Understanding.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     }
   ],
   "img": "modules/laaru-dnd5-hw/assets/images/pic/Tome%20of%20Understanding.webp",

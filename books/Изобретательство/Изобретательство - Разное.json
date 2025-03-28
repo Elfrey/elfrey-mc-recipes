@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Обычные запчасти",
-      "time": 240,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -40,15 +37,15 @@
       ],
       "img": "icons/commodities/tech/cog-brass.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 12"
     },
     {
       "name": "Автомагазин для ручного арбалета / Autoloader Hand Crossbow",
-      "time": 480,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -116,7 +113,10 @@
       ],
       "img": "icons/weapons/crossbows/handcrossbow-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 17"
     }
   ],
   "img": "icons/commodities/tech/cog-brass.webp",

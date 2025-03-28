@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Справочник телесного здоровья",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -39,15 +36,15 @@
       "products": [],
       "img": "icons/sundries/documents/document-bound-white-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Справочник полезных упражнений",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -64,15 +61,15 @@
       "products": [],
       "img": "icons/sundries/documents/document-bound-white-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Справочник по големам*",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -99,15 +96,15 @@
       "products": [],
       "img": "icons/sundries/documents/document-bound-white-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     },
     {
       "name": "Справочник быстроты действий",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -134,15 +131,15 @@
       "products": [],
       "img": "icons/sundries/documents/document-bound-white-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Том чистых мыслей",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -159,15 +156,15 @@
       "products": [],
       "img": "icons/sundries/documents/document-bound-white-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Том лидерства и влияния",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -195,15 +192,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Tome%20of%20Leadership%20and%20Influence.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     },
     {
       "name": "Топ понимания",
-      "time": 24300,
-      "macroName": "Craft|21",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -241,7 +238,10 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Tome%20of%20Understanding.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 40<br>\nКоличество проверок: 20<br>\nСложность крафта: 21"
     }
   ],
   "img": "icons/sundries/books/book-worn-brown-grey.webp",

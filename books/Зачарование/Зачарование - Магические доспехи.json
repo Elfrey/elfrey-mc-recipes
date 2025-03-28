@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Щит +1",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -80,15 +77,15 @@
       ],
       "img": "icons/equipment/shield/round-wooden-boss-gold-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "+1 Доспех",
-      "time": 14580,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -341,15 +338,15 @@
       ],
       "img": "icons/equipment/chest/breastplate-collared-steel.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 16"
     },
     {
       "name": "Броня устойчивости / Armor of resistance",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Требуется доспех.",
       "tools": "",
       "ingredients": [
         {
@@ -397,15 +394,15 @@
       ],
       "img": "icons/equipment/chest/breastplate-helmet-metal.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Щит ловли стрел / Arrow-Catching Shield",
-      "time": 72900,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -463,15 +460,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/arrow_catching.jpeg",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 17"
     },
     {
       "name": "Щит +2",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -549,15 +546,15 @@
       ],
       "img": "icons/equipment/shield/heater-steel-spiral.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Обманчивый клёпаный кожаный доспех / Glamoured Studded Leather",
-      "time": 9720,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -615,15 +612,15 @@
       ],
       "img": "icons/equipment/chest/breastplate-rivited-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 15"
     },
     {
       "name": "Щит притяжения снарядов / Shield of Missile Attraction",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -681,15 +678,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Shield%20of%20Missile%20Attraction.jpg",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "Чещуйчатый доспех Панголинаᵈˢ",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -757,15 +754,15 @@
       ],
       "img": "icons/equipment/chest/breastplate-collared-leather-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "Капитанское пальтоᵈˢ",
-      "time": 72900,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -843,15 +840,15 @@
       ],
       "img": "icons/equipment/chest/vest-leather-brown-gold.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 16"
     },
     {
       "name": "+2 Доспех",
-      "time": 19440,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Доспех стоимостью не менее 2 000 зм.",
       "tools": "",
       "ingredients": [
         {
@@ -1069,15 +1066,15 @@
       ],
       "img": "icons/equipment/chest/breastplate-collared-steel.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 20"
     },
     {
       "name": "Щит +3",
-      "time": 14580,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Щит стоимостью не менее 1 000 зм.",
       "tools": "",
       "ingredients": [
         {
@@ -1195,15 +1192,15 @@
       ],
       "img": "icons/equipment/shield/heater-embossed-gold.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 20"
     },
     {
       "name": "Кираса Золотого Ротвейлераᵈˢ",
-      "time": 9720,
-      "macroName": "Craft|16",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Богато украшенная кираса стоимостью не менее 500 зм",
       "tools": "",
       "ingredients": [
         {
@@ -1251,15 +1248,15 @@
       ],
       "img": "icons/equipment/chest/breastplate-gorget-steel-white.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 16"
     },
     {
       "name": "Дeмонический доспех / Demon Armor",
-      "time": 9720,
-      "macroName": "Craft|15",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1307,15 +1304,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Demon%20Armor.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 15"
     },
     {
       "name": "Одеяние Енотаᵈˢ",
-      "time": 9720,
-      "macroName": "Craft|17",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1383,15 +1380,15 @@
       ],
       "img": "icons/equipment/chest/breastplate-quilted-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Щит от заклинаний",
-      "time": 19440,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Щит стоимостью не менее 200 зм.",
       "tools": "",
       "ingredients": [
         {
@@ -1449,15 +1446,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Spellguard%20Shield.jpg",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 20"
     },
     {
       "name": "Дварфийские латы / Dwarven Plate",
-      "time": 19440,
-      "macroName": "Craft|20",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Латы со свойством Дварфийское",
       "tools": "",
       "ingredients": [
         {
@@ -1565,15 +1562,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Dwarven%20Plate.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 20"
     },
     {
       "name": "Доспехи Темного Фантомаᵈˢ",
-      "time": 14580,
-      "macroName": "Craft|18",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1661,15 +1658,15 @@
       ],
       "img": "icons/equipment/chest/breastplate-layered-leather-black.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 18"
     },
     {
       "name": "+3 Доспех",
-      "time": 29160,
-      "macroName": "Craft|22",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Доспехи стоимостью не менее 4 000 зм.",
       "tools": "",
       "ingredients": [
         {
@@ -1827,15 +1824,15 @@
       ],
       "img": "icons/equipment/chest/breastplate-collared-steel.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 48<br>\nКоличество проверок: 24<br>\nСложность крафта: 22"
     },
     {
       "name": "Броня неуязвимости / Armor of Invulnerability",
-      "time": 29160,
-      "macroName": "Craft|23",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "Доспехи стоимостью не менее 4 000 зм",
       "tools": "",
       "ingredients": [
         {
@@ -1903,15 +1900,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Armor%20of%20Invulnerability.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 48<br>\nКоличество проверок: 24<br>\nСложность крафта: 23"
     },
     {
       "name": "Латный дocпех эфирности / Plate Armor of Etherealness",
-      "time": 14580,
-      "macroName": "Craft|19",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -1969,7 +1966,10 @@
       ],
       "img": "icons/equipment/chest/breastplate-gorget-steel.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 19"
     }
   ],
   "img": "icons/equipment/chest/breastplate-gorget-steel.webp",

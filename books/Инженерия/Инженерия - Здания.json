@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Базовое убежище (10 x 10 фт) / Basic Shelter (10 x 10 ft)",
-      "time": null,
-      "macroName": "Craft|8",
       "ingredientsInspection": "0",
       "productInspection": "0",
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -50,15 +47,15 @@
       ],
       "img": "icons/environment/settlement/house-construction.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): Na<br>\nКоличество проверок: NaN<br>\nСложность крафта: 8"
     },
     {
       "name": "Хижина (15 x 15 фт) / Shack (15 x 15 ft)",
-      "time": 2700,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -96,15 +93,15 @@
       ],
       "img": "icons/environment/settlement/ldoge.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 45<br>\nКоличество проверок: 22.5<br>\nСложность крафта: 10"
     },
     {
       "name": "Маленький дом (25x 25 фт) / Small House (25 x 25 ft)",
-      "time": 49500,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -142,15 +139,15 @@
       ],
       "img": "icons/environment/settlement/house-woods.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 82<br>\nКоличество проверок: 41<br>\nСложность крафта: 12"
     },
     {
       "name": "Малый храм (25 x 35 фт) / Small Temple (25 x 35 ft)",
-      "time": 98700,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -218,15 +215,15 @@
       ],
       "img": "icons/environment/settlement/gazebo.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 14"
     },
     {
       "name": "Большой дом (35 x 35 фт) / Large House (35 x 35 ft)",
-      "time": 1458600,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -294,15 +291,15 @@
       ],
       "img": "icons/environment/settlement/house-two-stories-small.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 15"
     },
     {
       "name": "Особняк (50 x 50 фт) / Mansion (50 x 50 ft)",
-      "time": 48060600,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -370,15 +367,15 @@
       ],
       "img": "icons/environment/settlement/house-farmland.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 80<br>\nКоличество проверок: 40<br>\nСложность крафта: 16"
     },
     {
       "name": "Собор (50 x 100 фт) / Cathedral (50 x 100 ft)",
-      "time": 96120600,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -456,7 +453,10 @@
       ],
       "img": "icons/environment/settlement/palast.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     }
   ],
   "img": "icons/environment/settlement/palast.webp",

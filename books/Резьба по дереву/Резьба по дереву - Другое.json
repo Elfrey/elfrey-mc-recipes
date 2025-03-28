@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Деревянный приклад / Wooden Stock",
-      "time": 120,
-      "macroName": "Craft|8",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -40,15 +37,15 @@
       ],
       "img": "icons/commodities/wood/wood-pole.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 8"
     },
     {
       "name": "Длинная рукоять / Long Haft",
-      "time": 120,
-      "macroName": "Craft|8",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -76,15 +73,15 @@
       ],
       "img": "icons/commodities/wood/wood-pole.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 8"
     },
     {
       "name": "Деревянный приклад / Wooden Stock",
-      "time": 120,
-      "macroName": "Craft|9",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -112,15 +109,15 @@
       ],
       "img": "icons/commodities/wood/wood-pole.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 9"
     },
     {
       "name": "Шест / Pole",
-      "time": 120,
-      "macroName": "Craft|8",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -148,15 +145,15 @@
       ],
       "img": "icons/commodities/wood/wood-pole.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 8"
     },
     {
       "name": "Удочка / Fishing Pole",
-      "time": 240,
-      "macroName": "Craft|8",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -204,15 +201,15 @@
       ],
       "img": "icons/skills/trades/fishing-rod-gray.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 8"
     },
     {
       "name": "Резная Фигурка / Carved Figurine",
-      "time": 480,
-      "macroName": "Craft|8",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -240,15 +237,15 @@
       ],
       "img": "icons/commodities/treasure/figurine-bear.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 8"
     },
     {
       "name": "Качественная Резная Фигурка / Quality Figurine",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -276,15 +273,15 @@
       ],
       "img": "icons/commodities/treasure/figurine-rhino.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Шедевральная Резкая Фигурка / Superb Figurine",
-      "time": 480,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -312,15 +309,15 @@
       ],
       "img": "icons/commodities/treasure/figurine-owl.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 18"
     },
     {
       "name": "5 x Кусок дерева / Wood scraps",
-      "time": 120,
-      "macroName": "Craft|5",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -348,7 +345,10 @@
       ],
       "img": "icons/magic/nature/root-vine-wood-blue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 5"
     }
   ],
   "img": "icons/magic/nature/root-vine-wood-blue.webp",

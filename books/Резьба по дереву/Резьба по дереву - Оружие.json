@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Короткий лук / Shortbow",
-      "time": 720,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -60,15 +57,15 @@
       ],
       "img": "icons/weapons/bows/shortbow-recurve.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 12"
     },
     {
       "name": "Длинный лук / Longbow",
-      "time": 840,
-      "macroName": "Craft|13",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -116,15 +113,15 @@
       ],
       "img": "icons/weapons/bows/longbow-leather-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 14<br>\nКоличество проверок: 7<br>\nСложность крафта: 13"
     },
     {
       "name": "Композитный лук / Composite Bow",
-      "time": 1440,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -172,15 +169,15 @@
       ],
       "img": "icons/weapons/bows/bow-recurve-black.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 12"
     },
     {
       "name": "Боевой посох / Quarterstaff",
-      "time": 120,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -208,7 +205,10 @@
       ],
       "img": "icons/weapons/staves/staff-simple-gold.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 10"
     }
   ],
   "img": "icons/weapons/bows/shortbow-recurve.webp",

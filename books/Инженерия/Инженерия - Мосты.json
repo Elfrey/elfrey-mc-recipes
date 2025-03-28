@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Узкий деревянный мост (10 фт) / Narrow Wooden Bridge (10 ft)",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -50,15 +47,15 @@
       ],
       "img": "icons/environment/settlement/bridge-stone.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     },
     {
       "name": "Большой деревянный мост (10 фт) / Large Wooden Bridge (10 ft)",
-      "time": 480,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -96,15 +93,15 @@
       ],
       "img": "icons/environment/settlement/bridge-stone.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 14"
     },
     {
       "name": "Огромный деревянный мост  (10 фт) / Huge Wooden Bridge (10 ft)",
-      "time": 9720,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -142,15 +139,15 @@
       ],
       "img": "icons/environment/settlement/bridge-stone.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 15"
     },
     {
       "name": "Узкий каменный мост (10 фт) / Narrow Stone Bridge (10 ft)",
-      "time": 480,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -188,15 +185,15 @@
       ],
       "img": "icons/environment/settlement/bridge-stone.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 15"
     },
     {
       "name": "Большой каменный мост (10 фт) / Large Stone Bridge (10 ft)",
-      "time": 9720,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -234,15 +231,15 @@
       ],
       "img": "icons/environment/settlement/bridge-stone.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 15"
     },
     {
       "name": "Огромный каменный мост (10 фт) / Huge Stone Bridge (10 ft)",
-      "time": 19380,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -280,7 +277,10 @@
       ],
       "img": "icons/environment/settlement/bridge-stone.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 32<br>\nКоличество проверок: 16<br>\nСложность крафта: 16"
     }
   ],
   "img": "icons/environment/settlement/bridge-stone.webp",

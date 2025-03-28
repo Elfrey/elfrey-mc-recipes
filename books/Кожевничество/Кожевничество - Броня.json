@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Панцирный Нагрудник / Carapace Breastplate",
-      "time": 480,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -80,15 +77,15 @@
       ],
       "img": "icons/equipment/chest/breastplate-sculpted-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 12"
     },
     {
       "name": "Панцирный Щит . Carapace Shield",
-      "time": 240,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -136,15 +133,15 @@
       ],
       "img": "icons/equipment/shield/heater-steel-engraved-lance-rest.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 10"
     },
     {
       "name": "Сыромятный доспех / Hide Armor",
-      "time": 240,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -192,15 +189,15 @@
       ],
       "img": "icons/equipment/chest/vest-cloth-tattered-tan.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 10"
     },
     {
       "name": "Кожаный доспех / Leather Armor",
-      "time": 240,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -238,15 +235,15 @@
       ],
       "img": "icons/equipment/chest/breastplate-layered-leather-stitched.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 12"
     },
     {
       "name": "Кожаный баклер",
-      "time": 240,
-      "macroName": "Craft|10",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -284,15 +281,15 @@
       ],
       "img": "icons/equipment/shield/kite-bronze-boss-brown.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 10"
     },
     {
       "name": "Клёпаный кожаный доспех / Studded Leather Armor",
-      "time": 360,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -340,15 +337,15 @@
       ],
       "img": "icons/equipment/chest/breastplate-rivited-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 6<br>\nКоличество проверок: 3<br>\nСложность крафта: 14"
     },
     {
       "name": "Чешуйчатый доспех / Scale Mail",
-      "time": 72900,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -396,15 +393,15 @@
       ],
       "img": "modules/laaru-dnd5-hw/assets/images/pic/Scale_mail-5e.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 12"
     },
     {
       "name": "Прочный панцирный Нагрудник / Tough Carapace Breastplate",
-      "time": 72900,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -472,7 +469,10 @@
       ],
       "img": "icons/equipment/chest/breastplate-layered-steel-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 12<br>\nКоличество проверок: 6<br>\nСложность крафта: 15"
     }
   ],
   "img": "icons/equipment/chest/breastplate-layered-steel-green.webp",

@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Шумовая Ловушка / Noise Trap",
-      "time": 120,
-      "macroName": "Craft|13",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -50,15 +47,15 @@
       ],
       "img": "icons/magic/sonic/bell-alarm-red-purple.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 13"
     },
     {
       "name": "Охотничья Ловушка / Hunting Trap",
-      "time": 120,
-      "macroName": "Craft|13",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -96,15 +93,15 @@
       ],
       "img": "icons/environment/traps/trap-jaw-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 13"
     },
     {
       "name": "Натяжной трос / Trip Wire",
-      "time": 120,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -142,7 +139,10 @@
       ],
       "img": "icons/commodities/tech/wire-spool-thin.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 12"
     }
   ],
   "img": "icons/environment/traps/trap-jaw-green.webp",

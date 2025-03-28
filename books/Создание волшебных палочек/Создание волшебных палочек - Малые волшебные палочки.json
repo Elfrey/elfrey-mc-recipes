@@ -8,11 +8,8 @@
   "recipes": [
     {
       "name": "Малая волшебная  палочка Заговора / Lesser Wand of Cantrip",
-      "time": 120,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -40,15 +37,15 @@
       ],
       "img": "icons/weapons/wands/wand-gem-green.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 2<br>\nКоличество проверок: 1<br>\nСложность крафта: 12"
     },
     {
       "name": "Малая волшебная  палочка 1-го круга / Lesser Wand of 1st-Level Spell",
-      "time": 240,
-      "macroName": "Craft|12",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -86,15 +83,15 @@
       ],
       "img": "icons/weapons/wands/wand-gem-blue.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 12"
     },
     {
       "name": "Малая волшебная  палочка 2-го круга / Lesser Wand of 2nd-Level Spell",
-      "time": 240,
-      "macroName": "Craft|14",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -132,15 +129,15 @@
       ],
       "img": "icons/weapons/wands/wand-gem-pink.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 14"
     },
     {
       "name": "Малая волшебная  палочка 3-го круга / Lesser Wand of 3rd-Level Spell",
-      "time": 240,
-      "macroName": "Craft|15",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -178,15 +175,15 @@
       ],
       "img": "icons/weapons/wands/wand-gem-purple.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 15"
     },
     {
       "name": "Малая волшебная  палочка 4-го круга / Lesser Wand of 4th-Level Spell",
-      "time": 240,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -224,15 +221,15 @@
       ],
       "img": "icons/weapons/wands/wand-gem-red.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 4<br>\nКоличество проверок: 2<br>\nСложность крафта: 16"
     },
     {
       "name": "Малая волшебная  палочка 5-го круга / Lesser Wand of 5th-Level Spell",
-      "time": 480,
-      "macroName": "Craft|16",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -270,15 +267,15 @@
       ],
       "img": "icons/weapons/wands/wand-gem-teal.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 16"
     },
     {
       "name": "Малая волшебная  палочка 6-го круга / Lesser Wand of 6th-Level Spell",
-      "time": 480,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -316,15 +313,15 @@
       ],
       "img": "icons/weapons/wands/wand-gem-violet.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 8<br>\nКоличество проверок: 4<br>\nСложность крафта: 17"
     },
     {
       "name": "Малая волшебная  палочка 7-го круга / Lesser Wand of 7th-Level Spell",
-      "time": 960,
-      "macroName": "Craft|17",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -362,15 +359,15 @@
       ],
       "img": "icons/weapons/wands/wand-carved-fire.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 17"
     },
     {
       "name": "Малая волшебная  палочка 8-го круга / Lesser Wand of 8th-Level Spell",
-      "time": 960,
-      "macroName": "Craft|18",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -408,15 +405,15 @@
       ],
       "img": "icons/weapons/wands/wand-carved-pink.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 16<br>\nКоличество проверок: 8<br>\nСложность крафта: 18"
     },
     {
       "name": "Малая волшебная  палочка 9-го круга / Lesser Wand of 9th-Level Spell",
-      "time": 1440,
-      "macroName": "Craft|20",
       "ingredientsInspection": 0,
       "productInspection": 0,
-      "description": "",
       "tools": "",
       "ingredients": [
         {
@@ -454,7 +451,10 @@
       ],
       "img": "icons/weapons/wands/wand-carved-stone-shard.webp",
       "sound": "",
-      "ownership": {}
+      "ownership": {},
+      "time": "",
+      "macroName": "",
+      "description": "Время крафта (часы): 24<br>\nКоличество проверок: 12<br>\nСложность крафта: 20"
     }
   ],
   "img": "icons/weapons/wands/wand-carved-stone-shard.webp",
