@@ -9,6 +9,7 @@
 ## Для работы необходимы модули
 * [MasterCrafted](https://foundryvtt.com/packages/mastercrafted) (Платный) 
 * [Kraywell Crafting Сompendium](https://github.com/Kraywell/Kraywell-Crafting-compendium) (Бесплатный)
+* [Модуль Лаару](https://boosty.to/laaru) (Платный)
 
 # Инструкция по использованию
 ## Импорт рецептов
