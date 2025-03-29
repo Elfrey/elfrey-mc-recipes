@@ -4,7 +4,7 @@
 
 ## Набор рецептов для модуля MasterCrafter
 
-Данный набор рецептов предназначен для использования в системе Foundry VTT совместно с модулем MasterCrafte
+Данный набор рецептов предназначен для использования в системе Foundry VTT совместно с модулем MasterCrafted
 
 ## Для работы необходимы модули
 * [MasterCrafted](https://foundryvtt.com/packages/mastercrafted) (Платный) 
