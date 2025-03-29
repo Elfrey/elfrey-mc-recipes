@@ -73,3 +73,10 @@ form .emcr-book-item.form-group {
     list-style: none;
     padding: 0;
 }
+.emcr-ownership-manager-form .form-group {
+    margin-bottom: 8px;
+}
+
+.emcr-ownership-manager-form .form-group:last-child {
+    margin-bottom: 0;
+}

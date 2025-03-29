@@ -1,11 +1,13 @@
 {
     "emcr": {
+        "manageBooks": "Manage Recipe Books",
         "dialog": {
-            "title": "Recipe Book Import",
+            "title": "Manage Book Import",
             "import": "Import Selected",
             "dontShow": "Don't show this window on startup",
             "allBooks": "All Books",
-            "bookCategories": "Book Categories"
+            "bookCategories": "Book Categories",
+            "manageOwnership": "Manage Ownership"
         },
         "notifications": {
             "selectBooks": "Please select at least one book to import",
@@ -14,6 +16,19 @@
             "updateSuccess": "Updated {name}",
             "loadFailed": "Failed to load recipe books"
         },
-        "importBook": "Import Recipe Books"
+        "ownershipManager": {
+            "title": "Manage Ownership for Recipe Books",
+            "explain": "Set ownership for recipe books. The ownership will apply to all recipes in the book with a difficulty less than or equal to the \"Max DC\" value. For others, the status will be set to \"Default\".",
+            "selectUser": "Select User",
+            "selectBook": "Select Book",
+            "permission": "Permission",
+            "productOwnership": "Product View",
+            "materialOwnership": "Material View",
+            "maxDC": "Max DC",
+            "default": "Default",
+            "allow": "Allow",
+            "deny": "Deny",
+            "apply": "Apply"
+        }
     }
 }

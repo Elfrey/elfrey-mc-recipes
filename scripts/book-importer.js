@@ -1,5 +1,6 @@
-const MODULE_ID = 'elfrey-mc-recipes';
-const MASTERCRAFTED_MODULE_ID = 'mastercrafted';
+import { EMCR_CONST } from './consts.js';
+import { OwnershipManager } from './ownership-manager.js'
+
 
 function generateIdFromName(name) {
     // Convert string to hash number
@@ -22,9 +23,9 @@ function generateIdFromName(name) {
 class BookImporter extends FormApplication {
     static get defaultOptions() {
         return mergeObject(super.defaultOptions, {
-            id: `${MODULE_ID}-book-importer`,
+            id: `${EMCR_CONST.MODULE_ID}-book-importer`,
             title: game.i18n.localize("emcr.dialog.title"),
-            template: `modules/${MODULE_ID}/templates/book-selector.html`,
+            template: `modules/${EMCR_CONST.MODULE_ID}/templates/book-selector.hbs`,
             width: 670,
             height: 640,
             closeOnSubmit: false,
@@ -47,6 +48,11 @@ class BookImporter extends FormApplication {
             }
         }
         return obj;
+    }
+
+    _onManageOwnership(event) {
+        event.preventDefault();
+        new OwnershipManager().render(true);
     }
 
     async getData(options = {}) {
@@ -72,7 +78,7 @@ class BookImporter extends FormApplication {
 
             for (const journal of journals) {
                 for (const page of journal.pages) {
-                    const bookData = page.flags[MODULE_ID]?.book;
+                    const bookData = page.flags[EMCR_CONST.MODULE_ID]?.book;
                     if (bookData) {
                         this.books.push({
                             ...bookData,
@@ -105,8 +111,10 @@ class BookImporter extends FormApplication {
         });
 
         html.find('.emcr-book-checkbox').on('change', this._onToggleBook.bind(this));
-        html.find('.emcr-import-button').click(this._onImport.bind(this));
         html.find('.emcr-book-checkbox').on('change', this._onToggleBook.bind(this));
+        html.find('#emcr-import-button').click(this._onImport.bind(this));
+
+        html.find('#emcr-manage-ownership').click(this._onManageOwnership.bind(this));
     }
 
     _onToggleBook(event) {
@@ -129,7 +137,7 @@ class BookImporter extends FormApplication {
         }
 
         try {
-            let recipeBooks = game.settings.get(MASTERCRAFTED_MODULE_ID, 'recipeBooks') || [];
+            let recipeBooks = game.settings.get(EMCR_CONST.MASTERCRAFTED_MODULE_ID, 'recipeBooks') || [];
             const RecipeBook = ui.RecipeApp.RecipeBook;
 
             for (const book of selectedBooks) {
@@ -154,7 +162,7 @@ class BookImporter extends FormApplication {
                 }
             }
 
-            await game.settings.set(MASTERCRAFTED_MODULE_ID, 'recipeBooks', recipeBooks);
+            await game.settings.set(EMCR_CONST.MASTERCRAFTED_MODULE_ID, 'recipeBooks', recipeBooks);
 
         } catch (error) {
             console.error('Error importing books:', error);
