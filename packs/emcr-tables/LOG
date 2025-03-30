@@ -1,0 +1,5 @@
+2025/03/30-21:46:40.270 15018 Delete type=3 #1
+2025/03/30-22:08:59.130 ec18 Level-0 table #5: started
+2025/03/30-22:08:59.136 ec18 Level-0 table #5: 96164 bytes OK
+2025/03/30-22:08:59.139 ec18 Delete type=0 #3
+2025/03/30-22:08:59.140 ec18 Manual compaction at level-0 from '!folders!h6YZCDrHgqEQKKvQ' @ 72057594037927935 : 1 .. '!tables.results!wwWox9vb8imrENML.tReVfdGyqQ2DhkBi' @ 0 : 0; will stop at (end)
