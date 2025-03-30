@@ -1,8 +1,8 @@
 import { BookImporter } from './book-importer.js';
 
-Hooks.once('ready', () => {
-    new BookImporter().render(true);
-});
+// Hooks.once('ready', () => {
+//     new BookImporter().render(true);
+// });
 
 // Add button to items directory
 Hooks.on('renderSidebarTab', (app, html) => {
