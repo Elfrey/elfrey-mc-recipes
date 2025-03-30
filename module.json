@@ -1,7 +1,7 @@
 {
   "id": "elfrey-mc-recipes",
   "title": "Набор рецептов для крафта.",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "compatibility": {
     "minimum": "12",
     "verified": "12",
@@ -36,6 +36,13 @@
       },
       {
         "id": "laaru-dnd5-hw",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "item-piles",
         "type": "module",
         "compatibility": {}
       }
@@ -83,6 +90,39 @@
       "label": "EMCR Книги рецептов",
       "path": "packs/emcr-books",
       "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "emcr-mechants",
+      "label": "EMCR Торговцы",
+      "path": "packs/emcr-mechants",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "emcr-macros",
+      "label": "EMCR Макросы",
+      "path": "packs/emcr-macros",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "emcr-tables",
+      "label": "EMCR Таблицы",
+      "path": "packs/emcr-tables",
+      "type": "RollTable",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -97,8 +137,12 @@
       "color": "#2a9144",
       "packs": [
         "emcr-ignridienty",
-        "emcr-books"
-      ]
+        "emcr-books",
+        "emcr-tables",
+        "emcr-mechants",
+        "emcr-macros"
+      ],
+      "folders": []
     }
   ]
 }
