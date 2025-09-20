@@ -11,6 +11,10 @@
     font-size: var(--font-size-16);
 }
 
+.mcr-sidebar-button {
+    min-width: 100%;
+}
+
 .emcr-tabs {
     flex-direction: column;
     justify-content: flex-start;
