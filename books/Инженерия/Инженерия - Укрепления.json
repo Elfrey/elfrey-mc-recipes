@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000dfqk69",
           "name": null,
           "components": [
             {
+              "id": "0000000000naxrsh",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kRSZB73OZ8oYhjI8",
               "quantity": 1,
-              "name": "Единица камня / Unit of Stone"
+              "name": "Единица камня / Unit of Stone",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dfqk68",
           "name": null,
           "components": [
             {
+              "id": "00000000001yqtmq",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.iqT9WLpOjfOiuj33",
               "quantity": 1,
-              "name": "Цемент / Cement"
+              "name": "Цемент / Cement",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000d0hq8w",
           "name": null,
           "components": [
             {
+              "id": "0000000000utdou3",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.fYF7zFiEb4hWUoUs",
               "quantity": 1,
-              "name": "Маленькая каменная стена (10 фт) / Low Stone Wall"
+              "name": "Маленькая каменная стена (10 фт) / Low Stone Wall",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -59,34 +74,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000eb1q99",
           "name": null,
           "components": [
             {
+              "id": "0000000000bsh3cf",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.iqT9WLpOjfOiuj33",
-              "quantity": "5",
-              "name": "Цемент / Cement"
+              "quantity": 5,
+              "name": "Цемент / Cement",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000eb1q98",
           "name": null,
           "components": [
             {
+              "id": "0000000000n740hm",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kRSZB73OZ8oYhjI8",
-              "quantity": "5",
-              "name": "Единица камня / Unit of Stone"
+              "quantity": 5,
+              "name": "Единица камня / Unit of Stone",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000dy4ic4",
           "name": null,
           "components": [
             {
+              "id": "0000000000khllvx",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.C8TYbWONWKwRx4Oy",
               "quantity": 1,
-              "name": "Каменные зубчатые стены (10 фт) / Stone Battlements"
+              "name": "Каменные зубчатые стены (10 фт) / Stone Battlements",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -105,24 +135,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000v2pirm",
           "name": null,
           "components": [
             {
+              "id": "0000000000xx5jj4",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
-              "quantity": "2",
-              "name": "Еденица Дерева / Unit of Lumber"
+              "quantity": 2,
+              "name": "Еденица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000rpwu3n",
           "name": null,
           "components": [
             {
+              "id": "0000000000xmrrk8",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.hGWBDktdcyTRUnFW",
               "quantity": 1,
-              "name": "Палисад  (10 фт) / Palisade (per 10 ft)"
+              "name": "Палисад  (10 фт) / Palisade (per 10 ft)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -141,34 +181,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000i5b3mp",
           "name": null,
           "components": [
             {
+              "id": "0000000000fcxahr",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
-              "quantity": "8",
-              "name": "Еденица Дерева / Unit of Lumber"
+              "quantity": 8,
+              "name": "Еденица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i5b3mq",
           "name": null,
           "components": [
             {
+              "id": "00000000001fd9w1",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "5",
-              "name": "Обычные запчасти"
+              "quantity": 5,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000002anjhe",
           "name": null,
           "components": [
             {
+              "id": "000000000036nteu",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.GafRjOIggyN11X5r",
               "quantity": 1,
-              "name": "Смотровая Башня / Watch Tower"
+              "name": "Смотровая Башня / Watch Tower",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -187,44 +242,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000108ymv",
           "name": null,
           "components": [
             {
+              "id": "00000000003izoob",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
-              "quantity": "5",
-              "name": "Еденица Дерева / Unit of Lumber"
+              "quantity": 5,
+              "name": "Еденица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000108ymw",
           "name": null,
           "components": [
             {
+              "id": "0000000000dvafob",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "4",
-              "name": "Обычные запчасти"
+              "quantity": 4,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000108ymx",
           "name": null,
           "components": [
             {
+              "id": "0000000000jp5gd5",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ylelgo",
           "name": null,
           "components": [
             {
+              "id": "0000000000viepjp",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.cxrCi6L5YXV7bFQ8",
               "quantity": 1,
-              "name": "Деревянная зубчатая стена (10 фт) / Wooden Battlement (10 ft)"
+              "name": "Деревянная зубчатая стена (10 фт) / Wooden Battlement (10 ft)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

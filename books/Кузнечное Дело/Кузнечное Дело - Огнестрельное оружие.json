@@ -13,69 +13,115 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000006fcq7b",
           "name": null,
           "components": [
             {
+              "id": "000000000043i3sr",
               "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
               "quantity": 2,
-              "name": "Слиток Адаманта"
+              "name": "Слиток Адаманта",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000008ndkz2",
               "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
               "quantity": 2,
-              "name": "Слиток Адамантита"
+              "name": "Слиток Адамантита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000q352gl",
               "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
               "quantity": 2,
-              "name": "Слиток Бронзы"
+              "name": "Слиток Бронзы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000neguzm",
               "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
               "quantity": 2,
-              "name": "Слиток Железа"
+              "name": "Слиток Железа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000o8pm2j",
               "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
               "quantity": 2,
-              "name": "Слиток Метеорита"
+              "name": "Слиток Метеорита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000rq95z2",
               "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
               "quantity": 2,
-              "name": "Слиток Мифрила"
+              "name": "Слиток Мифрила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000j774eu",
               "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
               "quantity": 2,
-              "name": "Слиток Огнестали"
+              "name": "Слиток Огнестали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000xrvew3",
               "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
               "quantity": 2,
-              "name": "Слиток Стали"
+              "name": "Слиток Стали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000e9i82b",
               "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
               "quantity": 2,
-              "name": "Слиток Темностали"
+              "name": "Слиток Темностали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000h99oys",
               "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
               "quantity": 2,
-              "name": "Слиток Хладостали"
+              "name": "Слиток Хладостали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000h92deu",
           "name": null,
           "components": [
             {
+              "id": "0000000000phfven",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.T87gLkj8HueHmGJ0",
-              "quantity": "10",
-              "name": "Боеприпасы Громовой пушки"
+              "quantity": 10,
+              "name": "Боеприпасы Громовой пушки",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -100,34 +146,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000nnssjb",
           "name": null,
           "components": [
             {
+              "id": "0000000000wd94qc",
               "uuid": "Compendium.laaru-dnd5-hw.goods.Pnm2E8nr7dnFixY2",
-              "quantity": "2",
-              "name": "Слиток свинца"
+              "quantity": 2,
+              "name": "Слиток свинца",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000nnssja",
           "name": null,
           "components": [
             {
+              "id": "0000000000jdralr",
               "uuid": "Compendium.laaru-dnd5-hw.items.daOGTtIWnkaigNO5",
               "quantity": 1,
-              "name": "Порох (рожок) / Gunpowder (horn)"
+              "name": "Порох (рожок) / Gunpowder (horn)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000jsz93e",
           "name": null,
           "components": [
             {
+              "id": "0000000000y998yn",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
-              "quantity": "20",
-              "name": "Пули для старинного огнестрельного оружия"
+              "quantity": 20,
+              "name": "Пули для старинного огнестрельного оружия",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -152,89 +213,145 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000e607r8",
           "name": null,
           "components": [
             {
+              "id": "00000000006pjq8y",
               "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
               "quantity": 3,
-              "name": "Слиток Адаманта"
+              "name": "Слиток Адаманта",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000025o92n",
               "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
               "quantity": 3,
-              "name": "Слиток Адамантита"
+              "name": "Слиток Адамантита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000fa38ew",
               "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
               "quantity": 3,
-              "name": "Слиток Бронзы"
+              "name": "Слиток Бронзы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000y7ip1b",
               "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
               "quantity": 3,
-              "name": "Слиток Железа"
+              "name": "Слиток Железа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000dfns0u",
               "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
               "quantity": 3,
-              "name": "Слиток Метеорита"
+              "name": "Слиток Метеорита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000wht1yd",
               "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
               "quantity": 3,
-              "name": "Слиток Мифрила"
+              "name": "Слиток Мифрила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000008e5ad5",
               "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
               "quantity": 3,
-              "name": "Слиток Огнестали"
+              "name": "Слиток Огнестали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000mytkue",
               "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
               "quantity": 3,
-              "name": "Слиток Стали"
+              "name": "Слиток Стали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000003gge0m",
               "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
               "quantity": 3,
-              "name": "Слиток Темностали"
+              "name": "Слиток Темностали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000s2bj0h",
               "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
               "quantity": 3,
-              "name": "Слиток Хладостали"
+              "name": "Слиток Хладостали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000e607r7",
           "name": null,
           "components": [
             {
+              "id": "0000000000exirgv",
               "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000e607r6",
           "name": null,
           "components": [
             {
+              "id": "0000000000nvgz14",
               "uuid": "Compendium.kraywell-compendium.items.Item.JvROpigr0jg2osWb",
-              "quantity": "4",
-              "name": "Обычные запчасти"
+              "quantity": 4,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000009ltkt9",
           "name": null,
           "components": [
             {
+              "id": "0000000000cm44d9",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.T1mnFzkrOvpUhPok",
               "quantity": 1,
-              "name": "Пистоль / Pistol"
+              "name": "Пистоль / Pistol",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -253,89 +370,145 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000i8gc4a",
           "name": null,
           "components": [
             {
+              "id": "0000000000d2icg4",
               "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
               "quantity": 6,
-              "name": "Слиток Адаманта"
+              "name": "Слиток Адаманта",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000008imv9t",
               "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
               "quantity": 6,
-              "name": "Слиток Адамантита"
+              "name": "Слиток Адамантита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000008x4m7q",
               "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
               "quantity": 6,
-              "name": "Слиток Бронзы"
+              "name": "Слиток Бронзы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ugmqqn",
               "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
               "quantity": 6,
-              "name": "Слиток Железа"
+              "name": "Слиток Железа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000072p5to",
               "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
               "quantity": 6,
-              "name": "Слиток Метеорита"
+              "name": "Слиток Метеорита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000q4ufr7",
               "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
               "quantity": 6,
-              "name": "Слиток Мифрила"
+              "name": "Слиток Мифрила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000216o5z",
               "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
               "quantity": 6,
-              "name": "Слиток Огнестали"
+              "name": "Слиток Огнестали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000gluyn8",
               "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
               "quantity": 6,
-              "name": "Слиток Стали"
+              "name": "Слиток Стали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000002wi86k",
               "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
               "quantity": 6,
-              "name": "Слиток Темностали"
+              "name": "Слиток Темностали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000yfa57n",
               "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
               "quantity": 6,
-              "name": "Слиток Хладостали"
+              "name": "Слиток Хладостали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i8gc4b",
           "name": null,
           "components": [
             {
+              "id": "0000000000k6ee4b",
               "uuid": "Compendium.kraywell-compendium.items.Item.JvROpigr0jg2osWb",
-              "quantity": "4",
-              "name": "Обычные запчасти"
+              "quantity": 4,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i8gc4c",
           "name": null,
           "components": [
             {
+              "id": "0000000000vciks0",
               "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000000eurnp",
           "name": null,
           "components": [
             {
+              "id": "00000000009tohug",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.jitheAAiC5VRxV8q",
               "quantity": 1,
-              "name": "Мушкет / Musket"
+              "name": "Мушкет / Musket",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -354,99 +527,160 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000i9kdcm",
           "name": null,
           "components": [
             {
+              "id": "0000000000w9mbg4",
               "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
               "quantity": 8,
-              "name": "Слиток Адаманта"
+              "name": "Слиток Адаманта",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000rpqu9t",
               "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
               "quantity": 8,
-              "name": "Слиток Адамантита"
+              "name": "Слиток Адамантита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000a9zcsa",
               "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
               "quantity": 8,
-              "name": "Слиток Бронзы"
+              "name": "Слиток Бронзы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000b9irqn",
               "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
               "quantity": 8,
-              "name": "Слиток Железа"
+              "name": "Слиток Железа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000c4et6c",
               "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
               "quantity": 8,
-              "name": "Слиток Метеорита"
+              "name": "Слиток Метеорита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000006xqgr7",
               "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
               "quantity": 8,
-              "name": "Слиток Мифрила"
+              "name": "Слиток Мифрила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000h5xau1",
               "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
               "quantity": 8,
-              "name": "Слиток Огнестали"
+              "name": "Слиток Огнестали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000002l90cs",
               "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
               "quantity": 8,
-              "name": "Слиток Стали"
+              "name": "Слиток Стали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000m3m76k",
               "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
               "quantity": 8,
-              "name": "Слиток Темностали"
+              "name": "Слиток Темностали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000hepxrh",
               "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
               "quantity": 8,
-              "name": "Слиток Хладостали"
+              "name": "Слиток Хладостали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i9kdcl",
           "name": null,
           "components": [
             {
+              "id": "0000000000vnlout",
               "uuid": "Compendium.kraywell-compendium.items.Item.JvROpigr0jg2osWb",
-              "quantity": "4",
-              "name": "Обычные запчасти"
+              "quantity": 4,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i9kdck",
           "name": null,
           "components": [
             {
+              "id": "0000000000khhi74",
               "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i9kdcj",
           "name": null,
           "components": [
             {
+              "id": "0000000000dly8eo",
               "uuid": "Compendium.kraywell-compendium.items.Item.qPul63Mck3GPwBC8",
-              "quantity": "2",
-              "name": "Экзотические Запчасти"
+              "quantity": 2,
+              "name": "Экзотические Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005e1ppx",
           "name": null,
           "components": [
             {
+              "id": "0000000000chlrps",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.ZOvwVQyVzpDB8OBM",
               "quantity": 1,
-              "name": "Дробовик / Shotgun"
+              "name": "Дробовик / Shotgun",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -465,119 +699,190 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000i9pj4v",
           "name": null,
           "components": [
             {
+              "id": "0000000000z640g3",
               "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
               "quantity": 6,
-              "name": "Слиток Адаманта"
+              "name": "Слиток Адаманта",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000vb4kcq",
               "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
               "quantity": 6,
-              "name": "Слиток Адамантита"
+              "name": "Слиток Адамантита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000dvd2v7",
               "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
               "quantity": 6,
-              "name": "Слиток Бронзы"
+              "name": "Слиток Бронзы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000007o51nq",
               "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
               "quantity": 6,
-              "name": "Слиток Железа"
+              "name": "Слиток Железа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000fpsj99",
               "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
               "quantity": 6,
-              "name": "Слиток Метеорита"
+              "name": "Слиток Метеорита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000003ccqoa",
               "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
               "quantity": 6,
-              "name": "Слиток Мифрила"
+              "name": "Слиток Мифрила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000krb0wy",
               "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
               "quantity": 6,
-              "name": "Слиток Огнестали"
+              "name": "Слиток Огнестали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000066mqfp",
               "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
               "quantity": 6,
-              "name": "Слиток Стали"
+              "name": "Слиток Стали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000pozx9h",
               "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
               "quantity": 6,
-              "name": "Слиток Темностали"
+              "name": "Слиток Темностали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000dtc7ok",
               "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
               "quantity": 6,
-              "name": "Слиток Хладостали"
+              "name": "Слиток Хладостали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i9pj4u",
           "name": null,
           "components": [
             {
+              "id": "0000000000s27yrw",
               "uuid": "Compendium.kraywell-compendium.items.Item.JvROpigr0jg2osWb",
-              "quantity": "4",
-              "name": "Обычные запчасти"
+              "quantity": 4,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i9pj4t",
           "name": null,
           "components": [
             {
+              "id": "0000000000gw3s47",
               "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i9pj4s",
           "name": null,
           "components": [
             {
+              "id": "0000000000h7byhl",
               "uuid": "Compendium.kraywell-compendium.items.Item.qPul63Mck3GPwBC8",
               "quantity": 1,
-              "name": "Экзотические Запчасти"
+              "name": "Экзотические Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i9pj4r",
           "name": null,
           "components": [
             {
+              "id": "00000000002lvqtt",
               "uuid": "Compendium.kraywell-compendium.items.Item.aZhCcS3Rn8YLv0xa",
-              "quantity": "2",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i9pj4q",
           "name": null,
           "components": [
             {
+              "id": "0000000000j85q63",
               "uuid": "Compendium.kraywell-compendium.items.Item.a6BDLM9QZqUfqsTf",
-              "quantity": "2",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000059lqe6",
           "name": null,
           "components": [
             {
+              "id": "0000000000r4lq43",
               "uuid": "Compendium.kraywell-compendium.items.Item.q6EIVtajeFUGH5ws",
               "quantity": 1,
-              "name": "Громовая пушка"
+              "name": "Громовая пушка",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

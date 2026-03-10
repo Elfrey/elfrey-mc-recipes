@@ -13,64 +13,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000sn04b6",
           "name": null,
           "components": [
             {
+              "id": "0000000000xo8p8d",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.kKWvbYeym8nk9ijt",
-              "quantity": "100",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 100,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000sn04b7",
           "name": null,
           "components": [
             {
+              "id": "0000000000t5ciki",
               "uuid": "Compendium.kraywell-compendium.items.Item.BTF3HLUa23hV3vGl",
-              "quantity": "20",
-              "name": "Качественная Ветвь"
+              "quantity": 20,
+              "name": "Качественная Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000sn04b8",
           "name": null,
           "components": [
             {
+              "id": "000000000060z0gx",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "100",
-              "name": "Обычные запчасти"
+              "quantity": 100,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000sn04b9",
           "name": null,
           "components": [
             {
+              "id": "0000000000xzplvs",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "10",
-              "name": "Необычные Запчасти"
+              "quantity": 10,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000sn04ba",
           "name": null,
           "components": [
             {
+              "id": "0000000000hiorl3",
               "uuid": "Compendium.laaru-dnd5-hw.items.fIfeQFNb0dFFU8SJ",
-              "quantity": "12",
-              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+              "quantity": 12,
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000w7o8ab",
           "name": null,
           "components": [
             {
+              "id": "0000000000ka0i02",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.F3qdZfIR0OELs8Dy",
               "quantity": 1,
-              "name": "Галера (гигантская) / Galley (Gargantuan)"
+              "name": "Галера (гигантская) / Galley (Gargantuan)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -89,64 +119,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000vqfr0h",
           "name": null,
           "components": [
             {
+              "id": "000000000025k24w",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.kKWvbYeym8nk9ijt",
-              "quantity": "20",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 20,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vqfr0g",
           "name": null,
           "components": [
             {
+              "id": "0000000000ivkvjn",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "20",
-              "name": "Обычные запчасти"
+              "quantity": 20,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vqfr0f",
           "name": null,
           "components": [
             {
+              "id": "0000000000c4uk2s",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "5",
-              "name": "Необычные Запчасти"
+              "quantity": 5,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vqfr0e",
           "name": null,
           "components": [
             {
+              "id": "00000000003xu58o",
               "uuid": "Compendium.kraywell-compendium.items.Item.KHOOuEKSawFdosbb",
-              "quantity": "10",
-              "name": "Сыромятная Кожа"
+              "quantity": 10,
+              "name": "Сыромятная Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vqfr0d",
           "name": null,
           "components": [
             {
+              "id": "0000000000cd4e5i",
               "uuid": "Compendium.laaru-dnd5-hw.items.fIfeQFNb0dFFU8SJ",
-              "quantity": "4",
-              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+              "quantity": 4,
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000e1pa0w",
           "name": null,
           "components": [
             {
+              "id": "0000000000aqkzxa",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Xwtet2lrojac1WFW",
               "quantity": 1,
-              "name": "Килевая лодка (гигантская) / Keelboat (Gargantuan)"
+              "name": "Килевая лодка (гигантская) / Keelboat (Gargantuan)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -165,64 +225,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ov0jt7",
           "name": null,
           "components": [
             {
+              "id": "00000000005hyjh6",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.kKWvbYeym8nk9ijt",
-              "quantity": "40",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 40,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ov0jt6",
           "name": null,
           "components": [
             {
+              "id": "0000000000nze9fh",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "100",
-              "name": "Обычные запчасти"
+              "quantity": 100,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ov0jt5",
           "name": null,
           "components": [
             {
+              "id": "000000000071166y",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "5",
-              "name": "Необычные Запчасти"
+              "quantity": 5,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ov0jt4",
           "name": null,
           "components": [
             {
+              "id": "0000000000wcb05h",
               "uuid": "Compendium.laaru-dnd5-hw.items.fIfeQFNb0dFFU8SJ",
-              "quantity": "10",
-              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+              "quantity": 10,
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ov0jt3",
           "name": null,
           "components": [
             {
+              "id": "0000000000dvn5uw",
               "uuid": "Compendium.kraywell-compendium.items.Item.BTF3HLUa23hV3vGl",
-              "quantity": "10",
-              "name": "Качественная Ветвь"
+              "quantity": 10,
+              "name": "Качественная Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000e0gbd6",
           "name": null,
           "components": [
             {
+              "id": "0000000000carf9c",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3PVbleIbnoymn0Ik",
               "quantity": 1,
-              "name": "Драккар (гигантская) / Longship (Gargantuan)"
+              "name": "Драккар (гигантская) / Longship (Gargantuan)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -241,34 +331,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000m3so5f",
           "name": null,
           "components": [
             {
+              "id": "0000000000nw9jik",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.kKWvbYeym8nk9ijt",
-              "quantity": "3",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 3,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000m3so5g",
           "name": null,
           "components": [
             {
+              "id": "0000000000omei5r",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "8",
-              "name": "Обычные запчасти"
+              "quantity": 8,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000lnqzb8",
           "name": null,
           "components": [
             {
+              "id": "00000000004o2t3d",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.L170jL5j67b0dnKZ",
               "quantity": 1,
-              "name": "Гребная лодка (большая) / Rowboat (Large)"
+              "name": "Гребная лодка (большая) / Rowboat (Large)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -287,64 +392,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000mb4dju",
           "name": null,
           "components": [
             {
+              "id": "0000000000exv67d",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.kKWvbYeym8nk9ijt",
-              "quantity": "60",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 60,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mb4djt",
           "name": null,
           "components": [
             {
+              "id": "00000000003asxjo",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "100",
-              "name": "Обычные запчасти"
+              "quantity": 100,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mb4djs",
           "name": null,
           "components": [
             {
+              "id": "0000000000yb8d63",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "10",
-              "name": "Необычные Запчасти"
+              "quantity": 10,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mb4djr",
           "name": null,
           "components": [
             {
+              "id": "0000000000a41suk",
               "uuid": "Compendium.laaru-dnd5-hw.items.fIfeQFNb0dFFU8SJ",
-              "quantity": "40",
-              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+              "quantity": 40,
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mb4djq",
           "name": null,
           "components": [
             {
+              "id": "0000000000jc142h",
               "uuid": "Compendium.kraywell-compendium.items.Item.BTF3HLUa23hV3vGl",
-              "quantity": "10",
-              "name": "Качественная Ветвь"
+              "quantity": 10,
+              "name": "Качественная Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000m41ng9",
           "name": null,
           "components": [
             {
+              "id": "0000000000nifo5k",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.1QaUu1sgL4oU3UP7",
               "quantity": 1,
-              "name": "Парусное Судно (гигантская) / Sailing Ship (Gargantuan)"
+              "name": "Парусное Судно (гигантская) / Sailing Ship (Gargantuan)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -363,64 +498,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000niboad",
           "name": null,
           "components": [
             {
+              "id": "0000000000k6qu4c",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.kKWvbYeym8nk9ijt",
-              "quantity": "80",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 80,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000niboac",
           "name": null,
           "components": [
             {
+              "id": "0000000000gjlg2h",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "100",
-              "name": "Обычные запчасти"
+              "quantity": 100,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000niboab",
           "name": null,
           "components": [
             {
+              "id": "0000000000nh36a8",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "10",
-              "name": "Необычные Запчасти"
+              "quantity": 10,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000niboaa",
           "name": null,
           "components": [
             {
+              "id": "0000000000uqiqzz",
               "uuid": "Compendium.laaru-dnd5-hw.items.fIfeQFNb0dFFU8SJ",
-              "quantity": "40",
-              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+              "quantity": 40,
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000niboa9",
           "name": null,
           "components": [
             {
+              "id": "0000000000ahg22q",
               "uuid": "Compendium.kraywell-compendium.items.Item.BTF3HLUa23hV3vGl",
-              "quantity": "20",
-              "name": "Качественная Ветвь"
+              "quantity": 20,
+              "name": "Качественная Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000f38le4",
           "name": null,
           "components": [
             {
+              "id": "0000000000dmaino",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.JBWTgsFEAtHPR1Og",
               "quantity": 1,
-              "name": "Военный Корабль (гигантская) / Warship (Gargantuan)"
+              "name": "Военный Корабль (гигантская) / Warship (Gargantuan)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

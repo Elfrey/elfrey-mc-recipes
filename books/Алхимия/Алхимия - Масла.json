@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000wibwka",
           "name": null,
           "components": [
             {
+              "id": "0000000000q28g59",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wibwk9",
           "name": null,
           "components": [
             {
+              "id": "0000000000j1swqr",
               "uuid": "Compendium.kraywell-compendium.items.Item.17PBLoPMIUMTJx7K",
-              "quantity": "2",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000009yzi13",
           "name": null,
           "components": [
             {
+              "id": "00000000008mz5z4",
               "uuid": "Compendium.kraywell-compendium.items.HpzceYVAbiGmTsg2",
               "quantity": 1,
-              "name": "Пылающее масло"
+              "name": "Пылающее масло",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -59,44 +74,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ks0lis",
           "name": null,
           "components": [
             {
+              "id": "00000000005vu7sb",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ks0lit",
           "name": null,
           "components": [
             {
+              "id": "0000000000hfopo6",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ks0liu",
           "name": null,
           "components": [
             {
+              "id": "0000000000jzki8d",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000886t63",
           "name": null,
           "components": [
             {
+              "id": "0000000000yxf11x",
               "uuid": "Compendium.kraywell-compendium.items.H5JqgcweudEqxsMG",
               "quantity": 1,
-              "name": "Ледяное масло"
+              "name": "Ледяное масло",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -115,44 +150,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000mbe4ex",
           "name": null,
           "components": [
             {
+              "id": "0000000000s05v2w",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mbe4ew",
           "name": null,
           "components": [
             {
+              "id": "0000000000w13l4x",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mbe4ev",
           "name": null,
           "components": [
             {
+              "id": "0000000000yc0j7d",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OPRBZh6a8qdoPl3C",
-              "quantity": "4",
-              "name": "Кусочек серебра"
+              "quantity": 4,
+              "name": "Кусочек серебра",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000lvnioo",
           "name": null,
           "components": [
             {
+              "id": "0000000000jhq8ba",
               "uuid": "Compendium.kraywell-compendium.items.vKyY6yjhDkG5XojX",
               "quantity": 1,
-              "name": "Серебряное масло"
+              "name": "Серебряное масло",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -171,34 +226,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000os8bt8",
           "name": null,
           "components": [
             {
+              "id": "0000000000o9g6gx",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000os8bt7",
           "name": null,
           "components": [
             {
+              "id": "0000000000fzo5bi",
               "uuid": "Compendium.kraywell-compendium.items.Item.8VDj01mqzoLtj7ef",
-              "quantity": "2",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ger7cb",
           "name": null,
           "components": [
             {
+              "id": "0000000000ryz5vv",
               "uuid": "Compendium.kraywell-compendium.items.iOxJFyAixH3dG0nU",
               "quantity": 1,
-              "name": "Масло Языка Пламени"
+              "name": "Масло Языка Пламени",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -217,44 +287,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000udy7w1",
           "name": null,
           "components": [
             {
+              "id": "0000000000b2f3s8",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000udy7w2",
           "name": null,
           "components": [
             {
+              "id": "0000000000tck25t",
               "uuid": "Compendium.kraywell-compendium.items.Item.8VDj01mqzoLtj7ef",
-              "quantity": "2",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000udy7w3",
           "name": null,
           "components": [
             {
+              "id": "0000000000bh8hiv",
               "uuid": "Compendium.kraywell-compendium.items.Item.17PBLoPMIUMTJx7K",
-              "quantity": "2",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000lzouoe",
           "name": null,
           "components": [
             {
+              "id": "000000000039pclm",
               "uuid": "Compendium.laaru-dnd5-hw.items.kwg0UMBf853PGxuY",
               "quantity": 1,
-              "name": "Масло скольжения / Oil of Slipperiness"
+              "name": "Масло скольжения / Oil of Slipperiness",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -279,64 +369,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000skuk8x",
           "name": null,
           "components": [
             {
+              "id": "0000000000k5zjq6",
               "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
-              "quantity": "1",
-              "name": "Редкий Реактивный Реагент"
+              "quantity": 1,
+              "name": "Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000skuk8y",
           "name": null,
           "components": [
             {
+              "id": "0000000000sfxqqs",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000skuk8z",
           "name": null,
           "components": [
             {
+              "id": "0000000000g70lt1",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000skuk90",
           "name": null,
           "components": [
             {
+              "id": "0000000000vluu79",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000skuk91",
           "name": null,
           "components": [
             {
+              "id": "0000000000jqiota",
               "uuid": "Compendium.kraywell-compendium.items.Item.8VDj01mqzoLtj7ef",
-              "quantity": "2",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000y2gi82",
           "name": null,
           "components": [
             {
+              "id": "0000000000jhyw0f",
               "uuid": "Compendium.laaru-dnd5-hw.items.vhoLALvyurMqpMSA",
               "quantity": 1,
-              "name": "Масло эфирности / Oil of Etherealness"
+              "name": "Масло эфирности / Oil of Etherealness",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -355,44 +475,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000068ou81",
           "name": null,
           "components": [
             {
+              "id": "00000000008vbav3",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "1",
-              "name": "Редкий Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000068ou80",
           "name": null,
           "components": [
             {
+              "id": "0000000000cx0n3b",
               "uuid": "Compendium.kraywell-compendium.items.lKj6NlZtvZiS2MQl",
-              "quantity": "2",
-              "name": "Очень Редкий Реактивный Реагент"
+              "quantity": 2,
+              "name": "Очень Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000068ou7z",
           "name": null,
           "components": [
             {
+              "id": "0000000000vr2ivp",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон"
+              "quantity": 1,
+              "name": "Хрустальный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000mzmwsg",
           "name": null,
           "components": [
             {
+              "id": "0000000000h7u47h",
               "uuid": "Compendium.laaru-dnd5-hw.items.YhZ9ugSgydHXhvxd",
               "quantity": 1,
-              "name": "Масло остроты / Oil of Sharpness"
+              "name": "Масло остроты / Oil of Sharpness",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

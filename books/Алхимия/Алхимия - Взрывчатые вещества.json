@@ -13,44 +13,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000a0snso",
           "name": null,
           "components": [
             {
+              "id": "00000000001h0b8n",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a0snsp",
           "name": null,
           "components": [
             {
+              "id": "0000000000p71gun",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.jdICB4DHiOB9haqe",
               "quantity": 1,
-              "name": "Фляга алкоголя"
+              "name": "Фляга алкоголя",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a0snsq",
           "name": null,
           "components": [
             {
+              "id": "0000000000nfn060",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Jumj90miiwA61k9m",
               "quantity": 1,
-              "name": "Прочная металлическая колба"
+              "name": "Прочная металлическая колба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000txx1k7",
           "name": null,
           "components": [
             {
+              "id": "0000000000kkuekq",
               "uuid": "Compendium.kraywell-compendium.items.c7L6dAMMhTowrv2J",
               "quantity": 1,
-              "name": "Дварфийский алкоголь"
+              "name": "Дварфийский алкоголь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -69,24 +89,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000008q2c89",
           "name": null,
           "components": [
             {
+              "id": "0000000000kcruy2",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "2",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000aaqx0q",
           "name": null,
           "components": [
             {
+              "id": "000000000062e1uw",
               "uuid": "Compendium.laaru-dnd5-hw.items.pcDyeOO3tzZQ9XZr",
               "quantity": 1,
-              "name": "Взрывной порошок / Blasting Powder"
+              "name": "Взрывной порошок / Blasting Powder",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -111,24 +141,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000004zho5x",
           "name": null,
           "components": [
             {
+              "id": "00000000006j0356",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "2",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000fvogx6",
           "name": null,
           "components": [
             {
+              "id": "000000000004fcpp",
               "uuid": "Compendium.kraywell-compendium.items.aDqzuW4l0uOpOa8o",
               "quantity": 1,
-              "name": "Дымовой порошок"
+              "name": "Дымовой порошок",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -147,34 +187,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000yqzdap",
           "name": null,
           "components": [
             {
+              "id": "0000000000dw38xa",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yqzdaq",
           "name": null,
           "components": [
             {
+              "id": "0000000000z6dh5w",
               "uuid": "Compendium.laaru-dnd5-hw.items.pcDyeOO3tzZQ9XZr",
-              "quantity": "2",
-              "name": "Взрывной порошок / Blasting Powder"
+              "quantity": 2,
+              "name": "Взрывной порошок / Blasting Powder",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000f5gecu",
           "name": null,
           "components": [
             {
+              "id": "0000000000pd47zp",
               "uuid": "Compendium.kraywell-compendium.items.ERgQReIhCxZFQ9AV",
               "quantity": 1,
-              "name": "Простая Взрывчатка"
+              "name": "Простая Взрывчатка",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -193,44 +248,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000000dcmqm",
           "name": null,
           "components": [
             {
+              "id": "00000000001p9c33",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000dcmql",
           "name": null,
           "components": [
             {
+              "id": "0000000000wporpi",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "1",
-              "name": "Необычные Запчасти"
+              "quantity": 1,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000dcmqk",
           "name": null,
           "components": [
             {
+              "id": "0000000000iyl050",
               "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
-              "quantity": "1",
-              "name": "Стеклянная Колба"
+              "quantity": 1,
+              "name": "Стеклянная Колба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000846t4z",
           "name": null,
           "components": [
             {
+              "id": "0000000000v0284e",
               "uuid": "Compendium.kraywell-compendium.items.23NT9sUMvFAz08lO",
               "quantity": 1,
-              "name": "Корпус Гранаты"
+              "name": "Корпус Гранаты",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -249,34 +324,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000dc6s6p",
           "name": null,
           "components": [
             {
+              "id": "0000000000wj10ky",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dc6s6q",
           "name": null,
           "components": [
             {
+              "id": "00000000008ceyis",
               "uuid": "Compendium.laaru-dnd5-hw.items.pcDyeOO3tzZQ9XZr",
-              "quantity": "4",
-              "name": "Взрывной порошок / Blasting Powder"
+              "quantity": 4,
+              "name": "Взрывной порошок / Blasting Powder",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000009b5ab6",
           "name": null,
           "components": [
             {
+              "id": "0000000000vzqn5h",
               "uuid": "Compendium.kraywell-compendium.items.d9cJ0hW1AfHHOycw",
               "quantity": 1,
-              "name": "Средняя Взрывчатка"
+              "name": "Средняя Взрывчатка",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -295,44 +385,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000q2z3ng",
           "name": null,
           "components": [
             {
+              "id": "0000000000yoimzz",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "3",
-              "name": "Обычные запчасти"
+              "quantity": 3,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000q2z3nf",
           "name": null,
           "components": [
             {
+              "id": "0000000000gdftr2",
               "uuid": "Compendium.kraywell-compendium.items.Item.8VDj01mqzoLtj7ef",
-              "quantity": "2",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000q2z3ne",
           "name": null,
           "components": [
             {
+              "id": "0000000000q054d4",
               "uuid": "Compendium.laaru-dnd5-hw.items.pcDyeOO3tzZQ9XZr",
               "quantity": 1,
-              "name": "Взрывной порошок / Blasting Powder"
+              "name": "Взрывной порошок / Blasting Powder",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000nuarol",
           "name": null,
           "components": [
             {
+              "id": "00000000007l8ksr",
               "uuid": "Compendium.kraywell-compendium.items.ZO7uQnP4WExaQ2zb",
               "quantity": 1,
-              "name": "Гвоздевая бомба"
+              "name": "Гвоздевая бомба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -351,24 +461,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000d183g7",
           "name": null,
           "components": [
             {
+              "id": "00000000006okgd3",
               "uuid": "Compendium.laaru-dnd5-hw.items.pcDyeOO3tzZQ9XZr",
-              "quantity": "8",
-              "name": "Взрывной порошок / Blasting Powder"
+              "quantity": 8,
+              "name": "Взрывной порошок / Blasting Powder",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ir0l4o",
           "name": null,
           "components": [
             {
+              "id": "0000000000trmkw1",
               "uuid": "Compendium.kraywell-compendium.items.u16rkZxLruF2kc9l",
               "quantity": 1,
-              "name": "Мощная Взрывчатка"
+              "name": "Мощная Взрывчатка",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

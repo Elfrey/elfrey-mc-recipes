@@ -13,64 +13,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ksgnv9",
           "name": null,
           "components": [
             {
+              "id": "00000000002ecb55",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ksgnva",
           "name": null,
           "components": [
             {
+              "id": "0000000000en9g2w",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ksgnvb",
           "name": null,
           "components": [
             {
+              "id": "0000000000a9tj7y",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3oUsGGOT3Sc6NDoV",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит / Shield"
+              "name": "Свиток заклинания: Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ksgnvc",
           "name": null,
           "components": [
             {
+              "id": "00000000002ssirm",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OmiYxavSaAlXr7Ji",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит веры / Shield of faith"
+              "name": "Свиток заклинания: Щит веры / Shield of faith",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ksgnvd",
           "name": null,
           "components": [
             {
+              "id": "0000000000yfx2g3",
               "uuid": "Compendium.laaru-dnd5-hw.items.sSs3hSzkKBMNBgTs",
               "quantity": 1,
-              "name": "Щит / Shield"
+              "name": "Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000008m0twq",
           "name": null,
           "components": [
             {
+              "id": "00000000007gdwsu",
               "uuid": "Compendium.laaru-dnd5-hw.items.NgwrqNa6kkgoPW2Q",
               "quantity": 1,
-              "name": "Щит +1 / Shield +1"
+              "name": "Щит +1 / Shield +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -89,249 +119,388 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000uw2j53",
           "name": null,
           "components": [
             {
+              "id": "0000000000l0w181",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uw2j54",
           "name": null,
           "components": [
             {
+              "id": "000000000012rtm6",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "1",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uw2j55",
           "name": null,
           "components": [
             {
+              "id": "0000000000xgp6ui",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uw2j56",
           "name": null,
           "components": [
             {
+              "id": "0000000000fpx448",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.TIV3B1vbrVHIhQAm",
               "quantity": 1,
-              "name": "Клёпаный кожаный доспех / Studded Leather Armor"
+              "name": "Клёпаный кожаный доспех / Studded Leather Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000r2yzwn",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.WwdpHLXGX5r8uZu5",
               "quantity": 1,
-              "name": "Кожаный доспех / Leather Armor"
+              "name": "Кожаный доспех / Leather Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ckakxg",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.nsXZejlmgalj4he9",
               "quantity": 1,
-              "name": "Кольчатый доспех / Ring Mail"
+              "name": "Кольчатый доспех / Ring Mail",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ecmc9c",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.rLMflzmxpe8JGTOA",
               "quantity": 1,
-              "name": "Кольчуга / Chain Mail"
+              "name": "Кольчуга / Chain Mail",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000064vck2",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.p2zChy24ZJdVqMSH",
               "quantity": 1,
-              "name": "Кольчужная рубаха / Chain Shirt"
+              "name": "Кольчужная рубаха / Chain Shirt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000svp0pg",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.vsgmACFYINloIdPm",
               "quantity": 1,
-              "name": "Кольчужно-латный доспех / Half Plate Armor"
+              "name": "Кольчужно-латный доспех / Half Plate Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000hqij3i",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.OjkIqlW2UpgFcjZa",
               "quantity": 1,
-              "name": "Латный доспех / Plate Armor"
+              "name": "Латный доспех / Plate Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000006ylhhg",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.SK2HATQ4abKUlV8i",
               "quantity": 1,
-              "name": "Нагрудник / Breastplate"
+              "name": "Нагрудник / Breastplate",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000006uz3ip",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.cKpJmsJmU8YaiuqG",
               "quantity": 1,
-              "name": "Пластинчатый доспех / Splint Armor"
+              "name": "Пластинчатый доспех / Splint Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000v46iai",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.GtKV1b5uqFQqpEni",
               "quantity": 1,
-              "name": "Стёганый доспех  / Padded Armor"
+              "name": "Стёганый доспех  / Padded Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000kktkrh",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.n1V07puo0RQxPGuF",
               "quantity": 1,
-              "name": "Сыромятный доспех / Hide Armor"
+              "name": "Сыромятный доспех / Hide Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ogkubd",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.XmnlF5fgIO3tg6TG",
               "quantity": 1,
-              "name": "Чешуйчатый доспех / Scale Mail"
+              "name": "Чешуйчатый доспех / Scale Mail",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uw2j57",
           "name": null,
           "components": [
             {
+              "id": "0000000000wjyu0s",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.MCAqRJcI8zVGAEBX",
               "quantity": 1,
-              "name": "Свиток заклинания: Магический доспех / Mage armor"
+              "name": "Свиток заклинания: Магический доспех / Mage armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uw2j58",
           "name": null,
           "components": [
             {
+              "id": "00000000002ecbon",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3oUsGGOT3Sc6NDoV",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит / Shield"
+              "name": "Свиток заклинания: Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uw2j59",
           "name": null,
           "components": [
             {
+              "id": "00000000009vdc4z",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OmiYxavSaAlXr7Ji",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит веры / Shield of faith"
+              "name": "Свиток заклинания: Щит веры / Shield of faith",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000xfpii0",
           "name": null,
           "components": [
             {
+              "id": "00000000007rhqln",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.STxsp9Ao3pS2T4gt",
               "quantity": 1,
-              "name": "Клёпаный кожаный доспех +1 / Studded Leather Armor +1"
+              "name": "Клёпаный кожаный доспех +1 / Studded Leather Armor +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xfpihz",
           "name": null,
           "components": [
             {
+              "id": "0000000000l4ro6v",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dXtZxlh2VKLCo1nA",
               "quantity": 1,
-              "name": "Кожаный доспех +1 / Leather Armor +1"
+              "name": "Кожаный доспех +1 / Leather Armor +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xfpihy",
           "name": null,
           "components": [
             {
+              "id": "0000000000jiq1un",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.NM1dPyKwHw2DyUWA",
               "quantity": 1,
-              "name": "Кольчатый доспех +1 / Ring Mail +1"
+              "name": "Кольчатый доспех +1 / Ring Mail +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xfpihx",
           "name": null,
           "components": [
             {
+              "id": "00000000006c4ecw",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.MSO3JxK8578xSh6x",
               "quantity": 1,
-              "name": "Кольчужная рубаха +1 / Chain Shirt +1"
+              "name": "Кольчужная рубаха +1 / Chain Shirt +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xfpihw",
           "name": null,
           "components": [
             {
+              "id": "00000000007n8ias",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Rn9gt6JGULtx9Zvz",
               "quantity": 1,
-              "name": "Кольчуга +1 / Chain Mail +1"
+              "name": "Кольчуга +1 / Chain Mail +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xfpihv",
           "name": null,
           "components": [
             {
+              "id": "0000000000bgv65u",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dOZkW5MwvsMhnd08",
               "quantity": 1,
-              "name": "Кольчужно-латный доспех +1 / Half Plate Armor +1"
+              "name": "Кольчужно-латный доспех +1 / Half Plate Armor +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xfpihu",
           "name": null,
           "components": [
             {
+              "id": "0000000000r0p3nh",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fStHPOhuJvwEjzQh",
               "quantity": 1,
-              "name": "Латный доспех +1 / Plate Armor +1"
+              "name": "Латный доспех +1 / Plate Armor +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xfpiht",
           "name": null,
           "components": [
             {
+              "id": "0000000000recdp7",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.84z9mVy1mCipUWEY",
               "quantity": 1,
-              "name": "Нагрудник +1 / Breastplate +1"
+              "name": "Нагрудник +1 / Breastplate +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xfpihs",
           "name": null,
           "components": [
             {
+              "id": "0000000000bumobm",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.HpEEfZg9PRkXnMi4",
               "quantity": 1,
-              "name": "Пластинчатый доспех +1 / Splint Armor +1"
+              "name": "Пластинчатый доспех +1 / Splint Armor +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xfpihr",
           "name": null,
           "components": [
             {
+              "id": "00000000008n1r7e",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.twRJhPtDQe1HceFt",
               "quantity": 1,
-              "name": "Стёганый доспех +1 / Padded Armor +1"
+              "name": "Стёганый доспех +1 / Padded Armor +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000sxpw6v",
           "name": null,
           "components": [
             {
+              "id": "00000000004qjs3i",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.k2B9P3gm2NGjJ1m0",
               "quantity": 1,
-              "name": "Сыромятный доспех +1 / Hide Armor +1"
+              "name": "Сыромятный доспех +1 / Hide Armor +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000sxpw6w",
           "name": null,
           "components": [
             {
+              "id": "0000000000lxj68j",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.aDEAwKwttl35dWaB",
               "quantity": 1,
-              "name": "Чешуйчатый доспех +1 / Scale Mail +1"
+              "name": "Чешуйчатый доспех +1 / Scale Mail +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -350,44 +519,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000bpdiz6",
           "name": null,
           "components": [
             {
+              "id": "0000000000h5cljj",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "2",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bpdiz5",
           "name": null,
           "components": [
             {
+              "id": "0000000000o5sxp6",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bpdiz4",
           "name": null,
           "components": [
             {
+              "id": "0000000000kvyejw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3Pc0ptySrOWdJ0lz",
               "quantity": 1,
-              "name": "Свиток заклинания: Защита от энергии / Protection from Energy"
+              "name": "Свиток заклинания: Защита от энергии / Protection from Energy",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000004beamn",
           "name": null,
           "components": [
             {
+              "id": "0000000000y4fnv8",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.qIS7iTZpC4HS6j43",
               "quantity": 1,
-              "name": "Броня устойчивости / Armor of resistance"
+              "name": "Броня устойчивости / Armor of resistance",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -406,54 +595,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000vmkvp4",
           "name": null,
           "components": [
             {
+              "id": "0000000000jch74n",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vmkvp3",
           "name": null,
           "components": [
             {
+              "id": "0000000000w0s0jv",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vmkvp2",
           "name": null,
           "components": [
             {
+              "id": "0000000000h17nse",
               "uuid": "Compendium.laaru-dnd5-hw.items.sSs3hSzkKBMNBgTs",
               "quantity": 1,
-              "name": "Щит / Shield"
+              "name": "Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vmkvp1",
           "name": null,
           "components": [
             {
+              "id": "0000000000bventd",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.d6pCidbGPxXDbFI0",
               "quantity": 1,
-              "name": "Свиток заклинания: Защитный ветер / Warding Wind"
+              "name": "Свиток заклинания: Защитный ветер / Warding Wind",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000hda8t3",
           "name": null,
           "components": [
             {
+              "id": "0000000000py2gd1",
               "uuid": "Compendium.laaru-dnd5-hw.items.0sWhNmk6nQxYD8O7",
               "quantity": 1,
-              "name": "Щит ловли стрел / Arrow-Catching Shield"
+              "name": "Щит ловли стрел / Arrow-Catching Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -472,74 +686,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000lf6a06",
           "name": null,
           "components": [
             {
+              "id": "000000000054xppe",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "2",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lf6a05",
           "name": null,
           "components": [
             {
+              "id": "0000000000r8lkjl",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "1",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lf6a04",
           "name": null,
           "components": [
             {
+              "id": "0000000000k9sncw",
               "uuid": "Compendium.laaru-dnd5-hw.items.sSs3hSzkKBMNBgTs",
               "quantity": 1,
-              "name": "Щит / Shield"
+              "name": "Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lf6a03",
           "name": null,
           "components": [
             {
+              "id": "0000000000tdn8i0",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3oUsGGOT3Sc6NDoV",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит / Shield"
+              "name": "Свиток заклинания: Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lf6a02",
           "name": null,
           "components": [
             {
+              "id": "0000000000lwm81o",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OmiYxavSaAlXr7Ji",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит веры / Shield of faith"
+              "name": "Свиток заклинания: Щит веры / Shield of faith",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lf6a01",
           "name": null,
           "components": [
             {
+              "id": "000000000055xzgg",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.YPqWez1ewCKzUGrH",
               "quantity": 1,
-              "name": "Свиток заклинания: Сторожевая печать / Glyph of Warding"
+              "name": "Свиток заклинания: Сторожевая печать / Glyph of Warding",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000lepcl7",
           "name": null,
           "components": [
             {
+              "id": "0000000000zdptgu",
               "uuid": "Compendium.laaru-dnd5-hw.items.xzZQIIxXjNJwNqnp",
               "quantity": 1,
-              "name": "Щит +2 / Shield +2"
+              "name": "Щит +2 / Shield +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -558,54 +807,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000001t90ze",
           "name": null,
           "components": [
             {
+              "id": "00000000000sxdce",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000001t90zd",
           "name": null,
           "components": [
             {
+              "id": "0000000000c5so4a",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.STxsp9Ao3pS2T4gt",
               "quantity": 1,
-              "name": "Клёпаный кожаный доспех +1 / Studded Leather Armor +1"
+              "name": "Клёпаный кожаный доспех +1 / Studded Leather Armor +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000001t90zc",
           "name": null,
           "components": [
             {
+              "id": "000000000050inwq",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.oj54YpDO95fZLuGN",
               "quantity": 1,
-              "name": "Свиток заклинания: Изменение облика / Disguise self"
+              "name": "Свиток заклинания: Изменение облика / Disguise self",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000001t90zb",
           "name": null,
           "components": [
             {
+              "id": "0000000000an5egs",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.7GcO4515dsCRzyzS",
               "quantity": 1,
-              "name": "Свиток заклинания: Немой образ / Silent Image"
+              "name": "Свиток заклинания: Немой образ / Silent Image",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000i80za1",
           "name": null,
           "components": [
             {
+              "id": "0000000000tsa6sb",
               "uuid": "Compendium.laaru-dnd5-hw.items.9C7U6buCa4maKa61",
               "quantity": 1,
-              "name": "Обманчивый клёпаный кожаный доспех / Glamoured Studded Leather"
+              "name": "Обманчивый клёпаный кожаный доспех / Glamoured Studded Leather",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -624,54 +898,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000h40fyz",
           "name": null,
           "components": [
             {
+              "id": "0000000000ydey43",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000h40fyy",
           "name": null,
           "components": [
             {
+              "id": "0000000000wo2a1b",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000h40fyx",
           "name": null,
           "components": [
             {
+              "id": "00000000007qk9lh",
               "uuid": "Compendium.laaru-dnd5-hw.items.sSs3hSzkKBMNBgTs",
               "quantity": 1,
-              "name": "Щит / Shield"
+              "name": "Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000h40fyw",
           "name": null,
           "components": [
             {
+              "id": "0000000000f9s2sy",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.d6pCidbGPxXDbFI0",
               "quantity": 1,
-              "name": "Свиток заклинания: Защитный ветер / Warding Wind"
+              "name": "Свиток заклинания: Защитный ветер / Warding Wind",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000tuwlie",
           "name": null,
           "components": [
             {
+              "id": "0000000000jqh99p",
               "uuid": "Compendium.laaru-dnd5-hw.items.v2KuL5Zy1H4bCG4f",
               "quantity": 1,
-              "name": "Щит притяжения снарядов / Shield of Missile Attraction"
+              "name": "Щит притяжения снарядов / Shield of Missile Attraction",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -690,64 +989,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000007w9bmq",
           "name": null,
           "components": [
             {
+              "id": "0000000000md2kti",
               "uuid": "Compendium.kraywell-compendium.items.xMjaOvhnE89s448x",
-              "quantity": "1",
-              "name": "Большой Панцирь"
+              "quantity": 1,
+              "name": "Большой Панцирь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007w9bmp",
           "name": null,
           "components": [
             {
+              "id": "0000000000cuqhsw",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007w9bmo",
           "name": null,
           "components": [
             {
+              "id": "0000000000jv6tyj",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "2",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007w9bmn",
           "name": null,
           "components": [
             {
+              "id": "0000000000oc9518",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.XmnlF5fgIO3tg6TG",
               "quantity": 1,
-              "name": "Чешуйчатый доспех / Scale Mail"
+              "name": "Чешуйчатый доспех / Scale Mail",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007w9bmm",
           "name": null,
           "components": [
             {
+              "id": "0000000000rkkjpa",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.SaDMAimXfiiechtT",
               "quantity": 1,
-              "name": "Свиток заклинания: Движение грунта / Move Earth"
+              "name": "Свиток заклинания: Движение грунта / Move Earth",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000sb02v3",
           "name": null,
           "components": [
             {
+              "id": "00000000002q6k5z",
               "uuid": "Compendium.kraywell-compendium.items.Item.uDvUApcHuVKNfDDM",
               "quantity": 1,
-              "name": "Чешуйчатый доспех Панголина"
+              "name": "Чешуйчатый доспех Панголина",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -766,74 +1095,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000pqtk6m",
           "name": null,
           "components": [
             {
+              "id": "0000000000rms0hf",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000pqtk6l",
           "name": null,
           "components": [
             {
+              "id": "00000000007yx66t",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000pqtk6k",
           "name": null,
           "components": [
             {
+              "id": "0000000000fcd6sj",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.9chO1e9056HbPCKb",
               "quantity": 1,
-              "name": "Хорошее пальто"
+              "name": "Хорошее пальто",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000pqtk6j",
           "name": null,
           "components": [
             {
+              "id": "0000000000lg7b7h",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
-              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000pqtk6i",
           "name": null,
           "components": [
             {
+              "id": "0000000000an485p",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Ntms32kli8yGMJvC",
               "quantity": 1,
-              "name": "Свиток заклинания: Язвительная насмешка / Vicious Mockery"
+              "name": "Свиток заклинания: Язвительная насмешка / Vicious Mockery",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000pqtk6h",
           "name": null,
           "components": [
             {
+              "id": "0000000000u3vc1w",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sSqYTu86EJzj3XEa",
               "quantity": 1,
-              "name": "Свиток заклинания: Танцующие волны / Dancing Wave"
+              "name": "Свиток заклинания: Танцующие волны / Dancing Wave",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ddj06r",
           "name": null,
           "components": [
             {
+              "id": "00000000005qlf5z",
               "uuid": "Compendium.kraywell-compendium.items.Item.9ife4zcBfNEkKFPD",
               "quantity": 1,
-              "name": "Капитанское пальто"
+              "name": "Капитанское пальто",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -852,214 +1216,319 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000026xtpu",
           "name": null,
           "components": [
             {
+              "id": "0000000000vdhd0u",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000026xtpt",
           "name": null,
           "components": [
             {
+              "id": "00000000008s0tv9",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "1",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000026xtps",
           "name": null,
           "components": [
             {
+              "id": "0000000000tv5uvj",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000026xtpr",
           "name": null,
           "components": [
             {
+              "id": "00000000004j18sw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.JU8FeQcy4OFXzwL2",
               "quantity": 1,
-              "name": "Свиток заклинания: Сфера неуязвимости / Globe of Invulnerability"
+              "name": "Свиток заклинания: Сфера неуязвимости / Globe of Invulnerability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000026xtpq",
           "name": null,
           "components": [
             {
+              "id": "0000000000xe7qzn",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.t4wdnzR9fQ093x5u",
               "quantity": 1,
-              "name": "Свиток заклинания: Каменная кожа / Stoneskin"
+              "name": "Свиток заклинания: Каменная кожа / Stoneskin",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000026xtpp",
           "name": null,
           "components": [
             {
+              "id": "00000000003kjzak",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.MCAqRJcI8zVGAEBX",
               "quantity": 1,
-              "name": "Свиток заклинания: Магический доспех / Mage armor"
+              "name": "Свиток заклинания: Магический доспех / Mage armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000026xtpo",
           "name": null,
           "components": [
             {
+              "id": "0000000000wi8wz5",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3oUsGGOT3Sc6NDoV",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит / Shield"
+              "name": "Свиток заклинания: Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000026xtpn",
           "name": null,
           "components": [
             {
+              "id": "0000000000p17wit",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OmiYxavSaAlXr7Ji",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит веры / Shield of faith"
+              "name": "Свиток заклинания: Щит веры / Shield of faith",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006fo8i9",
           "name": null,
           "components": [
             {
+              "id": "0000000000msoyga",
               "uuid": "Compendium.laaru-dnd5-hw.items.VTc5McIjCm40KPIz",
               "quantity": 1,
-              "name": "Латный доспех +2 / Plate Armor +2"
+              "name": "Латный доспех +2 / Plate Armor +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006fo8ia",
           "name": null,
           "components": [
             {
+              "id": "0000000000r09x5m",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fO1PuSOtZWLzEHqu",
               "quantity": 1,
-              "name": "Чешуйчатый доспех +2 / Scale Mail +2"
+              "name": "Чешуйчатый доспех +2 / Scale Mail +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006fo8ib",
           "name": null,
           "components": [
             {
+              "id": "0000000000skszop",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.XJFqU9COdk4ycFa2",
               "quantity": 1,
-              "name": "Сыромятный доспех +2 / Hide Armor +2"
+              "name": "Сыромятный доспех +2 / Hide Armor +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006fo8ic",
           "name": null,
           "components": [
             {
+              "id": "0000000000oqi1ci",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.G9XQPNLlDXkpVxn1",
               "quantity": 1,
-              "name": "Стёганый доспех +2 / Padded Armor +2"
+              "name": "Стёганый доспех +2 / Padded Armor +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006fo8id",
           "name": null,
           "components": [
             {
+              "id": "0000000000aspbeb",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.zIpNJyuOxp2raizE",
               "quantity": 1,
-              "name": "Пластинчатый доспех +2 / Splint Armor +2"
+              "name": "Пластинчатый доспех +2 / Splint Armor +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006fo8ie",
           "name": null,
           "components": [
             {
+              "id": "0000000000xcznr7",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.ET8Oo5vaTZqyb7rN",
               "quantity": 1,
-              "name": "Нагрудник +2 / Breastplate +2"
+              "name": "Нагрудник +2 / Breastplate +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006fo8if",
           "name": null,
           "components": [
             {
+              "id": "0000000000rcfmrw",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.YFarUKR3OrM5raf5",
               "quantity": 1,
-              "name": "Кольчужно-латный доспех +2 / Half Plate Armor +2"
+              "name": "Кольчужно-латный доспех +2 / Half Plate Armor +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006fo8ig",
           "name": null,
           "components": [
             {
+              "id": "000000000081ta4t",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.YFarUKR3OrM5raf5",
               "quantity": 1,
-              "name": "Кольчужно-латный доспех +2 / Half Plate Armor +2"
+              "name": "Кольчужно-латный доспех +2 / Half Plate Armor +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006fo8ih",
           "name": null,
           "components": [
             {
+              "id": "0000000000x5fn6x",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.FLoBS3UnFnZTSsSx",
               "quantity": 1,
-              "name": "Кольчужная рубаха +2 / Chain Shirt +2"
+              "name": "Кольчужная рубаха +2 / Chain Shirt +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006fo8ii",
           "name": null,
           "components": [
             {
+              "id": "0000000000ec76yr",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.akjpaK4TYkUZbGrN",
               "quantity": 1,
-              "name": "Кольчуга +2 / Chain Mail +2"
+              "name": "Кольчуга +2 / Chain Mail +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dlgu5e",
           "name": null,
           "components": [
             {
+              "id": "0000000000zg4idc",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.M28HYDCueaK7J8u8",
               "quantity": 1,
-              "name": "Кольчатый доспех +2 / Ring Mail +2"
+              "name": "Кольчатый доспех +2 / Ring Mail +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dlgu5d",
           "name": null,
           "components": [
             {
+              "id": "0000000000x9f4ob",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.UT8zCwmdXVQlBiyl",
               "quantity": 1,
-              "name": "Кожаный доспех +2 / Leather Armor +2"
+              "name": "Кожаный доспех +2 / Leather Armor +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dlgu5c",
           "name": null,
           "components": [
             {
+              "id": "0000000000s7ob0q",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.FZixEM5voQkH84xP",
               "quantity": 1,
-              "name": "Клёпаный кожаный доспех +2 / Studded Leather Armor +2"
+              "name": "Клёпаный кожаный доспех +2 / Studded Leather Armor +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1078,114 +1547,169 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000rx98fs",
           "name": null,
           "components": [
             {
+              "id": "0000000000u4m2jc",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rx98fr",
           "name": null,
           "components": [
             {
+              "id": "0000000000coha4e",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "1",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rx98fq",
           "name": null,
           "components": [
             {
+              "id": "0000000000f11kdq",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "2",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rx98fp",
           "name": null,
           "components": [
             {
+              "id": "000000000072magh",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "2",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rx98fo",
           "name": null,
           "components": [
             {
+              "id": "0000000000xipyu2",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.dWh83avBJqiTaBJv",
               "quantity": 1,
-              "name": "Свиток заклинания: Силовая стена / Wall of Force"
+              "name": "Свиток заклинания: Силовая стена / Wall of Force",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rx98fn",
           "name": null,
           "components": [
             {
+              "id": "0000000000xln9bn",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.i32LX5vAJmMNV0Bb",
               "quantity": 1,
-              "name": "Свиток заклинания: Каменная стена / Wall of Stone"
+              "name": "Свиток заклинания: Каменная стена / Wall of Stone",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rx98fm",
           "name": null,
           "components": [
             {
+              "id": "0000000000iesvb2",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.rY2pIlufK8rfk2RG",
               "quantity": 1,
-              "name": "Свиток заклинания: Стена ветра / Wind Wall"
+              "name": "Свиток заклинания: Стена ветра / Wind Wall",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rx98fl",
           "name": null,
           "components": [
             {
+              "id": "00000000009fpmsq",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3oUsGGOT3Sc6NDoV",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит / Shield"
+              "name": "Свиток заклинания: Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rx98fk",
           "name": null,
           "components": [
             {
+              "id": "0000000000gwqn92",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OmiYxavSaAlXr7Ji",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит веры / Shield of faith"
+              "name": "Свиток заклинания: Щит веры / Shield of faith",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rx98fj",
           "name": null,
           "components": [
             {
+              "id": "000000000056z9g5",
               "uuid": "Compendium.laaru-dnd5-hw.items.sSs3hSzkKBMNBgTs",
               "quantity": 1,
-              "name": "Щит / Shield"
+              "name": "Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000009vwu3t",
           "name": null,
           "components": [
             {
+              "id": "0000000000ogjatl",
               "uuid": "Compendium.laaru-dnd5-hw.items.WfqBg3yBNoJQtVEB",
               "quantity": 1,
-              "name": "Щит +3 / Shield +3"
+              "name": "Щит +3 / Shield +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1204,44 +1728,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000005ndtus",
           "name": null,
           "components": [
             {
+              "id": "0000000000q8okb6",
               "uuid": "Compendium.laaru-dnd5-hw.items.SK2HATQ4abKUlV8i",
               "quantity": 1,
-              "name": "Нагрудник / Breastplate"
+              "name": "Нагрудник / Breastplate",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005ndtur",
           "name": null,
           "components": [
             {
+              "id": "00000000001gzztp",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.IRxT0gEBiCX1Q7Dv",
               "quantity": 1,
-              "name": "Свиток заклинания: Защитные узы / Warding Bond"
+              "name": "Свиток заклинания: Защитные узы / Warding Bond",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005ndtuq",
           "name": null,
           "components": [
             {
+              "id": "0000000000xav34g",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sFvjlntHTtBJiPl8",
               "quantity": 1,
-              "name": "Свиток заклинания: Верная собака Морденкайнена / Mordenkainen's Faithful Hound"
+              "name": "Свиток заклинания: Верная собака Морденкайнена / Mordenkainen's Faithful Hound",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000toztrx",
           "name": null,
           "components": [
             {
+              "id": "0000000000xo9o12",
               "uuid": "Compendium.kraywell-compendium.items.Item.kdUYvVSfcHCkNxcv",
               "quantity": 1,
-              "name": "Кираса Золотого Ротвейлера"
+              "name": "Кираса Золотого Ротвейлера",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1260,44 +1804,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000oyehda",
           "name": null,
           "components": [
             {
+              "id": "0000000000twtp7q",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000oyehd9",
           "name": null,
           "components": [
             {
+              "id": "00000000004r3azc",
               "uuid": "Compendium.laaru-dnd5-hw.items.OjkIqlW2UpgFcjZa",
               "quantity": 1,
-              "name": "Латный доспех / Plate Armor"
+              "name": "Латный доспех / Plate Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000oyehd8",
           "name": null,
           "components": [
             {
+              "id": "0000000000klfm89",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.WkG1mbVkaF0tKzel",
               "quantity": 1,
-              "name": "Свиток заклинания: Призыв духа исчадия / Summon Fiend"
+              "name": "Свиток заклинания: Призыв духа исчадия / Summon Fiend",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000b3gf2l",
           "name": null,
           "components": [
             {
+              "id": "0000000000otd6oh",
               "uuid": "Compendium.laaru-dnd5-hw.items.gs8vHjDKvPIatr3J",
               "quantity": 1,
-              "name": "Дeмонический доспех / Demon Armor"
+              "name": "Дeмонический доспех / Demon Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1316,64 +1880,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000008vdw7a",
           "name": null,
           "components": [
             {
+              "id": "0000000000kw71uv",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "1",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008vdw7b",
           "name": null,
           "components": [
             {
+              "id": "0000000000yqfp9r",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008vdw7c",
           "name": null,
           "components": [
             {
+              "id": "00000000000ul3h9",
               "uuid": "Compendium.laaru-dnd5-hw.items.TIV3B1vbrVHIhQAm",
               "quantity": 1,
-              "name": "Клёпаный кожаный доспех / Studded Leather Armor"
+              "name": "Клёпаный кожаный доспех / Studded Leather Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008vdw7d",
           "name": null,
           "components": [
             {
+              "id": "0000000000wwfp2v",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
-              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008vdw7e",
           "name": null,
           "components": [
             {
+              "id": "0000000000u2pfhc",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.HDkAHulxL0iDAJqR",
               "quantity": 1,
-              "name": "Свиток заклинания: Полиморф / Polymorph"
+              "name": "Свиток заклинания: Полиморф / Polymorph",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005pspuv",
           "name": null,
           "components": [
             {
+              "id": "0000000000jzpil2",
               "uuid": "Compendium.kraywell-compendium.items.Item.aat5PmmPSPphmfMf",
               "quantity": 1,
-              "name": "Одеяние Енота"
+              "name": "Одеяние Енота",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1392,54 +1986,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000006sxs4z",
           "name": null,
           "components": [
             {
+              "id": "00000000004a1hws",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "1",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006sxs50",
           "name": null,
           "components": [
             {
+              "id": "00000000001xh7ng",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006sxs51",
           "name": null,
           "components": [
             {
+              "id": "0000000000onfu7t",
               "uuid": "Compendium.laaru-dnd5-hw.items.sSs3hSzkKBMNBgTs",
               "quantity": 1,
-              "name": "Щит / Shield"
+              "name": "Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006sxs52",
           "name": null,
           "components": [
             {
+              "id": "0000000000l7v5uh",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.yXqZppFbVzQbbSVE",
               "quantity": 1,
-              "name": "Свиток заклинания: Поле антимагии / Antimagic Field"
+              "name": "Свиток заклинания: Поле антимагии / Antimagic Field",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000017fu4s",
           "name": null,
           "components": [
             {
+              "id": "0000000000pedcsm",
               "uuid": "Compendium.laaru-dnd5-hw.items.zuMSlTYLDBQsCiua",
               "quantity": 1,
-              "name": "Щит обороны от магии / Spellguard Shield"
+              "name": "Щит обороны от магии / Spellguard Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1458,104 +2077,154 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000wyz6z5",
           "name": null,
           "components": [
             {
+              "id": "00000000006yop2n",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wyz6z6",
           "name": null,
           "components": [
             {
+              "id": "0000000000tk5888",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "1",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wyz6z7",
           "name": null,
           "components": [
             {
+              "id": "00000000002ts504",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wyz6z8",
           "name": null,
           "components": [
             {
+              "id": "00000000002scf7r",
               "uuid": "Compendium.laaru-dnd5-hw.items.OjkIqlW2UpgFcjZa",
               "quantity": 1,
-              "name": "Латный доспех / Plate Armor"
+              "name": "Латный доспех / Plate Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wyz6z9",
           "name": null,
           "components": [
             {
+              "id": "0000000000hb33sc",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.JU8FeQcy4OFXzwL2",
               "quantity": 1,
-              "name": "Свиток заклинания: Сфера неуязвимости / Globe of Invulnerability"
+              "name": "Свиток заклинания: Сфера неуязвимости / Globe of Invulnerability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wyz6za",
           "name": null,
           "components": [
             {
+              "id": "0000000000bk3eef",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.t4wdnzR9fQ093x5u",
               "quantity": 1,
-              "name": "Свиток заклинания: Каменная кожа / Stoneskin"
+              "name": "Свиток заклинания: Каменная кожа / Stoneskin",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wyz6zb",
           "name": null,
           "components": [
             {
+              "id": "0000000000i9kdao",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.MCAqRJcI8zVGAEBX",
               "quantity": 1,
-              "name": "Свиток заклинания: Магический доспех / Mage armor"
+              "name": "Свиток заклинания: Магический доспех / Mage armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wyz6zc",
           "name": null,
           "components": [
             {
+              "id": "0000000000goqser",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3oUsGGOT3Sc6NDoV",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит / Shield"
+              "name": "Свиток заклинания: Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wyz6zd",
           "name": null,
           "components": [
             {
+              "id": "0000000000o5rsv3",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OmiYxavSaAlXr7Ji",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит веры / Shield of faith"
+              "name": "Свиток заклинания: Щит веры / Shield of faith",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000v2f0dq",
           "name": null,
           "components": [
             {
+              "id": "0000000000noibij",
               "uuid": "Compendium.laaru-dnd5-hw.items.n1Bwg2iOO4fTFmvr",
               "quantity": 1,
-              "name": "Дварфийские латы / Dwarven Plate"
+              "name": "Дварфийские латы / Dwarven Plate",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1574,84 +2243,124 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000wr22f5",
           "name": null,
           "components": [
             {
+              "id": "0000000000gpspj3",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wr22f6",
           "name": null,
           "components": [
             {
+              "id": "0000000000y7fqg3",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "2",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wr22f7",
           "name": null,
           "components": [
             {
+              "id": "0000000000ul2wjs",
               "uuid": "Compendium.laaru-dnd5-hw.items.TIV3B1vbrVHIhQAm",
               "quantity": 1,
-              "name": "Клёпаный кожаный доспех / Studded Leather Armor"
+              "name": "Клёпаный кожаный доспех / Studded Leather Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wr22f8",
           "name": null,
           "components": [
             {
+              "id": "0000000000f6bcsj",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.MCAqRJcI8zVGAEBX",
               "quantity": 1,
-              "name": "Свиток заклинания: Магический доспех / Mage armor"
+              "name": "Свиток заклинания: Магический доспех / Mage armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wr22f9",
           "name": null,
           "components": [
             {
+              "id": "0000000000jrzsww",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3oUsGGOT3Sc6NDoV",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит / Shield"
+              "name": "Свиток заклинания: Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wr22fa",
           "name": null,
           "components": [
             {
+              "id": "00000000001qcfcu",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.uWPZCIFNzuyTHxxj",
               "quantity": 1,
-              "name": "Свиток заклинания: Чёрные щупальца Эварда / Evard’s black tentacles"
+              "name": "Свиток заклинания: Чёрные щупальца Эварда / Evard’s black tentacles",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wr22fb",
           "name": null,
           "components": [
             {
+              "id": "0000000000kyf346",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.d2ahO5bjfilbJfq0",
               "quantity": 1,
-              "name": "Свиток заклинания: Дыхание под водой / Water Breathing"
+              "name": "Свиток заклинания: Дыхание под водой / Water Breathing",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000o8w35q",
           "name": null,
           "components": [
             {
+              "id": "00000000002mvein",
               "uuid": "Compendium.kraywell-compendium.items.Item.MNHfyUU0oSeDHy9I",
               "quantity": 1,
-              "name": "Доспехи Темного Фантома"
+              "name": "Доспехи Темного Фантома",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1670,154 +2379,229 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000fthxum",
           "name": null,
           "components": [
             {
+              "id": "0000000000m6r2oq",
               "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
-              "quantity": "1",
-              "name": "Легендарная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fthxul",
           "name": null,
           "components": [
             {
+              "id": "0000000000cdc5hy",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "1",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fthxuk",
           "name": null,
           "components": [
             {
+              "id": "0000000000t7rkzh",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "1",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fthxuj",
           "name": null,
           "components": [
             {
+              "id": "0000000000xmpdj0",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sQzMBMYlMilkMNai",
               "quantity": 1,
-              "name": "Свиток заклинания: Неуязвимость / Invulnerability"
+              "name": "Свиток заклинания: Неуязвимость / Invulnerability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000a7108t",
           "name": null,
           "components": [
             {
+              "id": "0000000000eumv9r",
               "uuid": "Compendium.laaru-dnd5-hw.items.466j8hy4AiENMHVQ",
               "quantity": 1,
-              "name": "Латный доспех +3 / Plate Armor +3"
+              "name": "Латный доспех +3 / Plate Armor +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a7108u",
           "name": null,
           "components": [
             {
+              "id": "00000000009vnnmi",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.00BggOkChWztQx6R",
               "quantity": 1,
-              "name": "Клёпаный кожаный доспех +3 / Studded Leather Armor +3"
+              "name": "Клёпаный кожаный доспех +3 / Studded Leather Armor +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a7108v",
           "name": null,
           "components": [
             {
+              "id": "0000000000wwcvfe",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.ZwFCZDgQljlidzns",
               "quantity": 1,
-              "name": "Кожаный доспех +3 / Leather Armor +3"
+              "name": "Кожаный доспех +3 / Leather Armor +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a7108w",
           "name": null,
           "components": [
             {
+              "id": "00000000009cagit",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.KhRhwADrTpol3yTx",
               "quantity": 1,
-              "name": "Кольчатый доспех +3 / Ring Mail +3"
+              "name": "Кольчатый доспех +3 / Ring Mail +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a7108x",
           "name": null,
           "components": [
             {
+              "id": "0000000000kuxagd",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.cI0UhWUux8gIzSHn",
               "quantity": 1,
-              "name": "Кольчужная рубаха +3 / Chain Shirt +3"
+              "name": "Кольчужная рубаха +3 / Chain Shirt +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a7108y",
           "name": null,
           "components": [
             {
+              "id": "0000000000p3fk9o",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xbVpKtrQ6tJsPhXX",
               "quantity": 1,
-              "name": "Кольчужно-латный доспех +3 / Half Plate Armor +3"
+              "name": "Кольчужно-латный доспех +3 / Half Plate Armor +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a7108z",
           "name": null,
           "components": [
             {
+              "id": "0000000000lozsog",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.JDTO996oInbiZGHW",
               "quantity": 1,
-              "name": "Нагрудник +3 / Breastplate +3"
+              "name": "Нагрудник +3 / Breastplate +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a71090",
           "name": null,
           "components": [
             {
+              "id": "00000000004l3wiq",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.BwC8hZaNjO7IQc6K",
               "quantity": 1,
-              "name": "Пластинчатый доспех +3 / Splint Armor +3"
+              "name": "Пластинчатый доспех +3 / Splint Armor +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a71091",
           "name": null,
           "components": [
             {
+              "id": "0000000000xnyxa7",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.XKnDE8DTrJxIkVCF",
               "quantity": 1,
-              "name": "Стёганый доспех +3 / Padded Armor +3"
+              "name": "Стёганый доспех +3 / Padded Armor +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a71092",
           "name": null,
           "components": [
             {
+              "id": "0000000000qqrm05",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.IeM5Ha2cg0RA99q3",
               "quantity": 1,
-              "name": "Сыромятный доспех +3 / Hide Armor +3"
+              "name": "Сыромятный доспех +3 / Hide Armor +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vxezqq",
           "name": null,
           "components": [
             {
+              "id": "0000000000dzsgwp",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.9uT9SXy1Gb1jiiZX",
               "quantity": 1,
-              "name": "Чешуйчатый доспех +3 / Scale Mail +3"
+              "name": "Чешуйчатый доспех +3 / Scale Mail +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1836,64 +2620,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000x3g2gi",
           "name": null,
           "components": [
             {
+              "id": "0000000000qqkkmn",
               "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
-              "quantity": "1",
-              "name": "Легендарная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000x3g2gh",
           "name": null,
           "components": [
             {
+              "id": "0000000000nk4yq7",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "2",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000x3g2gg",
           "name": null,
           "components": [
             {
+              "id": "0000000000caiosr",
               "uuid": "Compendium.laaru-dnd5-hw.items.OjkIqlW2UpgFcjZa",
               "quantity": 1,
-              "name": "Латный доспех / Plate Armor"
+              "name": "Латный доспех / Plate Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000x3g2gf",
           "name": null,
           "components": [
             {
+              "id": "0000000000pdiba0",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sQzMBMYlMilkMNai",
               "quantity": 1,
-              "name": "Свиток заклинания: Неуязвимость / Invulnerability"
+              "name": "Свиток заклинания: Неуязвимость / Invulnerability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000x3g2ge",
           "name": null,
           "components": [
             {
+              "id": "0000000000ar1c2l",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.t4wdnzR9fQ093x5u",
               "quantity": 1,
-              "name": "Свиток заклинания: Каменная кожа / Stoneskin"
+              "name": "Свиток заклинания: Каменная кожа / Stoneskin",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000s5kkrz",
           "name": null,
           "components": [
             {
+              "id": "0000000000a2edpi",
               "uuid": "Compendium.laaru-dnd5-hw.items.tW5m2BZFhtEo9s6B",
               "quantity": 1,
-              "name": "Броня неуязвимости / Armor of Invulnerability"
+              "name": "Броня неуязвимости / Armor of Invulnerability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1912,54 +2726,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000giup3a",
           "name": null,
           "components": [
             {
+              "id": "00000000007xohiu",
               "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
-              "quantity": "1",
-              "name": "Легендарная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000giup3b",
           "name": null,
           "components": [
             {
+              "id": "0000000000q0pdqf",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000giup3c",
           "name": null,
           "components": [
             {
+              "id": "0000000000e697o3",
               "uuid": "Compendium.laaru-dnd5-hw.items.OjkIqlW2UpgFcjZa",
               "quantity": 1,
-              "name": "Латный доспех / Plate Armor"
+              "name": "Латный доспех / Plate Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000giup3d",
           "name": null,
           "components": [
             {
+              "id": "0000000000ndw8kw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.FhSP0rDN9urARDY4",
               "quantity": 1,
-              "name": "Свиток заклинания: Выход в эфир / Etherealness"
+              "name": "Свиток заклинания: Выход в эфир / Etherealness",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000iebzrt",
           "name": null,
           "components": [
             {
+              "id": "0000000000thl8ot",
               "uuid": "Compendium.laaru-dnd5-hw.items.r8ZacUDhcgXdnKUw",
               "quantity": 1,
-              "name": "Латный дocпех эфирности / Plate Armor of Etherealness"
+              "name": "Латный дocпех эфирности / Plate Armor of Etherealness",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

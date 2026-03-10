@@ -13,24 +13,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000001sw2bl",
           "name": null,
           "components": [
             {
+              "id": "000000000038aviv",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000brta82",
           "name": null,
           "components": [
             {
+              "id": "0000000000iqxg1m",
               "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
               "quantity": 1,
-              "name": "Качественная Ветвь / Quality Branch"
+              "name": "Качественная Ветвь / Quality Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -49,24 +59,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000008e7e15",
           "name": null,
           "components": [
             {
+              "id": "0000000000idsay9",
               "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
-              "quantity": "1",
-              "name": "Качественная Ветвь / Quality Branch"
+              "quantity": 1,
+              "name": "Качественная Ветвь / Quality Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000kied56",
           "name": null,
           "components": [
             {
+              "id": "00000000005ux0jh",
               "uuid": "Compendium.kraywell-compendium.items.wYNaUojSWmPLgVYA",
               "quantity": 1,
-              "name": "Необычная Ветвь / Uncommon Branch"
+              "name": "Необычная Ветвь / Uncommon Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -85,24 +105,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000us58jx",
           "name": null,
           "components": [
             {
+              "id": "0000000000e9apfe",
               "uuid": "Compendium.kraywell-compendium.items.wYNaUojSWmPLgVYA",
-              "quantity": "1",
-              "name": "Необычная Ветвь / Uncommon Branch"
+              "quantity": 1,
+              "name": "Необычная Ветвь / Uncommon Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000y7qf8y",
           "name": null,
           "components": [
             {
+              "id": "00000000007jrbd5",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
               "quantity": 1,
-              "name": "Редкая Ветвь / Rare Branch"
+              "name": "Редкая Ветвь / Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -121,24 +151,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000r0e5zz",
           "name": null,
           "components": [
             {
+              "id": "000000000090e1xy",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь / Rare Branch"
+              "quantity": 1,
+              "name": "Редкая Ветвь / Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bngpy8",
           "name": null,
           "components": [
             {
+              "id": "00000000002c4ot9",
               "uuid": "Compendium.kraywell-compendium.items.IEn7J7NLPqoa6zAk",
               "quantity": 1,
-              "name": "Очень Редкая Ветвь / Very Rare Branch"
+              "name": "Очень Редкая Ветвь / Very Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -157,24 +197,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000pnf0dv",
           "name": null,
           "components": [
             {
+              "id": "0000000000qac8q8",
               "uuid": "Compendium.kraywell-compendium.items.IEn7J7NLPqoa6zAk",
-              "quantity": "1",
-              "name": "Очень Редкая Ветвь / Very Rare Branch"
+              "quantity": 1,
+              "name": "Очень Редкая Ветвь / Very Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000h7dhzg",
           "name": null,
           "components": [
             {
+              "id": "0000000000lrt19x",
               "uuid": "Compendium.kraywell-compendium.items.YqV4knKttTcPgsoC",
               "quantity": 1,
-              "name": "Легендарная Ветвь / Legendary Branch"
+              "name": "Легендарная Ветвь / Legendary Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

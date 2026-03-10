@@ -13,24 +13,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000oy0s91",
           "name": null,
           "components": [
             {
+              "id": "0000000000psr8y0",
               "uuid": "Compendium.kraywell-compendium.items.eOwU5533Gna5obG2",
-              "quantity": "1",
-              "name": "Обычные Магические Чернила / Common Magical Ink"
+              "quantity": 1,
+              "name": "Обычные Магические Чернила / Common Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bf91qc",
           "name": null,
           "components": [
             {
+              "id": "0000000000bf4nys",
               "uuid": "Compendium.kraywell-compendium.items.KVFdjoXLkav975In",
               "quantity": 1,
-              "name": "Академическая руна: Цвет / Color"
+              "name": "Академическая руна: Цвет / Color",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -49,54 +59,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000qj8h6u",
           "name": null,
           "components": [
             {
+              "id": "0000000000549uqg",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qj8h6v",
           "name": null,
           "components": [
             {
+              "id": "0000000000nezb2l",
               "uuid": "Compendium.kraywell-compendium.items.fd8yTaU2XEpZKAD6",
-              "quantity": "1",
-              "name": "Обычная Божественная Эссенция / Common Divine Essence"
+              "quantity": 1,
+              "name": "Обычная Божественная Эссенция / Common Divine Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qj8h6w",
           "name": null,
           "components": [
             {
+              "id": "0000000000efa8rt",
               "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
-              "quantity": "1",
-              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+              "quantity": 1,
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qj8h6x",
           "name": null,
           "components": [
             {
+              "id": "0000000000yyg1bv",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.KbrGkQjnuH0HcIUF",
               "quantity": 1,
-              "name": "Свиток заклинания: Понимание языков / Comprehend Languages"
+              "name": "Свиток заклинания: Понимание языков / Comprehend Languages",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000qfd31j",
           "name": null,
           "components": [
             {
+              "id": "000000000087baeh",
               "uuid": "Compendium.kraywell-compendium.items.Item.bPwV4r0ByTtjkmyp",
               "quantity": 1,
-              "name": "Академическая руна: Понимание / Comprehension"
+              "name": "Академическая руна: Понимание / Comprehension",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -115,44 +150,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000023d9v2",
           "name": null,
           "components": [
             {
+              "id": "000000000089vnm8",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция / Uncommon Divine Essence"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция / Uncommon Divine Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000023d9v3",
           "name": null,
           "components": [
             {
+              "id": "0000000000nilkts",
               "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
-              "quantity": "1",
-              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+              "quantity": 1,
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000023d9v4",
           "name": null,
           "components": [
             {
+              "id": "0000000000h8cq49",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3kaWGynGo3OK302o",
               "quantity": 1,
-              "name": "Свиток заклинания: Обнаружение мыслей / Detect Thoughts"
+              "name": "Свиток заклинания: Обнаружение мыслей / Detect Thoughts",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000002qzsgf",
           "name": null,
           "components": [
             {
+              "id": "0000000000oe7rcx",
               "uuid": "Compendium.kraywell-compendium.items.UYLsoGx4sdnQBrEb",
               "quantity": 1,
-              "name": "Академическая руна: Связь / Connection"
+              "name": "Академическая руна: Связь / Connection",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -171,44 +226,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000pgtq9v",
           "name": null,
           "components": [
             {
+              "id": "0000000000mjrds1",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000pgtq9u",
           "name": null,
           "components": [
             {
+              "id": "0000000000wwjqch",
               "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
-              "quantity": "1",
-              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+              "quantity": 1,
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000pgtq9t",
           "name": null,
           "components": [
             {
+              "id": "0000000000lwyo2i",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3oUsGGOT3Sc6NDoV",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит / Shield"
+              "name": "Свиток заклинания: Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000004ro8zi",
           "name": null,
           "components": [
             {
+              "id": "0000000000g7vtr4",
               "uuid": "Compendium.kraywell-compendium.items.Item.7oZQI0nRmlMigkxt",
               "quantity": 1,
-              "name": "Академическая руна: Защита / Protection"
+              "name": "Академическая руна: Защита / Protection",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -227,44 +302,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000002b0buf",
           "name": null,
           "components": [
             {
+              "id": "0000000000ndjek9",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002b0bug",
           "name": null,
           "components": [
             {
+              "id": "0000000000d0r1zt",
               "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
-              "quantity": "1",
-              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+              "quantity": 1,
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002b0buh",
           "name": null,
           "components": [
             {
+              "id": "0000000000buqkcr",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EC0vpVnHyT7Fp0Bb",
               "quantity": 1,
-              "name": "Свиток заклинания: Левитация / Levitate"
+              "name": "Свиток заклинания: Левитация / Levitate",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000003tuwzs",
           "name": null,
           "components": [
             {
+              "id": "0000000000oym376",
               "uuid": "Compendium.kraywell-compendium.items.Item.CegYO3xhMkScSzS7",
               "quantity": 1,
-              "name": "Академическая руна: Гравитация / Gravity"
+              "name": "Академическая руна: Гравитация / Gravity",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -283,44 +378,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000uuf3xj",
           "name": null,
           "components": [
             {
+              "id": "000000000000s80r",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uuf3xi",
           "name": null,
           "components": [
             {
+              "id": "0000000000ac04jp",
               "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
-              "quantity": "1",
-              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+              "quantity": 1,
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uuf3xh",
           "name": null,
           "components": [
             {
+              "id": "0000000000ze7ks7",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
-              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000teuwey",
           "name": null,
           "components": [
             {
+              "id": "000000000004zdbn",
               "uuid": "Compendium.kraywell-compendium.items.nO4g4TvuP1dRwqL1",
               "quantity": 1,
-              "name": "Академическая руна: Навык / Skill"
+              "name": "Академическая руна: Навык / Skill",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -339,44 +454,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000093rkjr",
           "name": null,
           "components": [
             {
+              "id": "0000000000i76sdr",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000093rkjs",
           "name": null,
           "components": [
             {
+              "id": "00000000004k5ygk",
               "uuid": "Compendium.kraywell-compendium.items.2hRuzE9CCfIbMXIV",
-              "quantity": "1",
-              "name": "Редкие Магические Чернила / Rare Magical Ink"
+              "quantity": 1,
+              "name": "Редкие Магические Чернила / Rare Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000093rkjt",
           "name": null,
           "components": [
             {
+              "id": "0000000000ky3exk",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.uANq35lqoZcUyOhz",
               "quantity": 1,
-              "name": "Свиток заклинания: Касание вампира / Vampiric Touch"
+              "name": "Свиток заклинания: Касание вампира / Vampiric Touch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000001hz8vs",
           "name": null,
           "components": [
             {
+              "id": "0000000000hc6w8t",
               "uuid": "Compendium.kraywell-compendium.items.Item.y5O7fKxeooRtJ8Ea",
               "quantity": 1,
-              "name": "Академическая руна: Кровь / Blood"
+              "name": "Академическая руна: Кровь / Blood",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -395,44 +530,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000bkjepc",
           "name": null,
           "components": [
             {
+              "id": "0000000000yxdyx4",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bkjepd",
           "name": null,
           "components": [
             {
+              "id": "0000000000mgp94t",
               "uuid": "Compendium.kraywell-compendium.items.2hRuzE9CCfIbMXIV",
-              "quantity": "1",
-              "name": "Редкие Магические Чернила / Rare Magical Ink"
+              "quantity": 1,
+              "name": "Редкие Магические Чернила / Rare Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bkjepe",
           "name": null,
           "components": [
             {
+              "id": "0000000000u0017w",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "2",
-              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+              "quantity": 2,
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006wu5pr",
           "name": null,
           "components": [
             {
+              "id": "0000000000glfdyl",
               "uuid": "Compendium.kraywell-compendium.items.Item.WbwVYSLF9PIgeRsh",
               "quantity": 1,
-              "name": "Академическая руна: Мощь / Power"
+              "name": "Академическая руна: Мощь / Power",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -451,54 +606,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000wk46af",
           "name": null,
           "components": [
             {
+              "id": "0000000000b7kofj",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wk46ae",
           "name": null,
           "components": [
             {
+              "id": "0000000000yukv64",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "2",
-              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+              "quantity": 2,
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wk46ad",
           "name": null,
           "components": [
             {
+              "id": "000000000051qxpz",
               "uuid": "Compendium.kraywell-compendium.items.2hRuzE9CCfIbMXIV",
-              "quantity": "1",
-              "name": "Редкие Магические Чернила / Rare Magical Ink"
+              "quantity": 1,
+              "name": "Редкие Магические Чернила / Rare Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wk46ac",
           "name": null,
           "components": [
             {
+              "id": "0000000000kvvkb2",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4PZsRjg8vk7h44S3",
               "quantity": 1,
-              "name": "Свиток заклинания: Дверь в пространстве / Dimension Door"
+              "name": "Свиток заклинания: Дверь в пространстве / Dimension Door",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bibvje",
           "name": null,
           "components": [
             {
+              "id": "0000000000a9my8l",
               "uuid": "Compendium.kraywell-compendium.items.ErtLLzCh48K6oVgh",
               "quantity": 1,
-              "name": "Академическая руна: Пространство / Space"
+              "name": "Академическая руна: Пространство / Space",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -517,44 +697,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000006m62ev",
           "name": null,
           "components": [
             {
+              "id": "0000000000dbbll5",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006m62ew",
           "name": null,
           "components": [
             {
+              "id": "0000000000j8ynj2",
               "uuid": "Compendium.kraywell-compendium.items.MwoMKo4Yfo1aXs5T",
-              "quantity": "1",
-              "name": "Очень Редкие Магические Чернила / Very Rare Magical Ink"
+              "quantity": 1,
+              "name": "Очень Редкие Магические Чернила / Very Rare Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006m62ex",
           "name": null,
           "components": [
             {
+              "id": "0000000000laoy07",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.pdGu4rtCSItFCoFM",
               "quantity": 1,
-              "name": "Свиток заклинания: Ускорение / Haste"
+              "name": "Свиток заклинания: Ускорение / Haste",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000004mfbco",
           "name": null,
           "components": [
             {
+              "id": "0000000000jd9vr0",
               "uuid": "Compendium.kraywell-compendium.items.Item.YJ0nZRVWFJorb47i",
               "quantity": 1,
-              "name": "Академическая руна: Скорость / Speed"
+              "name": "Академическая руна: Скорость / Speed",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -573,64 +773,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ho26oi",
           "name": null,
           "components": [
             {
+              "id": "0000000000lklb5e",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ho26oj",
           "name": null,
           "components": [
             {
+              "id": "00000000006rtd8b",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "2",
-              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+              "quantity": 2,
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ho26ok",
           "name": null,
           "components": [
             {
+              "id": "0000000000phtcoy",
               "uuid": "Compendium.kraywell-compendium.items.MwoMKo4Yfo1aXs5T",
-              "quantity": "1",
-              "name": "Очень Редкие Магические Чернила / Very Rare Magical Ink"
+              "quantity": 1,
+              "name": "Очень Редкие Магические Чернила / Very Rare Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ho26ol",
           "name": null,
           "components": [
             {
+              "id": "00000000000537u0",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.mNXMDHLoOWGp6Sz6",
               "quantity": 1,
-              "name": "Свиток заклинания: Полноценный образ / Major Image"
+              "name": "Свиток заклинания: Полноценный образ / Major Image",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ho26om",
           "name": null,
           "components": [
             {
+              "id": "0000000000y3jbrz",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Ultb03b1nvwMAiaC",
               "quantity": 1,
-              "name": "Свиток заклинания: Творение / Creation"
+              "name": "Свиток заклинания: Творение / Creation",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000h5bwxf",
           "name": null,
           "components": [
             {
+              "id": "0000000000e1whjo",
               "uuid": "Compendium.kraywell-compendium.items.ALhpVaUxWNXuLqYn",
               "quantity": 1,
-              "name": "Академическая руна: Реальность / Reality"
+              "name": "Академическая руна: Реальность / Reality",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -649,64 +879,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000bi9b4k",
           "name": null,
           "components": [
             {
+              "id": "0000000000ri3ipc",
               "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
-              "quantity": "1",
-              "name": "Легендарная Арканная Эссенция / Legendary Arcane Essence"
+              "quantity": 1,
+              "name": "Легендарная Арканная Эссенция / Legendary Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bi9b4j",
           "name": null,
           "components": [
             {
+              "id": "00000000009kmo0j",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bi9b4i",
           "name": null,
           "components": [
             {
+              "id": "0000000000l4u8rv",
               "uuid": "Compendium.kraywell-compendium.items.bTvNFMIXHMpSvst6",
-              "quantity": "1",
-              "name": "Легендарные Магические Чернила / Legendary Magical Ink"
+              "quantity": 1,
+              "name": "Легендарные Магические Чернила / Legendary Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bi9b4h",
           "name": null,
           "components": [
             {
+              "id": "000000000029qr3f",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "2",
-              "name": "Редкая Божественная Эссенция / Rare Divine Essence"
+              "quantity": 2,
+              "name": "Редкая Божественная Эссенция / Rare Divine Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bi9b4g",
           "name": null,
           "components": [
             {
+              "id": "0000000000av4hd8",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.n0WjbbjpHAAKRaXQ",
               "quantity": 1,
-              "name": "Свиток заклинания: Остановка времени / Time Stop"
+              "name": "Свиток заклинания: Остановка времени / Time Stop",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000001t8gqb",
           "name": null,
           "components": [
             {
+              "id": "0000000000n6uc9x",
               "uuid": "Compendium.kraywell-compendium.items.Item.vvkPA8js77sjBknr",
               "quantity": 1,
-              "name": "Академическая руна: Время / Time"
+              "name": "Академическая руна: Время / Time",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

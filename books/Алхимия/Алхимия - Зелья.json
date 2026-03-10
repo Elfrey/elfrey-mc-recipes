@@ -13,44 +13,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000uxnw86",
           "name": null,
           "components": [
             {
+              "id": "0000000000xozu1o",
               "uuid": "Compendium.kraywell-compendium.items.leJAbEhrPXbNXosC",
-              "quantity": "2",
-              "name": "Обычный Лечебный Реагент"
+              "quantity": 2,
+              "name": "Обычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uxnw87",
           "name": null,
           "components": [
             {
+              "id": "0000000000hcplge",
               "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
-              "quantity": "1",
-              "name": "Обычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Обычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uxnw88",
           "name": null,
           "components": [
             {
+              "id": "00000000006eijnl",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000w2b8uf",
           "name": null,
           "components": [
             {
+              "id": "0000000000tq7cb7",
               "uuid": "Compendium.laaru-dnd5-hw.items.Fc6UfFNOnW80XMzi",
               "quantity": 1,
-              "name": "Противоядие / Antitoxin"
+              "name": "Противоядие / Antitoxin",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -69,54 +89,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000bppo7i",
           "name": null,
           "components": [
             {
+              "id": "000000000098y0kt",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bppo7h",
           "name": null,
           "components": [
             {
+              "id": "00000000005o9nn2",
               "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
-              "quantity": "1",
-              "name": "Обычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Обычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bppo7g",
           "name": null,
           "components": [
             {
+              "id": "00000000007fzlce",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bppo7f",
           "name": null,
           "components": [
             {
+              "id": "0000000000oiawgk",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000004lussz",
           "name": null,
           "components": [
             {
+              "id": "0000000000vhm3y5",
               "uuid": "Compendium.laaru-dnd5-hw.items.eoyktzlQuLbWspYu",
               "quantity": 1,
-              "name": "Зелье лазания / Potion of Climbing"
+              "name": "Зелье лазания / Potion of Climbing",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -135,54 +180,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000016tvuo",
           "name": null,
           "components": [
             {
+              "id": "00000000002df3tt",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000016tvup",
           "name": null,
           "components": [
             {
+              "id": "0000000000atzqbp",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000016tvuq",
           "name": null,
           "components": [
             {
+              "id": "0000000000s8ttuh",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000016tvur",
           "name": null,
           "components": [
             {
+              "id": "00000000007vg9yd",
               "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
-              "quantity": "3",
-              "name": "Обычные Расходные Материалы"
+              "quantity": 3,
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000uroush",
           "name": null,
           "components": [
             {
+              "id": "0000000000n1c0r2",
               "uuid": "Compendium.laaru-dnd5-hw.items.idR7SbHUOvEbi5Ur",
               "quantity": 1,
-              "name": "Зелье бдительного отдыха / Potion of Watchful Rest"
+              "name": "Зелье бдительного отдыха / Potion of Watchful Rest",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -201,64 +271,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000vq7n5m",
           "name": null,
           "components": [
             {
+              "id": "0000000000ig16uf",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vq7n5l",
           "name": null,
           "components": [
             {
+              "id": "0000000000xd8v2a",
               "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
-              "quantity": "1",
-              "name": "Обычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Обычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vq7n5k",
           "name": null,
           "components": [
             {
+              "id": "000000000025f2ri",
               "uuid": "Compendium.kraywell-compendium.items.leJAbEhrPXbNXosC",
-              "quantity": "1",
-              "name": "Обычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Обычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vq7n5j",
           "name": null,
           "components": [
             {
+              "id": "000000000036oayo",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vq7n5i",
           "name": null,
           "components": [
             {
+              "id": "0000000000129g0l",
               "uuid": "Compendium.kraywell-compendium.items.5YkEkqNODg6X7QHQ",
               "quantity": 1,
-              "name": "Обычный Пергамент"
+              "name": "Обычный Пергамент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000e8olll",
           "name": null,
           "components": [
             {
+              "id": "0000000000pip4xr",
               "uuid": "Compendium.laaru-dnd5-hw.items.sSf2Ts2RZ8O7Ui8i",
               "quantity": 1,
-              "name": "Зелье понимания / Potion of Comprehension"
+              "name": "Зелье понимания / Potion of Comprehension",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -277,34 +377,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000z2a5wv",
           "name": null,
           "components": [
             {
+              "id": "0000000000yxx1x4",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000z2a5wu",
           "name": null,
           "components": [
             {
+              "id": "0000000000ntim14",
               "uuid": "Compendium.kraywell-compendium.items.leJAbEhrPXbNXosC",
-              "quantity": "3",
-              "name": "Обычный Лечебный Реагент"
+              "quantity": 3,
+              "name": "Обычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000i4dhw2",
           "name": null,
           "components": [
             {
+              "id": "0000000000ufc87n",
               "uuid": "Compendium.laaru-dnd5-hw.items.ytlsBjYsZ7OBSEBs",
               "quantity": 1,
-              "name": "Зелье исцеления / Potion of Healing"
+              "name": "Зелье исцеления / Potion of Healing",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -323,64 +438,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000006s8n54",
           "name": null,
           "components": [
             {
+              "id": "0000000000bym7r7",
               "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
-              "quantity": "1",
-              "name": "Обычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Обычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006s8n55",
           "name": null,
           "components": [
             {
+              "id": "0000000000d188mh",
               "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
-              "quantity": "1",
-              "name": "Необычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006s8n56",
           "name": null,
           "components": [
             {
+              "id": "0000000000i7yccf",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006s8n57",
           "name": null,
           "components": [
             {
+              "id": "0000000000pffs44",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "2",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006s8n58",
           "name": null,
           "components": [
             {
+              "id": "0000000000ozsykp",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
               "quantity": 1,
-              "name": "Необычная Первичная Эссенция"
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000000lsj93",
           "name": null,
           "components": [
             {
+              "id": "0000000000blydh1",
               "uuid": "Compendium.laaru-dnd5-hw.items.rSY1fw2rafeVMObH",
               "quantity": 1,
-              "name": "Зелье дружбы с животными / Potion of Animal Friendship"
+              "name": "Зелье дружбы с животными / Potion of Animal Friendship",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -399,44 +544,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000vg8flr",
           "name": null,
           "components": [
             {
+              "id": "0000000000l10ocq",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vg8fls",
           "name": null,
           "components": [
             {
+              "id": "0000000000s8i44f",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
               "quantity": 1,
-              "name": "Обычный Реактивный Реагент"
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vg8flt",
           "name": null,
           "components": [
             {
+              "id": "0000000000tl73p7",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
               "quantity": 1,
-              "name": "Необычный Реактивный Реагент"
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000g2mk5c",
           "name": null,
           "components": [
             {
+              "id": "00000000001das9h",
               "uuid": "Compendium.laaru-dnd5-hw.items.IoeqpdLDUiW0spHg",
               "quantity": 1,
-              "name": "Зелье огненного дыхания / Potion of Fire Breath"
+              "name": "Зелье огненного дыхания / Potion of Fire Breath",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -455,54 +620,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000002hhfwj",
           "name": null,
           "components": [
             {
+              "id": "0000000000x13drw",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002hhfwk",
           "name": null,
           "components": [
             {
+              "id": "00000000001yyk1a",
               "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
-              "quantity": "1",
-              "name": "Необычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002hhfwl",
           "name": null,
           "components": [
             {
+              "id": "0000000000gc5rup",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002hhfwm",
           "name": null,
           "components": [
             {
+              "id": "0000000000mqnsbh",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000009elet8",
           "name": null,
           "components": [
             {
+              "id": "0000000000jnmzrx",
               "uuid": "Compendium.laaru-dnd5-hw.items.CMpCrL8iQp8NSARb",
               "quantity": 1,
-              "name": "Зелье роста / Potion of Growth"
+              "name": "Зелье роста / Potion of Growth",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -521,44 +711,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000b5nces",
           "name": null,
           "components": [
             {
+              "id": "0000000000cuvaa2",
               "uuid": "Compendium.kraywell-compendium.items.leJAbEhrPXbNXosC",
-              "quantity": "1",
-              "name": "Обычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Обычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000b5ncet",
           "name": null,
           "components": [
             {
+              "id": "0000000000m1wzp9",
               "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
-              "quantity": "2",
-              "name": "Необычный Лечебный Реагент"
+              "quantity": 2,
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000b5nceu",
           "name": null,
           "components": [
             {
+              "id": "0000000000r8n3f7",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005wrtdh",
           "name": null,
           "components": [
             {
+              "id": "0000000000fc134m",
               "uuid": "Compendium.laaru-dnd5-hw.items.L887NdWEP5NqHCrQ",
               "quantity": 1,
-              "name": "Зелье улучшенного исцеления / Potion of greater healing"
+              "name": "Зелье улучшенного исцеления / Potion of greater healing",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -583,44 +793,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000000buxi9",
           "name": null,
           "components": [
             {
+              "id": "0000000000488fdy",
               "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
-              "quantity": "1",
-              "name": "Обычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Обычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000buxi8",
           "name": null,
           "components": [
             {
+              "id": "0000000000ftd9l9",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "1",
-              "name": "Необычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000buxi7",
           "name": null,
           "components": [
             {
+              "id": "0000000000yeszhk",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006ty2xs",
           "name": null,
           "components": [
             {
+              "id": "0000000000oseswh",
               "uuid": "Compendium.laaru-dnd5-hw.items.rrO6xW8xF9JXeWRD",
               "quantity": 1,
-              "name": "Зелье яда / Potion of Poison"
+              "name": "Зелье яда / Potion of Poison",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -639,44 +869,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000xbxqp8",
           "name": null,
           "components": [
             {
+              "id": "0000000000102fw9",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xbxqp9",
           "name": null,
           "components": [
             {
+              "id": "0000000000z0w8pn",
               "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
-              "quantity": "1",
-              "name": "Необычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xbxqpa",
           "name": null,
           "components": [
             {
+              "id": "0000000000tu64zp",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ssy24t",
           "name": null,
           "components": [
             {
+              "id": "0000000000bzwg48",
               "uuid": "Compendium.laaru-dnd5-hw.items.cWuzBhM4lpDCpHAw",
               "quantity": 1,
-              "name": "Зелье преимущества / Potion of Advantage"
+              "name": "Зелье преимущества / Potion of Advantage",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -695,54 +945,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000rla7c9",
           "name": null,
           "components": [
             {
+              "id": "000000000028xgam",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rla7c8",
           "name": null,
           "components": [
             {
+              "id": "0000000000e0dc36",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rla7c7",
           "name": null,
           "components": [
             {
+              "id": "0000000000ax625r",
               "uuid": "Compendium.kraywell-compendium.items.leJAbEhrPXbNXosC",
-              "quantity": "1",
-              "name": "Обычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Обычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rla7c6",
           "name": null,
           "components": [
             {
+              "id": "0000000000byfacx",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000000f93xk",
           "name": null,
           "components": [
             {
+              "id": "0000000000k2qaba",
               "uuid": "Compendium.laaru-dnd5-hw.items.q4YnwTIWSV6Ls133",
               "quantity": 1,
-              "name": "Зелье устойчивости / Potion of Resistance"
+              "name": "Зелье устойчивости / Potion of Resistance",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -767,54 +1042,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000uru78l",
           "name": null,
           "components": [
             {
+              "id": "0000000000ygju9e",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "1",
-              "name": "Необычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uru78m",
           "name": null,
           "components": [
             {
+              "id": "0000000000oy3iww",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uru78n",
           "name": null,
           "components": [
             {
+              "id": "0000000000e4q19a",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uru78o",
           "name": null,
           "components": [
             {
+              "id": "00000000006x8lhl",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
               "quantity": 1,
-              "name": "Обычный Реактивный Реагент"
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000xy8ahm",
           "name": null,
           "components": [
             {
+              "id": "00000000008y3gr7",
               "uuid": "Compendium.laaru-dnd5-hw.items.3HOz0N0I5ObsPZuR",
               "quantity": 1,
-              "name": "Зелье дыхания под водой / Potion of Water Breathing"
+              "name": "Зелье дыхания под водой / Potion of Water Breathing",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -839,64 +1139,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000lktrf5",
           "name": null,
           "components": [
             {
+              "id": "0000000000r97qvk",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lktrf4",
           "name": null,
           "components": [
             {
+              "id": "00000000002f2922",
               "uuid": "Compendium.kraywell-compendium.items.leJAbEhrPXbNXosC",
-              "quantity": "1",
-              "name": "Обычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Обычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lktrf3",
           "name": null,
           "components": [
             {
+              "id": "0000000000xp9ixr",
               "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
-              "quantity": "1",
-              "name": "Необычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lktrf2",
           "name": null,
           "components": [
             {
+              "id": "00000000004xpi3c",
               "uuid": "Compendium.kraywell-compendium.items.fd8yTaU2XEpZKAD6",
-              "quantity": "1",
-              "name": "Обычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lktrf1",
           "name": null,
           "components": [
             {
+              "id": "0000000000cm86om",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000q9xchc",
           "name": null,
           "components": [
             {
+              "id": "0000000000wwk0tl",
               "uuid": "Compendium.laaru-dnd5-hw.items.6w8pXgAzOfDcXmYB",
               "quantity": 1,
-              "name": "Бутилированное дыхание / Bottled Breath"
+              "name": "Бутилированное дыхание / Bottled Breath",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -915,54 +1245,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000vpjmhd",
           "name": null,
           "components": [
             {
+              "id": "0000000000u9qddo",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vpjmhe",
           "name": null,
           "components": [
             {
+              "id": "0000000000oi2w7o",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vpjmhf",
           "name": null,
           "components": [
             {
+              "id": "0000000000ldau7z",
               "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
-              "quantity": "1",
-              "name": "Необычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vpjmhg",
           "name": null,
           "components": [
             {
+              "id": "0000000000qk0xxx",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000081zmxe",
           "name": null,
           "components": [
             {
+              "id": "0000000000rn5iu3",
               "uuid": "Compendium.laaru-dnd5-hw.items.agLBcwIe3oyhdJh0",
               "quantity": 1,
-              "name": "Зелье силы холмового великана / Potion of Hill Giant Strength"
+              "name": "Зелье силы холмового великана / Potion of Hill Giant Strength",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -981,54 +1336,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000y8t4qh",
           "name": null,
           "components": [
             {
+              "id": "0000000000uuwyzp",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000y8t4qi",
           "name": null,
           "components": [
             {
+              "id": "0000000000l8euuo",
               "uuid": "Compendium.kraywell-compendium.items.leJAbEhrPXbNXosC",
-              "quantity": "1",
-              "name": "Обычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Обычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000y8t4qj",
           "name": null,
           "components": [
             {
+              "id": "0000000000eu5ssk",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000y8t4qk",
           "name": null,
           "components": [
             {
+              "id": "0000000000iv3iul",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000000hwz22",
           "name": null,
           "components": [
             {
+              "id": "00000000005157ux",
               "uuid": "Compendium.laaru-dnd5-hw.items.5FpNVXNxAVRD4Oy5",
               "quantity": 1,
-              "name": "Любовное зелье / Philter of Love"
+              "name": "Любовное зелье / Philter of Love",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1047,64 +1427,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000007mkolc",
           "name": null,
           "components": [
             {
+              "id": "00000000009o48rq",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007mkolb",
           "name": null,
           "components": [
             {
+              "id": "0000000000wj03ea",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "1",
-              "name": "Необычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007mkola",
           "name": null,
           "components": [
             {
+              "id": "0000000000j8iwjz",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007mkol9",
           "name": null,
           "components": [
             {
+              "id": "0000000000i6a5kq",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007mkol8",
           "name": null,
           "components": [
             {
+              "id": "000000000075b4ed",
               "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
-              "quantity": "2",
-              "name": "Редкий Реактивный Реагент"
+              "quantity": 2,
+              "name": "Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000jys8o1",
           "name": null,
           "components": [
             {
+              "id": "0000000000ja156a",
               "uuid": "Compendium.laaru-dnd5-hw.items.AeH8BNWyAu0M3I8x",
               "quantity": 1,
-              "name": "Зелье ясновидения / Potion of Clairvoyance"
+              "name": "Зелье ясновидения / Potion of Clairvoyance",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1123,54 +1533,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000a30o4e",
           "name": null,
           "components": [
             {
+              "id": "00000000005ca8oo",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "2",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a30o4f",
           "name": null,
           "components": [
             {
+              "id": "00000000001uojtk",
               "uuid": "Compendium.kraywell-compendium.items.t3ON4hhqI8q1BjAT",
-              "quantity": "1",
-              "name": "Редкий Лечебный Реагент"
+              "quantity": 1,
+              "name": "Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a30o4g",
           "name": null,
           "components": [
             {
+              "id": "0000000000xe4roh",
               "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
-              "quantity": "1",
-              "name": "Редкий Реактивный Реагент"
+              "quantity": 1,
+              "name": "Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a30o4h",
           "name": null,
           "components": [
             {
+              "id": "0000000000x6on14",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000vutbnl",
           "name": null,
           "components": [
             {
+              "id": "0000000000hbetmi",
               "uuid": "Compendium.laaru-dnd5-hw.items.eOl6URi9QI69pKGG",
               "quantity": 1,
-              "name": "Зелье газообразности / Potion of Gaseous Form"
+              "name": "Зелье газообразности / Potion of Gaseous Form",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1195,44 +1630,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000x8srhg",
           "name": null,
           "components": [
             {
+              "id": "00000000001bl4jp",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000x8srhh",
           "name": null,
           "components": [
             {
+              "id": "0000000000jea7fj",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "3",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 3,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000x8srhi",
           "name": null,
           "components": [
             {
+              "id": "000000000083fqrz",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "2",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000vi8dtx",
           "name": null,
           "components": [
             {
+              "id": "0000000000hd93ih",
               "uuid": "Compendium.laaru-dnd5-hw.items.E4mIuA6BDkPn5GgM",
               "quantity": 1,
-              "name": "Зелье водной формы / Potion of Aqueous Form"
+              "name": "Зелье водной формы / Potion of Aqueous Form",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1257,74 +1712,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000thc7gw",
           "name": null,
           "components": [
             {
+              "id": "0000000000p2cike",
               "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
-              "quantity": "1",
-              "name": "Необычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000thc7gv",
           "name": null,
           "components": [
             {
+              "id": "0000000000sz120u",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "1",
-              "name": "Необычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000thc7gu",
           "name": null,
           "components": [
             {
+              "id": "0000000000ufmb5g",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000thc7gt",
           "name": null,
           "components": [
             {
+              "id": "0000000000fbb34l",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000thc7gs",
           "name": null,
           "components": [
             {
+              "id": "0000000000s0zta9",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000thc7gr",
           "name": null,
           "components": [
             {
+              "id": "00000000002l7wt0",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000cun1wv",
           "name": null,
           "components": [
             {
+              "id": "0000000000gad6a5",
               "uuid": "Compendium.laaru-dnd5-hw.items.tkL03BG7rUUktYV6",
               "quantity": 1,
-              "name": "Зелье максимальной мощи / Potion of Maximum Power"
+              "name": "Зелье максимальной мощи / Potion of Maximum Power",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1343,64 +1833,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000kf5sbt",
           "name": null,
           "components": [
             {
+              "id": "00000000000i929x",
               "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
-              "quantity": "1",
-              "name": "Необычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kf5sbs",
           "name": null,
           "components": [
             {
+              "id": "0000000000duy5ji",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kf5sbr",
           "name": null,
           "components": [
             {
+              "id": "00000000001n1hi7",
               "uuid": "Compendium.kraywell-compendium.items.fd8yTaU2XEpZKAD6",
-              "quantity": "1",
-              "name": "Обычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kf5sbq",
           "name": null,
           "components": [
             {
+              "id": "0000000000fww79r",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kf5sbp",
           "name": null,
           "components": [
             {
+              "id": "0000000000wac3vg",
               "uuid": "Compendium.kraywell-compendium.items.t3ON4hhqI8q1BjAT",
-              "quantity": "2",
-              "name": "Редкий Лечебный Реагент"
+              "quantity": 2,
+              "name": "Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000009lpve0",
           "name": null,
           "components": [
             {
+              "id": "00000000006qisn9",
               "uuid": "Compendium.laaru-dnd5-hw.items.FgPEOMMmnjN7Ey2D",
               "quantity": 1,
-              "name": "Зелье уменьшения / Potion of Diminution"
+              "name": "Зелье уменьшения / Potion of Diminution",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1419,64 +1939,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000007uzj6n",
           "name": null,
           "components": [
             {
+              "id": "0000000000crhl7f",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007uzj6m",
           "name": null,
           "components": [
             {
+              "id": "0000000000s9h894",
               "uuid": "Compendium.kraywell-compendium.items.fd8yTaU2XEpZKAD6",
-              "quantity": "1",
-              "name": "Обычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007uzj6l",
           "name": null,
           "components": [
             {
+              "id": "0000000000apjjh6",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007uzj6k",
           "name": null,
           "components": [
             {
+              "id": "00000000001uflgz",
               "uuid": "Compendium.kraywell-compendium.items.Item.qSorKIz0YZOXqeOX",
               "quantity": 1,
-              "name": "Необычный Лечебный Реагент"
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007uzj6j",
           "name": null,
           "components": [
             {
+              "id": "00000000001kpy31",
               "uuid": "Compendium.kraywell-compendium.items.Item.t3ON4hhqI8q1BjAT",
-              "quantity": "2",
-              "name": "Редкий Лечебный Реагент"
+              "quantity": 2,
+              "name": "Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000r7kl0i",
           "name": null,
           "components": [
             {
+              "id": "0000000000yaovu8",
               "uuid": "Compendium.laaru-dnd5-hw.items.CvPTyKPTU2lYy0Mi",
               "quantity": 1,
-              "name": "Зелье героизма / Potion of Heroism"
+              "name": "Зелье героизма / Potion of Heroism",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1495,64 +2045,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000d9i8aq",
           "name": null,
           "components": [
             {
+              "id": "00000000003pii1d",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "1",
-              "name": "Необычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000d9i8ar",
           "name": null,
           "components": [
             {
+              "id": "00000000007wy6rh",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000d9i8as",
           "name": null,
           "components": [
             {
+              "id": "0000000000v3304a",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "1",
-              "name": "Редкий Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000d9i8at",
           "name": null,
           "components": [
             {
+              "id": "0000000000z2bc7u",
               "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
-              "quantity": "1",
-              "name": "Редкий Реактивный Реагент"
+              "quantity": 1,
+              "name": "Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000d9i8au",
           "name": null,
           "components": [
             {
+              "id": "0000000000z9rgv7",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bmaeub",
           "name": null,
           "components": [
             {
+              "id": "0000000000u8l22d",
               "uuid": "Compendium.laaru-dnd5-hw.items.WsJ3hTZybs1Xp1MH",
               "quantity": 1,
-              "name": "Зелье чтения мыслей / Potion of Mind Reading"
+              "name": "Зелье чтения мыслей / Potion of Mind Reading",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1571,59 +2151,88 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000008o8ge8",
           "name": null,
           "components": [
             {
+              "id": "00000000009nbgml",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "1",
-              "name": "Необычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008o8ge9",
           "name": null,
           "components": [
             {
+              "id": "0000000000l9s5ff",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "2",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008o8gea",
           "name": null,
           "components": [
             {
+              "id": "0000000000aoicdj",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008o8geb",
           "name": null,
           "components": [
             {
+              "id": "0000000000noenam",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "2",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bvhbvl",
           "name": null,
           "components": [
             {
+              "id": "0000000000xrb3nz",
               "uuid": "Compendium.laaru-dnd5-hw.items.p42Ct1NNgVIWEGx1",
               "quantity": 1,
-              "name": "Зелье силы морозного великана / Potion of Frost Giant Strength"
+              "name": "Зелье силы морозного великана / Potion of Frost Giant Strength",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000lwq5m1",
               "uuid": "Compendium.laaru-dnd5-hw.items.sDPLBAdQ1Lc5Pj1t",
               "quantity": 1,
-              "name": "Зелье силы каменного великана / Potion of Stone Giant Strength"
+              "name": "Зелье силы каменного великана / Potion of Stone Giant Strength",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1648,44 +2257,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000lnacqz",
           "name": null,
           "components": [
             {
+              "id": "0000000000xugwlw",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lnacqy",
           "name": null,
           "components": [
             {
+              "id": "000000000006au5d",
               "uuid": "Compendium.kraywell-compendium.items.Item.qSorKIz0YZOXqeOX",
-              "quantity": "2",
-              "name": "Необычный Лечебный Реагент"
+              "quantity": 2,
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lnacqx",
           "name": null,
           "components": [
             {
+              "id": "000000000003et8l",
               "uuid": "Compendium.kraywell-compendium.items.Item.t3ON4hhqI8q1BjAT",
               "quantity": 1,
-              "name": "Редкий Лечебный Реагент"
+              "name": "Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000se7po6",
           "name": null,
           "components": [
             {
+              "id": "0000000000a93ac4",
               "uuid": "Compendium.laaru-dnd5-hw.items.5m9ErO9In8Uc5yyf",
               "quantity": 1,
-              "name": "Зелье высшего исцеления / Potion of Superior Healing"
+              "name": "Зелье высшего исцеления / Potion of Superior Healing",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1704,94 +2333,139 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000002q2sq",
           "name": null,
           "components": [
             {
+              "id": "0000000000l7xizb",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "1",
-              "name": "Необычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000002q2sr",
           "name": null,
           "components": [
             {
+              "id": "000000000062ttp5",
               "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
-              "quantity": "1",
-              "name": "Необычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000002q2ss",
           "name": null,
           "components": [
             {
+              "id": "00000000008ade4a",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000002q2st",
           "name": null,
           "components": [
             {
+              "id": "0000000000z90pnc",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000002q2su",
           "name": null,
           "components": [
             {
+              "id": "0000000000wk22pc",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000002q2sv",
           "name": null,
           "components": [
             {
+              "id": "0000000000ldah0w",
               "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
-              "quantity": "1",
-              "name": "Редкий Реактивный Реагент"
+              "quantity": 1,
+              "name": "Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000002q2sw",
           "name": null,
           "components": [
             {
+              "id": "0000000000lkqlo9",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000002q2sx",
           "name": null,
           "components": [
             {
+              "id": "0000000000ezpoib",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
               "quantity": 1,
-              "name": "Необычная Божественная Эссенция"
+              "name": "Необычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005q56id",
           "name": null,
           "components": [
             {
+              "id": "0000000000e4lb4h",
               "uuid": "Compendium.laaru-dnd5-hw.items.3cjTWE4ZVgZXeFRV",
               "quantity": 1,
-              "name": "Зелье неуязвимости / Potion of Invulnerability"
+              "name": "Зелье неуязвимости / Potion of Invulnerability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1810,54 +2484,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000dsr087",
           "name": null,
           "components": [
             {
+              "id": "0000000000xg2xzk",
               "uuid": "Compendium.kraywell-compendium.items.t3ON4hhqI8q1BjAT",
-              "quantity": "1",
-              "name": "Редкий Лечебный Реагент"
+              "quantity": 1,
+              "name": "Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dsr088",
           "name": null,
           "components": [
             {
+              "id": "0000000000zcswae",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "1",
-              "name": "Редкий Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dsr089",
           "name": null,
           "components": [
             {
+              "id": "0000000000kmgdzp",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dsr08a",
           "name": null,
           "components": [
             {
+              "id": "0000000000vhmoxt",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000004y9mzc",
           "name": null,
           "components": [
             {
+              "id": "0000000000k3esnm",
               "uuid": "Compendium.kraywell-compendium.items.NtbDg8gLRaYQLFla",
               "quantity": 1,
-              "name": "Настой проклятия"
+              "name": "Настой проклятия",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1882,64 +2581,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ta3a3f",
           "name": null,
           "components": [
             {
+              "id": "00000000005f4y4p",
               "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
-              "quantity": "1",
-              "name": "Необычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ta3a3g",
           "name": null,
           "components": [
             {
+              "id": "0000000000ozqjph",
               "uuid": "Compendium.kraywell-compendium.items.t3ON4hhqI8q1BjAT",
-              "quantity": "1",
-              "name": "Редкий Лечебный Реагент"
+              "quantity": 1,
+              "name": "Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ta3a3h",
           "name": null,
           "components": [
             {
+              "id": "0000000000y88xdt",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ta3a3i",
           "name": null,
           "components": [
             {
+              "id": "0000000000tp32oo",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон"
+              "quantity": 1,
+              "name": "Хрустальный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ta3a3j",
           "name": null,
           "components": [
             {
+              "id": "0000000000hppnqw",
               "uuid": "Compendium.kraywell-compendium.items.Item.SMplSIkHRu0GWtii",
-              "quantity": "2",
-              "name": "Очень Редкий Лечебный Реагент"
+              "quantity": 2,
+              "name": "Очень Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000cby8yk",
           "name": null,
           "components": [
             {
+              "id": "0000000000p76il3",
               "uuid": "Compendium.laaru-dnd5-hw.items.JFiSlgcm3uSSBM5t",
               "quantity": 1,
-              "name": "Зелье абсолютного исцеления / Potion of Supreme Healing"
+              "name": "Зелье абсолютного исцеления / Potion of Supreme Healing",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1958,74 +2687,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000l6esc8",
           "name": null,
           "components": [
             {
+              "id": "0000000000aimybn",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000l6esc9",
           "name": null,
           "components": [
             {
+              "id": "0000000000dqo7y3",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000l6esca",
           "name": null,
           "components": [
             {
+              "id": "0000000000nvfid8",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон"
+              "quantity": 1,
+              "name": "Хрустальный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000l6escb",
           "name": null,
           "components": [
             {
+              "id": "00000000009c6hm0",
               "uuid": "Compendium.kraywell-compendium.items.Item.8VDj01mqzoLtj7ef",
-              "quantity": "2",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000l6escc",
           "name": null,
           "components": [
             {
+              "id": "0000000000hp3juy",
               "uuid": "Compendium.kraywell-compendium.items.Item.t3ON4hhqI8q1BjAT",
-              "quantity": "2",
-              "name": "Редкий Лечебный Реагент"
+              "quantity": 2,
+              "name": "Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000l6escd",
           "name": null,
           "components": [
             {
+              "id": "0000000000ngysqb",
               "uuid": "Compendium.kraywell-compendium.items.Item.lKj6NlZtvZiS2MQl",
-              "quantity": "2",
-              "name": "Очень Редкий Реактивный Реагент"
+              "quantity": 2,
+              "name": "Очень Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000kmeoiv",
           "name": null,
           "components": [
             {
+              "id": "0000000000w4ex9p",
               "uuid": "Compendium.laaru-dnd5-hw.items.Kiwj4HRj9Gi2IZ2c",
               "quantity": 1,
-              "name": "Зелье полёта / Potion of Flying"
+              "name": "Зелье полёта / Potion of Flying",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2044,64 +2808,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000aqy647",
           "name": null,
           "components": [
             {
+              "id": "0000000000i656b4",
               "uuid": "Compendium.kraywell-compendium.items.lKj6NlZtvZiS2MQl",
-              "quantity": "1",
-              "name": "Очень Редкий Реактивный Реагент"
+              "quantity": 1,
+              "name": "Очень Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000aqy646",
           "name": null,
           "components": [
             {
+              "id": "0000000000gog99k",
               "uuid": "Compendium.kraywell-compendium.items.SMplSIkHRu0GWtii",
-              "quantity": "1",
-              "name": "Очень Редкий Лечебный Реагент"
+              "quantity": 1,
+              "name": "Очень Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000aqy645",
           "name": null,
           "components": [
             {
+              "id": "0000000000wxvw7f",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон"
+              "quantity": 1,
+              "name": "Хрустальный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000aqy644",
           "name": null,
           "components": [
             {
+              "id": "0000000000t46zs9",
               "uuid": "Compendium.kraywell-compendium.items.Item.8VDj01mqzoLtj7ef",
-              "quantity": "2",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000aqy643",
           "name": null,
           "components": [
             {
+              "id": "0000000000evn0px",
               "uuid": "Compendium.kraywell-compendium.items.Item.t3ON4hhqI8q1BjAT",
-              "quantity": "2",
-              "name": "Редкий Лечебный Реагент"
+              "quantity": 2,
+              "name": "Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000pbts1i",
           "name": null,
           "components": [
             {
+              "id": "0000000000dh9x3y",
               "uuid": "Compendium.laaru-dnd5-hw.items.15AYOMpscovLyy9n",
               "quantity": 1,
-              "name": "Зелье невидимости / Potion of Invisibility"
+              "name": "Зелье невидимости / Potion of Invisibility",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2120,74 +2914,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000001987oi",
           "name": null,
           "components": [
             {
+              "id": "00000000003ve0mz",
               "uuid": "Compendium.kraywell-compendium.items.lKj6NlZtvZiS2MQl",
-              "quantity": "1",
-              "name": "Очень Редкий Реактивный Реагент"
+              "quantity": 1,
+              "name": "Очень Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000001987oh",
           "name": null,
           "components": [
             {
+              "id": "00000000002dp3lf",
               "uuid": "Compendium.kraywell-compendium.items.SMplSIkHRu0GWtii",
-              "quantity": "1",
-              "name": "Очень Редкий Лечебный Реагент"
+              "quantity": 1,
+              "name": "Очень Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000001987og",
           "name": null,
           "components": [
             {
+              "id": "0000000000wpicbs",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000001987of",
           "name": null,
           "components": [
             {
+              "id": "0000000000b97pjf",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон"
+              "quantity": 1,
+              "name": "Хрустальный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000001987oe",
           "name": null,
           "components": [
             {
+              "id": "00000000004dtjgf",
               "uuid": "Compendium.kraywell-compendium.items.Item.8VDj01mqzoLtj7ef",
-              "quantity": "2",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000001987od",
           "name": null,
           "components": [
             {
+              "id": "0000000000q2mpi1",
               "uuid": "Compendium.kraywell-compendium.items.Item.xTfhJGsI7x1WotjZ",
-              "quantity": "2",
-              "name": "Редкий Реактивный Реагент"
+              "quantity": 2,
+              "name": "Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000zgq7nl",
           "name": null,
           "components": [
             {
+              "id": "0000000000w2aqad",
               "uuid": "Compendium.laaru-dnd5-hw.items.8P3SpuhqZ336Syjj",
               "quantity": 1,
-              "name": "Зелье скорости / Potion of Speed"
+              "name": "Зелье скорости / Potion of Speed",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2206,74 +3035,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000g1isc2",
           "name": null,
           "components": [
             {
+              "id": "00000000000t5tgl",
               "uuid": "Compendium.kraywell-compendium.items.t3ON4hhqI8q1BjAT",
-              "quantity": "1",
-              "name": "Редкий Лечебный Реагент"
+              "quantity": 1,
+              "name": "Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000g1isc3",
           "name": null,
           "components": [
             {
+              "id": "00000000002pvrrf",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "1",
-              "name": "Редкий Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000g1isc4",
           "name": null,
           "components": [
             {
+              "id": "00000000006p43uz",
               "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
-              "quantity": "1",
-              "name": "Редкий Реактивный Реагент"
+              "quantity": 1,
+              "name": "Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000g1isc5",
           "name": null,
           "components": [
             {
+              "id": "0000000000m2bfpg",
               "uuid": "Compendium.kraywell-compendium.items.lKj6NlZtvZiS2MQl",
-              "quantity": "1",
-              "name": "Очень Редкий Реактивный Реагент"
+              "quantity": 1,
+              "name": "Очень Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000g1isc6",
           "name": null,
           "components": [
             {
+              "id": "0000000000n6g41w",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "1",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000g1isc7",
           "name": null,
           "components": [
             {
+              "id": "0000000000y71wdd",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон"
+              "quantity": 1,
+              "name": "Хрустальный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000003h2sbx",
           "name": null,
           "components": [
             {
+              "id": "0000000000bo1yqo",
               "uuid": "Compendium.laaru-dnd5-hw.items.8h7pQvbmezG3b8Xq",
               "quantity": 1,
-              "name": "Зелье возможностей / Potion of Possibility"
+              "name": "Зелье возможностей / Potion of Possibility",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2292,54 +3156,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000g20ool",
           "name": null,
           "components": [
             {
+              "id": "00000000005baqqc",
               "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
-              "quantity": "2",
-              "name": "Редкий Реактивный Реагент"
+              "quantity": 2,
+              "name": "Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000g20ook",
           "name": null,
           "components": [
             {
+              "id": "0000000000koi2kt",
               "uuid": "Compendium.kraywell-compendium.items.lKj6NlZtvZiS2MQl",
-              "quantity": "2",
-              "name": "Очень Редкий Реактивный Реагент"
+              "quantity": 2,
+              "name": "Очень Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000g20ooj",
           "name": null,
           "components": [
             {
+              "id": "0000000000jb1trm",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000g20ooi",
           "name": null,
           "components": [
             {
+              "id": "0000000000zg8sh4",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон"
+              "quantity": 1,
+              "name": "Хрустальный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000002uvwfo",
           "name": null,
           "components": [
             {
+              "id": "00000000000uqjen",
               "uuid": "Compendium.laaru-dnd5-hw.items.ULLwKKCK0B0ztL1d",
               "quantity": 1,
-              "name": "Зелье силы облачного великана / Potion of Cloud Giant Strength"
+              "name": "Зелье силы облачного великана / Potion of Cloud Giant Strength",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2358,54 +3247,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000mtu41w",
           "name": null,
           "components": [
             {
+              "id": "0000000000y84uj3",
               "uuid": "Compendium.kraywell-compendium.items.5JVV4dunnBhV1oXS",
-              "quantity": "1",
-              "name": "Легендарный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Легендарный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mtu41v",
           "name": null,
           "components": [
             {
+              "id": "0000000000wtz4np",
               "uuid": "Compendium.kraywell-compendium.items.SMplSIkHRu0GWtii",
-              "quantity": "2",
-              "name": "Очень Редкий Лечебный Реагент"
+              "quantity": 2,
+              "name": "Очень Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mtu41u",
           "name": null,
           "components": [
             {
+              "id": "0000000000900p9b",
               "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
-              "quantity": "1",
-              "name": "Легендарная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mtu41t",
           "name": null,
           "components": [
             {
+              "id": "0000000000j72biv",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон"
+              "quantity": 1,
+              "name": "Хрустальный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005zvtwj",
           "name": null,
           "components": [
             {
+              "id": "0000000000gv6f7n",
               "uuid": "Compendium.kraywell-compendium.items.oRGwPFLdcihyjFoi",
               "quantity": 1,
-              "name": "Панацея"
+              "name": "Панацея",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2430,64 +3344,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000r6bh1n",
           "name": null,
           "components": [
             {
+              "id": "000000000095g4ya",
               "uuid": "Compendium.kraywell-compendium.items.lKj6NlZtvZiS2MQl",
-              "quantity": "2",
-              "name": "Очень Редкий Реактивный Реагент"
+              "quantity": 2,
+              "name": "Очень Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r6bh1o",
           "name": null,
           "components": [
             {
+              "id": "0000000000bh9bb1",
               "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
-              "quantity": "1",
-              "name": "Легендарная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r6bh1p",
           "name": null,
           "components": [
             {
+              "id": "00000000005maky1",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон"
+              "quantity": 1,
+              "name": "Хрустальный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r6bh1q",
           "name": null,
           "components": [
             {
+              "id": "0000000000u22odx",
               "uuid": "Compendium.kraywell-compendium.items.Item.i8Ritlhh78WFGAnz",
               "quantity": 1,
-              "name": "Легендарный Реактивный Реагент"
+              "name": "Легендарный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r6bh1r",
           "name": null,
           "components": [
             {
+              "id": "0000000000pmg7su",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.MXgvSihV1bs52kFW",
               "quantity": 1,
-              "name": "Чешуйка дракона"
+              "name": "Чешуйка дракона",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006js7ik",
           "name": null,
           "components": [
             {
+              "id": "00000000000wo4f2",
               "uuid": "Compendium.laaru-dnd5-hw.items.mLzCqbLGtuQOHISq",
               "quantity": 1,
-              "name": "Зелье величия дракона / Potion of Dragon's Majesty"
+              "name": "Зелье величия дракона / Potion of Dragon's Majesty",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2506,54 +3450,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000cwuubg",
           "name": null,
           "components": [
             {
+              "id": "00000000001inho1",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "1",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000cwuubh",
           "name": null,
           "components": [
             {
+              "id": "00000000002rc6lj",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон"
+              "quantity": 1,
+              "name": "Хрустальный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000cwuubi",
           "name": null,
           "components": [
             {
+              "id": "00000000006okkqt",
               "uuid": "Compendium.kraywell-compendium.items.Item.i8Ritlhh78WFGAnz",
               "quantity": 1,
-              "name": "Легендарный Реактивный Реагент"
+              "name": "Легендарный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000cwuubj",
           "name": null,
           "components": [
             {
+              "id": "00000000007fldvj",
               "uuid": "Compendium.kraywell-compendium.items.Item.5JVV4dunnBhV1oXS",
               "quantity": 1,
-              "name": "Легендарный Лечебный Реагент"
+              "name": "Легендарный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000mifg7x",
           "name": null,
           "components": [
             {
+              "id": "0000000000awsq5h",
               "uuid": "Compendium.laaru-dnd5-hw.items.MD30INyLUcEMAuHL",
               "quantity": 1,
-              "name": "Зелье силы штормового великана / Potion of Storm Giant Strength"
+              "name": "Зелье силы штормового великана / Potion of Storm Giant Strength",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2572,54 +3541,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000w0rm7j",
           "name": null,
           "components": [
             {
+              "id": "0000000000cjrtp1",
               "uuid": "Compendium.kraywell-compendium.items.i8Ritlhh78WFGAnz",
-              "quantity": "3",
-              "name": "Легендарный Реактивный Реагент"
+              "quantity": 3,
+              "name": "Легендарный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000w0rm7i",
           "name": null,
           "components": [
             {
+              "id": "0000000000jmi8hp",
               "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
-              "quantity": "1",
-              "name": "Легендарная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000w0rm7h",
           "name": null,
           "components": [
             {
+              "id": "0000000000b3pcxm",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "2",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000w0rm7g",
           "name": null,
           "components": [
             {
+              "id": "00000000006tpoo2",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон"
+              "quantity": 1,
+              "name": "Хрустальный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000055hey6",
           "name": null,
           "components": [
             {
+              "id": "00000000002xpxj2",
               "uuid": "Compendium.laaru-dnd5-hw.items.bu7rt09mbQOrSUc9",
               "quantity": 1,
-              "name": "Зелье размеров великана / Potion of Giant Size"
+              "name": "Зелье размеров великана / Potion of Giant Size",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

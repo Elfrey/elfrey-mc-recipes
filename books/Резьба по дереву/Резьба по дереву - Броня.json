@@ -13,44 +13,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000008aaiib",
           "name": null,
           "components": [
             {
+              "id": "000000000013i06t",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "4",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 4,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008aaiia",
           "name": null,
           "components": [
             {
+              "id": "0000000000ptlxvf",
               "uuid": "Compendium.kraywell-compendium.items.WM5QIXEpjlD68jP5",
-              "quantity": "1",
-              "name": "Металлолом / Metal Scraps"
+              "quantity": 1,
+              "name": "Металлолом / Metal Scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008aaii9",
           "name": null,
           "components": [
             {
+              "id": "0000000000uh8e0v",
               "uuid": "Compendium.kraywell-compendium.items.adBa2eWvJ5KXTHWs",
-              "quantity": "1",
-              "name": "Кусок Кожи / Leather Scraps"
+              "quantity": 1,
+              "name": "Кусок Кожи / Leather Scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000un31wy",
           "name": null,
           "components": [
             {
+              "id": "000000000085a3u2",
               "uuid": "Compendium.laaru-dnd5-hw.items.sSs3hSzkKBMNBgTs",
               "quantity": 1,
-              "name": "Щит / Shield"
+              "name": "Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

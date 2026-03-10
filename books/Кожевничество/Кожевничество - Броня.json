@@ -13,64 +13,100 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000j8gnqj",
           "name": null,
           "components": [
             {
+              "id": "0000000000l1bclf",
               "uuid": "Compendium.kraywell-compendium.items.xMjaOvhnE89s448x",
-              "quantity": "1",
-              "name": "Большой Панцирь"
+              "quantity": 1,
+              "name": "Большой Панцирь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000j8gnqi",
           "name": null,
           "components": [
             {
+              "id": "0000000000bkf8iv",
               "uuid": "Compendium.kraywell-compendium.items.Item.VOKRsYmEEg45mcsv",
-              "quantity": "2",
-              "name": "Вареная Кожа"
+              "quantity": 2,
+              "name": "Вареная Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000001zd2wt",
               "uuid": "Compendium.kraywell-compendium.items.Item.XvyMF34Mqq7LaVKN",
-              "quantity": "2",
-              "name": "Дубленая Кожа"
+              "quantity": 2,
+              "name": "Дубленая Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000081f07v",
               "uuid": "Compendium.kraywell-compendium.items.Item.SVCbE3fGzit2vVDN",
-              "quantity": "2",
-              "name": "Жесткая Кожа"
+              "quantity": 2,
+              "name": "Жесткая Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000009fo9b0",
               "uuid": "Compendium.kraywell-compendium.items.Item.vG2qzJsUbZOUQ7VX",
-              "quantity": "2",
-              "name": "Устойчивая Кожа"
+              "quantity": 2,
+              "name": "Устойчивая Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000sti0ug",
               "uuid": "Compendium.kraywell-compendium.items.Item.KHOOuEKSawFdosbb",
-              "quantity": "2",
-              "name": "Сыромятная Кожа"
+              "quantity": 2,
+              "name": "Сыромятная Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000j8gnqh",
           "name": null,
           "components": [
             {
+              "id": "0000000000t6u45f",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sOFgvkLDup8OJf39",
-              "quantity": "2",
-              "name": "Пряжка / Buckle"
+              "quantity": 2,
+              "name": "Пряжка / Buckle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000onr89i",
           "name": null,
           "components": [
             {
+              "id": "00000000005wm65q",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.qVI2IdSDOcb4TqP5",
               "quantity": 1,
-              "name": "Панцирный Нагрудник / Carapace Breastplate"
+              "name": "Панцирный Нагрудник / Carapace Breastplate",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -89,44 +125,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000w5fzc8",
           "name": null,
           "components": [
             {
+              "id": "00000000003ujnpo",
               "uuid": "Compendium.kraywell-compendium.items.87hmwWQmbyqEIf0Z",
-              "quantity": "1",
-              "name": "Средний Панцирь"
+              "quantity": 1,
+              "name": "Средний Панцирь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000w5fzc7",
           "name": null,
           "components": [
             {
+              "id": "0000000000d4l1e3",
               "uuid": "Compendium.kraywell-compendium.items.adBa2eWvJ5KXTHWs",
-              "quantity": "1",
-              "name": "Кусок Кожи"
+              "quantity": 1,
+              "name": "Кусок Кожи",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000w5fzc6",
           "name": null,
           "components": [
             {
+              "id": "0000000000c87z8q",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
-              "quantity": "4",
-              "name": "Лоскутки кожи / Leather Scraps"
+              "quantity": 4,
+              "name": "Лоскутки кожи / Leather Scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000014i3wn",
           "name": null,
           "components": [
             {
+              "id": "0000000000o6453u",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.GE2aTXw14WK9OpB0",
               "quantity": 1,
-              "name": "Панцирный Щит . Carapace Shield"
+              "name": "Панцирный Щит . Carapace Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -145,44 +201,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000fmztke",
           "name": null,
           "components": [
             {
+              "id": "0000000000n7bpf1",
               "uuid": "Compendium.kraywell-compendium.items.KHOOuEKSawFdosbb",
-              "quantity": "2",
-              "name": "Сыромятная Кожа"
+              "quantity": 2,
+              "name": "Сыромятная Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fmztkd",
           "name": null,
           "components": [
             {
+              "id": "0000000000f6tw3b",
               "uuid": "Compendium.kraywell-compendium.items.h9RgEwLap30QmQwl",
-              "quantity": "1",
-              "name": "Шкура"
+              "quantity": 1,
+              "name": "Шкура",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fmztkc",
           "name": null,
           "components": [
             {
+              "id": "0000000000497d7k",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sOFgvkLDup8OJf39",
-              "quantity": "2",
-              "name": "Пряжка / Buckle"
+              "quantity": 2,
+              "name": "Пряжка / Buckle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000fsmp1p",
           "name": null,
           "components": [
             {
+              "id": "0000000000yeh4fc",
               "uuid": "Compendium.laaru-dnd5-hw.items.n1V07puo0RQxPGuF",
               "quantity": 1,
-              "name": "Сыромятный доспех / Hide Armor"
+              "name": "Сыромятный доспех / Hide Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -201,34 +277,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000j2e16x",
           "name": null,
           "components": [
             {
+              "id": "0000000000yig2p4",
               "uuid": "Compendium.kraywell-compendium.items.KHOOuEKSawFdosbb",
-              "quantity": "3",
-              "name": "Сыромятная Кожа"
+              "quantity": 3,
+              "name": "Сыромятная Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000j2e16w",
           "name": null,
           "components": [
             {
+              "id": "0000000000xk89j0",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sOFgvkLDup8OJf39",
-              "quantity": "2",
-              "name": "Пряжка / Buckle"
+              "quantity": 2,
+              "name": "Пряжка / Buckle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000jfhtdk",
           "name": null,
           "components": [
             {
+              "id": "0000000000bw06al",
               "uuid": "Compendium.laaru-dnd5-hw.items.WwdpHLXGX5r8uZu5",
               "quantity": 1,
-              "name": "Кожаный доспех / Leather Armor"
+              "name": "Кожаный доспех / Leather Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -247,34 +338,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000bg9djg",
           "name": null,
           "components": [
             {
+              "id": "0000000000tk0hl5",
               "uuid": "Compendium.kraywell-compendium.items.Item.VOKRsYmEEg45mcsv",
-              "quantity": "2",
-              "name": "Вареная Кожа"
+              "quantity": 2,
+              "name": "Вареная Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bg9djf",
           "name": null,
           "components": [
             {
+              "id": "00000000007avyc1",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
-              "quantity": "2",
-              "name": "Лоскутки кожи / Leather Scraps"
+              "quantity": 2,
+              "name": "Лоскутки кожи / Leather Scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000003j6dwr",
           "name": null,
           "components": [
             {
+              "id": "0000000000yom4du",
               "uuid": "Compendium.kraywell-compendium.items.Item.u54OMtrCTZni4kxK",
               "quantity": 1,
-              "name": "Кожаный баклер"
+              "name": "Кожаный баклер",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -293,44 +399,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000fzkblg",
           "name": null,
           "components": [
             {
+              "id": "0000000000j8t1u3",
               "uuid": "Compendium.kraywell-compendium.items.KHOOuEKSawFdosbb",
-              "quantity": "3",
-              "name": "Сыромятная Кожа"
+              "quantity": 3,
+              "name": "Сыромятная Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fzkblh",
           "name": null,
           "components": [
             {
+              "id": "00000000000plxy9",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sOFgvkLDup8OJf39",
-              "quantity": "2",
-              "name": "Пряжка / Buckle"
+              "quantity": 2,
+              "name": "Пряжка / Buckle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fzkbli",
           "name": null,
           "components": [
             {
+              "id": "0000000000bobodp",
               "uuid": "Compendium.kraywell-compendium.items.WM5QIXEpjlD68jP5",
-              "quantity": "6",
-              "name": "Металлолом"
+              "quantity": 6,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000001sedez",
           "name": null,
           "components": [
             {
+              "id": "00000000001m5ops",
               "uuid": "Compendium.laaru-dnd5-hw.items.TIV3B1vbrVHIhQAm",
               "quantity": 1,
-              "name": "Клёпаный кожаный доспех / Studded Leather Armor"
+              "name": "Клёпаный кожаный доспех / Studded Leather Armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -349,44 +475,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000gkqyc5",
           "name": null,
           "components": [
             {
+              "id": "0000000000nnuo3i",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.sXuLhplb8x3lidzt",
-              "quantity": "1",
-              "name": "Набивка доспеха"
+              "quantity": 1,
+              "name": "Набивка доспеха",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gkqyc6",
           "name": null,
           "components": [
             {
+              "id": "00000000004v4kl5",
               "uuid": "Compendium.kraywell-compendium.items.Item.uZHix4q9unlrMReq",
-              "quantity": "25",
-              "name": "Чешуя"
+              "quantity": 25,
+              "name": "Чешуя",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gkqyc7",
           "name": null,
           "components": [
             {
+              "id": "0000000000hjc9vx",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
-              "quantity": "5",
-              "name": "Лоскутки кожи / Leather Scraps"
+              "quantity": 5,
+              "name": "Лоскутки кожи / Leather Scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000k13yei",
           "name": null,
           "components": [
             {
+              "id": "00000000001owfqe",
               "uuid": "Compendium.laaru-dnd5-hw.items.XmnlF5fgIO3tg6TG",
               "quantity": 1,
-              "name": "Чешуйчатый доспех / Scale Mail"
+              "name": "Чешуйчатый доспех / Scale Mail",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -405,64 +551,100 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000n1qo80",
           "name": null,
           "components": [
             {
+              "id": "00000000007e3efd",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ZzLQLzunFUAKmvd7",
               "quantity": 1,
-              "name": "Большой прочный панцирь / large tough carapace"
+              "name": "Большой прочный панцирь / large tough carapace",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000n1qo7z",
           "name": null,
           "components": [
             {
+              "id": "0000000000l71j18",
               "uuid": "Compendium.kraywell-compendium.items.Item.VOKRsYmEEg45mcsv",
-              "quantity": "2",
-              "name": "Вареная Кожа"
+              "quantity": 2,
+              "name": "Вареная Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000blzdf6",
               "uuid": "Compendium.kraywell-compendium.items.Item.XvyMF34Mqq7LaVKN",
-              "quantity": "2",
-              "name": "Дубленая Кожа"
+              "quantity": 2,
+              "name": "Дубленая Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ho1aq8",
               "uuid": "Compendium.kraywell-compendium.items.Item.SVCbE3fGzit2vVDN",
-              "quantity": "2",
-              "name": "Жесткая Кожа"
+              "quantity": 2,
+              "name": "Жесткая Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000hisu5w",
               "uuid": "Compendium.kraywell-compendium.items.Item.KHOOuEKSawFdosbb",
-              "quantity": "2",
-              "name": "Сыромятная Кожа"
+              "quantity": 2,
+              "name": "Сыромятная Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000he7nn6",
               "uuid": "Compendium.kraywell-compendium.items.Item.vG2qzJsUbZOUQ7VX",
-              "quantity": "2",
-              "name": "Устойчивая Кожа"
+              "quantity": 2,
+              "name": "Устойчивая Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000n1qo7y",
           "name": null,
           "components": [
             {
+              "id": "0000000000gf1f9u",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sOFgvkLDup8OJf39",
-              "quantity": "2",
-              "name": "Пряжка / Buckle"
+              "quantity": 2,
+              "name": "Пряжка / Buckle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000000t5jcx",
           "name": null,
           "components": [
             {
+              "id": "0000000000vnymqx",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.aGeZhyoAbqt3qwUu",
               "quantity": 1,
-              "name": "Прочный панцирный Нагрудник / Tough Carapace Breastplate"
+              "name": "Прочный панцирный Нагрудник / Tough Carapace Breastplate",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

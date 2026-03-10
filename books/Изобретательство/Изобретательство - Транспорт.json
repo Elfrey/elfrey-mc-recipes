@@ -13,64 +13,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000gx61al",
           "name": null,
           "components": [
             {
+              "id": "00000000003ler33",
               "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
-              "quantity": "3",
-              "name": "Экзотические Запчасти"
+              "quantity": 3,
+              "name": "Экзотические Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gx61am",
           "name": null,
           "components": [
             {
+              "id": "0000000000omokk6",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gx61an",
           "name": null,
           "components": [
             {
+              "id": "0000000000gok9i1",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.fRiqZGmvVvS7Fg7m",
               "quantity": 1,
-              "name": "Лодка"
+              "name": "Лодка",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gx61ao",
           "name": null,
           "components": [
             {
+              "id": "0000000000sgw9za",
               "uuid": "Compendium.kraywell-compendium.items.Item.JvROpigr0jg2osWb",
-              "quantity": "10",
-              "name": "Обычные запчасти"
+              "quantity": 10,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gx61ap",
           "name": null,
           "components": [
             {
+              "id": "0000000000xt63pf",
               "uuid": "Compendium.kraywell-compendium.items.Item.aZhCcS3Rn8YLv0xa",
-              "quantity": "2",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000uq3i2a",
           "name": null,
           "components": [
             {
+              "id": "0000000000x98avj",
               "uuid": "Compendium.laaru-dnd5-hw.items.ugp9wUwQbK9hqHNi",
               "quantity": 1,
-              "name": "Складная лодка / Folding Boat"
+              "name": "Складная лодка / Folding Boat",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -89,64 +119,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000e5xawj",
           "name": null,
           "components": [
             {
+              "id": "0000000000moom49",
               "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
-              "quantity": "3",
-              "name": "Экзотические Запчасти"
+              "quantity": 3,
+              "name": "Экзотические Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000e5xawk",
           "name": null,
           "components": [
             {
+              "id": "0000000000lp7t1y",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "2",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000e5xawl",
           "name": null,
           "components": [
             {
+              "id": "0000000000zfr5lp",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000e5xawm",
           "name": null,
           "components": [
             {
+              "id": "00000000008x7r8g",
               "uuid": "Compendium.kraywell-compendium.items.Item.JvROpigr0jg2osWb",
-              "quantity": "10",
-              "name": "Обычные запчасти"
+              "quantity": 10,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000e5xawn",
           "name": null,
           "components": [
             {
+              "id": "0000000000q3g58y",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.1f7BmmNZIsrRhax8",
               "quantity": 1,
-              "name": "Повозка / Cart"
+              "name": "Повозка / Cart",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000gaotxo",
           "name": null,
           "components": [
             {
+              "id": "00000000006ku6d5",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.jZkWkDzHMBAGj4JQ",
               "quantity": 1,
-              "name": "Складная Повозка / Folding Cart"
+              "name": "Складная Повозка / Folding Cart",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

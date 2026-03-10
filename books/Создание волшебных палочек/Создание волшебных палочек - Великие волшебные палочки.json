@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000swegl5",
           "name": null,
           "components": [
             {
+              "id": "00000000003x6xnq",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "2",
-              "name": "Обычная Арканная Эссенция / Common Arcane Essence"
+              "quantity": 2,
+              "name": "Обычная Арканная Эссенция / Common Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000swegl6",
           "name": null,
           "components": [
             {
+              "id": "0000000000u5mltq",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000o4bnp6",
           "name": null,
           "components": [
             {
+              "id": "0000000000vmq0g0",
               "uuid": "Compendium.kraywell-compendium.items.KRUFrgPGb1jczXBL",
               "quantity": 1,
-              "name": "Взрывная палочка / Blast Stick"
+              "name": "Взрывная палочка / Blast Stick",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -59,44 +74,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ddshrg",
           "name": null,
           "components": [
             {
+              "id": "000000000098ved5",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция / Common Arcane Essence"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция / Common Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ddshrh",
           "name": null,
           "components": [
             {
+              "id": "0000000000oty54b",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ddshri",
           "name": null,
           "components": [
             {
+              "id": "0000000000w2e09z",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.CN28125Uz18PPFoW",
               "quantity": 1,
-              "name": "Свиток заклинания: Мелкие фокусы / Prestidigitation"
+              "name": "Свиток заклинания: Мелкие фокусы / Prestidigitation",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000007xg9fx",
           "name": null,
           "components": [
             {
+              "id": "00000000004zb78d",
               "uuid": "Compendium.kraywell-compendium.items.tfkAKUwEFh3Ww7nf",
               "quantity": 1,
-              "name": "Домашняя палочка / Wand of Chores"
+              "name": "Домашняя палочка / Wand of Chores",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -115,54 +150,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000c8pmv7",
           "name": null,
           "components": [
             {
+              "id": "000000000017auqe",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "2",
-              "name": "Обычная Арканная Эссенция / Common Arcane Essence"
+              "quantity": 2,
+              "name": "Обычная Арканная Эссенция / Common Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c8pmv6",
           "name": null,
           "components": [
             {
+              "id": "0000000000za4e7u",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c8pmv5",
           "name": null,
           "components": [
             {
+              "id": "000000000073jj25",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.2uhI34LXFKkZvQg3",
               "quantity": 1,
-              "name": "Свиток заклинания: Малая иллюзия / Minor Illusion"
+              "name": "Свиток заклинания: Малая иллюзия / Minor Illusion",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c8pmv4",
           "name": null,
           "components": [
             {
+              "id": "0000000000axsvru",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.11VE4mAfpT7kfCqS",
               "quantity": 1,
-              "name": "Шляпа / Hat"
+              "name": "Шляпа / Hat",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000kytn7i",
           "name": null,
           "components": [
             {
+              "id": "0000000000pixrh1",
               "uuid": "Compendium.kraywell-compendium.items.83fqlw4ILpVX6EPp",
               "quantity": 1,
-              "name": "Палочка фокусника / Magician’s Wand"
+              "name": "Палочка фокусника / Magician’s Wand",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -181,44 +241,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000oytlak",
           "name": null,
           "components": [
             {
+              "id": "0000000000mik4un",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
-              "quantity": "2",
-              "name": "Обычная Первичная Эссенция / Common Primal Essence"
+              "quantity": 2,
+              "name": "Обычная Первичная Эссенция / Common Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000oytlal",
           "name": null,
           "components": [
             {
+              "id": "0000000000i607yj",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000oytlam",
           "name": null,
           "components": [
             {
+              "id": "0000000000k9vs32",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.b4qG7KFx5G8hBclA",
               "quantity": 1,
-              "name": "Свиток заклинания: Вкусные ягоды / Goodberry"
+              "name": "Свиток заклинания: Вкусные ягоды / Goodberry",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000003z2hv1",
           "name": null,
           "components": [
             {
+              "id": "000000000079tzhx",
               "uuid": "Compendium.kraywell-compendium.items.CKBQCMMlz2An2tq6",
               "quantity": 1,
-              "name": "Чудоягодный раздатчик / Goodberry Dispenser"
+              "name": "Чудоягодный раздатчик / Goodberry Dispenser",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -237,54 +317,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000hr4get",
           "name": null,
           "components": [
             {
+              "id": "0000000000ebffvc",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция / Common Arcane Essence"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция / Common Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hr4ges",
           "name": null,
           "components": [
             {
+              "id": "0000000000kgmszo",
               "uuid": "Compendium.kraywell-compendium.items.ZPzb9s06KKH8D86j",
-              "quantity": "1",
-              "name": "Обычная Псионическая эссенция / Common Psionic Essence"
+              "quantity": 1,
+              "name": "Обычная Псионическая эссенция / Common Psionic Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hr4ger",
           "name": null,
           "components": [
             {
+              "id": "0000000000a4ycgl",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hr4geq",
           "name": null,
           "components": [
             {
+              "id": "00000000004rlpnb",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4bD9IpGJ3nDGnU2A",
               "quantity": 1,
-              "name": "Свиток заклинания: Сообщение / Message"
+              "name": "Свиток заклинания: Сообщение / Message",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000l9r2tw",
           "name": null,
           "components": [
             {
+              "id": "00000000006gwz2t",
               "uuid": "Compendium.kraywell-compendium.items.cOo3qYcAtotuPeqW",
               "quantity": 1,
-              "name": "Тихая палочка / Whisperstick"
+              "name": "Тихая палочка / Whisperstick",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -303,44 +408,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000lv3k5y",
           "name": null,
           "components": [
             {
+              "id": "00000000005tbeb8",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lv3k5x",
           "name": null,
           "components": [
             {
+              "id": "0000000000d1ttso",
               "uuid": "Compendium.kraywell-compendium.items.wYNaUojSWmPLgVYA",
-              "quantity": "1",
-              "name": "Необычная Ветвь / Uncommon Branch"
+              "quantity": 1,
+              "name": "Необычная Ветвь / Uncommon Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lv3k5w",
           "name": null,
           "components": [
             {
+              "id": "0000000000uj3exn",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.KGikYYqwCdRAGU7F",
               "quantity": 1,
-              "name": "Свиток заклинания: Обнаружение магии / Detect magic"
+              "name": "Свиток заклинания: Обнаружение магии / Detect magic",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000z4d3kb",
           "name": null,
           "components": [
             {
+              "id": "000000000076bjka",
               "uuid": "Compendium.laaru-dnd5-hw.items.a4Mwxgsuj6UTdkel",
               "quantity": 1,
-              "name": "Жезл обнаружения магии / Wand of Magic Detection"
+              "name": "Жезл обнаружения магии / Wand of Magic Detection",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -359,44 +484,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ymockz",
           "name": null,
           "components": [
             {
+              "id": "0000000000pjoxlb",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "3",
-              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+              "quantity": 3,
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ymocky",
           "name": null,
           "components": [
             {
+              "id": "0000000000qm9w9x",
               "uuid": "Compendium.kraywell-compendium.items.wYNaUojSWmPLgVYA",
-              "quantity": "1",
-              "name": "Необычная Ветвь / Uncommon Branch"
+              "quantity": 1,
+              "name": "Необычная Ветвь / Uncommon Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ymockx",
           "name": null,
           "components": [
             {
+              "id": "000000000008udbw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OZOl1kaltt7Qf7kH",
               "quantity": 1,
-              "name": "Свиток заклинания: Волшебная стрела / Magic missile"
+              "name": "Свиток заклинания: Волшебная стрела / Magic missile",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000004ol8ni",
           "name": null,
           "components": [
             {
+              "id": "00000000005p5qhh",
               "uuid": "Compendium.laaru-dnd5-hw.items.hiypw8OG1ewouQcC",
               "quantity": 1,
-              "name": "Жезл волшебных стрел / Wand of Magic Missiles"
+              "name": "Жезл волшебных стрел / Wand of Magic Missiles",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -415,54 +560,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000rrmujj",
           "name": null,
           "components": [
             {
+              "id": "00000000007joqfg",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция / Common Arcane Essence"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция / Common Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rrmujk",
           "name": null,
           "components": [
             {
+              "id": "00000000000zc9vf",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
-              "quantity": "1",
-              "name": "Обычная Первичная Эссенция / Common Primal Essence"
+              "quantity": 1,
+              "name": "Обычная Первичная Эссенция / Common Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rrmujl",
           "name": null,
           "components": [
             {
+              "id": "000000000034ukpa",
               "uuid": "Compendium.kraywell-compendium.items.wYNaUojSWmPLgVYA",
-              "quantity": "1",
-              "name": "Необычная Ветвь / Uncommon Branch"
+              "quantity": 1,
+              "name": "Необычная Ветвь / Uncommon Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rrmujm",
           "name": null,
           "components": [
             {
+              "id": "0000000000hpoy01",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.6p8LOvdmbjZ9ccL4",
               "quantity": 1,
-              "name": "Свиток заклинания: Обнаружение ловушек / Find Traps"
+              "name": "Свиток заклинания: Обнаружение ловушек / Find Traps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bt0ew0",
           "name": null,
           "components": [
             {
+              "id": "00000000005f1042",
               "uuid": "Compendium.laaru-dnd5-hw.items.FieWaYfl6rlHOxjD",
               "quantity": 1,
-              "name": "Жезл секретов / Wand of Secrets"
+              "name": "Жезл секретов / Wand of Secrets",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -481,54 +651,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000003w3f2y",
           "name": null,
           "components": [
             {
+              "id": "0000000000gvimrg",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000003w3f2z",
           "name": null,
           "components": [
             {
+              "id": "00000000002f27ba",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000003w3f30",
           "name": null,
           "components": [
             {
+              "id": "00000000005e3r13",
               "uuid": "Compendium.kraywell-compendium.items.wYNaUojSWmPLgVYA",
-              "quantity": "1",
-              "name": "Необычная Ветвь / Uncommon Branch"
+              "quantity": 1,
+              "name": "Необычная Ветвь / Uncommon Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000003w3f31",
           "name": null,
           "components": [
             {
+              "id": "0000000000coid88",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.slIbSrpEipGzaUfq",
               "quantity": 1,
-              "name": "Свиток заклинания: Паутина / Web"
+              "name": "Свиток заклинания: Паутина / Web",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000i1lcmz",
           "name": null,
           "components": [
             {
+              "id": "0000000000r4annx",
               "uuid": "Compendium.laaru-dnd5-hw.items.QGq6qzOxbHXSTbyq",
               "quantity": 1,
-              "name": "Жезл паутины / Wand of Web"
+              "name": "Жезл паутины / Wand of Web",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -547,64 +742,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000qr4e2m",
           "name": null,
           "components": [
             {
+              "id": "00000000009qfusg",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qr4e2n",
           "name": null,
           "components": [
             {
+              "id": "0000000000o6wa8m",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qr4e2o",
           "name": null,
           "components": [
             {
+              "id": "00000000007wzgci",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция / Uncommon Divine Essence"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция / Uncommon Divine Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qr4e2p",
           "name": null,
           "components": [
             {
+              "id": "000000000023psia",
               "uuid": "Compendium.kraywell-compendium.items.wYNaUojSWmPLgVYA",
-              "quantity": "1",
-              "name": "Необычная Ветвь / Uncommon Branch"
+              "quantity": 1,
+              "name": "Необычная Ветвь / Uncommon Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qr4e2q",
           "name": null,
           "components": [
             {
+              "id": "0000000000mn7lff",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ixeJQdE88erSac18",
               "quantity": 1,
-              "name": "Драгоценный камень (150 зм)"
+              "name": "Драгоценный камень (150 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000jmvrof",
           "name": null,
           "components": [
             {
+              "id": "000000000022yec9",
               "uuid": "Compendium.laaru-dnd5-hw.items.sVXtaGtNU9pmX3QZ",
               "quantity": 1,
-              "name": "Жезл боевого мага + 1 / Wand of the War Mage +1"
+              "name": "Жезл боевого мага + 1 / Wand of the War Mage +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -623,54 +848,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000wxsjm0",
           "name": null,
           "components": [
             {
+              "id": "0000000000d78pw0",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "4",
-              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+              "quantity": 4,
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wxsjm1",
           "name": null,
           "components": [
             {
+              "id": "0000000000eaduo0",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь / Rare Branch"
+              "quantity": 1,
+              "name": "Редкая Ветвь / Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wxsjm2",
           "name": null,
           "components": [
             {
+              "id": "0000000000y6giy6",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.8wx2J4x7D4xfG7g9",
               "quantity": 1,
-              "name": "Свиток заклинания: Паралич гуманоида / Hold person"
+              "name": "Свиток заклинания: Паралич гуманоида / Hold person",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wxsjm3",
           "name": null,
           "components": [
             {
+              "id": "000000000051yi2f",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.tJ0jOG3ucFjPVbZY",
               "quantity": 1,
-              "name": "Свиток заклинания: Паралич чудовища / Hold Monster"
+              "name": "Свиток заклинания: Паралич чудовища / Hold Monster",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000u1ow2f",
           "name": null,
           "components": [
             {
+              "id": "00000000000htx8q",
               "uuid": "Compendium.laaru-dnd5-hw.items.Dl26fPuazWt0mxeh",
               "quantity": 1,
-              "name": "Жезл сковывания / Wand of Binding"
+              "name": "Жезл сковывания / Wand of Binding",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -689,54 +939,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000sg46rk",
           "name": null,
           "components": [
             {
+              "id": "0000000000uo8lfs",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000sg46rj",
           "name": null,
           "components": [
             {
+              "id": "0000000000vrdq7s",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь / Rare Branch"
+              "quantity": 1,
+              "name": "Редкая Ветвь / Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000sg46ri",
           "name": null,
           "components": [
             {
+              "id": "00000000009tx7vw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.pMpNn4ki6D5s8ZE0",
               "quantity": 1,
-              "name": "Свиток заклинания: Видение невидимого / See Invisibility"
+              "name": "Свиток заклинания: Видение невидимого / See Invisibility",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000sg46rh",
           "name": null,
           "components": [
             {
+              "id": "0000000000mx4pw1",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.POxLNwDfBvgNC54e",
               "quantity": 1,
-              "name": "Свиток заклинания: Истинное видение / True Seeing"
+              "name": "Свиток заклинания: Истинное видение / True Seeing",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000q4ke8x",
           "name": null,
           "components": [
             {
+              "id": "00000000003mrhv9",
               "uuid": "Compendium.laaru-dnd5-hw.items.X8nLatVpeMiAl00G",
               "quantity": 1,
-              "name": "Жезл обнаружения врагов / Wand of Enemy Detection"
+              "name": "Жезл обнаружения врагов / Wand of Enemy Detection",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -755,54 +1030,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000en1lfz",
           "name": null,
           "components": [
             {
+              "id": "0000000000cmzc95",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "2",
-              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+              "quantity": 2,
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000en1lg0",
           "name": null,
           "components": [
             {
+              "id": "00000000008q3dny",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция / Uncommon Divine Essence"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция / Uncommon Divine Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000en1lg1",
           "name": null,
           "components": [
             {
+              "id": "0000000000ici8lk",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь / Rare Branch"
+              "quantity": 1,
+              "name": "Редкая Ветвь / Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000en1lg2",
           "name": null,
           "components": [
             {
+              "id": "0000000000eias7e",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vYpTa9sd0wD3zL6D",
               "quantity": 1,
-              "name": "Свиток заклинания: Ужас / Fear"
+              "name": "Свиток заклинания: Ужас / Fear",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000v1dwog",
           "name": null,
           "components": [
             {
+              "id": "0000000000to1t15",
               "uuid": "Compendium.laaru-dnd5-hw.items.znTokvucIBqbTVCt",
               "quantity": 1,
-              "name": "Жезл ужаса / Wand of Fear"
+              "name": "Жезл ужаса / Wand of Fear",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -821,64 +1121,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000c0g4s7",
           "name": null,
           "components": [
             {
+              "id": "0000000000rhsk9r",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "3",
-              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+              "quantity": 3,
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c0g4s8",
           "name": null,
           "components": [
             {
+              "id": "0000000000iy2ppj",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "2",
-              "name": "Редкая Первичная Эссенция / Rare Primal Essence"
+              "quantity": 2,
+              "name": "Редкая Первичная Эссенция / Rare Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c0g4s9",
           "name": null,
           "components": [
             {
+              "id": "0000000000cjtwuo",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь / Rare Branch"
+              "quantity": 1,
+              "name": "Редкая Ветвь / Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c0g4sa",
           "name": null,
           "components": [
             {
+              "id": "0000000000598mak",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.53Sqq4gOcxI3m9Si",
               "quantity": 1,
-              "name": "Свиток заклинания: Огненный шар / Fireball"
+              "name": "Свиток заклинания: Огненный шар / Fireball",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c0g4sb",
           "name": null,
           "components": [
             {
+              "id": "0000000000blxzhk",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Mpc1AS77nvHJkPLG",
               "quantity": 1,
-              "name": "Рубин (500 зм)"
+              "name": "Рубин (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000km0m6g",
           "name": null,
           "components": [
             {
+              "id": "0000000000ly8064",
               "uuid": "Compendium.laaru-dnd5-hw.items.IU4HEyPEtyvWaAPi",
               "quantity": 1,
-              "name": "Жезл огненных шаров / Wand of Fireballs"
+              "name": "Жезл огненных шаров / Wand of Fireballs",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -897,64 +1227,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000dyfvfo",
           "name": null,
           "components": [
             {
+              "id": "0000000000xyv63g",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "2",
-              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+              "quantity": 2,
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dyfvfn",
           "name": null,
           "components": [
             {
+              "id": "00000000009dme3m",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "3",
-              "name": "Редкая Первичная Эссенция / Rare Primal Essence"
+              "quantity": 3,
+              "name": "Редкая Первичная Эссенция / Rare Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dyfvfm",
           "name": null,
           "components": [
             {
+              "id": "00000000002zdl8r",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь / Rare Branch"
+              "quantity": 1,
+              "name": "Редкая Ветвь / Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dyfvfl",
           "name": null,
           "components": [
             {
+              "id": "000000000033pi5j",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EFrwRjSyLuyBT46p",
               "quantity": 1,
-              "name": "Свиток заклинания: Удар молнии / Lightning bolt"
+              "name": "Свиток заклинания: Удар молнии / Lightning bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dyfvfk",
           "name": null,
           "components": [
             {
+              "id": "00000000008wes58",
               "uuid": "Compendium.laaru-dnd5-hw.goods.CrFfdbxBhNSytir0",
               "quantity": 1,
-              "name": "Топаз"
+              "name": "Топаз",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000033ayv1",
           "name": null,
           "components": [
             {
+              "id": "0000000000ro5j1l",
               "uuid": "Compendium.laaru-dnd5-hw.items.rzAH5e5tF3QYIBTp",
               "quantity": 1,
-              "name": "Жезл молний / Wand of Lightning Bolts"
+              "name": "Жезл молний / Wand of Lightning Bolts",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -973,44 +1333,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000mfblar",
           "name": null,
           "components": [
             {
+              "id": "0000000000x2vnuj",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "4",
-              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+              "quantity": 4,
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mfblas",
           "name": null,
           "components": [
             {
+              "id": "0000000000y60smj",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь / Rare Branch"
+              "quantity": 1,
+              "name": "Редкая Ветвь / Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mfblat",
           "name": null,
           "components": [
             {
+              "id": "0000000000h7x62f",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lM1t96LXKy4V8AVx",
               "quantity": 1,
-              "name": "Свиток заклинания: Сковывающее проклятие / Binding Curse"
+              "name": "Свиток заклинания: Сковывающее проклятие / Binding Curse",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bqgfpw",
           "name": null,
           "components": [
             {
+              "id": "0000000000rjeq9n",
               "uuid": "Compendium.laaru-dnd5-hw.items.s4538h2gM6ZNVHeu",
               "quantity": 1,
-              "name": "Жезл паралича / Wand of Paralysis"
+              "name": "Жезл паралича / Wand of Paralysis",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1029,144 +1409,214 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000uhdza8",
           "name": null,
           "components": [
             {
+              "id": "00000000000zcfdh",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uhdza9",
           "name": null,
           "components": [
             {
+              "id": "0000000000v4jb7n",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция / Uncommon Divine Essence"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция / Uncommon Divine Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uhdzaa",
           "name": null,
           "components": [
             {
+              "id": "0000000000w51abo",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uhdzab",
           "name": null,
           "components": [
             {
+              "id": "0000000000h2dbkq",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь / Rare Branch"
+              "quantity": 1,
+              "name": "Редкая Ветвь / Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uhdzac",
           "name": null,
           "components": [
             {
+              "id": "0000000000gzjaa7",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.CN28125Uz18PPFoW",
               "quantity": 1,
-              "name": "Свиток заклинания: Мелкие фокусы / Prestidigitation"
+              "name": "Свиток заклинания: Мелкие фокусы / Prestidigitation",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uhdzad",
           "name": null,
           "components": [
             {
+              "id": "0000000000a3v4oz",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.AG5NGC7KoWNFN2cB",
               "quantity": 1,
-              "name": "Свиток заклинания: Фейское сияние / Faerie fire"
+              "name": "Свиток заклинания: Фейское сияние / Faerie fire",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uhdzae",
           "name": null,
           "components": [
             {
+              "id": "0000000000u0oj9m",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Sb6xM2jRd2BOEJhp",
               "quantity": 1,
-              "name": "Свиток заклинания: Смрадное облако / Stinking Cloud"
+              "name": "Свиток заклинания: Смрадное облако / Stinking Cloud",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uhdzaf",
           "name": null,
           "components": [
             {
+              "id": "00000000009dnzgb",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3zmvYN733Ifr1bmO",
               "quantity": 1,
-              "name": "Свиток заклинания: Тьма / Darkness"
+              "name": "Свиток заклинания: Тьма / Darkness",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uhdzag",
           "name": null,
           "components": [
             {
+              "id": "0000000000twbydw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EeujT8xaZCFHkTcK",
               "quantity": 1,
-              "name": "Свиток заклинания: Увеличение/уменьшение / Enlarge/Reduce"
+              "name": "Свиток заклинания: Увеличение/уменьшение / Enlarge/Reduce",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uhdzah",
           "name": null,
           "components": [
             {
+              "id": "0000000000iu67xt",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.nIyELgy43O6lvFm0",
               "quantity": 1,
-              "name": "Свиток заклинания: Невидимость / Invisibility"
+              "name": "Свиток заклинания: Невидимость / Invisibility",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lkko6n",
           "name": null,
           "components": [
             {
+              "id": "0000000000kk93c9",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EFrwRjSyLuyBT46p",
               "quantity": 1,
-              "name": "Свиток заклинания: Удар молнии / Lightning bolt"
+              "name": "Свиток заклинания: Удар молнии / Lightning bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lkko6o",
           "name": null,
           "components": [
             {
+              "id": "0000000000gyo6qa",
               "uuid": "Compendium.laaru-dnd5-hw.goods.zsZZcbA8oV7uqsUO",
-              "quantity": "3",
-              "name": "Драгоценный камень (50 зм)"
+              "quantity": 3,
+              "name": "Драгоценный камень (50 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lkko6p",
           "name": null,
           "components": [
             {
+              "id": "0000000000wbcvra",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.XSA0aBZXksWJKnIr",
-              "quantity": "2",
-              "name": "Драгоценный камень (50 зм)"
+              "quantity": 2,
+              "name": "Драгоценный камень (50 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000oy9fwf",
           "name": null,
           "components": [
             {
+              "id": "0000000000fj6e6u",
               "uuid": "Compendium.laaru-dnd5-hw.items.ADU4SzB8a9nIIrA7",
               "quantity": 1,
-              "name": "Жезл чудес / Wand of Wonder"
+              "name": "Жезл чудес / Wand of Wonder",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1185,64 +1635,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000z9mbyp",
           "name": null,
           "components": [
             {
+              "id": "0000000000oox50p",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "2",
-              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+              "quantity": 2,
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000z9mbyo",
           "name": null,
           "components": [
             {
+              "id": "000000000003od0v",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "2",
-              "name": "Редкая Первичная Эссенция / Rare Primal Essence"
+              "quantity": 2,
+              "name": "Редкая Первичная Эссенция / Rare Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000z9mbyn",
           "name": null,
           "components": [
             {
+              "id": "0000000000rb35w7",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "2",
-              "name": "Редкая Божественная Эссенция / Rare Divine Essence"
+              "quantity": 2,
+              "name": "Редкая Божественная Эссенция / Rare Divine Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000z9mbym",
           "name": null,
           "components": [
             {
+              "id": "0000000000yu762f",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь / Rare Branch"
+              "quantity": 1,
+              "name": "Редкая Ветвь / Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000z9mbyl",
           "name": null,
           "components": [
             {
+              "id": "0000000000mk3nd0",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.l2nRsDeueDefan6w",
               "quantity": 1,
-              "name": "Драгоценный камень (300 зм)"
+              "name": "Драгоценный камень (300 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ofupgw",
           "name": null,
           "components": [
             {
+              "id": "0000000000s0y9ur",
               "uuid": "Compendium.laaru-dnd5-hw.items.QKOU8HAyKYmUaRpP",
               "quantity": 1,
-              "name": "Жезл боевого мага + 2 / Wand of the War Mage +2"
+              "name": "Жезл боевого мага + 2 / Wand of the War Mage +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1261,54 +1741,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000dm1k2d",
           "name": null,
           "components": [
             {
+              "id": "00000000009zfuln",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "2",
-              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence"
+              "quantity": 2,
+              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dm1k2e",
           "name": null,
           "components": [
             {
+              "id": "0000000000kilyeh",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "1",
-              "name": "Очень Редкая Первичная Эссенция / Very Rare Primal Essence"
+              "quantity": 1,
+              "name": "Очень Редкая Первичная Эссенция / Very Rare Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dm1k2f",
           "name": null,
           "components": [
             {
+              "id": "000000000051qqus",
               "uuid": "Compendium.kraywell-compendium.items.IEn7J7NLPqoa6zAk",
-              "quantity": "1",
-              "name": "Очень Редкая Ветвь / Very Rare Branch"
+              "quantity": 1,
+              "name": "Очень Редкая Ветвь / Very Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dm1k2g",
           "name": null,
           "components": [
             {
+              "id": "0000000000c14d0u",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.HDkAHulxL0iDAJqR",
               "quantity": 1,
-              "name": "Свиток заклинания: Полиморф / Polymorph"
+              "name": "Свиток заклинания: Полиморф / Polymorph",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000000tna1i",
           "name": null,
           "components": [
             {
+              "id": "0000000000bf7qp9",
               "uuid": "Compendium.laaru-dnd5-hw.items.LStztn2JVIMIdyIY",
               "quantity": 1,
-              "name": "Жезл полиморфа / Wand of Polymorph"
+              "name": "Жезл полиморфа / Wand of Polymorph",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1327,64 +1832,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000n3byzz",
           "name": null,
           "components": [
             {
+              "id": "000000000052fu25",
               "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
-              "quantity": "1",
-              "name": "Легендарная Арканная Эссенция / Legendary Arcane Essence"
+              "quantity": 1,
+              "name": "Легендарная Арканная Эссенция / Legendary Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000n3bz00",
           "name": null,
           "components": [
             {
+              "id": "0000000000thne4j",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "1",
-              "name": "Очень Редкая Первичная Эссенция / Very Rare Primal Essence"
+              "quantity": 1,
+              "name": "Очень Редкая Первичная Эссенция / Very Rare Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000n3bz01",
           "name": null,
           "components": [
             {
+              "id": "0000000000op18d2",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "1",
-              "name": "Очень Редкая Божественная Эссенция / Very Rare Divine Essence"
+              "quantity": 1,
+              "name": "Очень Редкая Божественная Эссенция / Very Rare Divine Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000n3bz02",
           "name": null,
           "components": [
             {
+              "id": "0000000000r3zfbl",
               "uuid": "Compendium.kraywell-compendium.items.IEn7J7NLPqoa6zAk",
-              "quantity": "1",
-              "name": "Очень Редкая Ветвь / Very Rare Branch"
+              "quantity": 1,
+              "name": "Очень Редкая Ветвь / Very Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000n3bz03",
           "name": null,
           "components": [
             {
+              "id": "0000000000etnvap",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.7BVOVAe8jbe4Jjsv",
               "quantity": 1,
-              "name": "Драгоценный камень (500 зм)"
+              "name": "Драгоценный камень (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000008xvd00",
           "name": null,
           "components": [
             {
+              "id": "0000000000950nbo",
               "uuid": "Compendium.laaru-dnd5-hw.items.6R6F1E65tZLKMOic",
               "quantity": 1,
-              "name": "Жезл боевого мага + 3 / Wand of the War Mage +3"
+              "name": "Жезл боевого мага + 3 / Wand of the War Mage +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

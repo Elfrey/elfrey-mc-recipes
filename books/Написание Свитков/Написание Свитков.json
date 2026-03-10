@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000lisyqa",
           "name": null,
           "components": [
             {
+              "id": "0000000000xyjwb3",
               "uuid": "Compendium.kraywell-compendium.items.5YkEkqNODg6X7QHQ",
-              "quantity": "1",
-              "name": "Обычный Пергамент"
+              "quantity": 1,
+              "name": "Обычный Пергамент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lisyq9",
           "name": null,
           "components": [
             {
+              "id": "0000000000cnj4qk",
               "uuid": "Compendium.kraywell-compendium.items.eOwU5533Gna5obG2",
-              "quantity": "1",
-              "name": "Обычные Магические Чернила"
+              "quantity": 1,
+              "name": "Обычные Магические Чернила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000oj8n2n",
           "name": null,
           "components": [
             {
+              "id": "0000000000582l38",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.rQ6sO7HDWzqMhSI3",
               "quantity": 1,
-              "name": "Свиток фокуса / Spell Scroll Cantrip"
+              "name": "Свиток фокуса / Spell Scroll Cantrip",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -59,44 +74,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000h16rao",
           "name": null,
           "components": [
             {
+              "id": "00000000007gepmr",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000h16rap",
           "name": null,
           "components": [
             {
+              "id": "0000000000sd6eb6",
               "uuid": "Compendium.kraywell-compendium.items.5YkEkqNODg6X7QHQ",
-              "quantity": "1",
-              "name": "Обычный Пергамент"
+              "quantity": 1,
+              "name": "Обычный Пергамент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000h16raq",
           "name": null,
           "components": [
             {
+              "id": "00000000005fargc",
               "uuid": "Compendium.kraywell-compendium.items.Item.eOwU5533Gna5obG2",
               "quantity": 1,
-              "name": "Обычные Магические Чернила"
+              "name": "Обычные Магические Чернила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000y6pw4v",
           "name": null,
           "components": [
             {
+              "id": "00000000007jljsi",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.9GSfMg0VOA2b4uFN",
               "quantity": 1,
-              "name": "Свиток заклинания 1-го круга / Spell Scroll 1st level"
+              "name": "Свиток заклинания 1-го круга / Spell Scroll 1st level",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -115,44 +150,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000pwi7y0",
           "name": null,
           "components": [
             {
+              "id": "0000000000c57z2t",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000pwi7xz",
           "name": null,
           "components": [
             {
+              "id": "0000000000n2ayye",
               "uuid": "Compendium.kraywell-compendium.items.5YkEkqNODg6X7QHQ",
-              "quantity": "1",
-              "name": "Обычный Пергамент"
+              "quantity": 1,
+              "name": "Обычный Пергамент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000pwi7xy",
           "name": null,
           "components": [
             {
+              "id": "0000000000vniz2s",
               "uuid": "Compendium.kraywell-compendium.items.Item.eOwU5533Gna5obG2",
-              "quantity": "2",
-              "name": "Обычные Магические Чернила"
+              "quantity": 2,
+              "name": "Обычные Магические Чернила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000i9rgrt",
           "name": null,
           "components": [
             {
+              "id": "00000000006dvy63",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.XdDp6CKh9qEvPTuS",
               "quantity": 1,
-              "name": "Свиток заклинания 2-го круга / Spell Scroll 2nd level"
+              "name": "Свиток заклинания 2-го круга / Spell Scroll 2nd level",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -171,44 +226,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000u1d0l5",
           "name": null,
           "components": [
             {
+              "id": "0000000000wq3kjb",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000u1d0l4",
           "name": null,
           "components": [
             {
+              "id": "00000000009q01xf",
               "uuid": "Compendium.kraywell-compendium.items.WMGTPS47ZpLvRAu6",
-              "quantity": "1",
-              "name": "Необычный Пергамент"
+              "quantity": 1,
+              "name": "Необычный Пергамент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000u1d0l3",
           "name": null,
           "components": [
             {
+              "id": "0000000000d6jh12",
               "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
-              "quantity": "1",
-              "name": "Необычные Магические Чернила"
+              "quantity": 1,
+              "name": "Необычные Магические Чернила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000004e20qw",
           "name": null,
           "components": [
             {
+              "id": "000000000028a6xs",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.hqVKZie7x9w3Kqds",
               "quantity": 1,
-              "name": "Свиток заклинания 3-го круга / Spell Scroll 3rd level"
+              "name": "Свиток заклинания 3-го круга / Spell Scroll 3rd level",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -227,44 +302,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000betfv0",
           "name": null,
           "components": [
             {
+              "id": "0000000000qai5g2",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000betfv1",
           "name": null,
           "components": [
             {
+              "id": "00000000003aemu6",
               "uuid": "Compendium.kraywell-compendium.items.WMGTPS47ZpLvRAu6",
-              "quantity": "1",
-              "name": "Необычный Пергамент"
+              "quantity": 1,
+              "name": "Необычный Пергамент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000betfv2",
           "name": null,
           "components": [
             {
+              "id": "00000000006qy1xt",
               "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
-              "quantity": "2",
-              "name": "Необычные Магические Чернила"
+              "quantity": 2,
+              "name": "Необычные Магические Чернила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000001zh5lf",
           "name": null,
           "components": [
             {
+              "id": "000000000064qjlt",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.DM7hzgL836ZyUFB1",
               "quantity": 1,
-              "name": "Свиток заклинания 4-го круга / Spell Scroll 4th level"
+              "name": "Свиток заклинания 4-го круга / Spell Scroll 4th level",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -283,44 +378,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000tzbbzl",
           "name": null,
           "components": [
             {
+              "id": "0000000000x92qrt",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tzbbzk",
           "name": null,
           "components": [
             {
+              "id": "0000000000jzniph",
               "uuid": "Compendium.kraywell-compendium.items.l5adns90BMgqvG0u",
-              "quantity": "1",
-              "name": "Редкий Пергамент"
+              "quantity": 1,
+              "name": "Редкий Пергамент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tzbbzj",
           "name": null,
           "components": [
             {
+              "id": "0000000000gzr4mb",
               "uuid": "Compendium.kraywell-compendium.items.2hRuzE9CCfIbMXIV",
-              "quantity": "1",
-              "name": "Редкие Магические Чернила"
+              "quantity": 1,
+              "name": "Редкие Магические Чернила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000002mlu6o",
           "name": null,
           "components": [
             {
+              "id": "00000000003wnbt2",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.wa1VF8TXHmkrrR35",
               "quantity": 1,
-              "name": "Свиток заклинания 5-го круга / Spell Scroll 5th level"
+              "name": "Свиток заклинания 5-го круга / Spell Scroll 5th level",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -339,44 +454,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000000cc1v2",
           "name": null,
           "components": [
             {
+              "id": "0000000000o1u8km",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000cc1v1",
           "name": null,
           "components": [
             {
+              "id": "0000000000asf0ia",
               "uuid": "Compendium.kraywell-compendium.items.l5adns90BMgqvG0u",
-              "quantity": "1",
-              "name": "Редкий Пергамент"
+              "quantity": 1,
+              "name": "Редкий Пергамент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000cc1v0",
           "name": null,
           "components": [
             {
+              "id": "00000000007simf4",
               "uuid": "Compendium.kraywell-compendium.items.2hRuzE9CCfIbMXIV",
-              "quantity": "2",
-              "name": "Редкие Магические Чернила"
+              "quantity": 2,
+              "name": "Редкие Магические Чернила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000078otyr",
           "name": null,
           "components": [
             {
+              "id": "0000000000qhab2x",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.tI3rWx4bxefNCexS",
               "quantity": 1,
-              "name": "Свиток заклинания 6-го круга / Spell Scroll 6th level"
+              "name": "Свиток заклинания 6-го круга / Spell Scroll 6th level",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -395,44 +530,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000tan89h",
           "name": null,
           "components": [
             {
+              "id": "0000000000tuinmd",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tan89i",
           "name": null,
           "components": [
             {
+              "id": "0000000000szenh8",
               "uuid": "Compendium.kraywell-compendium.items.XtNxshbTL3JEAdPf",
-              "quantity": "1",
-              "name": "Очень Редкий Пергамент"
+              "quantity": 1,
+              "name": "Очень Редкий Пергамент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tan89j",
           "name": null,
           "components": [
             {
+              "id": "0000000000h7w07z",
               "uuid": "Compendium.kraywell-compendium.items.MwoMKo4Yfo1aXs5T",
-              "quantity": "1",
-              "name": "Очень Редкие Магические Чернила"
+              "quantity": 1,
+              "name": "Очень Редкие Магические Чернила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000burtqu",
           "name": null,
           "components": [
             {
+              "id": "0000000000egwj5a",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.mtyw4NS1s7j2EJaD",
               "quantity": 1,
-              "name": "Свиток заклинания 7-го круга / Spell Scroll 7th level"
+              "name": "Свиток заклинания 7-го круга / Spell Scroll 7th level",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -451,44 +606,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000c3hjl4",
           "name": null,
           "components": [
             {
+              "id": "0000000000vzcw5k",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c3hjl3",
           "name": null,
           "components": [
             {
+              "id": "0000000000wugwap",
               "uuid": "Compendium.kraywell-compendium.items.XtNxshbTL3JEAdPf",
-              "quantity": "1",
-              "name": "Очень Редкий Пергамент"
+              "quantity": 1,
+              "name": "Очень Редкий Пергамент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c3hjl2",
           "name": null,
           "components": [
             {
+              "id": "000000000080ni0s",
               "uuid": "Compendium.kraywell-compendium.items.MwoMKo4Yfo1aXs5T",
-              "quantity": "2",
-              "name": "Очень Редкие Магические Чернила"
+              "quantity": 2,
+              "name": "Очень Редкие Магические Чернила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ggutix",
           "name": null,
           "components": [
             {
+              "id": "0000000000p5t05u",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.aOrinPg7yuDZEuWr",
               "quantity": 1,
-              "name": "Свиток заклинания 8-го круга / Spell Scroll 8th level"
+              "name": "Свиток заклинания 8-го круга / Spell Scroll 8th level",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -507,44 +682,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000hjhqjf",
           "name": null,
           "components": [
             {
+              "id": "0000000000qu5t4x",
               "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
-              "quantity": "1",
-              "name": "Легендарная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hjhqjg",
           "name": null,
           "components": [
             {
+              "id": "0000000000qqs4w1",
               "uuid": "Compendium.kraywell-compendium.items.Lg2xjZ9ZiQke6ZQB",
-              "quantity": "1",
-              "name": "Легендарный Пергамент"
+              "quantity": 1,
+              "name": "Легендарный Пергамент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hjhqjh",
           "name": null,
           "components": [
             {
+              "id": "00000000004fzin0",
               "uuid": "Compendium.kraywell-compendium.items.bTvNFMIXHMpSvst6",
-              "quantity": "1",
-              "name": "Легендарные Магические Чернила"
+              "quantity": 1,
+              "name": "Легендарные Магические Чернила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000l2xtb0",
           "name": null,
           "components": [
             {
+              "id": "0000000000lhb0cd",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.O4YbkJkLlnsgUszZ",
               "quantity": 1,
-              "name": "Свиток заклинания 9-го круга / Spell Scroll 9th level"
+              "name": "Свиток заклинания 9-го круга / Spell Scroll 9th level",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

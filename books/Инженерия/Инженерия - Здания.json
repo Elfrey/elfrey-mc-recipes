@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000u739ys",
           "name": null,
           "components": [
             {
+              "id": "00000000006emyrj",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000u739yt",
           "name": null,
           "components": [
             {
+              "id": "000000000064k4j7",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
               "quantity": 1,
-              "name": "Единица Дерева / Unit of Lumber"
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000g31n1n",
           "name": null,
           "components": [
             {
+              "id": "00000000009apfne",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.FRa8O9J4hvWozQbi",
               "quantity": 1,
-              "name": "Базовое убежище (10 x 10 фт) / Basic Shelter (10 x 10 ft)"
+              "name": "Базовое убежище (10 x 10 фт) / Basic Shelter (10 x 10 ft)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -59,34 +74,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000bivnzy",
           "name": null,
           "components": [
             {
+              "id": "0000000000vs02wl",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bivnzz",
           "name": null,
           "components": [
             {
+              "id": "0000000000bu8jwj",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
-              "quantity": "2",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 2,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005he5up",
           "name": null,
           "components": [
             {
+              "id": "00000000009ke0nb",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.1C7K7kvnyikWitAl",
               "quantity": 1,
-              "name": "Хижина (15 x 15 фт) / Shack (15 x 15 ft)"
+              "name": "Хижина (15 x 15 фт) / Shack (15 x 15 ft)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -105,34 +135,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000007qb8f6",
           "name": null,
           "components": [
             {
+              "id": "00000000007ia5to",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
-              "quantity": "6",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 6,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007qb8f5",
           "name": null,
           "components": [
             {
+              "id": "0000000000a1cv04",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "6",
-              "name": "Обычные запчасти"
+              "quantity": 6,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000n6nbcv",
           "name": null,
           "components": [
             {
+              "id": "0000000000dzrleq",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.v4oj5ws0xtaXouzv",
               "quantity": 1,
-              "name": "Маленький дом (25x 25 фт) / Small House (25 x 25 ft)"
+              "name": "Маленький дом (25x 25 фт) / Small House (25 x 25 ft)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -151,64 +196,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000008687o",
           "name": null,
           "components": [
             {
+              "id": "0000000000fr3lc7",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "12",
-              "name": "Обычные запчасти"
+              "quantity": 12,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000008687n",
           "name": null,
           "components": [
             {
+              "id": "0000000000f9bua8",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "4",
-              "name": "Необычные Запчасти"
+              "quantity": 4,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000008687m",
           "name": null,
           "components": [
             {
+              "id": "00000000001x6i0k",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
-              "quantity": "8",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 8,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000008687l",
           "name": null,
           "components": [
             {
+              "id": "0000000000p7f7nl",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kRSZB73OZ8oYhjI8",
-              "quantity": "2",
-              "name": "Единица камня / Unit of Stone"
+              "quantity": 2,
+              "name": "Единица камня / Unit of Stone",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000008687k",
           "name": null,
           "components": [
             {
+              "id": "0000000000029drm",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.iqT9WLpOjfOiuj33",
-              "quantity": "4",
-              "name": "Цемент / Cement"
+              "quantity": 4,
+              "name": "Цемент / Cement",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000003noatp",
           "name": null,
           "components": [
             {
+              "id": "00000000004aowly",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.0aAKFJpXWBl5Fm5Z",
               "quantity": 1,
-              "name": "Малый храм (25 x 35 фт) / Small Temple (25 x 35 ft)"
+              "name": "Малый храм (25 x 35 фт) / Small Temple (25 x 35 ft)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -227,64 +302,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000p898r5",
           "name": null,
           "components": [
             {
+              "id": "0000000000j50pgc",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "10",
-              "name": "Обычные запчасти"
+              "quantity": 10,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p898r4",
           "name": null,
           "components": [
             {
+              "id": "0000000000kvnwwd",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "5",
-              "name": "Необычные Запчасти"
+              "quantity": 5,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p898r3",
           "name": null,
           "components": [
             {
+              "id": "0000000000a0aytt",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.iqT9WLpOjfOiuj33",
-              "quantity": "5",
-              "name": "Цемент / Cement"
+              "quantity": 5,
+              "name": "Цемент / Cement",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p898r2",
           "name": null,
           "components": [
             {
+              "id": "000000000045ep1s",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
-              "quantity": "10",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 10,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p898r1",
           "name": null,
           "components": [
             {
+              "id": "0000000000va0epx",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kRSZB73OZ8oYhjI8",
-              "quantity": "5",
-              "name": "Единица камня / Unit of Stone"
+              "quantity": 5,
+              "name": "Единица камня / Unit of Stone",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000002lyu4w",
           "name": null,
           "components": [
             {
+              "id": "0000000000gc1cz7",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.HHe8W6wALYhhhybu",
               "quantity": 1,
-              "name": "Большой дом (35 x 35 фт) / Large House (35 x 35 ft)"
+              "name": "Большой дом (35 x 35 фт) / Large House (35 x 35 ft)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -303,64 +408,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000yxkg7r",
           "name": null,
           "components": [
             {
+              "id": "00000000003el1to",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "20",
-              "name": "Обычные запчасти"
+              "quantity": 20,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yxkg7s",
           "name": null,
           "components": [
             {
+              "id": "0000000000rludsr",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "5",
-              "name": "Необычные Запчасти"
+              "quantity": 5,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yxkg7t",
           "name": null,
           "components": [
             {
+              "id": "0000000000jn9yon",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.iqT9WLpOjfOiuj33",
-              "quantity": "20",
-              "name": "Цемент / Cement"
+              "quantity": 20,
+              "name": "Цемент / Cement",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yxkg7u",
           "name": null,
           "components": [
             {
+              "id": "0000000000xszmk8",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
-              "quantity": "25",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 25,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yxkg7v",
           "name": null,
           "components": [
             {
+              "id": "0000000000a3ipqr",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kRSZB73OZ8oYhjI8",
-              "quantity": "20",
-              "name": "Единица камня / Unit of Stone"
+              "quantity": 20,
+              "name": "Единица камня / Unit of Stone",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ktlwtk",
           "name": null,
           "components": [
             {
+              "id": "00000000006riu5b",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.XPXJu6nAyXnyZZ6a",
               "quantity": 1,
-              "name": "Особняк (50 x 50 фт) / Mansion (50 x 50 ft)"
+              "name": "Особняк (50 x 50 фт) / Mansion (50 x 50 ft)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -379,74 +514,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000003aqvwd",
           "name": null,
           "components": [
             {
+              "id": "00000000005velpi",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "10",
-              "name": "Необычные Запчасти"
+              "quantity": 10,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000003aqvwc",
           "name": null,
           "components": [
             {
+              "id": "0000000000b7ygp4",
               "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
-              "quantity": "2",
-              "name": "Экзотические Запчасти"
+              "quantity": 2,
+              "name": "Экзотические Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000003aqvwb",
           "name": null,
           "components": [
             {
+              "id": "0000000000fxh5qb",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.iqT9WLpOjfOiuj33",
-              "quantity": "20",
-              "name": "Цемент / Cement"
+              "quantity": 20,
+              "name": "Цемент / Cement",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000003aqvwa",
           "name": null,
           "components": [
             {
+              "id": "0000000000u36tlw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
-              "quantity": "50",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 50,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000003aqvw9",
           "name": null,
           "components": [
             {
+              "id": "0000000000dtbip3",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kRSZB73OZ8oYhjI8",
-              "quantity": "50",
-              "name": "Единица камня / Unit of Stone"
+              "quantity": 50,
+              "name": "Единица камня / Unit of Stone",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000003aqvw8",
           "name": null,
           "components": [
             {
+              "id": "0000000000c6tql1",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "20",
-              "name": "Обычные запчасти"
+              "quantity": 20,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000rucn44",
           "name": null,
           "components": [
             {
+              "id": "0000000000kb1kzl",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.mAdlh8dVCmZkoZ2S",
               "quantity": 1,
-              "name": "Собор (50 x 100 фт) / Cathedral (50 x 100 ft)"
+              "name": "Собор (50 x 100 фт) / Cathedral (50 x 100 ft)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

@@ -13,44 +13,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000009v58st",
           "name": null,
           "components": [
             {
+              "id": "0000000000jeo7ml",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lNY56TEGRxoH6Zkd",
               "quantity": 1,
-              "name": "Деревянный приклад / Wooden Stock"
+              "name": "Деревянный приклад / Wooden Stock",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009v58ss",
           "name": null,
           "components": [
             {
+              "id": "0000000000q9kg8k",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009v58sr",
           "name": null,
           "components": [
             {
+              "id": "0000000000brpsip",
               "uuid": "Compendium.kraywell-compendium.items.Item.JvROpigr0jg2osWb",
-              "quantity": "6",
-              "name": "Обычные запчасти"
+              "quantity": 6,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ibdl4k",
           "name": null,
           "components": [
             {
+              "id": "00000000003yb35s",
               "uuid": "Compendium.laaru-dnd5-hw.items.UW21eLrJGdzizbFZ",
               "quantity": 1,
-              "name": "Океанический легкий арбалет/ Oceanic Light Crossbow"
+              "name": "Океанический легкий арбалет/ Oceanic Light Crossbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -69,54 +89,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000postk9",
           "name": null,
           "components": [
             {
+              "id": "00000000003n5as6",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000postka",
           "name": null,
           "components": [
             {
+              "id": "0000000000ynkqel",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "3",
-              "name": "Необычные Запчасти"
+              "quantity": 3,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000postkb",
           "name": null,
           "components": [
             {
+              "id": "00000000008078bv",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000postkc",
           "name": null,
           "components": [
             {
+              "id": "0000000000rq6l4s",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lNY56TEGRxoH6Zkd",
               "quantity": 1,
-              "name": "Деревянный приклад / Wooden Stock"
+              "name": "Деревянный приклад / Wooden Stock",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ie9mhi",
           "name": null,
           "components": [
             {
+              "id": "00000000002tlv33",
               "uuid": "Compendium.laaru-dnd5-hw.items.qaSro7kFhxD6INbZ",
               "quantity": 1,
-              "name": "Ручной арбалет / Hand Crossbow"
+              "name": "Ручной арбалет / Hand Crossbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -135,54 +180,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000gfaofe",
           "name": null,
           "components": [
             {
+              "id": "0000000000ytyvql",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gfaoff",
           "name": null,
           "components": [
             {
+              "id": "0000000000pqmn2z",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lNY56TEGRxoH6Zkd",
               "quantity": 1,
-              "name": "Деревянный приклад / Wooden Stock"
+              "name": "Деревянный приклад / Wooden Stock",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gfaofg",
           "name": null,
           "components": [
             {
+              "id": "0000000000s94dec",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "8",
-              "name": "Металлолом"
+              "quantity": 8,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gfaofh",
           "name": null,
           "components": [
             {
+              "id": "0000000000inavja",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "6",
-              "name": "Обычные запчасти"
+              "quantity": 6,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000fc3f79",
           "name": null,
           "components": [
             {
+              "id": "0000000000i5162s",
               "uuid": "Compendium.kraywell-compendium.items.E2Uld1xSTjqhPZNR",
               "quantity": 1,
-              "name": "Скорострельный Тяжелый Арбалет"
+              "name": "Скорострельный Тяжелый Арбалет",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -201,44 +271,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000d37xm0",
           "name": null,
           "components": [
             {
+              "id": "0000000000l9t6rx",
               "uuid": "Compendium.laaru-dnd5-hw.items.qaSro7kFhxD6INbZ",
-              "quantity": "1",
-              "name": "Ручной арбалет / Hand Crossbow"
+              "quantity": 1,
+              "name": "Ручной арбалет / Hand Crossbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000d37xm1",
           "name": null,
           "components": [
             {
+              "id": "000000000069hjbq",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "3",
-              "name": "Обычные запчасти"
+              "quantity": 3,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000d37xm2",
           "name": null,
           "components": [
             {
+              "id": "00000000005nfrmq",
               "uuid": "Compendium.laaru-dnd5-hw.items.g2dWN7PQiMRYWzyk",
               "quantity": 1,
-              "name": "Боевой посох / Quarterstaff"
+              "name": "Боевой посох / Quarterstaff",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000h15m4p",
           "name": null,
           "components": [
             {
+              "id": "0000000000gjgp6j",
               "uuid": "Compendium.kraywell-compendium.items.Item.EHvfNcOGsd6CRyw7",
               "quantity": 1,
-              "name": "\"Обычная\" трость"
+              "name": "\"Обычная\" трость",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -257,64 +347,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ntgs9g",
           "name": null,
           "components": [
             {
+              "id": "00000000005fyg2o",
               "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
-              "quantity": "3",
-              "name": "Экзотические Запчасти"
+              "quantity": 3,
+              "name": "Экзотические Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ntgs9f",
           "name": null,
           "components": [
             {
+              "id": "0000000000bawcnk",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "5",
-              "name": "Необычные Запчасти"
+              "quantity": 5,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ntgs9e",
           "name": null,
           "components": [
             {
+              "id": "00000000009g2iaa",
               "uuid": "Compendium.laaru-dnd5-hw.items.sSs3hSzkKBMNBgTs",
               "quantity": 1,
-              "name": "Щит / Shield"
+              "name": "Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ntgs9d",
           "name": null,
           "components": [
             {
+              "id": "0000000000v3oa34",
               "uuid": "Compendium.laaru-dnd5-hw.items.i159KL5gSWDP5Rhw",
               "quantity": 1,
-              "name": "Фонарь обычный / Hooded Lantern"
+              "name": "Фонарь обычный / Hooded Lantern",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ntgs9c",
           "name": null,
           "components": [
             {
+              "id": "0000000000edd91t",
               "uuid": "Compendium.laaru-dnd5-hw.items.sl6yiYSlqkHiVVSN",
               "quantity": 1,
-              "name": "Короткий меч +1 / Shortsword +1"
+              "name": "Короткий меч +1 / Shortsword +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000oon0lp",
           "name": null,
           "components": [
             {
+              "id": "0000000000hd8qcj",
               "uuid": "Compendium.kraywell-compendium.items.Item.jWJnhrX9RE6A4kTj",
               "quantity": 1,
-              "name": "Щитовой Фонарь"
+              "name": "Щитовой Фонарь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -333,44 +453,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000akmivn",
           "name": null,
           "components": [
             {
+              "id": "0000000000ociink",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000akmivm",
           "name": null,
           "components": [
             {
+              "id": "0000000000djy3nj",
               "uuid": "Compendium.laaru-dnd5-hw.items.8wXB18E0oPAYFkqc",
               "quantity": 1,
-              "name": "Тяжёлый арбалет +2 / Heavy Crossbow +2"
+              "name": "Тяжёлый арбалет +2 / Heavy Crossbow +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000akmivl",
           "name": null,
           "components": [
             {
+              "id": "0000000000cu88u9",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ltALpmFS5TPtXJsY",
               "quantity": 1,
-              "name": "Автомагазин для тяжелого арбалета / Autoloader Heavy Crossbow"
+              "name": "Автомагазин для тяжелого арбалета / Autoloader Heavy Crossbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000uruseq",
           "name": null,
           "components": [
             {
+              "id": "0000000000oaru5a",
               "uuid": "Compendium.kraywell-compendium.items.Item.E2Uld1xSTjqhPZNR",
               "quantity": 1,
-              "name": "Скорострельный Тяжелый Арбалет"
+              "name": "Скорострельный Тяжелый Арбалет",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

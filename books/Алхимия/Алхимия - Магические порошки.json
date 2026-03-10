@@ -13,54 +13,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000009pyhwe",
           "name": null,
           "components": [
             {
+              "id": "0000000000ma5odr",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009pyhwd",
           "name": null,
           "components": [
             {
+              "id": "0000000000fvwyfw",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "2",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009pyhwc",
           "name": null,
           "components": [
             {
+              "id": "00000000008y8jdm",
               "uuid": "Compendium.kraywell-compendium.items.leJAbEhrPXbNXosC",
-              "quantity": "1",
-              "name": "Обычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Обычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009pyhwb",
           "name": null,
           "components": [
             {
+              "id": "00000000003c1wes",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.IAVAdpLQtqQR8VGR",
               "quantity": 1,
-              "name": "Горсть песка"
+              "name": "Горсть песка",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000dukf7n",
           "name": null,
           "components": [
             {
+              "id": "0000000000l8gcf6",
               "uuid": "Compendium.laaru-dnd5-hw.items.yYdf8PFtcRARf9wS",
               "quantity": 1,
-              "name": "Порошок исчезновения / Dust of Disappearance"
+              "name": "Порошок исчезновения / Dust of Disappearance",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -79,54 +104,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000048948v",
           "name": null,
           "components": [
             {
+              "id": "000000000082ginu",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
-              "quantity": "1",
-              "name": "Обычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000048948u",
           "name": null,
           "components": [
             {
+              "id": "00000000007t5p3x",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000048948t",
           "name": null,
           "components": [
             {
+              "id": "0000000000741z3y",
               "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
-              "quantity": "1",
-              "name": "Обычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Обычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000048948s",
           "name": null,
           "components": [
             {
+              "id": "0000000000s9fl77",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.IAVAdpLQtqQR8VGR",
               "quantity": 1,
-              "name": "Горсть песка"
+              "name": "Горсть песка",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ec283i",
           "name": null,
           "components": [
             {
+              "id": "0000000000vf1r2g",
               "uuid": "Compendium.laaru-dnd5-hw.items.Rq3Q1orsFUVJe5EH",
               "quantity": 1,
-              "name": "Порошок сухости / Dust of Dryness"
+              "name": "Порошок сухости / Dust of Dryness",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -145,44 +195,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000amk2v7",
           "name": null,
           "components": [
             {
+              "id": "00000000003ybhoq",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "1",
-              "name": "Необычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000amk2v6",
           "name": null,
           "components": [
             {
+              "id": "0000000000cckl9d",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000amk2v5",
           "name": null,
           "components": [
             {
+              "id": "00000000002kn2yi",
               "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
-              "quantity": "1",
-              "name": "Обычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Обычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000t3yksi",
           "name": null,
           "components": [
             {
+              "id": "0000000000p9ofm8",
               "uuid": "Compendium.laaru-dnd5-hw.items.neBQZJhkUyFS9o5c",
               "quantity": 1,
-              "name": "Порошок чихания и удушения / Dust of Sneezing and Choking"
+              "name": "Порошок чихания и удушения / Dust of Sneezing and Choking",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

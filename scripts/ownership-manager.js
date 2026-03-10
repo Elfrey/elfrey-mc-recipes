@@ -12,71 +12,37 @@ class OwnershipManager extends FormApplication {
     }
 
     async getData(options = {}) {
-        const data = {
+        return {
             users: game.users.contents.filter(user => !user.isGM),
-            books: game.settings.get(EMCR_CONST.MASTERCRAFTED_MODULE_ID, 'recipeBooks')
-        }
-        return data;
+            books: game.journal.filter(j => j.flags?.mastercrafted)
+        };
     }
 
     async _updateObject(event, formData) {
-        // Process the formData, e.g. apply ownership changes
-        console.group(formData.user);
-        console.log("Form data:", formData);
-        const {
-            book,
-            permission,
-            maxDc,
-            user,
-        } = formData;
+        const { book, permission, maxDc, user } = formData;
 
-        const recipeBook = ui.RecipeApp.RecipeBook.getName(book)
-        console.log(recipeBook);
+        const journal = game.journal.getName(book);
+        if (!journal) return;
 
-        if (recipeBook && recipeBook.recipes) {
-            recipeBook.recipes.forEach((recipe) => {
-                console.log('recipe', recipe);
-                const descParts = (recipe.description.match(/(\d+)/g) || []).map(Number);
-                if (descParts.length > 0) {
+        for (const page of journal.pages) {
+            const tempEl = document.createElement('div');
+            tempEl.innerHTML = page.text?.content || '';
+            const text = tempEl.textContent || '';
 
-                    const descObj = {
-                        time: descParts[0],
-                        check: descParts[1],
-                        dc: descParts[2]
-                    };
-
-                    console.log(`${descObj.dc} < ${maxDc}`, descObj.dc <= maxDc);
-                    if (descObj.dc != null && descObj.dc <= maxDc) {
-                        recipe.update({
-                            ownership: {
-                                [user]: permission
-                            }
-                        })
-                    } else {
-                        recipe.update({
-                            ownership: {
-                                [user]: '0'
-                            }
-                        })
-                    }
-                    console.log('descObj', descObj);
-                }
-            })
+            const descParts = (text.match(/(\d+)/g) || []).map(Number);
+            if (descParts.length > 0) {
+                const dc = descParts[2];
+                const newOwnership = { ...page.ownership };
+                newOwnership[user] = (dc != null && dc <= maxDc)
+                    ? parseInt(permission)
+                    : CONST.DOCUMENT_OWNERSHIP_LEVELS.NONE;
+                await page.update({ ownership: newOwnership });
+            }
         }
-        console.groupEnd();
-        // console.log(ownership);
-
-        // await recipe.update({
-        //     ownership: newOwnerShip,
-        //     ingredientsInspection: '2',
-        //     productInspection: '2'
-        // })
     }
 
     activateListeners(html) {
         super.activateListeners(html);
-        // Add event handlers if needed
-        // html.find('#emcr-apply-ownership').on('click', this.applyOwnership.bind(this));
     }
 }
 

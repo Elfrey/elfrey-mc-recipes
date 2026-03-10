@@ -13,44 +13,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000005eyum8",
           "name": null,
           "components": [
             {
+              "id": "0000000000izs9gl",
               "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
-              "quantity": "1",
-              "name": "Обычный Ядовитый Реагент / Common Poisonous Reagent"
+              "quantity": 1,
+              "name": "Обычный Ядовитый Реагент / Common Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005eyum9",
           "name": null,
           "components": [
             {
+              "id": "0000000000mwzze6",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция / Common Arcane Essence"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция / Common Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005eyuma",
           "name": null,
           "components": [
             {
+              "id": "0000000000lur8ex",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000t7h0yn",
           "name": null,
           "components": [
             {
+              "id": "0000000000merwze",
               "uuid": "Compendium.kraywell-compendium.items.T6owdcCCxZTowrG9",
               "quantity": 1,
-              "name": "Сбивающее касание / Dizzying Touch"
+              "name": "Сбивающее касание / Dizzying Touch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -69,34 +89,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000dt3aft",
           "name": null,
           "components": [
             {
+              "id": "0000000000wdsc4s",
               "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
-              "quantity": "2",
-              "name": "Обычный Ядовитый Реагент / Common Poisonous Reagent"
+              "quantity": 2,
+              "name": "Обычный Ядовитый Реагент / Common Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dt3afu",
           "name": null,
           "components": [
             {
+              "id": "0000000000lflabz",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000058ufja",
           "name": null,
           "components": [
             {
+              "id": "0000000000txd3lh",
               "uuid": "Compendium.kraywell-compendium.items.WuluZdyZdgMIu3YS",
               "quantity": 1,
-              "name": "Простой оружейный яд / Simple Injury Poison"
+              "name": "Простой оружейный яд / Simple Injury Poison",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -115,44 +150,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000w2v6cr",
           "name": null,
           "components": [
             {
+              "id": "0000000000tbcfio",
               "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
-              "quantity": "2",
-              "name": "Обычный Ядовитый Реагент / Common Poisonous Reagent"
+              "quantity": 2,
+              "name": "Обычный Ядовитый Реагент / Common Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000w2v6cq",
           "name": null,
           "components": [
             {
+              "id": "000000000035plh3",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "1",
-              "name": "Обычный Реактивный Реагент / Common Reactive Reagent"
+              "quantity": 1,
+              "name": "Обычный Реактивный Реагент / Common Reactive Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000w2v6cp",
           "name": null,
           "components": [
             {
+              "id": "00000000000v84ky",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000003cf2ga",
           "name": null,
           "components": [
             {
+              "id": "0000000000x78o3a",
               "uuid": "Compendium.kraywell-compendium.items.YmKjrMJD9ksCnyJc",
               "quantity": 1,
-              "name": "Простой вдыхаемый яд / Simple Inhaled Poison"
+              "name": "Простой вдыхаемый яд / Simple Inhaled Poison",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -171,34 +226,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000fkawyw",
           "name": null,
           "components": [
             {
+              "id": "0000000000s4uvwj",
               "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
-              "quantity": "2",
-              "name": "Обычный Ядовитый Реагент / Common Poisonous Reagent"
+              "quantity": 2,
+              "name": "Обычный Ядовитый Реагент / Common Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fkawyx",
           "name": null,
           "components": [
             {
+              "id": "0000000000vy249s",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bcp809",
           "name": null,
           "components": [
             {
+              "id": "0000000000uk6but",
               "uuid": "Compendium.kraywell-compendium.items.2MTPyNviwvYH6Tqf",
               "quantity": 1,
-              "name": "Простой контактный яд / Simple Contact Poison"
+              "name": "Простой контактный яд / Simple Contact Poison",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -217,34 +287,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000w6td81",
           "name": null,
           "components": [
             {
+              "id": "0000000000gnd2jw",
               "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
-              "quantity": "2",
-              "name": "Обычный Ядовитый Реагент / Common Poisonous Reagent"
+              "quantity": 2,
+              "name": "Обычный Ядовитый Реагент / Common Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000w6td82",
           "name": null,
           "components": [
             {
+              "id": "0000000000rlk4cp",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006tee1a",
           "name": null,
           "components": [
             {
+              "id": "00000000000d2xje",
               "uuid": "Compendium.kraywell-compendium.items.uDRRWacOxFiUguOT",
               "quantity": 1,
-              "name": "Простой поглощаемый яд / Simple Ingested Poison"
+              "name": "Простой поглощаемый яд / Simple Ingested Poison",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -263,54 +348,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000yq0zi8",
           "name": null,
           "components": [
             {
+              "id": "0000000000yue503",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "1",
-              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent"
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yq0zi7",
           "name": null,
           "components": [
             {
+              "id": "0000000000n7xg79",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент / Uncommon Reactive Reagent"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент / Uncommon Reactive Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yq0zi6",
           "name": null,
           "components": [
             {
+              "id": "0000000000l8xrvh",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "2",
-              "name": "Обычный Реактивный Реагент / Common Reactive Reagent"
+              "quantity": 2,
+              "name": "Обычный Реактивный Реагент / Common Reactive Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yq0zi5",
           "name": null,
           "components": [
             {
+              "id": "0000000000p9vhxi",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000007kgza9",
           "name": null,
           "components": [
             {
+              "id": "00000000007203br",
               "uuid": "Compendium.kraywell-compendium.items.ZiaB4FvJ8POnindV",
               "quantity": 1,
-              "name": "Пылающая рана / Burning Wound"
+              "name": "Пылающая рана / Burning Wound",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -329,44 +439,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000nrlyow",
           "name": null,
           "components": [
             {
+              "id": "0000000000yx5yib",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "1",
-              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent"
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000nrlyov",
           "name": null,
           "components": [
             {
+              "id": "0000000000eqv29j",
               "uuid": "Compendium.kraywell-compendium.items.leJAbEhrPXbNXosC",
-              "quantity": "1",
-              "name": "Обычный Лечебный Реагент / Common Curative Reagent"
+              "quantity": 1,
+              "name": "Обычный Лечебный Реагент / Common Curative Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000nrlyou",
           "name": null,
           "components": [
             {
+              "id": "0000000000fs4agp",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000n33jwh",
           "name": null,
           "components": [
             {
+              "id": "00000000002jkjnv",
               "uuid": "Compendium.kraywell-compendium.items.jxbslUZ8ZqXSoAAY",
               "quantity": 1,
-              "name": "Старый и надежный / Old Reliable"
+              "name": "Старый и надежный / Old Reliable",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -385,34 +515,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000fld6ko",
           "name": null,
           "components": [
             {
+              "id": "0000000000buqdu3",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "2",
-              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent"
+              "quantity": 2,
+              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fld6kp",
           "name": null,
           "components": [
             {
+              "id": "00000000008y7f28",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000afqy95",
           "name": null,
           "components": [
             {
+              "id": "0000000000ins4qj",
               "uuid": "Compendium.kraywell-compendium.items.A4YrA8uqRqD9ctsO",
               "quantity": 1,
-              "name": "Мощный оружейный яд / Potent Injury Poison"
+              "name": "Мощный оружейный яд / Potent Injury Poison",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -431,44 +576,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000009fees2",
           "name": null,
           "components": [
             {
+              "id": "0000000000xtvz7l",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "2",
-              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent"
+              "quantity": 2,
+              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009fees3",
           "name": null,
           "components": [
             {
+              "id": "0000000000m7faer",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент / Uncommon Reactive Reagent"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент / Uncommon Reactive Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009fees4",
           "name": null,
           "components": [
             {
+              "id": "0000000000gve9rf",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bina19",
           "name": null,
           "components": [
             {
+              "id": "0000000000yise34",
               "uuid": "Compendium.kraywell-compendium.items.JwxftqbdgZcxhHlu",
               "quantity": 1,
-              "name": "Мощный вдыхаемый яд / Potent Inhaled Poison"
+              "name": "Мощный вдыхаемый яд / Potent Inhaled Poison",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -487,34 +652,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000i7klbl",
           "name": null,
           "components": [
             {
+              "id": "0000000000009mqs",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "2",
-              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent"
+              "quantity": 2,
+              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i7klbk",
           "name": null,
           "components": [
             {
+              "id": "0000000000kso65j",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000073uuls",
           "name": null,
           "components": [
             {
+              "id": "00000000002v01tv",
               "uuid": "Compendium.kraywell-compendium.items.xp4McZwr3kOK592X",
               "quantity": 1,
-              "name": "Мощный контактный яд / Potent Contact Poison"
+              "name": "Мощный контактный яд / Potent Contact Poison",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -533,34 +713,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000dqg2fr",
           "name": null,
           "components": [
             {
+              "id": "000000000012d05m",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "2",
-              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent"
+              "quantity": 2,
+              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dqg2fq",
           "name": null,
           "components": [
             {
+              "id": "0000000000jqksqp",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000003sj02e",
           "name": null,
           "components": [
             {
+              "id": "00000000008crndy",
               "uuid": "Compendium.kraywell-compendium.items.SGoE3GK4EaBtxunz",
               "quantity": 1,
-              "name": "Мощный поглощаемый яд / Potent Ingested Poison"
+              "name": "Мощный поглощаемый яд / Potent Ingested Poison",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -579,44 +774,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000030b776",
           "name": null,
           "components": [
             {
+              "id": "0000000000dw1qmd",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "1",
-              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent"
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000030b775",
           "name": null,
           "components": [
             {
+              "id": "0000000000x5msn8",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция / Common Arcane Essence"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция / Common Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000030b774",
           "name": null,
           "components": [
             {
+              "id": "0000000000y7vjmh",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000iuudf3",
           "name": null,
           "components": [
             {
+              "id": "0000000000haagee",
               "uuid": "Compendium.kraywell-compendium.items.RwvgsweBvUnvTNxY",
               "quantity": 1,
-              "name": "Иссушающий Душу / Withering Soul"
+              "name": "Иссушающий Душу / Withering Soul",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -635,34 +850,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000qp8zdw",
           "name": null,
           "components": [
             {
+              "id": "0000000000lmhibi",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "1",
-              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent"
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qp8zdv",
           "name": null,
           "components": [
             {
+              "id": "0000000000cgjei4",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000s0ayir",
           "name": null,
           "components": [
             {
+              "id": "0000000000xaqszl",
               "uuid": "Compendium.kraywell-compendium.items.SDH3GHgMEm4v33MR",
               "quantity": 1,
-              "name": "Ползучая слизь / Crawler Mucus"
+              "name": "Ползучая слизь / Crawler Mucus",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -681,54 +911,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ah7bv3",
           "name": null,
           "components": [
             {
+              "id": "0000000000ec0ppv",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "1",
-              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent"
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ah7bv2",
           "name": null,
           "components": [
             {
+              "id": "0000000000anljxd",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "2",
-              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent"
+              "quantity": 2,
+              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ah7bv1",
           "name": null,
           "components": [
             {
+              "id": "0000000000a5c8yy",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ah7bv0",
           "name": null,
           "components": [
             {
+              "id": "0000000000uv7ky6",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
               "quantity": 1,
-              "name": "Необычный Реактивный Реагент / Uncommon Reactive Reagent"
+              "name": "Необычный Реактивный Реагент / Uncommon Reactive Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000xpxtvy",
           "name": null,
           "components": [
             {
+              "id": "0000000000rm0ik6",
               "uuid": "Compendium.kraywell-compendium.items.Ry0Q8i23lLGmOWgQ",
               "quantity": 1,
-              "name": "Обморочные испарения / Fainting Fumes"
+              "name": "Обморочные испарения / Fainting Fumes",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -747,34 +1002,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000r40lts",
           "name": null,
           "components": [
             {
+              "id": "00000000001z0tlq",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "1",
-              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent"
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r40ltt",
           "name": null,
           "components": [
             {
+              "id": "0000000000yz2bjs",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000008j53a9",
           "name": null,
           "components": [
             {
+              "id": "0000000000tsk1qc",
               "uuid": "Compendium.laaru-dnd5-hw.items.zqevpgyyRG9yWP7I",
               "quantity": 1,
-              "name": "Эссенция эфира / Essence of Ether"
+              "name": "Эссенция эфира / Essence of Ether",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -793,34 +1063,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000re4tgf",
           "name": null,
           "components": [
             {
+              "id": "0000000000xa2aqr",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "1",
-              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent"
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000re4tge",
           "name": null,
           "components": [
             {
+              "id": "00000000000sym2v",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
               "quantity": 1,
-              "name": "Стеклянный Флакон / Glass Vial"
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006kw2ce",
           "name": null,
           "components": [
             {
+              "id": "0000000000467hxw",
               "uuid": "Compendium.laaru-dnd5-hw.items.sYJ2oCcpgtPhUw4D",
               "quantity": 1,
-              "name": "Злоба / Malice"
+              "name": "Злоба / Malice",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -839,34 +1124,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000w4i6z8",
           "name": null,
           "components": [
             {
+              "id": "000000000015qvym",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "3",
-              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent"
+              "quantity": 3,
+              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000w4i6z7",
           "name": null,
           "components": [
             {
+              "id": "0000000000wxa0v0",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000001xlj3n",
           "name": null,
           "components": [
             {
+              "id": "0000000000sjjl4q",
               "uuid": "Compendium.kraywell-compendium.items.l4ktrfYanjMymt98",
               "quantity": 1,
-              "name": "Нокаутирующий яд / Knockout Poison"
+              "name": "Нокаутирующий яд / Knockout Poison",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -885,44 +1185,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000rt96av",
           "name": null,
           "components": [
             {
+              "id": "0000000000r0ldnt",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "2",
-              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent"
+              "quantity": 2,
+              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rt96aw",
           "name": null,
           "components": [
             {
+              "id": "000000000020z40l",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "2",
-              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent"
+              "quantity": 2,
+              "name": "Необычный Ядовитый Реагент / Uncommon Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rt96ax",
           "name": null,
           "components": [
             {
+              "id": "0000000000mtwwww",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000d78jfc",
           "name": null,
           "components": [
             {
+              "id": "0000000000k913f0",
               "uuid": "Compendium.kraywell-compendium.items.bonU9IExQI9utWIu",
               "quantity": 1,
-              "name": "Парализующий яд / Paralyzing Poison"
+              "name": "Парализующий яд / Paralyzing Poison",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -941,54 +1261,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000bzocgj",
           "name": null,
           "components": [
             {
+              "id": "00000000007bxvv5",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "1",
-              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent"
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bzocgi",
           "name": null,
           "components": [
             {
+              "id": "0000000000kfo56w",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент / Uncommon Reactive Reagent"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент / Uncommon Reactive Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bzocgh",
           "name": null,
           "components": [
             {
+              "id": "0000000000eppsw4",
               "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
-              "quantity": "1",
-              "name": "Необычные Расходные Материалы / Uncommon Supplies"
+              "quantity": 1,
+              "name": "Необычные Расходные Материалы / Uncommon Supplies",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bzocgg",
           "name": null,
           "components": [
             {
+              "id": "0000000000idq3gn",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000d6poku",
           "name": null,
           "components": [
             {
+              "id": "0000000000e120oj",
               "uuid": "Compendium.kraywell-compendium.items.YbFqLo6NplnMcWBW",
               "quantity": 1,
-              "name": "Деготь по вене / Veins of Tar"
+              "name": "Деготь по вене / Veins of Tar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1007,44 +1352,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000x1flsb",
           "name": null,
           "components": [
             {
+              "id": "0000000000i8xson",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "1",
-              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent"
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент / Rare Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000x1flsa",
           "name": null,
           "components": [
             {
+              "id": "0000000000flmguy",
               "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
-              "quantity": "1",
-              "name": "Необычная Псионическая Эссенция / Uncommon Psionic Essence"
+              "quantity": 1,
+              "name": "Необычная Псионическая Эссенция / Uncommon Psionic Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000x1fls9",
           "name": null,
           "components": [
             {
+              "id": "0000000000e29bxq",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон / Glass Vial"
+              "quantity": 1,
+              "name": "Стеклянный Флакон / Glass Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000qf67xy",
           "name": null,
           "components": [
             {
+              "id": "0000000000vm1l00",
               "uuid": "Compendium.kraywell-compendium.items.2KgbNP5dZmDT9nj5",
               "quantity": 1,
-              "name": "Шепот безумия / Whispers of Madness"
+              "name": "Шепот безумия / Whispers of Madness",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1063,34 +1428,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000008rucc",
           "name": null,
           "components": [
             {
+              "id": "0000000000iye9k9",
               "uuid": "Compendium.kraywell-compendium.items.FSHhU2kc6pgDLAf9",
-              "quantity": "1",
-              "name": "Очень Редкий Ядовитый Реагент / Very Rare Poisonous Reagent"
+              "quantity": 1,
+              "name": "Очень Редкий Ядовитый Реагент / Very Rare Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000008rucd",
           "name": null,
           "components": [
             {
+              "id": "00000000002ohoop",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон / Crystal Vial"
+              "quantity": 1,
+              "name": "Хрустальный Флакон / Crystal Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000axnweb",
           "name": null,
           "components": [
             {
+              "id": "0000000000505dwo",
               "uuid": "Compendium.laaru-dnd5-hw.items.7CzIAN4c06BbSSM7",
               "quantity": 1,
-              "name": "Полночные слёзы / Midnight Tears"
+              "name": "Полночные слёзы / Midnight Tears",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1109,34 +1489,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000jbl0zb",
           "name": null,
           "components": [
             {
+              "id": "00000000003yg10c",
               "uuid": "Compendium.kraywell-compendium.items.FSHhU2kc6pgDLAf9",
-              "quantity": "1",
-              "name": "Очень Редкий Ядовитый Реагент / Very Rare Poisonous Reagent"
+              "quantity": 1,
+              "name": "Очень Редкий Ядовитый Реагент / Very Rare Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000jbl0zc",
           "name": null,
           "components": [
             {
+              "id": "0000000000plbz9a",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон / Crystal Vial"
+              "quantity": 1,
+              "name": "Хрустальный Флакон / Crystal Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000y3w6dk",
           "name": null,
           "components": [
             {
+              "id": "00000000003jwm3f",
               "uuid": "Compendium.kraywell-compendium.items.7rnJuThDkvCbTdhW",
               "quantity": 1,
-              "name": "Тяжелый оружейный яд / Grievous Injury Poison"
+              "name": "Тяжелый оружейный яд / Grievous Injury Poison",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1155,44 +1550,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000005ml6u0",
           "name": null,
           "components": [
             {
+              "id": "00000000005jm1wb",
               "uuid": "Compendium.kraywell-compendium.items.FSHhU2kc6pgDLAf9",
-              "quantity": "2",
-              "name": "Очень Редкий Ядовитый Реагент / Very Rare Poisonous Reagent"
+              "quantity": 2,
+              "name": "Очень Редкий Ядовитый Реагент / Very Rare Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005ml6u1",
           "name": null,
           "components": [
             {
+              "id": "0000000000iza2vb",
               "uuid": "Compendium.kraywell-compendium.items.SMplSIkHRu0GWtii",
-              "quantity": "1",
-              "name": "Очень Редкий Лечебный Реагент / Very Rare Curative Reagent"
+              "quantity": 1,
+              "name": "Очень Редкий Лечебный Реагент / Very Rare Curative Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005ml6u2",
           "name": null,
           "components": [
             {
+              "id": "00000000002pufxg",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон / Crystal Vial"
+              "quantity": 1,
+              "name": "Хрустальный Флакон / Crystal Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000z9eibd",
           "name": null,
           "components": [
             {
+              "id": "0000000000amgxrr",
               "uuid": "Compendium.kraywell-compendium.items.TLymiwDGXIrBbm1F",
               "quantity": 1,
-              "name": "Медленная смерть / Slow Death"
+              "name": "Медленная смерть / Slow Death",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1211,44 +1626,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000izgvkk",
           "name": null,
           "components": [
             {
+              "id": "00000000003f30m2",
               "uuid": "Compendium.kraywell-compendium.items.hivoELB4VkhqQq4c",
-              "quantity": "1",
-              "name": "Легендарный Ядовитый Реагент / Legendary Poisonous Reagent"
+              "quantity": 1,
+              "name": "Легендарный Ядовитый Реагент / Legendary Poisonous Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000izgvkj",
           "name": null,
           "components": [
             {
+              "id": "0000000000vmwfkr",
               "uuid": "Compendium.kraywell-compendium.items.SMplSIkHRu0GWtii",
-              "quantity": "2",
-              "name": "Очень Редкий Лечебный Реагент / Very Rare Curative Reagent"
+              "quantity": 2,
+              "name": "Очень Редкий Лечебный Реагент / Very Rare Curative Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000izgvki",
           "name": null,
           "components": [
             {
+              "id": "0000000000fdgsmw",
               "uuid": "Compendium.kraywell-compendium.items.6dkmvbTV52w35pc5",
-              "quantity": "1",
-              "name": "Хрустальный Флакон / Crystal Vial"
+              "quantity": 1,
+              "name": "Хрустальный Флакон / Crystal Vial",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000gwxz4d",
           "name": null,
           "components": [
             {
+              "id": "0000000000kd6xv9",
               "uuid": "Compendium.kraywell-compendium.items.hXOyknrA52G3ggqr",
               "quantity": 1,
-              "name": "Бесконечные мечты / Endless Dreams"
+              "name": "Бесконечные мечты / Endless Dreams",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

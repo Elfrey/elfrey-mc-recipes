@@ -13,44 +13,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000bnyynl",
           "name": null,
           "components": [
             {
+              "id": "000000000070u71n",
               "uuid": "Compendium.kraywell-compendium.items.fd8yTaU2XEpZKAD6",
-              "quantity": "1",
-              "name": "Обычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bnyynk",
           "name": null,
           "components": [
             {
+              "id": "0000000000b0sby1",
               "uuid": "Compendium.kraywell-compendium.items.Item.qSorKIz0YZOXqeOX",
-              "quantity": "2",
-              "name": "Необычный Лечебный Реагент"
+              "quantity": 2,
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bnyynj",
           "name": null,
           "components": [
             {
+              "id": "000000000076qgr6",
               "uuid": "Compendium.kraywell-compendium.items.Item.leJAbEhrPXbNXosC",
-              "quantity": "3",
-              "name": "Обычный Лечебный Реагент"
+              "quantity": 3,
+              "name": "Обычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000033usnk",
           "name": null,
           "components": [
             {
+              "id": "00000000009gq7yq",
               "uuid": "Compendium.laaru-dnd5-hw.items.XMPxVG3sWUBBgbAX",
               "quantity": 1,
-              "name": "Мазь кеотома / Keoghtom's Ointment"
+              "name": "Мазь кеотома / Keoghtom's Ointment",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -75,44 +95,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ffekdi",
           "name": null,
           "components": [
             {
+              "id": "0000000000hz40z5",
               "uuid": "Compendium.kraywell-compendium.items.5JVV4dunnBhV1oXS",
-              "quantity": "1",
-              "name": "Легендарный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Легендарный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ffekdh",
           "name": null,
           "components": [
             {
+              "id": "0000000000l88t2t",
               "uuid": "Compendium.kraywell-compendium.items.i8Ritlhh78WFGAnz",
-              "quantity": "1",
-              "name": "Легендарный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Легендарный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ffekdg",
           "name": null,
           "components": [
             {
+              "id": "0000000000k9y6tn",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "1",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000mbxlz9",
           "name": null,
           "components": [
             {
+              "id": "0000000000kcsh1o",
               "uuid": "Compendium.laaru-dnd5-hw.items.RSnrUgDKfYVWuWQr",
               "quantity": 1,
-              "name": "Абсолютный клей / Sovereign Glue"
+              "name": "Абсолютный клей / Sovereign Glue",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -137,44 +177,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000s14t9r",
           "name": null,
           "components": [
             {
+              "id": "0000000000d4ltkz",
               "uuid": "Compendium.kraywell-compendium.items.hivoELB4VkhqQq4c",
-              "quantity": "1",
-              "name": "Легендарный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Легендарный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000s14t9s",
           "name": null,
           "components": [
             {
+              "id": "0000000000i4pceu",
               "uuid": "Compendium.kraywell-compendium.items.i8Ritlhh78WFGAnz",
-              "quantity": "1",
-              "name": "Легендарный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Легендарный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000s14t9t",
           "name": null,
           "components": [
             {
+              "id": "0000000000og4q90",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "1",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000jzhbgw",
           "name": null,
           "components": [
             {
+              "id": "0000000000lq2s8g",
               "uuid": "Compendium.laaru-dnd5-hw.items.2lz6A4U5BMf42DfN",
               "quantity": 1,
-              "name": "Универсальный растворитель / Universal Solvent"
+              "name": "Универсальный растворитель / Universal Solvent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

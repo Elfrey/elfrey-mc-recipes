@@ -13,44 +13,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000v2iqrz",
           "name": null,
           "components": [
             {
+              "id": "0000000000dt4lce",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "2",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v2iqry",
           "name": null,
           "components": [
             {
+              "id": "00000000001432vh",
               "uuid": "Compendium.kraywell-compendium.items.4t2Fg8wXzMtORyZ2",
-              "quantity": "1",
-              "name": "Обычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Обычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v2iqrx",
           "name": null,
           "components": [
             {
+              "id": "0000000000lar6fx",
               "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
-              "quantity": "1",
-              "name": "Стеклянная Колба"
+              "quantity": 1,
+              "name": "Стеклянная Колба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000yn4hce",
           "name": null,
           "components": [
             {
+              "id": "0000000000wnjwzj",
               "uuid": "Compendium.kraywell-compendium.items.pHRenwieHMl3fbQ4",
               "quantity": 1,
-              "name": "Алхимическая Кислота"
+              "name": "Алхимическая Кислота",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -69,34 +89,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000000p7b2k",
           "name": null,
           "components": [
             {
+              "id": "0000000000xtsd9g",
               "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
-              "quantity": "1",
-              "name": "Стеклянная Колба"
+              "quantity": 1,
+              "name": "Стеклянная Колба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000p7b2l",
           "name": null,
           "components": [
             {
+              "id": "0000000000t6qecj",
               "uuid": "Compendium.kraywell-compendium.items.Item.17PBLoPMIUMTJx7K",
-              "quantity": "3",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 3,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000p2zaz7",
           "name": null,
           "components": [
             {
+              "id": "0000000000hrlaz9",
               "uuid": "Compendium.kraywell-compendium.items.yAuVeXpGwL9mIhf7",
               "quantity": 1,
-              "name": "Алхимический Огонь"
+              "name": "Алхимический Огонь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -115,44 +150,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000007xbdym",
           "name": null,
           "components": [
             {
+              "id": "0000000000147s0s",
               "uuid": "Compendium.kraywell-compendium.items.leJAbEhrPXbNXosC",
-              "quantity": "1",
-              "name": "Обычный Лечебный Реагент"
+              "quantity": 1,
+              "name": "Обычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007xbdyn",
           "name": null,
           "components": [
             {
+              "id": "0000000000xfzuxt",
               "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
-              "quantity": "1",
-              "name": "Стеклянная Колба"
+              "quantity": 1,
+              "name": "Стеклянная Колба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007xbdyo",
           "name": null,
           "components": [
             {
+              "id": "0000000000pmg7i2",
               "uuid": "Compendium.kraywell-compendium.items.Item.17PBLoPMIUMTJx7K",
-              "quantity": "3",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 3,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000z1yfbj",
           "name": null,
           "components": [
             {
+              "id": "00000000009o6asl",
               "uuid": "Compendium.kraywell-compendium.items.TJgNDjhvDVjC1cNd",
               "quantity": 1,
-              "name": "Алхимический Напалм"
+              "name": "Алхимический Напалм",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -171,34 +226,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000fje0w5",
           "name": null,
           "components": [
             {
+              "id": "0000000000215ykk",
               "uuid": "Compendium.kraywell-compendium.items.17PBLoPMIUMTJx7K",
-              "quantity": "2",
-              "name": "Обычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Обычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fje0w4",
           "name": null,
           "components": [
             {
+              "id": "0000000000vlz28c",
               "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
-              "quantity": "1",
-              "name": "Стеклянная Колба"
+              "quantity": 1,
+              "name": "Стеклянная Колба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000iwedxg",
           "name": null,
           "components": [
             {
+              "id": "0000000000h71okn",
               "uuid": "Compendium.kraywell-compendium.items.xOB8gYfIjyQFcMWr",
               "quantity": 1,
-              "name": "Ветер в Бутылке"
+              "name": "Ветер в Бутылке",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -217,44 +287,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000vcncfo",
           "name": null,
           "components": [
             {
+              "id": "0000000000fr4eya",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "2",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vcncfp",
           "name": null,
           "components": [
             {
+              "id": "0000000000wf3sea",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
-              "quantity": "1",
-              "name": "Необычный Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Необычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vcncfq",
           "name": null,
           "components": [
             {
+              "id": "0000000000jv0a6e",
               "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
-              "quantity": "1",
-              "name": "Стеклянная Колба"
+              "quantity": 1,
+              "name": "Стеклянная Колба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000j5sadx",
           "name": null,
           "components": [
             {
+              "id": "0000000000vj5z0r",
               "uuid": "Compendium.kraywell-compendium.items.bxMnIpcD8MxX5S7S",
               "quantity": 1,
-              "name": "Средняя Алхимическая Кислота"
+              "name": "Средняя Алхимическая Кислота",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -273,34 +363,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000oo844w",
           "name": null,
           "components": [
             {
+              "id": "0000000000995h56",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "3",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 3,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000oo844x",
           "name": null,
           "components": [
             {
+              "id": "0000000000eyxq75",
               "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
-              "quantity": "1",
-              "name": "Стеклянная Колба"
+              "quantity": 1,
+              "name": "Стеклянная Колба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000d3k9qp",
           "name": null,
           "components": [
             {
+              "id": "0000000000z2z5ra",
               "uuid": "Compendium.kraywell-compendium.items.lbsOy4SVUZsvXY42",
               "quantity": 1,
-              "name": "Средний Алхимический Огонь"
+              "name": "Средний Алхимический Огонь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -319,49 +424,73 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000009fx5sh",
           "name": null,
           "components": [
             {
+              "id": "0000000000bntoo9",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "1",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 1,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009fx5sg",
           "name": null,
           "components": [
             {
+              "id": "0000000000hdlxq8",
               "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
-              "quantity": "1",
-              "name": "Стеклянная Колба"
+              "quantity": 1,
+              "name": "Стеклянная Колба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009fx5sf",
           "name": null,
           "components": [
             {
+              "id": "0000000000ao1r3v",
               "uuid": "Compendium.kraywell-compendium.items.Item.AKWDG56NdLlh5sPR",
-              "quantity": "2",
-              "name": "Необычный Ядовитый Реагент"
+              "quantity": 2,
+              "name": "Необычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000d8ay8r",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.slIbSrpEipGzaUfq",
               "quantity": 1,
-              "name": "Свиток заклинания: Паутина / Web"
+              "name": "Свиток заклинания: Паутина / Web",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000057ezu8",
           "name": null,
           "components": [
             {
+              "id": "0000000000bxymhx",
               "uuid": "Compendium.kraywell-compendium.items.7hzYtORJcqLN9IlL",
               "quantity": 1,
-              "name": "Бутылка липкой слизи"
+              "name": "Бутылка липкой слизи",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -380,44 +509,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000hyuufd",
           "name": null,
           "components": [
             {
+              "id": "0000000000shzod4",
               "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
-              "quantity": "2",
-              "name": "Редкий Реактивный Реагент"
+              "quantity": 2,
+              "name": "Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hyuufc",
           "name": null,
           "components": [
             {
+              "id": "0000000000l8sumy",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "1",
-              "name": "Редкий Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hyuufb",
           "name": null,
           "components": [
             {
+              "id": "0000000000otuoo9",
               "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
-              "quantity": "1",
-              "name": "Стеклянная Колба"
+              "quantity": 1,
+              "name": "Стеклянная Колба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000em10co",
           "name": null,
           "components": [
             {
+              "id": "0000000000qrkzh8",
               "uuid": "Compendium.kraywell-compendium.items.DvfWAc5nYKgiV0KQ",
               "quantity": 1,
-              "name": "Мощная Алхимическая Кислота"
+              "name": "Мощная Алхимическая Кислота",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -436,34 +585,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000092u6dd",
           "name": null,
           "components": [
             {
+              "id": "00000000008j3nox",
               "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
-              "quantity": "1",
-              "name": "Стеклянная Колба"
+              "quantity": 1,
+              "name": "Стеклянная Колба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000092u6de",
           "name": null,
           "components": [
             {
+              "id": "0000000000u2fywo",
               "uuid": "Compendium.kraywell-compendium.items.Item.xTfhJGsI7x1WotjZ",
-              "quantity": "3",
-              "name": "Редкий Реактивный Реагент"
+              "quantity": 3,
+              "name": "Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000000p81dq",
           "name": null,
           "components": [
             {
+              "id": "00000000003tx2ro",
               "uuid": "Compendium.kraywell-compendium.items.S3H2p7ClTFNmH7HV",
               "quantity": 1,
-              "name": "Мощный Алхимический Огонь"
+              "name": "Мощный Алхимический Огонь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -482,44 +646,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000qiza2b",
           "name": null,
           "components": [
             {
+              "id": "0000000000c1dwnc",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qiza2a",
           "name": null,
           "components": [
             {
+              "id": "0000000000dedztx",
               "uuid": "Compendium.kraywell-compendium.items.oLYkey99ffQ3TJU1",
-              "quantity": "1",
-              "name": "Стеклянный Флакон"
+              "quantity": 1,
+              "name": "Стеклянный Флакон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qiza29",
           "name": null,
           "components": [
             {
+              "id": "0000000000vluocl",
               "uuid": "Compendium.kraywell-compendium.items.Item.xTfhJGsI7x1WotjZ",
-              "quantity": "2",
-              "name": "Редкий Реактивный Реагент"
+              "quantity": 2,
+              "name": "Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000xenrhu",
           "name": null,
           "components": [
             {
+              "id": "0000000000sz8py4",
               "uuid": "Compendium.kraywell-compendium.items.vnUMqneAx6c1V0ti",
               "quantity": 1,
-              "name": "Жидкая Молния"
+              "name": "Жидкая Молния",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

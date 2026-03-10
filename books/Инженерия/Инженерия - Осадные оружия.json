@@ -13,64 +13,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000057wg9u",
           "name": null,
           "components": [
             {
+              "id": "0000000000gru4tv",
               "uuid": "Compendium.kraywell-compendium.items.Item.BTF3HLUa23hV3vGl",
-              "quantity": "4",
-              "name": "Качественная Ветвь"
+              "quantity": 4,
+              "name": "Качественная Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000057wg9t",
           "name": null,
           "components": [
             {
+              "id": "0000000000lru9wd",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
-              "quantity": "2",
-              "name": "Еденица Дерева / Unit of Lumber"
+              "quantity": 2,
+              "name": "Еденица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000057wg9s",
           "name": null,
           "components": [
             {
+              "id": "0000000000gdijna",
               "uuid": "Compendium.kraywell-compendium.items.Item.JvROpigr0jg2osWb",
-              "quantity": "10",
-              "name": "Обычные запчасти"
+              "quantity": 10,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000057wg9r",
           "name": null,
           "components": [
             {
+              "id": "0000000000u2m9od",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
-              "quantity": "5",
-              "name": "Лоскутки кожи / Leather Scraps"
+              "quantity": 5,
+              "name": "Лоскутки кожи / Leather Scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000057wg9q",
           "name": null,
           "components": [
             {
+              "id": "0000000000alcjol",
               "uuid": "Compendium.laaru-dnd5-hw.items.fIfeQFNb0dFFU8SJ",
               "quantity": 1,
-              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000gd14qn",
           "name": null,
           "components": [
             {
+              "id": "0000000000r4wh8x",
               "uuid": "Compendium.laaru-dnd5-hw.items.6SkLO9fo9maxzf2v",
               "quantity": 1,
-              "name": "Баллиста"
+              "name": "Баллиста",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -89,74 +119,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000uvwduf",
           "name": null,
           "components": [
             {
+              "id": "0000000000glsavq",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "20",
-              "name": "Обычные запчасти"
+              "quantity": 20,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uvwdue",
           "name": null,
           "components": [
             {
+              "id": "0000000000newbgz",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uvwdud",
           "name": null,
           "components": [
             {
+              "id": "000000000069o9cc",
               "uuid": "Compendium.kraywell-compendium.items.KHOOuEKSawFdosbb",
-              "quantity": "4",
-              "name": "Сыромятная Кожа"
+              "quantity": 4,
+              "name": "Сыромятная Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uvwduc",
           "name": null,
           "components": [
             {
+              "id": "0000000000gk07qb",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.kKWvbYeym8nk9ijt",
-              "quantity": "4",
-              "name": "Еденица Дерева / Unit of Lumber"
+              "quantity": 4,
+              "name": "Еденица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uvwdub",
           "name": null,
           "components": [
             {
+              "id": "00000000006bvivk",
               "uuid": "Compendium.laaru-dnd5-hw.items.fIfeQFNb0dFFU8SJ",
               "quantity": 1,
-              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uvwdua",
           "name": null,
           "components": [
             {
+              "id": "0000000000qmop0j",
               "uuid": "Compendium.kraywell-compendium.items.Item.BTF3HLUa23hV3vGl",
-              "quantity": "4",
-              "name": "Качественная Ветвь"
+              "quantity": 4,
+              "name": "Качественная Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000uoqfqi",
           "name": null,
           "components": [
             {
+              "id": "0000000000bt4z0t",
               "uuid": "Compendium.laaru-dnd5-hw.items.c46tzdMDrjgDFiIF",
               "quantity": 1,
-              "name": "Мангонель"
+              "name": "Мангонель",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -175,109 +240,175 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000v3pj74",
           "name": null,
           "components": [
             {
+              "id": "0000000000nsibil",
               "uuid": "Compendium.laaru-dnd5-hw.items.fIfeQFNb0dFFU8SJ",
               "quantity": 1,
-              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v3pj75",
           "name": null,
           "components": [
             {
+              "id": "0000000000b1ve0f",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
-              "quantity": "4",
-              "name": "Еденица Дерева / Unit of Lumber"
+              "quantity": 4,
+              "name": "Еденица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v3pj76",
           "name": null,
           "components": [
             {
+              "id": "00000000009dm8m0",
               "uuid": "Compendium.kraywell-compendium.items.Item.KHOOuEKSawFdosbb",
-              "quantity": "10",
-              "name": "Сыромятная Кожа"
+              "quantity": 10,
+              "name": "Сыромятная Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v3pj77",
           "name": null,
           "components": [
             {
+              "id": "00000000009hmj6o",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "10",
-              "name": "Обычные запчасти"
+              "quantity": 10,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v3pj78",
           "name": null,
           "components": [
             {
+              "id": "0000000000vjinze",
               "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
-              "quantity": "2",
-              "name": "Слиток Адаманта"
+              "quantity": 2,
+              "name": "Слиток Адаманта",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000qzn6t3",
               "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
-              "quantity": "2",
-              "name": "Слиток Адамантита"
+              "quantity": 2,
+              "name": "Слиток Адамантита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000009jvpbk",
               "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
-              "quantity": "2",
-              "name": "Слиток Бронзы"
+              "quantity": 2,
+              "name": "Слиток Бронзы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000bzmf7d",
               "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
-              "quantity": "2",
-              "name": "Слиток Железа"
+              "quantity": 2,
+              "name": "Слиток Железа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000beb5pm",
               "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
-              "quantity": "2",
-              "name": "Слиток Метеорита"
+              "quantity": 2,
+              "name": "Слиток Метеорита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000007nu47x",
               "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
-              "quantity": "2",
-              "name": "Слиток Мифрила"
+              "quantity": 2,
+              "name": "Слиток Мифрила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000gftndb",
               "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
-              "quantity": "2",
-              "name": "Слиток Огнестали"
+              "quantity": 2,
+              "name": "Слиток Огнестали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000001v5cw2",
               "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
-              "quantity": "2",
-              "name": "Слиток Стали"
+              "quantity": 2,
+              "name": "Слиток Стали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ldijpu",
               "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
-              "quantity": "2",
-              "name": "Слиток Темностали"
+              "quantity": 2,
+              "name": "Слиток Темностали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000i4tl87",
               "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
-              "quantity": "2",
-              "name": "Слиток Хладостали"
+              "quantity": 2,
+              "name": "Слиток Хладостали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000quwgr5",
           "name": null,
           "components": [
             {
+              "id": "00000000004l2lle",
               "uuid": "Compendium.laaru-dnd5-hw.monsters.6o11UJ097qkm9FP0",
               "quantity": 1,
-              "name": "Таран / Ram"
+              "name": "Таран / Ram",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -296,64 +427,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000mfgtnd",
           "name": null,
           "components": [
             {
+              "id": "00000000008zprr0",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mfgtne",
           "name": null,
           "components": [
             {
+              "id": "0000000000afw1zx",
               "uuid": "Compendium.laaru-dnd5-hw.items.fIfeQFNb0dFFU8SJ",
               "quantity": 1,
-              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mfgtnf",
           "name": null,
           "components": [
             {
+              "id": "0000000000hi12ft",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
-              "quantity": "8",
-              "name": "Еденица Дерева / Unit of Lumber"
+              "quantity": 8,
+              "name": "Еденица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mfgtng",
           "name": null,
           "components": [
             {
+              "id": "0000000000qjk2g9",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "20",
-              "name": "Обычные запчасти"
+              "quantity": 20,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mfgtnh",
           "name": null,
           "components": [
             {
+              "id": "0000000000pst27t",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
-              "quantity": "10",
-              "name": "Лоскутки кожи / Leather Scraps"
+              "quantity": 10,
+              "name": "Лоскутки кожи / Leather Scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bly8uy",
           "name": null,
           "components": [
             {
+              "id": "0000000000mtlkrq",
               "uuid": "Compendium.laaru-dnd5-hw.monsters.x1H7VrhdLr9uzPol",
               "quantity": 1,
-              "name": "Требушет / Trebuchet"
+              "name": "Требушет / Trebuchet",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -372,54 +533,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000rcrd2z",
           "name": null,
           "components": [
             {
+              "id": "00000000006m8jry",
               "uuid": "Compendium.laaru-dnd5-hw.items.fIfeQFNb0dFFU8SJ",
               "quantity": 1,
-              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rcrd30",
           "name": null,
           "components": [
             {
+              "id": "00000000005hlyxm",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.kKWvbYeym8nk9ijt",
-              "quantity": "10",
-              "name": "Еденица Дерева / Unit of Lumber"
+              "quantity": 10,
+              "name": "Еденица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rcrd31",
           "name": null,
           "components": [
             {
+              "id": "0000000000arkz3n",
               "uuid": "Compendium.kraywell-compendium.items.Item.KHOOuEKSawFdosbb",
-              "quantity": "10",
-              "name": "Сыромятная Кожа"
+              "quantity": 10,
+              "name": "Сыромятная Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rcrd32",
           "name": null,
           "components": [
             {
+              "id": "0000000000lz8f05",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "20",
-              "name": "Обычные запчасти"
+              "quantity": 20,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000103md8",
           "name": null,
           "components": [
             {
+              "id": "0000000000d7xadw",
               "uuid": "Compendium.laaru-dnd5-hw.monsters.YOMEbnxhXHZ3OEUU",
               "quantity": 1,
-              "name": "Осадная башня / Siege Tower"
+              "name": "Осадная башня / Siege Tower",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

@@ -13,44 +13,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000zbf65u",
           "name": null,
           "components": [
             {
+              "id": "0000000000bvdywa",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000zbf65t",
           "name": null,
           "components": [
             {
+              "id": "0000000000w8m50m",
               "uuid": "Compendium.kraywell-compendium.items.WM5QIXEpjlD68jP5",
-              "quantity": "1",
-              "name": "Металлолом / Metal Scraps"
+              "quantity": 1,
+              "name": "Металлолом / Metal Scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000zbf65s",
           "name": null,
           "components": [
             {
+              "id": "00000000006fcrrc",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.svS4qNfjGmTYaGDp",
               "quantity": 1,
-              "name": "Оперение для стрел / Fletching"
+              "name": "Оперение для стрел / Fletching",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000pzopm7",
           "name": null,
           "components": [
             {
+              "id": "0000000000fyjy8e",
               "uuid": "Compendium.laaru-dnd5-hw.items.3c7JXOzsv55gqJS5",
-              "quantity": "10",
-              "name": "Стрела / Arrow"
+              "quantity": 10,
+              "name": "Стрела / Arrow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -69,44 +89,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000y1k1eg",
           "name": null,
           "components": [
             {
+              "id": "0000000000ywo90w",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000y1k1ef",
           "name": null,
           "components": [
             {
+              "id": "00000000007zkayo",
               "uuid": "Compendium.kraywell-compendium.items.WM5QIXEpjlD68jP5",
-              "quantity": "1",
-              "name": "Металлолом / Metal Scraps"
+              "quantity": 1,
+              "name": "Металлолом / Metal Scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000y1k1ee",
           "name": null,
           "components": [
             {
+              "id": "0000000000lblnxq",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.svS4qNfjGmTYaGDp",
               "quantity": 1,
-              "name": "Оперение для стрел / Fletching"
+              "name": "Оперение для стрел / Fletching",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000di4dyv",
           "name": null,
           "components": [
             {
+              "id": "0000000000vkw70v",
               "uuid": "Compendium.laaru-dnd5-hw.items.SItCnYBqhzqBoaWG",
-              "quantity": "10",
-              "name": "Арбалетный болт / Crossbow Bolt"
+              "quantity": 10,
+              "name": "Арбалетный болт / Crossbow Bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -125,44 +165,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000002fkkx7",
           "name": null,
           "components": [
             {
+              "id": "0000000000eskbuk",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.MT4KM5z3xsSTW9Jy",
-              "quantity": "2",
-              "name": "Кусок дерева / Wood scraps"
+              "quantity": 2,
+              "name": "Кусок дерева / Wood scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002fkkx8",
           "name": null,
           "components": [
             {
+              "id": "00000000008lxie5",
               "uuid": "Compendium.kraywell-compendium.items.WM5QIXEpjlD68jP5",
-              "quantity": "1",
-              "name": "Металлолом / Metal Scraps"
+              "quantity": 1,
+              "name": "Металлолом / Metal Scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002fkkx9",
           "name": null,
           "components": [
             {
+              "id": "0000000000sm9ks5",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.svS4qNfjGmTYaGDp",
               "quantity": 1,
-              "name": "Оперение для стрел / Fletching"
+              "name": "Оперение для стрел / Fletching",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000007raqdw",
           "name": null,
           "components": [
             {
+              "id": "00000000000o9fs3",
               "uuid": "Compendium.laaru-dnd5-hw.items.3rCO8MTIdPGSW6IJ",
-              "quantity": "10",
-              "name": "Дротик / Dart"
+              "quantity": 10,
+              "name": "Дротик / Dart",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -181,34 +241,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000i9gvim",
           "name": null,
           "components": [
             {
+              "id": "00000000002z09ep",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.MT4KM5z3xsSTW9Jy",
-              "quantity": "2",
-              "name": "Кусок дерева / Wood scraps"
+              "quantity": 2,
+              "name": "Кусок дерева / Wood scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i9gvin",
           "name": null,
           "components": [
             {
+              "id": "0000000000hu138p",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.svS4qNfjGmTYaGDp",
               "quantity": 1,
-              "name": "Оперение для стрел / Fletching"
+              "name": "Оперение для стрел / Fletching",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000001abh01",
           "name": null,
           "components": [
             {
+              "id": "0000000000aojgw4",
               "uuid": "Compendium.laaru-dnd5-hw.items.gBQ8xqTA5f8wP5iu",
-              "quantity": "10",
-              "name": "Игла для трубки / Blowgun Needle"
+              "quantity": 10,
+              "name": "Игла для трубки / Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

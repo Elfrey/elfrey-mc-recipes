@@ -13,64 +13,97 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000b94f4r",
           "name": null,
           "components": [
             {
+              "id": "00000000005fi1x1",
               "uuid": "Compendium.laaru-dnd5-hw.items.eO7Fbv5WBk5zvGOc",
-              "quantity": "1",
-              "name": "Топорик / Handaxe"
+              "quantity": 1,
+              "name": "Топорик / Handaxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000toz2ma",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.I0WocDSuNpGJayPb",
               "quantity": 1,
-              "name": "Боевой топор /Battleaxe"
+              "name": "Боевой топор /Battleaxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000frjwqp",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.1Lxk6kmoRhG8qQ0u",
               "quantity": 1,
-              "name": "Двуручный топор / Greataxe"
+              "name": "Двуручный топор / Greataxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000b94f4s",
           "name": null,
           "components": [
             {
+              "id": "0000000000k5jogp",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "2",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000002x2h0c",
           "name": null,
           "components": [
             {
+              "id": "0000000000zcqkwk",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.wjEL5vBOVNMXcCLR",
               "quantity": 1,
-              "name": "Боевой топор берсерка / Berserker Battleaxe"
+              "name": "Боевой топор берсерка / Berserker Battleaxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002x2h0b",
           "name": null,
           "components": [
             {
+              "id": "0000000000su11ve",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.QYvVyX33pwLEC95v",
               "quantity": 1,
-              "name": "Двуручный топор берсерка / Berserker Greataxe"
+              "name": "Двуручный топор берсерка / Berserker Greataxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002x2h0a",
           "name": null,
           "components": [
             {
+              "id": "0000000000o43vu6",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.kZlxxBSHJowUVNQm",
               "quantity": 1,
-              "name": "Топорик берсерка / Berserker Handaxe"
+              "name": "Топорик берсерка / Berserker Handaxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -89,49 +122,73 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000e2v4t7",
           "name": null,
           "components": [
             {
+              "id": "0000000000mnubc3",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000e2v4t8",
           "name": null,
           "components": [
             {
+              "id": "0000000000ama3br",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000e2v4t9",
           "name": null,
           "components": [
             {
+              "id": "0000000000nj9dbx",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.0E565kQUBmndJ1a2",
               "quantity": 1,
-              "name": "Кинжал / Dagger"
+              "name": "Кинжал / Dagger",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000nssm9f",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000dntl2c",
           "name": null,
           "components": [
             {
+              "id": "0000000000baniuw",
               "uuid": "Compendium.kraywell-compendium.items.Item.69p2m0jV2ff2Wbfb",
               "quantity": 1,
-              "name": "Кинжал Огр мага"
+              "name": "Кинжал Огр мага",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -150,34 +207,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000afjfdo",
           "name": null,
           "components": [
             {
+              "id": "0000000000h0zo07",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.DWLMnODrnHn8IbAG",
               "quantity": 1,
-              "name": "Пилум / Javelin"
+              "name": "Пилум / Javelin",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000afjfdp",
           "name": null,
           "components": [
             {
+              "id": "00000000007bptqg",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000se59bx",
           "name": null,
           "components": [
             {
+              "id": "0000000000vk39wl",
               "uuid": "Compendium.laaru-dnd5-hw.items.PhMke8eiGZk8X7Yq",
               "quantity": 1,
-              "name": "Пилум молнии / Javelin of Lightning"
+              "name": "Пилум молнии / Javelin of Lightning",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -196,64 +268,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000mg8bsf",
           "name": null,
           "components": [
             {
+              "id": "0000000000mheonu",
               "uuid": "Compendium.laaru-dnd5-hw.items.I0WocDSuNpGJayPb",
-              "quantity": "1",
-              "name": "Боевой топор /Battleaxe"
+              "quantity": 1,
+              "name": "Боевой топор /Battleaxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mg8bsg",
           "name": null,
           "components": [
             {
+              "id": "0000000000fvrh8b",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mg8bsh",
           "name": null,
           "components": [
             {
+              "id": "0000000000190ise",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mg8bsi",
           "name": null,
           "components": [
             {
+              "id": "0000000000rbqiey",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.j2Vo3m49A6uasjcM",
-              "quantity": "1",
-              "name": "Свиток заклинания: Ветровое оружие /Windborne Weapon"
+              "quantity": 1,
+              "name": "Свиток заклинания: Ветровое оружие /Windborne Weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mg8bsj",
           "name": null,
           "components": [
             {
+              "id": "0000000000llb18j",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vg0qHKN2jDTKLc10",
               "quantity": 1,
-              "name": "Свиток заклинания: Возвращающееся оружие / Returning Weapon"
+              "name": "Свиток заклинания: Возвращающееся оружие / Returning Weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ay9mi8",
           "name": null,
           "components": [
             {
+              "id": "0000000000us9132",
               "uuid": "Compendium.kraywell-compendium.items.Item.pLdhSnq9muSqbmBS",
               "quantity": 1,
-              "name": "Призыватель шквала"
+              "name": "Призыватель шквала",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -272,54 +374,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000009rahi7",
           "name": null,
           "components": [
             {
+              "id": "0000000000izwldo",
               "uuid": "Compendium.laaru-dnd5-hw.items.F65ANO66ckP8FDMa",
-              "quantity": "1",
-              "name": "Трезубец / Trident"
+              "quantity": 1,
+              "name": "Трезубец / Trident",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009rahi8",
           "name": null,
           "components": [
             {
+              "id": "0000000000qqqm7v",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
-              "quantity": "1",
-              "name": "Обычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009rahi9",
           "name": null,
           "components": [
             {
+              "id": "0000000000f2ymrw",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009rahia",
           "name": null,
           "components": [
             {
+              "id": "0000000000k51mvw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OrHn85WoQSK9OwRL",
               "quantity": 1,
-              "name": "Свиток заклинания: Подчинение животного / Dominate Beast"
+              "name": "Свиток заклинания: Подчинение животного / Dominate Beast",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000lr9mjk",
           "name": null,
           "components": [
             {
+              "id": "0000000000p1y162",
               "uuid": "Compendium.laaru-dnd5-hw.items.3GrD8dWLLn3QRMBr",
               "quantity": 1,
-              "name": "Трезубец власти над рыбами / Trident of Fish Command"
+              "name": "Трезубец власти над рыбами / Trident of Fish Command",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -338,64 +465,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ig0m8b",
           "name": null,
           "components": [
             {
+              "id": "0000000000nb9v78",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ig0m8c",
           "name": null,
           "components": [
             {
+              "id": "0000000000bw68yc",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ig0m8d",
           "name": null,
           "components": [
             {
+              "id": "0000000000wx8y4g",
               "uuid": "Compendium.laaru-dnd5-hw.items.59pjg8FGM4GG4Fdd",
               "quantity": 1,
-              "name": "Кинжал +1 / Dagger +1"
+              "name": "Кинжал +1 / Dagger +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ig0m8e",
           "name": null,
           "components": [
             {
+              "id": "00000000007ug1lo",
               "uuid": "Compendium.kraywell-compendium.items.A4YrA8uqRqD9ctsO",
               "quantity": 1,
-              "name": "Мощный оружейный яд"
+              "name": "Мощный оружейный яд",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ig0m8f",
           "name": null,
           "components": [
             {
+              "id": "0000000000w156zo",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.k1zt8pvpzW50Gmhm",
               "quantity": 1,
-              "name": "Свиток заклинания: Тошнотворный яд / Nauseating Poison"
+              "name": "Свиток заклинания: Тошнотворный яд / Nauseating Poison",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006xbh4k",
           "name": null,
           "components": [
             {
+              "id": "0000000000fmlexj",
               "uuid": "Compendium.laaru-dnd5-hw.items.ZdXJNt9yVavkTQCK",
               "quantity": 1,
-              "name": "Ядовитый кинжал / Dagger of Venom"
+              "name": "Ядовитый кинжал / Dagger of Venom",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -414,139 +571,214 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000fdbozf",
           "name": null,
           "components": [
             {
+              "id": "00000000006zc0gq",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
               "quantity": 1,
-              "name": "Двуручный меч / Greatsword"
+              "name": "Двуручный меч / Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000kw3jth",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
               "quantity": 1,
-              "name": "Длинный меч / Longsword"
+              "name": "Длинный меч / Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000c345x6",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000008vxxz0",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
               "quantity": 1,
-              "name": "Рапира / Rapier"
+              "name": "Рапира / Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000th5olq",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
               "quantity": 1,
-              "name": "Скимитар / Scimitar"
+              "name": "Скимитар / Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000vjevyl",
               "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
               "quantity": 1,
-              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fdboze",
           "name": null,
           "components": [
             {
+              "id": "000000000061i6s9",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "5",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 5,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fdbozd",
           "name": null,
           "components": [
             {
+              "id": "0000000000t5xxdb",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fdbozc",
           "name": null,
           "components": [
             {
+              "id": "0000000000e6q3rl",
               "uuid": "Compendium.kraywell-compendium.items.HpzceYVAbiGmTsg2",
               "quantity": 1,
-              "name": "Пылающее масло"
+              "name": "Пылающее масло",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fdbozb",
           "name": null,
           "components": [
             {
+              "id": "0000000000b0py9o",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
               "quantity": 1,
-              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000o4en3u",
           "name": null,
           "components": [
             {
+              "id": "0000000000ibptef",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.SFO9pdmMRLliafLW",
               "quantity": 1,
-              "name": "Двухклинковый скимитар Язык пламени / Flame Tongue Double-Bladed Scimitar"
+              "name": "Двухклинковый скимитар Язык пламени / Flame Tongue Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000o4en3v",
           "name": null,
           "components": [
             {
+              "id": "0000000000l3sd6c",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.33yZpFkA8FjkzHSk",
               "quantity": 1,
-              "name": "Двуручный меч Язык пламени / Flame Tongue Greatsword"
+              "name": "Двуручный меч Язык пламени / Flame Tongue Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000o4en3w",
           "name": null,
           "components": [
             {
+              "id": "0000000000as27f2",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.WSnYNEAbWFMOCVuM",
               "quantity": 1,
-              "name": "Длинный меч Язык пламени / Flame Tongue Longsword"
+              "name": "Длинный меч Язык пламени / Flame Tongue Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000o4en3x",
           "name": null,
           "components": [
             {
+              "id": "0000000000g5bwz5",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.ZhMbCMEnvcES8c54",
               "quantity": 1,
-              "name": "Короткий меч Язык пламени / Flame Tongue Shortsword"
+              "name": "Короткий меч Язык пламени / Flame Tongue Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000o4en3y",
           "name": null,
           "components": [
             {
+              "id": "0000000000ekiiym",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.FoQPKgPfxB5P11iS",
               "quantity": 1,
-              "name": "Рапира Язык пламени / Flame Tongue Rapier"
+              "name": "Рапира Язык пламени / Flame Tongue Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000o4en3z",
           "name": null,
           "components": [
             {
+              "id": "0000000000tlhqxj",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.00hEi1FnMaoszZgC",
               "quantity": 1,
-              "name": "Скимитар Язык пламени / Flame Tongue Scimitar"
+              "name": "Скимитар Язык пламени / Flame Tongue Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -565,169 +797,265 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ouh687",
           "name": null,
           "components": [
             {
+              "id": "00000000001ekfvy",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.eO7Fbv5WBk5zvGOc",
               "quantity": 1,
-              "name": "Топорик / Handaxe"
+              "name": "Топорик / Handaxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000005a2ag0",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.I0WocDSuNpGJayPb",
               "quantity": 1,
-              "name": "Боевой топор /Battleaxe"
+              "name": "Боевой топор /Battleaxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000il1uaw",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
               "quantity": 1,
-              "name": "Двуручный меч / Greatsword"
+              "name": "Двуручный меч / Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000bype0y",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.1Lxk6kmoRhG8qQ0u",
               "quantity": 1,
-              "name": "Двуручный топор / Greataxe"
+              "name": "Двуручный топор / Greataxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000gj5s9y",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
               "quantity": 1,
-              "name": "Длинный меч / Longsword"
+              "name": "Длинный меч / Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000007q6edn",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000004j06fh",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
               "quantity": 1,
-              "name": "Рапира / Rapier"
+              "name": "Рапира / Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000p47x27",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
               "quantity": 1,
-              "name": "Скимитар / Scimitar"
+              "name": "Скимитар / Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000u9y3z6",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.aEiM49V8vWpWw7rU",
               "quantity": 1,
-              "name": "Сеть / Net"
+              "name": "Сеть / Net",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000fq5zkt",
               "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
               "quantity": 1,
-              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ouh686",
           "name": null,
           "components": [
             {
+              "id": "0000000000s4dfl0",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "2",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ouh685",
           "name": null,
           "components": [
             {
+              "id": "0000000000sga6xy",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "2",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000eh50g6",
           "name": null,
           "components": [
             {
+              "id": "0000000000rl2uwe",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xInLv14Q4otKr1z7",
               "quantity": 1,
-              "name": "Убийца великанов (Боевой топор) / Giant Slayer Battleaxe"
+              "name": "Убийца великанов (Боевой топор) / Giant Slayer Battleaxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000eh50g7",
           "name": null,
           "components": [
             {
+              "id": "000000000041qmrt",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.9GLqhOCQ5PtNRgGN",
               "quantity": 1,
-              "name": "Убийца великанов (Двуручный меч) / Giant Slayer Greatsword"
+              "name": "Убийца великанов (Двуручный меч) / Giant Slayer Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000eh50g8",
           "name": null,
           "components": [
             {
+              "id": "0000000000wn5bsk",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.ogotwMr6zOtrvOwi",
               "quantity": 1,
-              "name": "Убийца великанов (Двуручный топор) / Giant Slayer Greataxe"
+              "name": "Убийца великанов (Двуручный топор) / Giant Slayer Greataxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000eh50g9",
           "name": null,
           "components": [
             {
+              "id": "0000000000zeeute",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.bx1FlBRoys5oiwTr",
               "quantity": 1,
-              "name": "Убийца великанов (Двухклинковый скимитар) / Giant Slayer Double-Bladed Scimitar"
+              "name": "Убийца великанов (Двухклинковый скимитар) / Giant Slayer Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000eh50ga",
           "name": null,
           "components": [
             {
+              "id": "00000000006esvtp",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.UliItTDF5f6KgvF4",
               "quantity": 1,
-              "name": "Убийца великанов (Длинный меч) / Giant Slayer Longsword"
+              "name": "Убийца великанов (Длинный меч) / Giant Slayer Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000eh50gb",
           "name": null,
           "components": [
             {
+              "id": "0000000000pz3jxd",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.asIvWkrpB4uZxKOQ",
               "quantity": 1,
-              "name": "Убийца великанов (Короткий меч) / Giant Slayer Shortsword"
+              "name": "Убийца великанов (Короткий меч) / Giant Slayer Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000eh50gc",
           "name": null,
           "components": [
             {
+              "id": "000000000057x30b",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.BfpWlAVNZPORIBKY",
               "quantity": 1,
-              "name": "Убийца великанов (Рапира) / Giant Slayer Rapier"
+              "name": "Убийца великанов (Рапира) / Giant Slayer Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000eh50gd",
           "name": null,
           "components": [
             {
+              "id": "00000000006mibx7",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.gDSSwCYmZ4pjkHbu",
               "quantity": 1,
-              "name": "Убийца великанов (Скимитар) / Giant Slayer Scimitar"
+              "name": "Убийца великанов (Скимитар) / Giant Slayer Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000eh50ge",
           "name": null,
           "components": [
             {
+              "id": "00000000005avt9m",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.tKn1oWxH9aQ69KZz",
               "quantity": 1,
-              "name": "Убийца великанов (Топорик) / Giant Slayer Handaxe"
+              "name": "Убийца великанов (Топорик) / Giant Slayer Handaxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -746,64 +1074,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000005pcpyl",
           "name": null,
           "components": [
             {
+              "id": "0000000000svb699",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "2",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005pcpym",
           "name": null,
           "components": [
             {
+              "id": "0000000000h5qmfk",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005pcpyn",
           "name": null,
           "components": [
             {
+              "id": "0000000000g58nbj",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005pcpyo",
           "name": null,
           "components": [
             {
+              "id": "00000000005bs3dx",
               "uuid": "Compendium.laaru-dnd5-hw.items.Ajyq6nGwF7FtLhDQ",
               "quantity": 1,
-              "name": "Булава / Mace"
+              "name": "Булава / Mace",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005pcpyp",
           "name": null,
           "components": [
             {
+              "id": "0000000000k9pno7",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vupyuVvVlJeG1IHy",
               "quantity": 1,
-              "name": "Свиток заклинания: Изгнание / Banishment"
+              "name": "Свиток заклинания: Изгнание / Banishment",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000wvp1da",
           "name": null,
           "components": [
             {
+              "id": "0000000000cl314j",
               "uuid": "Compendium.laaru-dnd5-hw.items.87KOo0LtkZUbr5hx",
               "quantity": 1,
-              "name": "Булава разрушения / Mace of Disruption"
+              "name": "Булава разрушения / Mace of Disruption",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -822,119 +1180,184 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000tafui7",
           "name": null,
           "components": [
             {
+              "id": "0000000000d4r6kw",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "2",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tafui8",
           "name": null,
           "components": [
             {
+              "id": "0000000000ea0cc6",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "1",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tafui9",
           "name": null,
           "components": [
             {
+              "id": "0000000000d9j0a0",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000a2csbu",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
               "quantity": 1,
-              "name": "Рапира / Rapier"
+              "name": "Рапира / Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000unkiyk",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
               "quantity": 1,
-              "name": "Скимитар / Scimitar"
+              "name": "Скимитар / Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000jzhem9",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
               "quantity": 1,
-              "name": "Длинный меч / Longsword"
+              "name": "Длинный меч / Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000xdcub6",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
               "quantity": 1,
-              "name": "Двуручный меч / Greatsword"
+              "name": "Двуручный меч / Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000p59swv",
               "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
               "quantity": 1,
-              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000c14o8g",
           "name": null,
           "components": [
             {
+              "id": "0000000000330tvz",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.hAPYOH7iyMERRUA8",
               "quantity": 1,
-              "name": "Убийца драконов (Двуручный меч) / Dragon Slayer Greatsword"
+              "name": "Убийца драконов (Двуручный меч) / Dragon Slayer Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c14o8f",
           "name": null,
           "components": [
             {
+              "id": "0000000000dw9pgm",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.or18eO5pxFWuIo7t",
               "quantity": 1,
-              "name": "Убийца драконов (Двухклинковый скимитар) / Dragon Slayer Double-Bladed Scimitar"
+              "name": "Убийца драконов (Двухклинковый скимитар) / Dragon Slayer Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c14o8e",
           "name": null,
           "components": [
             {
+              "id": "0000000000t5sjm3",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.jWLOY2jWeQE52Fo5",
               "quantity": 1,
-              "name": "Убийца драконов (Длинный меч) / Dragon Slayer Longsword"
+              "name": "Убийца драконов (Длинный меч) / Dragon Slayer Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c14o8d",
           "name": null,
           "components": [
             {
+              "id": "0000000000ttjslo",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.zlbOBJvAIB0WB2JR",
               "quantity": 1,
-              "name": "Убийца драконов (Короткий меч) / Dragon Slayer Shortsword"
+              "name": "Убийца драконов (Короткий меч) / Dragon Slayer Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c14o8c",
           "name": null,
           "components": [
             {
+              "id": "0000000000kqey74",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.jj8mRLY5oePclJNq",
               "quantity": 1,
-              "name": "Убийца драконов (Рапира) / Dragon Slayer Rapier"
+              "name": "Убийца драконов (Рапира) / Dragon Slayer Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c14o8b",
           "name": null,
           "components": [
             {
+              "id": "0000000000z478ld",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.A9fLg4mY9NSY0a6h",
               "quantity": 1,
-              "name": "Убийца драконов (Скимитар) / Dragon Slayer Scimitar"
+              "name": "Убийца драконов (Скимитар) / Dragon Slayer Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -953,64 +1376,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000k0nr9w",
           "name": null,
           "components": [
             {
+              "id": "0000000000ano24f",
               "uuid": "Compendium.laaru-dnd5-hw.items.Ajyq6nGwF7FtLhDQ",
-              "quantity": "1",
-              "name": "Булава / Mace"
+              "quantity": 1,
+              "name": "Булава / Mace",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000k0nr9x",
           "name": null,
           "components": [
             {
+              "id": "00000000004cm4cd",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000k0nr9y",
           "name": null,
           "components": [
             {
+              "id": "0000000000kmce14",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000k0nr9z",
           "name": null,
           "components": [
             {
+              "id": "0000000000wv9iyv",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000k0nra0",
           "name": null,
           "components": [
             {
+              "id": "0000000000fek2e2",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4Q7luIuqyYTXedlO",
               "quantity": 1,
-              "name": "Свиток заклинания: Рассеивание магии / Dispel Magic"
+              "name": "Свиток заклинания: Рассеивание магии / Dispel Magic",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000fbv8hh",
           "name": null,
           "components": [
             {
+              "id": "0000000000i8hv16",
               "uuid": "Compendium.laaru-dnd5-hw.items.6pP8TzkjAzmJCKRN",
               "quantity": 1,
-              "name": "Булава сокрушения / Mace of Smiting"
+              "name": "Булава сокрушения / Mace of Smiting",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1029,54 +1482,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000006m0clr",
           "name": null,
           "components": [
             {
+              "id": "0000000000jzkh8k",
               "uuid": "Compendium.laaru-dnd5-hw.items.Ajyq6nGwF7FtLhDQ",
-              "quantity": "1",
-              "name": "Булава / Mace"
+              "quantity": 1,
+              "name": "Булава / Mace",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006m0clq",
           "name": null,
           "components": [
             {
+              "id": "0000000000hia0xy",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006m0clp",
           "name": null,
           "components": [
             {
+              "id": "0000000000sjvinp",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "2",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006m0clo",
           "name": null,
           "components": [
             {
+              "id": "00000000003hg860",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vYpTa9sd0wD3zL6D",
               "quantity": 1,
-              "name": "Свиток заклинания: Ужас / Fear"
+              "name": "Свиток заклинания: Ужас / Fear",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000biq2z2",
           "name": null,
           "components": [
             {
+              "id": "0000000000l8snl4",
               "uuid": "Compendium.laaru-dnd5-hw.items.hAURPEMG0iDQG8rh",
               "quantity": 1,
-              "name": "Булава ужаса / Mace of Terror"
+              "name": "Булава ужаса / Mace of Terror",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1095,94 +1573,139 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000m7fqqc",
           "name": null,
           "components": [
             {
+              "id": "00000000005erb66",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "3",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 3,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000m7fqqb",
           "name": null,
           "components": [
             {
+              "id": "0000000000ml18b5",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "2",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000m7fqqa",
           "name": null,
           "components": [
             {
+              "id": "0000000000xzme7t",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "2",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000m7fqq9",
           "name": null,
           "components": [
             {
+              "id": "0000000000adbfam",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vV8fbU9o7mcdQ6pH",
               "quantity": 1,
-              "name": "Рукоять меча (200 зм)"
+              "name": "Рукоять меча (200 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000m7fqq8",
           "name": null,
           "components": [
             {
+              "id": "00000000007yubzl",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vV8fbU9o7mcdQ6pH",
               "quantity": 1,
-              "name": "Рукоять меча (200 зм)"
+              "name": "Рукоять меча (200 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000m7fqq7",
           "name": null,
           "components": [
             {
+              "id": "00000000005aoay4",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
               "quantity": 1,
-              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000m7fqq6",
           "name": null,
           "components": [
             {
+              "id": "0000000000a6zt0f",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4cRhNfQ1l2933Z90",
               "quantity": 1,
-              "name": "Свиток заклинания: Призрачное оружие / Spiritual weapon"
+              "name": "Свиток заклинания: Призрачное оружие / Spiritual weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000m7fqq5",
           "name": null,
           "components": [
             {
+              "id": "0000000000kdyqbr",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.j5CBvnNwclXxPQd3",
               "quantity": 1,
-              "name": "Свиток заклинания: Дневной свет / Daylight"
+              "name": "Свиток заклинания: Дневной свет / Daylight",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000pa9aur",
           "name": null,
           "components": [
             {
+              "id": "00000000002g2083",
               "uuid": "Compendium.laaru-dnd5-hw.items.24Snl9EIxNbjiasA",
               "quantity": 1,
-              "name": "Солнечный клинок / Sun Blade"
+              "name": "Солнечный клинок / Sun Blade",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1201,224 +1724,388 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000cyr0jd",
           "name": null,
           "components": [
             {
+              "id": "00000000006zgv8a",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.g2dWN7PQiMRYWzyk",
               "quantity": 1,
-              "name": "Боевой посох / Quarterstaff"
+              "name": "Боевой посох / Quarterstaff",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000emw3aq",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Ajyq6nGwF7FtLhDQ",
               "quantity": 1,
-              "name": "Булава / Mace"
+              "name": "Булава / Mace",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000dfcrhu",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.QRCsxkCwWNwswL9o",
               "quantity": 1,
-              "name": "Дубина / Greatclub"
+              "name": "Дубина / Greatclub",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000o9jp2s",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.nfIRTECQIG81CvM4",
               "quantity": 1,
-              "name": "Дубинка / Club"
+              "name": "Дубинка / Club",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000030qxlv",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.0E565kQUBmndJ1a2",
               "quantity": 1,
-              "name": "Кинжал / Dagger"
+              "name": "Кинжал / Dagger",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000738qtd",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.OG4nBBydvmfWYXIk",
               "quantity": 1,
-              "name": "Копьё / Spear"
+              "name": "Копьё / Spear",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ttw1wn",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.XVK6TOL4sGItssAE",
               "quantity": 1,
-              "name": "Лёгкий молот / Light Hammer"
+              "name": "Лёгкий молот / Light Hammer",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000020wo71",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.DWLMnODrnHn8IbAG",
               "quantity": 1,
-              "name": "Пилум / Javelin"
+              "name": "Пилум / Javelin",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000nip80d",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.i4NeNZ30ycwPDHMx",
               "quantity": 1,
-              "name": "Серп / Sickle"
+              "name": "Серп / Sickle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000bok51l",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.eO7Fbv5WBk5zvGOc",
               "quantity": 1,
-              "name": "Топорик / Handaxe"
+              "name": "Топорик / Handaxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000006x0tqk",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3rCO8MTIdPGSW6IJ",
               "quantity": 1,
-              "name": "Дротик / Dart"
+              "name": "Дротик / Dart",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000008xol3",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.GJv6WkD7D2J6rP6M",
               "quantity": 1,
-              "name": "Короткий лук / Shortbow"
+              "name": "Короткий лук / Shortbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000m0woh5",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.ddWvQRLmnnIS0eLF",
               "quantity": 1,
-              "name": "Лёгкий арбалет / Light Crossbow"
+              "name": "Лёгкий арбалет / Light Crossbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000004fffn1",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3gynWO9sN4OLGMWD",
               "quantity": 1,
-              "name": "Праща / Sling"
+              "name": "Праща / Sling",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000005orofc",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.DMejWAc8r8YvDPP1",
               "quantity": 1,
-              "name": "Алебарда / Halberd"
+              "name": "Алебарда / Halberd",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000c3f2bw",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.F0Df164Xv1gWcYt0",
               "quantity": 1,
-              "name": "Боевой молот / Warhammer"
+              "name": "Боевой молот / Warhammer",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000oa97na",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.I0WocDSuNpGJayPb",
               "quantity": 1,
-              "name": "Боевой топор /Battleaxe"
+              "name": "Боевой топор /Battleaxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000bku7cr",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.rOG1OM2ihgPjOvFW",
               "quantity": 1,
-              "name": "Глефа / Glaive"
+              "name": "Глефа / Glaive",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ucgp7j",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
               "quantity": 1,
-              "name": "Двуручный меч / Greatsword"
+              "name": "Двуручный меч / Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000zhedt6",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.DizirD7eqjh8n95A",
               "quantity": 1,
-              "name": "Двуручный молот / Maul"
+              "name": "Двуручный молот / Maul",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000006f6ydr",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.1Lxk6kmoRhG8qQ0u",
               "quantity": 1,
-              "name": "Двуручный топор / Greataxe"
+              "name": "Двуручный топор / Greataxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000m2o7x5",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
               "quantity": 1,
-              "name": "Длинный меч / Longsword"
+              "name": "Длинный меч / Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000vzvrt0",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.RnuxdHUAIgxccVwj",
               "quantity": 1,
-              "name": "Кавалерийская пика / Lance"
+              "name": "Кавалерийская пика / Lance",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000005git98",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.2YdfjN1PIIrSHZii",
               "quantity": 1,
-              "name": "Клевец / War pick"
+              "name": "Клевец / War pick",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000lh2cy4",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.QKTyxoO0YDnAsbYe",
               "quantity": 1,
-              "name": "Кнут / Whip"
+              "name": "Кнут / Whip",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000z010wr",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000006xy2bx",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dX8AxCh9o0A9CkT3",
               "quantity": 1,
-              "name": "Моргенштерн / Morningstar"
+              "name": "Моргенштерн / Morningstar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000lcxobs",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.tC0kcqZT9HHAO0PD",
               "quantity": 1,
-              "name": "Пика / Pike"
+              "name": "Пика / Pike",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000oqp4f9",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
               "quantity": 1,
-              "name": "Рапира / Rapier"
+              "name": "Рапира / Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000045hdsj",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
               "quantity": 1,
-              "name": "Скимитар / Scimitar"
+              "name": "Скимитар / Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000008ypqw0",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.F65ANO66ckP8FDMa",
               "quantity": 1,
-              "name": "Трезубец / Trident"
+              "name": "Трезубец / Trident",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000071v84y",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.UrH3sMdnUDckIHJ6",
               "quantity": 1,
-              "name": "Цеп / Flail"
+              "name": "Цеп / Flail",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000syrpk5",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3cymOVja8jXbzrdT",
               "quantity": 1,
-              "name": "Длинный лук / Longbow"
+              "name": "Длинный лук / Longbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000067vxya",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.wNWK6yJMHG9ANqQV",
               "quantity": 1,
-              "name": "Духовая трубка / Blowgun"
+              "name": "Духовая трубка / Blowgun",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000afp7ke",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.qaSro7kFhxD6INbZ",
               "quantity": 1,
-              "name": "Ручной арбалет / Hand Crossbow"
+              "name": "Ручной арбалет / Hand Crossbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000nqtp4a",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.aEiM49V8vWpWw7rU",
               "quantity": 1,
-              "name": "Сеть / Net"
+              "name": "Сеть / Net",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000pwk0fg",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.RmP0mYRn2J7K26rX",
               "quantity": 1,
-              "name": "Тяжёлый арбалет / Heavy Crossbow"
+              "name": "Тяжёлый арбалет / Heavy Crossbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000cyr0jc",
           "name": null,
           "components": [
             {
+              "id": "0000000000whusgm",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "3",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 3,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000cyr0jb",
           "name": null,
           "components": [
             {
+              "id": "0000000000liyrum",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ELpmu22p03Mf8gZa",
               "quantity": 1,
-              "name": "Свиток заклинания: Головоруб / Vorpal Blade"
+              "name": "Свиток заклинания: Головоруб / Vorpal Blade",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000rn3myg",
           "name": null,
           "components": [
             {
+              "id": "0000000000dmvxn6",
               "uuid": "Compendium.laaru-dnd5-hw.items.2vwobFVctcjSfXMX",
               "quantity": 1,
-              "name": "Свирепое оружие / Vicious weapon"
+              "name": "Свирепое оружие / Vicious weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1437,74 +2124,112 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000q74ag5",
           "name": null,
           "components": [
             {
+              "id": "0000000000alolq5",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000q74ag4",
           "name": null,
           "components": [
             {
+              "id": "0000000000zggxvi",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "2",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000q74ag3",
           "name": null,
           "components": [
             {
+              "id": "0000000000teimdq",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
               "quantity": 1,
-              "name": "Длинный меч / Longsword"
+              "name": "Длинный меч / Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000klj8hf",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000n9f8zg",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
               "quantity": 1,
-              "name": "Двуручный меч / Greatsword"
+              "name": "Двуручный меч / Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000rerme4",
           "name": null,
           "components": [
             {
+              "id": "0000000000lmpg7e",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3fSQbemHKQVdOjro",
               "quantity": 1,
-              "name": "Двуручный меч похищения жизни / Greatsword of Life Stealing"
+              "name": "Двуручный меч похищения жизни / Greatsword of Life Stealing",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rerme3",
           "name": null,
           "components": [
             {
+              "id": "0000000000y47ckw",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.druvudy7QVkT06Ko",
               "quantity": 1,
-              "name": "Длинный меч похищения жизни / Longsword of Life Stealing"
+              "name": "Длинный меч похищения жизни / Longsword of Life Stealing",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rerme2",
           "name": null,
           "components": [
             {
+              "id": "0000000000a67x12",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.ZoanA8a05yThNaic",
               "quantity": 1,
-              "name": "Короткий меч похищения жизни / Shortsword of Life Stealing"
+              "name": "Короткий меч похищения жизни / Shortsword of Life Stealing",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1523,84 +2248,127 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000004wi1yq",
           "name": null,
           "components": [
             {
+              "id": "0000000000bs1yfq",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "2",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000004wi1yp",
           "name": null,
           "components": [
             {
+              "id": "0000000000t64c04",
               "uuid": "Compendium.kraywell-compendium.items.FSHhU2kc6pgDLAf9",
-              "quantity": "2",
-              "name": "Очень Редкий Ядовитый Реагент"
+              "quantity": 2,
+              "name": "Очень Редкий Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000004wi1yo",
           "name": null,
           "components": [
             {
+              "id": "0000000000vvftwy",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
-              "quantity": "1",
-              "name": "Редкий Ядовитый Реагент"
+              "quantity": 1,
+              "name": "Редкий Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000004wi1yn",
           "name": null,
           "components": [
             {
+              "id": "0000000000djbiwo",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000avfien",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
               "quantity": 1,
-              "name": "Двуручный меч / Greatsword"
+              "name": "Двуручный меч / Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000h001vk",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
               "quantity": 1,
-              "name": "Длинный меч / Longsword"
+              "name": "Длинный меч / Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006jmt67",
           "name": null,
           "components": [
             {
+              "id": "000000000047icg8",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.4sWsYC8FV5jQMEvE",
               "quantity": 1,
-              "name": "Ранящий двуручный меч / Greatsword of Wounding"
+              "name": "Ранящий двуручный меч / Greatsword of Wounding",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006jmt66",
           "name": null,
           "components": [
             {
+              "id": "0000000000mesrju",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.bTTghRkuzEATBx59",
               "quantity": 1,
-              "name": "Ранящий длинный меч / Longsword of Wounding"
+              "name": "Ранящий длинный меч / Longsword of Wounding",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006jmt65",
           "name": null,
           "components": [
             {
+              "id": "0000000000ik1eza",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.kqybsNvrsXipQund",
               "quantity": 1,
-              "name": "Ранящий короткий меч / Shortsword of Wounding"
+              "name": "Ранящий короткий меч / Shortsword of Wounding",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1619,54 +2387,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000006g1khs",
           "name": null,
           "components": [
             {
+              "id": "0000000000fzcan3",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006g1khr",
           "name": null,
           "components": [
             {
+              "id": "00000000000v404e",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.DWLMnODrnHn8IbAG",
               "quantity": 1,
-              "name": "Пилум / Javelin"
+              "name": "Пилум / Javelin",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006g1khq",
           "name": null,
           "components": [
             {
+              "id": "00000000000wqous",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vg0qHKN2jDTKLc10",
               "quantity": 1,
-              "name": "Свиток заклинания: Возвращающееся оружие / Returning Weapon"
+              "name": "Свиток заклинания: Возвращающееся оружие / Returning Weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006g1khp",
           "name": null,
           "components": [
             {
+              "id": "0000000000goh9y0",
               "uuid": "Compendium.kraywell-compendium.items.Item.a6BDLM9QZqUfqsTf",
               "quantity": 1,
-              "name": "Необычная Арканная Эссенция"
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000gnoae7",
           "name": null,
           "components": [
             {
+              "id": "0000000000c1jmqp",
               "uuid": "Compendium.kraywell-compendium.items.Item.vWzlUscZte5mlwXu",
               "quantity": 1,
-              "name": "Метательное копье Ореола Гарпии"
+              "name": "Метательное копье Ореола Гарпии",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1685,54 +2478,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000qrvatg",
           "name": null,
           "components": [
             {
+              "id": "00000000005w9v2x",
               "uuid": "Compendium.laaru-dnd5-hw.items.3c7JXOzsv55gqJS5",
-              "quantity": "1",
-              "name": "Стрела / Arrow"
+              "quantity": 1,
+              "name": "Стрела / Arrow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qrvatf",
           "name": null,
           "components": [
             {
+              "id": "00000000002q0ha6",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "2",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qrvate",
           "name": null,
           "components": [
             {
+              "id": "00000000009qgtft",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "2",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qrvatd",
           "name": null,
           "components": [
             {
+              "id": "0000000000z0p0ag",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.tc1He4DMOoO2FcR5",
               "quantity": 1,
-              "name": "Свиток заклинания: Проклятие / Bestow Curse"
+              "name": "Свиток заклинания: Проклятие / Bestow Curse",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000pr344j",
           "name": null,
           "components": [
             {
+              "id": "00000000003l4hsm",
               "uuid": "Compendium.laaru-dnd5-hw.items.a4wm7t6fu2Y0NvoF",
               "quantity": 1,
-              "name": "Стрела истребления / Arrow of Slaying"
+              "name": "Стрела истребления / Arrow of Slaying",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1751,109 +2569,169 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ginyjr",
           "name": null,
           "components": [
             {
+              "id": "0000000000np2u3r",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "2",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ginyjs",
           "name": null,
           "components": [
             {
+              "id": "0000000000oanfuf",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
               "quantity": 1,
-              "name": "Двуручный меч / Greatsword"
+              "name": "Двуручный меч / Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000003ks4fs",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
               "quantity": 1,
-              "name": "Длинный меч / Longsword"
+              "name": "Длинный меч / Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000005879gj",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000008fdhep",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
               "quantity": 1,
-              "name": "Рапира / Rapier"
+              "name": "Рапира / Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000c5u981",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
               "quantity": 1,
-              "name": "Скимитар / Scimitar"
+              "name": "Скимитар / Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000v47f2i",
               "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
               "quantity": 1,
-              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000i8j4yg",
           "name": null,
           "components": [
             {
+              "id": "0000000000e58bww",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.4nhmDTan5oYACVhX",
               "quantity": 1,
-              "name": "Пляшущая рапира / Dancing Rapier"
+              "name": "Пляшущая рапира / Dancing Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i8j4yh",
           "name": null,
           "components": [
             {
+              "id": "0000000000fgiivj",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.hHvrie2LNrnEhCtm",
               "quantity": 1,
-              "name": "Пляшущий двуручный меч / Dancing Greatsword"
+              "name": "Пляшущий двуручный меч / Dancing Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i8j4yi",
           "name": null,
           "components": [
             {
+              "id": "0000000000rj8mpk",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.JWd8bi7p14PdaKjO",
               "quantity": 1,
-              "name": "Пляшущий двухклинковый скимитар / Dancing Double-Bladed Scimitar"
+              "name": "Пляшущий двухклинковый скимитар / Dancing Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i8j4yj",
           "name": null,
           "components": [
             {
+              "id": "0000000000uutcu0",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Wb4VcTuSrrhpU7br",
               "quantity": 1,
-              "name": "Пляшущий длинный меч / Dancing Longsword"
+              "name": "Пляшущий длинный меч / Dancing Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i8j4yk",
           "name": null,
           "components": [
             {
+              "id": "0000000000o6ox55",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.OXOa5a2DUVSGXYRG",
               "quantity": 1,
-              "name": "Пляшущий короткий меч / Dancing Shortsword"
+              "name": "Пляшущий короткий меч / Dancing Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i8j4yl",
           "name": null,
           "components": [
             {
+              "id": "0000000000uge1tk",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.luLT8i7Leaikw6vF",
               "quantity": 1,
-              "name": "Пляшущий скимитар / Dancing Scimitar"
+              "name": "Пляшущий скимитар / Dancing Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1872,44 +2750,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000xyzjpb",
           "name": null,
           "components": [
             {
+              "id": "0000000000wxsk9q",
               "uuid": "Compendium.laaru-dnd5-hw.items.setcTdSZ09rmsqMn",
               "quantity": 1,
-              "name": "Боевой молот +3 / Warhammer +3"
+              "name": "Боевой молот +3 / Warhammer +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xyzjpa",
           "name": null,
           "components": [
             {
+              "id": "0000000000prs3bo",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vg0qHKN2jDTKLc10",
               "quantity": 1,
-              "name": "Свиток заклинания: Возвращающееся оружие / Returning Weapon"
+              "name": "Свиток заклинания: Возвращающееся оружие / Returning Weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xyzjp9",
           "name": null,
           "components": [
             {
+              "id": "0000000000y0aizr",
               "uuid": "Compendium.kraywell-compendium.items.Item.FgIjMHzsMAP22g9s",
               "quantity": 1,
-              "name": "Очень Редкая Первичная Эссенция"
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000fprmm6",
           "name": null,
           "components": [
             {
+              "id": "0000000000cjr3uv",
               "uuid": "Compendium.laaru-dnd5-hw.items.m52jcW1xGl0QS37i",
               "quantity": 1,
-              "name": "Дварфийский метательный молот / Dwarven Thrower"
+              "name": "Дварфийский метательный молот / Dwarven Thrower",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -1928,69 +2826,103 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000edetfo",
           "name": null,
           "components": [
             {
+              "id": "0000000000rxf7lo",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "3",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 3,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000edetfn",
           "name": null,
           "components": [
             {
+              "id": "0000000000od2fib",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000edetfm",
           "name": null,
           "components": [
             {
+              "id": "0000000000kfm4m3",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3cymOVja8jXbzrdT",
               "quantity": 1,
-              "name": "Длинный лук / Longbow"
+              "name": "Длинный лук / Longbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000t4zup9",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.GJv6WkD7D2J6rP6M",
               "quantity": 1,
-              "name": "Короткий лук / Shortbow"
+              "name": "Короткий лук / Shortbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000edetfl",
           "name": null,
           "components": [
             {
+              "id": "0000000000d4reb8",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OZOl1kaltt7Qf7kH",
               "quantity": 1,
-              "name": "Свиток заклинания: Волшебная стрела / Magic missile"
+              "name": "Свиток заклинания: Волшебная стрела / Magic missile",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000edetfk",
           "name": null,
           "components": [
             {
+              "id": "00000000003gmwmd",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
               "quantity": 1,
-              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000fze8v1",
           "name": null,
           "components": [
             {
+              "id": "0000000000pjkgcq",
               "uuid": "Compendium.kraywell-compendium.items.KbM1oeUI6t0oOhRR",
               "quantity": 1,
-              "name": "Лук волшебных стрел"
+              "name": "Лук волшебных стрел",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2009,149 +2941,229 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000007knad7",
           "name": null,
           "components": [
             {
+              "id": "0000000000iu0e04",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
               "quantity": 1,
-              "name": "Двуручный меч / Greatsword"
+              "name": "Двуручный меч / Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000091f6a3",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
               "quantity": 1,
-              "name": "Длинный меч / Longsword"
+              "name": "Длинный меч / Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000008fsds",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000002yqfke",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
               "quantity": 1,
-              "name": "Рапира / Rapier"
+              "name": "Рапира / Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000hmhb2c",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
               "quantity": 1,
-              "name": "Скимитар / Scimitar"
+              "name": "Скимитар / Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000albkt3",
               "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
               "quantity": 1,
-              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007knad8",
           "name": null,
           "components": [
             {
+              "id": "0000000000e79fxt",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "1",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007knad9",
           "name": null,
           "components": [
             {
+              "id": "0000000000ywuev6",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "3",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 3,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007knada",
           "name": null,
           "components": [
             {
+              "id": "00000000000alpae",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007knadb",
           "name": null,
           "components": [
             {
+              "id": "0000000000dkl0cp",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.rVp2nb6WgsH5cYdl",
               "quantity": 1,
-              "name": "Свиток заклинания: Мгновенная заморозка / Flash Freeze"
+              "name": "Свиток заклинания: Мгновенная заморозка / Flash Freeze",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007knadc",
           "name": null,
           "components": [
             {
+              "id": "0000000000vwqrmw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.rVp2nb6WgsH5cYdl",
               "quantity": 1,
-              "name": "Свиток заклинания: Мгновенная заморозка / Flash Freeze"
+              "name": "Свиток заклинания: Мгновенная заморозка / Flash Freeze",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000p2ej7o",
           "name": null,
           "components": [
             {
+              "id": "0000000000rwafbh",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.QxMDvjOY2zrc1D7A",
               "quantity": 1,
-              "name": "Морозный клинок (Двуручный меч) / Frost Brand Greatsword"
+              "name": "Морозный клинок (Двуручный меч) / Frost Brand Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p2ej7p",
           "name": null,
           "components": [
             {
+              "id": "0000000000ov6wzd",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.OoL6bqFPO0i4lBzr",
               "quantity": 1,
-              "name": "Морозный клинок (Двухклинковый скимитар) / Frost Brand Double-Bladed Scimitar"
+              "name": "Морозный клинок (Двухклинковый скимитар) / Frost Brand Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p2ej7q",
           "name": null,
           "components": [
             {
+              "id": "00000000004nmobj",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.w5m4HsgqCxQzBMCB",
               "quantity": 1,
-              "name": "Морозный клинок (Длинный меч) / Frost Brand Longsword"
+              "name": "Морозный клинок (Длинный меч) / Frost Brand Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p2ej7r",
           "name": null,
           "components": [
             {
+              "id": "0000000000qytemb",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.BjNvQSXzrsIwHe0u",
               "quantity": 1,
-              "name": "Морозный клинок (Короткий меч) / Frost Brand Shortsword"
+              "name": "Морозный клинок (Короткий меч) / Frost Brand Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p2ej7s",
           "name": null,
           "components": [
             {
+              "id": "0000000000mlyz75",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.BqK0cJj8QFQh4gm7",
               "quantity": 1,
-              "name": "Морозный клинок (Рапира) / Frost Brand Rapier"
+              "name": "Морозный клинок (Рапира) / Frost Brand Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p2ej7t",
           "name": null,
           "components": [
             {
+              "id": "00000000009pq7od",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.G2JUYqy3OcJeJ7Yx",
               "quantity": 1,
-              "name": "Морозный клинок (Скимитар) / Frost Brand Scimitar"
+              "name": "Морозный клинок (Скимитар) / Frost Brand Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2170,119 +3182,184 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000094f7h0",
           "name": null,
           "components": [
             {
+              "id": "0000000000vsnkrn",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ygjl9o",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
               "quantity": 1,
-              "name": "Двуручный меч / Greatsword"
+              "name": "Двуручный меч / Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000008p4wf9",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
               "quantity": 1,
-              "name": "Длинный меч / Longsword"
+              "name": "Длинный меч / Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ry2kkd",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
               "quantity": 1,
-              "name": "Рапира / Rapier"
+              "name": "Рапира / Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000007cutxn",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
               "quantity": 1,
-              "name": "Скимитар / Scimitar"
+              "name": "Скимитар / Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000096jkcm",
               "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
               "quantity": 1,
-              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000094f7gz",
           "name": null,
           "components": [
             {
+              "id": "0000000000k26ynv",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.zW2lK4EdltTaalv3",
               "quantity": 1,
-              "name": "Свиток заклинания: Слово силы: смерть / Power Word Kill"
+              "name": "Свиток заклинания: Слово силы: смерть / Power Word Kill",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000094f7gy",
           "name": null,
           "components": [
             {
+              "id": "00000000000xh5a0",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.fBQJ0X2IrOot5ZNS",
               "quantity": 1,
-              "name": "Свиток заклинания: Колдовской сосуд / Magic Jar"
+              "name": "Свиток заклинания: Колдовской сосуд / Magic Jar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000004p1k1f",
           "name": null,
           "components": [
             {
+              "id": "0000000000ni49cx",
               "uuid": "Compendium.laaru-dnd5-hw.items.JiFV6KNP9uyhSwVq",
               "quantity": 1,
-              "name": "Вор девяти жизней (Рапира) / Nine Lives Stealer Rapier"
+              "name": "Вор девяти жизней (Рапира) / Nine Lives Stealer Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000004p1k1g",
           "name": null,
           "components": [
             {
+              "id": "0000000000iz5f2k",
               "uuid": "Compendium.laaru-dnd5-hw.items.ooZwuIqx0nCR0YGU",
               "quantity": 1,
-              "name": "Вор девяти жизней (Двухклинковый скимитар) / Nine Lives Stealer Double-Bladed Scimitar"
+              "name": "Вор девяти жизней (Двухклинковый скимитар) / Nine Lives Stealer Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000004p1k1h",
           "name": null,
           "components": [
             {
+              "id": "0000000000egsl9s",
               "uuid": "Compendium.laaru-dnd5-hw.items.cJdbWduGoMiCSY1p",
               "quantity": 1,
-              "name": "Вор девяти жизней (Двуручный меч) / Nine Lives Stealer Greatsword"
+              "name": "Вор девяти жизней (Двуручный меч) / Nine Lives Stealer Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000004p1k1i",
           "name": null,
           "components": [
             {
+              "id": "0000000000u1mdkf",
               "uuid": "Compendium.laaru-dnd5-hw.items.pMVR5fL7BQL1ZZJd",
               "quantity": 1,
-              "name": "Вор девяти жизней (Короткий меч) / Nine Lives Stealer Shortsword"
+              "name": "Вор девяти жизней (Короткий меч) / Nine Lives Stealer Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000004p1k1j",
           "name": null,
           "components": [
             {
+              "id": "0000000000botu7k",
               "uuid": "Compendium.laaru-dnd5-hw.items.5DlsDJfjgsNMefYP",
               "quantity": 1,
-              "name": "Вор девяти жизней (Длинный меч) / Nine Lives Stealer Longsword"
+              "name": "Вор девяти жизней (Длинный меч) / Nine Lives Stealer Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000004p1k1k",
           "name": null,
           "components": [
             {
+              "id": "00000000007zyx8b",
               "uuid": "Compendium.laaru-dnd5-hw.items.SAJHyv83LniD3IaY",
               "quantity": 1,
-              "name": "Вор девяти жизней (Скимитар) / Nine Lives Stealer Scimitar"
+              "name": "Вор девяти жизней (Скимитар) / Nine Lives Stealer Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2301,64 +3378,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000000yo1kj",
           "name": null,
           "components": [
             {
+              "id": "00000000007ukwxs",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "4",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 4,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000yo1ki",
           "name": null,
           "components": [
             {
+              "id": "0000000000ws2owl",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3cymOVja8jXbzrdT",
               "quantity": 1,
-              "name": "Длинный лук / Longbow"
+              "name": "Длинный лук / Longbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000yo1kh",
           "name": null,
           "components": [
             {
+              "id": "0000000000g3genv",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.XeDZviSfuerxEatM",
               "quantity": 1,
-              "name": "Свиток заклинания: Верный удар / True Strike"
+              "name": "Свиток заклинания: Верный удар / True Strike",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000yo1kg",
           "name": null,
           "components": [
             {
+              "id": "00000000007z4mfv",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.KG0s76G07L2rM7e4",
               "quantity": 1,
-              "name": "Свиток заклинания: Метка охотника / Hunter's Mark"
+              "name": "Свиток заклинания: Метка охотника / Hunter's Mark",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000yo1kf",
           "name": null,
           "components": [
             {
+              "id": "00000000007311vx",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.FBdZfJYD4zRcuKXr",
               "quantity": 1,
-              "name": "Свиток заклинания: Сглаз / Hex"
+              "name": "Свиток заклинания: Сглаз / Hex",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000qh0kwe",
           "name": null,
           "components": [
             {
+              "id": "00000000003u5hzy",
               "uuid": "Compendium.laaru-dnd5-hw.items.lPm9H44LeYkNRvR3",
               "quantity": 1,
-              "name": "Клятвeнный лук / Oathbow"
+              "name": "Клятвeнный лук / Oathbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2377,54 +3484,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000kc6pjg",
           "name": null,
           "components": [
             {
+              "id": "0000000000nleot0",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kc6pjh",
           "name": null,
           "components": [
             {
+              "id": "0000000000rbtr66",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kc6pji",
           "name": null,
           "components": [
             {
+              "id": "0000000000rpim91",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
               "quantity": 1,
-              "name": "Скимитар / Scimitar"
+              "name": "Скимитар / Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kc6pjj",
           "name": null,
           "components": [
             {
+              "id": "00000000004thoi9",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.pdGu4rtCSItFCoFM",
               "quantity": 1,
-              "name": "Свиток заклинания: Ускорение / Haste"
+              "name": "Свиток заклинания: Ускорение / Haste",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005ejq99",
           "name": null,
           "components": [
             {
+              "id": "0000000000hsv72b",
               "uuid": "Compendium.laaru-dnd5-hw.items.4yucgRXEdutquHIo",
               "quantity": 1,
-              "name": "Скимитар скорости / Scimitar of Speed"
+              "name": "Скимитар скорости / Scimitar of Speed",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2443,84 +3575,127 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000mn3ay7",
           "name": null,
           "components": [
             {
+              "id": "00000000004uaggh",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mn3ay6",
           "name": null,
           "components": [
             {
+              "id": "00000000009yhhgm",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mn3ay5",
           "name": null,
           "components": [
             {
+              "id": "0000000000mhjdak",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.yPAMAkQBaj3JEql3",
               "quantity": 1,
-              "name": "Свиток заклинания: Вострое оружие / Vorpal Weapon"
+              "name": "Свиток заклинания: Вострое оружие / Vorpal Weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mn3ay4",
           "name": null,
           "components": [
             {
+              "id": "00000000002hkbmp",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
               "quantity": 1,
-              "name": "Скимитар / Scimitar"
+              "name": "Скимитар / Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000028yy1g",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
               "quantity": 1,
-              "name": "Двуручный меч / Greatsword"
+              "name": "Двуручный меч / Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000wuujs5",
               "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
               "quantity": 1,
-              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bsyw32",
           "name": null,
           "components": [
             {
+              "id": "00000000001zrsal",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.bIF9TG6asxeecJ4H",
               "quantity": 1,
-              "name": "Двухклинковый скимитар остроты / Double-Bladed Scimitar of Sharpness"
+              "name": "Двухклинковый скимитар остроты / Double-Bladed Scimitar of Sharpness",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bsyw33",
           "name": null,
           "components": [
             {
+              "id": "0000000000bvlu7i",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.M5wAxfqpfIzSTPvG",
               "quantity": 1,
-              "name": "Скимитар остроты / Scimitar of Sharpness"
+              "name": "Скимитар остроты / Scimitar of Sharpness",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bsyw34",
           "name": null,
           "components": [
             {
+              "id": "00000000002cv7hp",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.HVpxwwZJ0pYNO02b",
               "quantity": 1,
-              "name": "Двуручный меч остроты / Greatsword of Sharpness"
+              "name": "Двуручный меч остроты / Greatsword of Sharpness",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2539,149 +3714,229 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000vfud1w",
           "name": null,
           "components": [
             {
+              "id": "0000000000khfnqt",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000nolvoz",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
               "quantity": 1,
-              "name": "Рапира / Rapier"
+              "name": "Рапира / Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000033e529",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
               "quantity": 1,
-              "name": "Скимитар / Scimitar"
+              "name": "Скимитар / Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000hanzc2",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
               "quantity": 1,
-              "name": "Длинный меч / Longsword"
+              "name": "Длинный меч / Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000003wsjn5",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
               "quantity": 1,
-              "name": "Двуручный меч / Greatsword"
+              "name": "Двуручный меч / Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000euz7ha",
               "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
               "quantity": 1,
-              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vfud1x",
           "name": null,
           "components": [
             {
+              "id": "00000000001nrz6y",
               "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
-              "quantity": "3",
-              "name": "Легендарная Божественная Эссенция"
+              "quantity": 3,
+              "name": "Легендарная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vfud1y",
           "name": null,
           "components": [
             {
+              "id": "0000000000haf8r5",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "3",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 3,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vfud1z",
           "name": null,
           "components": [
             {
+              "id": "0000000000qg5b6n",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.8Qgcu4y91QIBclxd",
               "quantity": 1,
-              "name": "Свиток заклинания: Священное оружие / Holy Weapon"
+              "name": "Свиток заклинания: Священное оружие / Holy Weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vfud20",
           "name": null,
           "components": [
             {
+              "id": "0000000000nttipc",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OPmVnUv0tp1zpFxD",
               "quantity": 1,
-              "name": "Свиток заклинания: Аура святости / Holy aura"
+              "name": "Свиток заклинания: Аура святости / Holy aura",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000vfud21",
           "name": null,
           "components": [
             {
+              "id": "0000000000popb84",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
               "quantity": 1,
-              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000geqr91",
           "name": null,
           "components": [
             {
+              "id": "0000000000lt7kp2",
               "uuid": "Compendium.laaru-dnd5-hw.items.2Ye2onLbMJBmQhCh",
               "quantity": 1,
-              "name": "Священный мститель (Рапира) / Holy Avenger Rapier"
+              "name": "Священный мститель (Рапира) / Holy Avenger Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000geqr90",
           "name": null,
           "components": [
             {
+              "id": "0000000000efzzu9",
               "uuid": "Compendium.laaru-dnd5-hw.items.YgXOIXdMwzpSWu5m",
               "quantity": 1,
-              "name": "Священный мститель (Скимитар) / Holy Avenger Scimitar"
+              "name": "Священный мститель (Скимитар) / Holy Avenger Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000geqr8z",
           "name": null,
           "components": [
             {
+              "id": "00000000002cms3w",
               "uuid": "Compendium.laaru-dnd5-hw.items.8G3fVpWW6IxA8tZc",
               "quantity": 1,
-              "name": "Священный мститель (Длинный меч) / Holy Avenger Longsword"
+              "name": "Священный мститель (Длинный меч) / Holy Avenger Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000geqr8y",
           "name": null,
           "components": [
             {
+              "id": "0000000000uobfbq",
               "uuid": "Compendium.laaru-dnd5-hw.items.S5J8TnujkIAUrUG3",
               "quantity": 1,
-              "name": "Священный мститель (Короткий меч) / Holy Avenger Shortsword"
+              "name": "Священный мститель (Короткий меч) / Holy Avenger Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000geqr8x",
           "name": null,
           "components": [
             {
+              "id": "0000000000bsu57s",
               "uuid": "Compendium.laaru-dnd5-hw.items.SkjCdWjFn6g0n90G",
               "quantity": 1,
-              "name": "Священный мститель (Двуручный меч) / Holy Avenger Greatsword"
+              "name": "Священный мститель (Двуручный меч) / Holy Avenger Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000geqr8w",
           "name": null,
           "components": [
             {
+              "id": "00000000000dtb41",
               "uuid": "Compendium.laaru-dnd5-hw.items.LRT9Inss6K3XPPW8",
               "quantity": 1,
-              "name": "Священный мститель (Двухклинковый скимитар) / Holy Avenger Double-Bladed Scimitar"
+              "name": "Священный мститель (Двухклинковый скимитар) / Holy Avenger Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2700,109 +3955,169 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000452pr3",
           "name": null,
           "components": [
             {
+              "id": "0000000000nrx8gu",
               "uuid": "Compendium.laaru-dnd5-hw.items.IPkf0XNowClwXnjQ",
-              "quantity": "1",
-              "name": "Длинный меч +1 / Longsword +1"
+              "quantity": 1,
+              "name": "Длинный меч +1 / Longsword +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000qq2ziw",
               "uuid": "Compendium.laaru-dnd5-hw.items.S7AhpCPDBGUBbg7b",
               "quantity": 1,
-              "name": "Рапира +1 / Rapier +1"
+              "name": "Рапира +1 / Rapier +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000p5wdcw",
               "uuid": "Compendium.laaru-dnd5-hw.items.sl6yiYSlqkHiVVSN",
               "quantity": 1,
-              "name": "Короткий меч +1 / Shortsword +1"
+              "name": "Короткий меч +1 / Shortsword +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000009f46r2",
               "uuid": "Compendium.laaru-dnd5-hw.items.kBVK2IiZYRkEYtcM",
               "quantity": 1,
-              "name": "Двуручный меч +1  / Greatsword +1"
+              "name": "Двуручный меч +1  / Greatsword +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000006nup1z",
               "uuid": "Compendium.laaru-dnd5-hw.items.VGtyTdVLoWls8FL5",
               "quantity": 1,
-              "name": "Скимитар +1 / Scimitar +1"
+              "name": "Скимитар +1 / Scimitar +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000xqsmh9",
               "uuid": "Compendium.laaru-dnd5-hw.items.FwhQ8KVfNhbSdoph",
               "quantity": 1,
-              "name": "Двухклинковый скимитар +1/ +1 Double-Bladed Scimitar"
+              "name": "Двухклинковый скимитар +1/ +1 Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000452pr2",
           "name": null,
           "components": [
             {
+              "id": "00000000008lr2te",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.aCCTs3Cjat6ABd4d",
-              "quantity": "2",
-              "name": "Свиток заклинания: Желание / Wish"
+              "quantity": 2,
+              "name": "Свиток заклинания: Желание / Wish",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000h2kpem",
           "name": null,
           "components": [
             {
+              "id": "0000000000xdfbgk",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.PlII9nIoqvebBUn1",
               "quantity": 1,
-              "name": "Клинок удачи (Двуручный меч) / Luck Blade Greatsword"
+              "name": "Клинок удачи (Двуручный меч) / Luck Blade Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000h2kpen",
           "name": null,
           "components": [
             {
+              "id": "0000000000qp29s0",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.DiQnnoZz9DJ39UMD",
               "quantity": 1,
-              "name": "Клинок удачи (Двухклинковый скимитар) / Luck Blade Double-Bladed Scimitar"
+              "name": "Клинок удачи (Двухклинковый скимитар) / Luck Blade Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000h2kpeo",
           "name": null,
           "components": [
             {
+              "id": "0000000000tpnq0u",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.l2XcHGfxhKCFQ6jh",
               "quantity": 1,
-              "name": "Клинок удачи (Длинный меч) / Luck Blade Longsword"
+              "name": "Клинок удачи (Длинный меч) / Luck Blade Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000h2kpep",
           "name": null,
           "components": [
             {
+              "id": "00000000002ofagp",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Ehmut6RufmDaNMF4",
               "quantity": 1,
-              "name": "Клинок удачи (Короткий меч) / Luck Blade Shortsword"
+              "name": "Клинок удачи (Короткий меч) / Luck Blade Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000h2kpeq",
           "name": null,
           "components": [
             {
+              "id": "00000000008bqvpe",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.eZPVvZ04gcLlvuRy",
               "quantity": 1,
-              "name": "Клинок удачи (Рапира) / Luck Blade Rapier"
+              "name": "Клинок удачи (Рапира) / Luck Blade Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000h2kper",
           "name": null,
           "components": [
             {
+              "id": "0000000000lg90s4",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.YRWYzEyjHasJZfHo",
               "quantity": 1,
-              "name": "Клинок удачи (Скимитар) / Luck Blade Scimitar"
+              "name": "Клинок удачи (Скимитар) / Luck Blade Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2821,54 +4136,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000000eij2k",
           "name": null,
           "components": [
             {
+              "id": "0000000000fkjjhh",
               "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
-              "quantity": "1",
-              "name": "Легендарная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000eij2j",
           "name": null,
           "components": [
             {
+              "id": "0000000000o3cf1k",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "2",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000eij2i",
           "name": null,
           "components": [
             {
+              "id": "0000000000w5gqin",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.DizirD7eqjh8n95A",
               "quantity": 1,
-              "name": "Двуручный молот / Maul"
+              "name": "Двуручный молот / Maul",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000eij2h",
           "name": null,
           "components": [
             {
+              "id": "0000000000uqw02d",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.U5mFk0WX9mDmShsX",
               "quantity": 1,
-              "name": "Свиток заклинания: Громовая волна / Thunderwave"
+              "name": "Свиток заклинания: Громовая волна / Thunderwave",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000949nf9",
           "name": null,
           "components": [
             {
+              "id": "0000000000gk4l0r",
               "uuid": "Compendium.laaru-dnd5-hw.items.IHmYngMnU3pgKGfB",
               "quantity": 1,
-              "name": "Молот грома / Hammer of Thunderbolts"
+              "name": "Молот грома / Hammer of Thunderbolts",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -2887,139 +4227,214 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000oa9ly4",
           "name": null,
           "components": [
             {
+              "id": "0000000000jbvwjh",
               "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
-              "quantity": "1",
-              "name": "Легендарная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000oa9ly5",
           "name": null,
           "components": [
             {
+              "id": "000000000010mgoz",
               "uuid": "Compendium.laaru-dnd5-hw.items.WfqBg3yBNoJQtVEB",
-              "quantity": "1",
-              "name": "Щит +3 / Shield +3"
+              "quantity": 1,
+              "name": "Щит +3 / Shield +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000oa9ly6",
           "name": null,
           "components": [
             {
+              "id": "0000000000qcu3lr",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
               "quantity": 1,
-              "name": "Двуручный меч / Greatsword"
+              "name": "Двуручный меч / Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000gsue36",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
               "quantity": 1,
-              "name": "Длинный меч / Longsword"
+              "name": "Длинный меч / Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000pltrzh",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000fgkblk",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
               "quantity": 1,
-              "name": "Скимитар / Scimitar"
+              "name": "Скимитар / Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000lk7xn0",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
               "quantity": 1,
-              "name": "Рапира / Rapier"
+              "name": "Рапира / Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000hxxsb8",
               "uuid": "Compendium.laaru-dnd5-hw.items.ud9zLac3AArBC61b",
               "quantity": 1,
-              "name": "Двухклинковый скимитар / Double-Bladed Scimitar"
+              "name": "Двухклинковый скимитар / Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000oa9ly7",
           "name": null,
           "components": [
             {
+              "id": "0000000000p5f38b",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OmiYxavSaAlXr7Ji",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит веры / Shield of faith"
+              "name": "Свиток заклинания: Щит веры / Shield of faith",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000oa9ly8",
           "name": null,
           "components": [
             {
+              "id": "0000000000lix9h7",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
               "quantity": 1,
-              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000p49xkt",
           "name": null,
           "components": [
             {
+              "id": "0000000000e8ipcv",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.UFj8nuUCFKetsLJP",
               "quantity": 1,
-              "name": "Защитник (Двуручный меч) / Defender Greatsword"
+              "name": "Защитник (Двуручный меч) / Defender Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p49xks",
           "name": null,
           "components": [
             {
+              "id": "0000000000kuyzmq",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.t3lXP16R2ZWcFBYh",
               "quantity": 1,
-              "name": "Защитник (Двухклинковый скимитар) / Defender Double-Bladed Scimitar"
+              "name": "Защитник (Двухклинковый скимитар) / Defender Double-Bladed Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p49xkr",
           "name": null,
           "components": [
             {
+              "id": "0000000000hwq8m8",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.rtDGNnTrdlxNHf1v",
               "quantity": 1,
-              "name": "Защитник (Длинный меч) / Defender Longsword"
+              "name": "Защитник (Длинный меч) / Defender Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p49xkq",
           "name": null,
           "components": [
             {
+              "id": "0000000000vrv54a",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.pNucfcEvR2Lqz11H",
               "quantity": 1,
-              "name": "Защитник (Короткий меч) / Defender Shortsword"
+              "name": "Защитник (Короткий меч) / Defender Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p49xkp",
           "name": null,
           "components": [
             {
+              "id": "0000000000pv4l56",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dGBhEHvcc118D98a",
               "quantity": 1,
-              "name": "Защитник (Рапира) / Defender Rapier"
+              "name": "Защитник (Рапира) / Defender Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p49xko",
           "name": null,
           "components": [
             {
+              "id": "000000000098v0ox",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.JL7BHZiOOKPVpGIk",
               "quantity": 1,
-              "name": "Защитник (Скимитар) / Defender Scimitar"
+              "name": "Защитник (Скимитар) / Defender Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -3038,74 +4453,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000rsetn8",
           "name": null,
           "components": [
             {
+              "id": "00000000002pf1ff",
               "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
-              "quantity": "1",
-              "name": "Легендарная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rsetn9",
           "name": null,
           "components": [
             {
+              "id": "00000000005tdu4o",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "2",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rsetna",
           "name": null,
           "components": [
             {
+              "id": "0000000000x90t9d",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "8",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 8,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rsetnb",
           "name": null,
           "components": [
             {
+              "id": "0000000000exv4dw",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.RnuxdHUAIgxccVwj",
               "quantity": 1,
-              "name": "Кавалерийская пика / Lance"
+              "name": "Кавалерийская пика / Lance",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rsetnc",
           "name": null,
           "components": [
             {
+              "id": "0000000000t1aejb",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.nchZap33mCDg7fXs",
               "quantity": 1,
-              "name": "Свиток заклинания: Призыв духа дракона / Summon Draconic Spirit"
+              "name": "Свиток заклинания: Призыв духа дракона / Summon Draconic Spirit",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rsetnd",
           "name": null,
           "components": [
             {
+              "id": "0000000000onhas3",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.487P7CrSN3RzDXep",
               "quantity": 1,
-              "name": "Свиток заклинания: Хроматический шар / Chromatic Orb"
+              "name": "Свиток заклинания: Хроматический шар / Chromatic Orb",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ch3n2j",
           "name": null,
           "components": [
             {
+              "id": "0000000000pvmn29",
               "uuid": "Compendium.kraywell-compendium.items.Item.LlcTm1LtXLbxGksS",
               "quantity": 1,
-              "name": "Длинное копье укротителя драконов"
+              "name": "Длинное копье укротителя драконов",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

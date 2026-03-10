@@ -13,44 +13,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000c91xbq",
           "name": null,
           "components": [
             {
+              "id": "000000000025c1s3",
               "uuid": "Compendium.kraywell-compendium.items.wYNaUojSWmPLgVYA",
-              "quantity": "1",
-              "name": "Необычная Ветвь"
+              "quantity": 1,
+              "name": "Необычная Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c91xbr",
           "name": null,
           "components": [
             {
+              "id": "0000000000d79ymc",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
-              "quantity": "1",
-              "name": "Обычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c91xbs",
           "name": null,
           "components": [
             {
+              "id": "000000000006wolp",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.7udisrW44lvmljrU",
               "quantity": 1,
-              "name": "Свиток заклинания: Призыв животных / Conjure Animals"
+              "name": "Свиток заклинания: Призыв животных / Conjure Animals",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000s0s6zt",
           "name": null,
           "components": [
             {
+              "id": "0000000000q12t7o",
               "uuid": "Compendium.laaru-dnd5-hw.items.EZ8HApI898pt5lMQ",
               "quantity": 1,
-              "name": "Посох питона / Staff of the Python"
+              "name": "Посох питона / Staff of the Python",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -69,84 +89,124 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000097nvuh",
           "name": null,
           "components": [
             {
+              "id": "0000000000czdqbm",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь"
+              "quantity": 1,
+              "name": "Редкая Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000097nvug",
           "name": null,
           "components": [
             {
+              "id": "0000000000x3mm5u",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "2",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000097nvuf",
           "name": null,
           "components": [
             {
+              "id": "00000000000pp8xi",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "2",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000097nvue",
           "name": null,
           "components": [
             {
+              "id": "0000000000kdk384",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "4",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 4,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000097nvud",
           "name": null,
           "components": [
             {
+              "id": "0000000000eq9bge",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.bQKUuRKyuaykqk9p",
               "quantity": 1,
-              "name": "Свиток заклинания: Приказ / Command"
+              "name": "Свиток заклинания: Приказ / Command",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000097nvuc",
           "name": null,
           "components": [
             {
+              "id": "0000000000e977mq",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.KbrGkQjnuH0HcIUF",
               "quantity": 1,
-              "name": "Свиток заклинания: Понимание языков / Comprehend Languages"
+              "name": "Свиток заклинания: Понимание языков / Comprehend Languages",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000097nvub",
           "name": null,
           "components": [
             {
+              "id": "0000000000o9b2rd",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.XrXbZDVhhliMIqf4",
               "quantity": 1,
-              "name": "Свиток заклинания: Приворот гуманоида / Charm Person"
+              "name": "Свиток заклинания: Приворот гуманоида / Charm Person",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000001wkkfs",
           "name": null,
           "components": [
             {
+              "id": "0000000000fwcyr2",
               "uuid": "Compendium.laaru-dnd5-hw.items.vVmrk7caVkTG2Rfq",
               "quantity": 1,
-              "name": "Посох обворожения / Staff of Charming"
+              "name": "Посох обворожения / Staff of Charming",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -165,74 +225,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ki2pw3",
           "name": null,
           "components": [
             {
+              "id": "00000000000gwct8",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь"
+              "quantity": 1,
+              "name": "Редкая Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ki2pw2",
           "name": null,
           "components": [
             {
+              "id": "0000000000kl58ng",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "3",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 3,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ki2pw1",
           "name": null,
           "components": [
             {
+              "id": "00000000008vkotr",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "3",
-              "name": "Необычная Божественная Эссенция"
+              "quantity": 3,
+              "name": "Необычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ki2pw0",
           "name": null,
           "components": [
             {
+              "id": "0000000000g4ew7p",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4ARGSFvVU6TjWIYj",
               "quantity": 1,
-              "name": "Свиток заклинания: Массовое исцеление ран / Mass Cure Wounds"
+              "name": "Свиток заклинания: Массовое исцеление ран / Mass Cure Wounds",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ki2pvz",
           "name": null,
           "components": [
             {
+              "id": "0000000000v0o0zy",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lgXJcc9IkCaahsc0",
               "quantity": 1,
-              "name": "Свиток заклинания: Исцеление ран / Cure Wounds"
+              "name": "Свиток заклинания: Исцеление ран / Cure Wounds",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ki2pvy",
           "name": null,
           "components": [
             {
+              "id": "0000000000ojbrw8",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.DKGIqjItvkvHl4Xp",
               "quantity": 1,
-              "name": "Свиток заклинания: Низшее восстановление / Lesser Restoration"
+              "name": "Свиток заклинания: Низшее восстановление / Lesser Restoration",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000073cyxe",
           "name": null,
           "components": [
             {
+              "id": "0000000000h2o7uf",
               "uuid": "Compendium.laaru-dnd5-hw.items.kNUzuvyANhYlGN0P",
               "quantity": 1,
-              "name": "Посох исцеления / Staff of Healing"
+              "name": "Посох исцеления / Staff of Healing",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -251,74 +346,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000kyxpm9",
           "name": null,
           "components": [
             {
+              "id": "0000000000sztwfu",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь"
+              "quantity": 1,
+              "name": "Редкая Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kyxpm8",
           "name": null,
           "components": [
             {
+              "id": "0000000000oem6up",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kyxpm7",
           "name": null,
           "components": [
             {
+              "id": "0000000000vf2j0c",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "2",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kyxpm6",
           "name": null,
           "components": [
             {
+              "id": "00000000007i5sdo",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kyxpm5",
           "name": null,
           "components": [
             {
+              "id": "00000000006dd6wc",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.zcUG1QrV7VDsllCg",
               "quantity": 1,
-              "name": "Свиток заклинания: Гигантское насекомое / Giant Insect"
+              "name": "Свиток заклинания: Гигантское насекомое / Giant Insect",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kyxpm4",
           "name": null,
           "components": [
             {
+              "id": "0000000000ypaqcz",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.iNkvpQFg2Z8wFVck",
               "quantity": 1,
-              "name": "Свиток заклинания: Рой саранчи / Insect Plague"
+              "name": "Свиток заклинания: Рой саранчи / Insect Plague",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000007fbsls",
           "name": null,
           "components": [
             {
+              "id": "00000000000fqm38",
               "uuid": "Compendium.laaru-dnd5-hw.items.yvv0OXaLIKDfAqp1",
               "quantity": 1,
-              "name": "Посох призыва насекомых / Staff of Swarming Insects"
+              "name": "Посох призыва насекомых / Staff of Swarming Insects",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -337,54 +467,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000004w7nse",
           "name": null,
           "components": [
             {
+              "id": "0000000000yl6szp",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь"
+              "quantity": 1,
+              "name": "Редкая Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000004w7nsf",
           "name": null,
           "components": [
             {
+              "id": "00000000005xd9ly",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000004w7nsg",
           "name": null,
           "components": [
             {
+              "id": "00000000002pbzzi",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000004w7nsh",
           "name": null,
           "components": [
             {
+              "id": "0000000000rae7ti",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.s9JLHtBR1seBzXCG",
               "quantity": 1,
-              "name": "Свиток заклинания: Увядание / Blight"
+              "name": "Свиток заклинания: Увядание / Blight",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000d2259t",
           "name": null,
           "components": [
             {
+              "id": "00000000008r7lp8",
               "uuid": "Compendium.laaru-dnd5-hw.items.eVcoaiMmoj4x8g6T",
               "quantity": 1,
-              "name": "Посох увядания / Staff of Withering"
+              "name": "Посох увядания / Staff of Withering",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -403,44 +558,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000lk2507",
           "name": null,
           "components": [
             {
+              "id": "00000000009wrg68",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь"
+              "quantity": 1,
+              "name": "Редкая Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lk2506",
           "name": null,
           "components": [
             {
+              "id": "0000000000rjfeut",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "4",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 4,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lk2505",
           "name": null,
           "components": [
             {
+              "id": "0000000000kiz2p6",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "8",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 8,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000pm51m2",
           "name": null,
           "components": [
             {
+              "id": "0000000000ecooux",
               "uuid": "Compendium.laaru-dnd5-hw.items.xaz0fIxwZUYqm7U0",
               "quantity": 1,
-              "name": "Посох лесов / Staff of the Woodlands"
+              "name": "Посох лесов / Staff of the Woodlands",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -459,74 +634,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000r6us3e",
           "name": null,
           "components": [
             {
+              "id": "0000000000kz3pmr",
               "uuid": "Compendium.kraywell-compendium.items.IEn7J7NLPqoa6zAk",
-              "quantity": "1",
-              "name": "Очень Редкая Ветвь"
+              "quantity": 1,
+              "name": "Очень Редкая Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r6us3d",
           "name": null,
           "components": [
             {
+              "id": "0000000000p7jrcq",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "3",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 3,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r6us3c",
           "name": null,
           "components": [
             {
+              "id": "0000000000wlcxbv",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Mpc1AS77nvHJkPLG",
               "quantity": 1,
-              "name": "Рубин (500 зм)"
+              "name": "Рубин (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r6us3b",
           "name": null,
           "components": [
             {
+              "id": "0000000000mqnp23",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.trw81mrWYmpskTES",
               "quantity": 1,
-              "name": "Свиток заклинания: Пылающие руки / Burning Hands"
+              "name": "Свиток заклинания: Пылающие руки / Burning Hands",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r6us3a",
           "name": null,
           "components": [
             {
+              "id": "00000000000aggks",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.53Sqq4gOcxI3m9Si",
               "quantity": 1,
-              "name": "Свиток заклинания: Огненный шар / Fireball"
+              "name": "Свиток заклинания: Огненный шар / Fireball",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r6us39",
           "name": null,
           "components": [
             {
+              "id": "0000000000a8oe7f",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EXOJ6ZuKxi6F7Pnl",
               "quantity": 1,
-              "name": "Свиток заклинания: Огненная стена / Wall of Fire"
+              "name": "Свиток заклинания: Огненная стена / Wall of Fire",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000cuj8k9",
           "name": null,
           "components": [
             {
+              "id": "0000000000pnv9a9",
               "uuid": "Compendium.laaru-dnd5-hw.items.rlMz41zSkQze4HUi",
               "quantity": 1,
-              "name": "Посох огня / Staff of Fire"
+              "name": "Посох огня / Staff of Fire",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -545,104 +755,154 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000222xid",
           "name": null,
           "components": [
             {
+              "id": "0000000000pn232a",
               "uuid": "Compendium.kraywell-compendium.items.IEn7J7NLPqoa6zAk",
-              "quantity": "1",
-              "name": "Очень Редкая Ветвь"
+              "quantity": 1,
+              "name": "Очень Редкая Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000222xie",
           "name": null,
           "components": [
             {
+              "id": "0000000000t9sruu",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000222xif",
           "name": null,
           "components": [
             {
+              "id": "000000000095x5uw",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "4",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 4,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000222xig",
           "name": null,
           "components": [
             {
+              "id": "0000000000qnqryo",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "2",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000222xih",
           "name": null,
           "components": [
             {
+              "id": "00000000008hvphk",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.fSfqb8Rb9riAb6lD",
               "quantity": 1,
-              "name": "Синий сапфир (500 зм)"
+              "name": "Синий сапфир (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000222xii",
           "name": null,
           "components": [
             {
+              "id": "0000000000hqxmd9",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Cb4CugI9PiVA7I0A",
               "quantity": 1,
-              "name": "Свиток заклинания: Конус холода / Cone of cold"
+              "name": "Свиток заклинания: Конус холода / Cone of cold",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000222xij",
           "name": null,
           "components": [
             {
+              "id": "0000000000fb0f96",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.D8h3JiarnjJrExXa",
               "quantity": 1,
-              "name": "Свиток заклинания: Облако тумана / Fog Cloud"
+              "name": "Свиток заклинания: Облако тумана / Fog Cloud",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000222xik",
           "name": null,
           "components": [
             {
+              "id": "0000000000m1v2l0",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.zzaDvs2bsUZ7Sn4L",
               "quantity": 1,
-              "name": "Свиток заклинания: Ледяная буря / Ice storm"
+              "name": "Свиток заклинания: Ледяная буря / Ice storm",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000222xil",
           "name": null,
           "components": [
             {
+              "id": "00000000002ec7q5",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.zs6dcKJn2C3Tmdld",
               "quantity": 1,
-              "name": "Свиток заклинания: Стена льда / Wall of Ice"
+              "name": "Свиток заклинания: Стена льда / Wall of Ice",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000003uwfdy",
           "name": null,
           "components": [
             {
+              "id": "0000000000x50q5b",
               "uuid": "Compendium.laaru-dnd5-hw.items.ezA8eSaNGr6sljOW",
               "quantity": 1,
-              "name": "Посох мороза / Staff of Frost"
+              "name": "Посох мороза / Staff of Frost",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -661,144 +921,214 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000uu0ftp",
           "name": null,
           "components": [
             {
+              "id": "0000000000k1yl7k",
               "uuid": "Compendium.laaru-dnd5-hw.items.7kVZo4DLBq22406E",
-              "quantity": "1",
-              "name": "Боевой посох +2 / Quarterstaff +2"
+              "quantity": 1,
+              "name": "Боевой посох +2 / Quarterstaff +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uu0fto",
           "name": null,
           "components": [
             {
+              "id": "00000000004qkmxk",
               "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
-              "quantity": "1",
-              "name": "Легендарная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uu0ftn",
           "name": null,
           "components": [
             {
+              "id": "0000000000fhb5o3",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "10",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 10,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uu0ftm",
           "name": null,
           "components": [
             {
+              "id": "0000000000gyl4kg",
               "uuid": "Compendium.laaru-dnd5-hw.goods.nGa7QGpW8nU8f1bJ",
               "quantity": 1,
-              "name": "Алмаз (500 зм)"
+              "name": "Алмаз (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uu0ftl",
           "name": null,
           "components": [
             {
+              "id": "0000000000yhtuhy",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Cb4CugI9PiVA7I0A",
               "quantity": 1,
-              "name": "Свиток заклинания: Конус холода / Cone of cold"
+              "name": "Свиток заклинания: Конус холода / Cone of cold",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uu0ftk",
           "name": null,
           "components": [
             {
+              "id": "0000000000u9903a",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.53Sqq4gOcxI3m9Si",
               "quantity": 1,
-              "name": "Свиток заклинания: Огненный шар / Fireball"
+              "name": "Свиток заклинания: Огненный шар / Fireball",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uu0ftj",
           "name": null,
           "components": [
             {
+              "id": "0000000000lkrm94",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.JU8FeQcy4OFXzwL2",
               "quantity": 1,
-              "name": "Свиток заклинания: Сфера неуязвимости / Globe of Invulnerability"
+              "name": "Свиток заклинания: Сфера неуязвимости / Globe of Invulnerability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uu0fti",
           "name": null,
           "components": [
             {
+              "id": "0000000000uxbaiy",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.tJ0jOG3ucFjPVbZY",
               "quantity": 1,
-              "name": "Свиток заклинания: Паралич чудовища / Hold Monster"
+              "name": "Свиток заклинания: Паралич чудовища / Hold Monster",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uu0fth",
           "name": null,
           "components": [
             {
+              "id": "0000000000uxvd5l",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EC0vpVnHyT7Fp0Bb",
               "quantity": 1,
-              "name": "Свиток заклинания: Левитация / Levitate"
+              "name": "Свиток заклинания: Левитация / Levitate",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uu0ftg",
           "name": null,
           "components": [
             {
+              "id": "0000000000hygqii",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EFrwRjSyLuyBT46p",
               "quantity": 1,
-              "name": "Свиток заклинания: Удар молнии / Lightning bolt"
+              "name": "Свиток заклинания: Удар молнии / Lightning bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wfwwtw",
           "name": null,
           "components": [
             {
+              "id": "0000000000z216zl",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OZOl1kaltt7Qf7kH",
               "quantity": 1,
-              "name": "Свиток заклинания: Волшебная стрела / Magic missile"
+              "name": "Свиток заклинания: Волшебная стрела / Magic missile",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wfwwtv",
           "name": null,
           "components": [
             {
+              "id": "0000000000xyylnj",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Y53OfEuobldNSekL",
               "quantity": 1,
-              "name": "Свиток заклинания: Ослабляющий луч / Ray of Enfeeblement"
+              "name": "Свиток заклинания: Ослабляющий луч / Ray of Enfeeblement",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wfwwtu",
           "name": null,
           "components": [
             {
+              "id": "0000000000kfjf6k",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.dWh83avBJqiTaBJv",
               "quantity": 1,
-              "name": "Свиток заклинания: Силовая стена / Wall of Force"
+              "name": "Свиток заклинания: Силовая стена / Wall of Force",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000t28544",
           "name": null,
           "components": [
             {
+              "id": "0000000000nbyy5x",
               "uuid": "Compendium.laaru-dnd5-hw.items.JuiY0V3sdSQSaZ3k",
               "quantity": 1,
-              "name": "Посох могущества / Staff of Power"
+              "name": "Посох могущества / Staff of Power",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -817,34 +1147,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000nkqrhs",
           "name": null,
           "components": [
             {
+              "id": "0000000000cq4zs3",
               "uuid": "Compendium.laaru-dnd5-hw.items.BmWnprrj0QWQ1BL3",
-              "quantity": "1",
-              "name": "Боевой посох +3 / Quarterstaff +3"
+              "quantity": 1,
+              "name": "Боевой посох +3 / Quarterstaff +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000nkqrht",
           "name": null,
           "components": [
             {
+              "id": "00000000007mgu1z",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "10",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 10,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000nxlwbz",
           "name": null,
           "components": [
             {
+              "id": "0000000000s6iar1",
               "uuid": "Compendium.laaru-dnd5-hw.items.tB28LQNPdNVUWcmu",
               "quantity": 1,
-              "name": "Посох ударов / Staff of Striking"
+              "name": "Посох ударов / Staff of Striking",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -863,54 +1208,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000mrpywe",
           "name": null,
           "components": [
             {
+              "id": "0000000000g6crth",
               "uuid": "Compendium.kraywell-compendium.items.IEn7J7NLPqoa6zAk",
-              "quantity": "1",
-              "name": "Очень Редкая Ветвь"
+              "quantity": 1,
+              "name": "Очень Редкая Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mrpywf",
           "name": null,
           "components": [
             {
+              "id": "0000000000bxwq3i",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "1",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mrpywg",
           "name": null,
           "components": [
             {
+              "id": "0000000000mc5v0q",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EFrwRjSyLuyBT46p",
               "quantity": 1,
-              "name": "Свиток заклинания: Удар молнии / Lightning bolt"
+              "name": "Свиток заклинания: Удар молнии / Lightning bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mrpywh",
           "name": null,
           "components": [
             {
+              "id": "0000000000qhz5ih",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.MH2oE9tjZKoV0qBY",
               "quantity": 1,
-              "name": "Свиток заклинания: Громовой импульс / Thunder Pulse"
+              "name": "Свиток заклинания: Громовой импульс / Thunder Pulse",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000122q33",
           "name": null,
           "components": [
             {
+              "id": "000000000081vhwx",
               "uuid": "Compendium.laaru-dnd5-hw.items.bsu0EvCH7ya5x82X",
               "quantity": 1,
-              "name": "Посох грома и молнии / Staff of Thunder and Lightning"
+              "name": "Посох грома и молнии / Staff of Thunder and Lightning",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -929,54 +1299,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000005iarc7",
           "name": null,
           "components": [
             {
+              "id": "0000000000afpt6u",
               "uuid": "Compendium.kraywell-compendium.items.YqV4knKttTcPgsoC",
-              "quantity": "1",
-              "name": "Легендарная Ветвь"
+              "quantity": 1,
+              "name": "Легендарная Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005iarc8",
           "name": null,
           "components": [
             {
+              "id": "0000000000xdkh3o",
               "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
-              "quantity": "2",
-              "name": "Легендарная Арканная Эссенция"
+              "quantity": 2,
+              "name": "Легендарная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005iarc9",
           "name": null,
           "components": [
             {
+              "id": "00000000000kte5l",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "4",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 4,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005iarca",
           "name": null,
           "components": [
             {
+              "id": "00000000007dzx2r",
               "uuid": "Compendium.laaru-dnd5-hw.items.DBFaH75xRmxjbMIY",
               "quantity": 1,
-              "name": "Книга заклинаний / Spellbook"
+              "name": "Книга заклинаний / Spellbook",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000w2q7bs",
           "name": null,
           "components": [
             {
+              "id": "0000000000e4ajsu",
               "uuid": "Compendium.laaru-dnd5-hw.items.ZCz5rwpsYF8lVtJ5",
               "quantity": 1,
-              "name": "Посох мага / Staff of the Magi"
+              "name": "Посох мага / Staff of the Magi",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

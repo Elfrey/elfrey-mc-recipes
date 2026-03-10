@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000007ee65n",
           "name": null,
           "components": [
             {
+              "id": "0000000000bgszd9",
               "uuid": "Compendium.kraywell-compendium.items.ZPzb9s06KKH8D86j",
-              "quantity": "1",
-              "name": "Обычная Псионическая эссенция"
+              "quantity": 1,
+              "name": "Обычная Псионическая эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007ee65m",
           "name": null,
           "components": [
             {
+              "id": "0000000000l3eum1",
               "uuid": "Compendium.laaru-dnd5-hw.goods.VGcurFeTLOjt1Ex2",
               "quantity": 1,
-              "name": "Кристалл / Crystal"
+              "name": "Кристалл / Crystal",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000cx6d5i",
           "name": null,
           "components": [
             {
+              "id": "0000000000zaoi2p",
               "uuid": "Compendium.kraywell-compendium.items.VbhoxOmriSILjEP2",
               "quantity": 1,
-              "name": "Камень зрения"
+              "name": "Камень зрения",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -59,44 +74,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000wfowlg",
           "name": null,
           "components": [
             {
+              "id": "0000000000dgnogc",
               "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
-              "quantity": "2",
-              "name": "Необычная Псионическая Эссенция"
+              "quantity": 2,
+              "name": "Необычная Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wfowlh",
           "name": null,
           "components": [
             {
+              "id": "0000000000neo8fx",
               "uuid": "Compendium.kraywell-compendium.items.ZPzb9s06KKH8D86j",
-              "quantity": "2",
-              "name": "Обычная Псионическая эссенция"
+              "quantity": 2,
+              "name": "Обычная Псионическая эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wfowli",
           "name": null,
           "components": [
             {
+              "id": "00000000009idl3p",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VCmTBRhGKpTlLFXC",
               "quantity": 1,
-              "name": "Кристалл (20 зм)"
+              "name": "Кристалл (20 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000egk2l7",
           "name": null,
           "components": [
             {
+              "id": "0000000000bxary4",
               "uuid": "Compendium.kraywell-compendium.items.9bhJ8hHNnzxDVcW6",
               "quantity": 1,
-              "name": "Усиливающий кристалл +1"
+              "name": "Усиливающий кристалл +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -115,54 +150,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000razgap",
           "name": null,
           "components": [
             {
+              "id": "0000000000s111m7",
               "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
-              "quantity": "1",
-              "name": "Необычная Псионическая Эссенция"
+              "quantity": 1,
+              "name": "Необычная Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000razgaq",
           "name": null,
           "components": [
             {
+              "id": "00000000008uava2",
               "uuid": "Compendium.kraywell-compendium.items.ZPzb9s06KKH8D86j",
-              "quantity": "1",
-              "name": "Обычная Псионическая эссенция"
+              "quantity": 1,
+              "name": "Обычная Псионическая эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000razgar",
           "name": null,
           "components": [
             {
+              "id": "0000000000o2exxk",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
-              "quantity": "1",
-              "name": "Обычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000razgas",
           "name": null,
           "components": [
             {
+              "id": "0000000000b9k4q1",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VCmTBRhGKpTlLFXC",
               "quantity": 1,
-              "name": "Кристалл (20 зм)"
+              "name": "Кристалл (20 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000002j4upu",
           "name": null,
           "components": [
             {
+              "id": "000000000023fjki",
               "uuid": "Compendium.kraywell-compendium.items.1aC0NNvYxgW6y4VG",
               "quantity": 1,
-              "name": "Кристалл пси-лезвия +1"
+              "name": "Кристалл пси-лезвия +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -181,44 +241,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000009bk17f",
           "name": null,
           "components": [
             {
+              "id": "00000000006aknrf",
               "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
-              "quantity": "1",
-              "name": "Необычная Псионическая Эссенция"
+              "quantity": 1,
+              "name": "Необычная Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009bk17e",
           "name": null,
           "components": [
             {
+              "id": "0000000000rtvomp",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009bk17d",
           "name": null,
           "components": [
             {
+              "id": "00000000000uls44",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VCmTBRhGKpTlLFXC",
               "quantity": 1,
-              "name": "Кристалл (20 зм)"
+              "name": "Кристалл (20 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000001g41pi",
           "name": null,
           "components": [
             {
+              "id": "0000000000euzc4n",
               "uuid": "Compendium.kraywell-compendium.items.KVqwz3SkNNbrRsuc",
               "quantity": 1,
-              "name": "Взрывной кристалл"
+              "name": "Взрывной кристалл",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -237,44 +317,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000uxzkk7",
           "name": null,
           "components": [
             {
+              "id": "00000000005rplkp",
               "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
-              "quantity": "2",
-              "name": "Необычная Псионическая Эссенция"
+              "quantity": 2,
+              "name": "Необычная Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uxzkk6",
           "name": null,
           "components": [
             {
+              "id": "0000000000se2ji6",
               "uuid": "Compendium.kraywell-compendium.items.ZPzb9s06KKH8D86j",
-              "quantity": "1",
-              "name": "Обычная Псионическая эссенция"
+              "quantity": 1,
+              "name": "Обычная Псионическая эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uxzkk5",
           "name": null,
           "components": [
             {
+              "id": "0000000000nvjay8",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VCmTBRhGKpTlLFXC",
               "quantity": 1,
-              "name": "Кристалл (20 зм)"
+              "name": "Кристалл (20 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000whh7xm",
           "name": null,
           "components": [
             {
+              "id": "0000000000x6oy22",
               "uuid": "Compendium.kraywell-compendium.items.ncWxWOZWl2Rxwg0c",
               "quantity": 1,
-              "name": "Фокусирующий кристалл"
+              "name": "Фокусирующий кристалл",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -293,214 +393,373 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000v27g4m",
           "name": null,
           "components": [
             {
+              "id": "0000000000s82bum",
               "uuid": "Compendium.kraywell-compendium.items.ZPzb9s06KKH8D86j",
-              "quantity": "1",
-              "name": "Обычная Псионическая эссенция"
+              "quantity": 1,
+              "name": "Обычная Псионическая эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v27g4n",
           "name": null,
           "components": [
             {
+              "id": "00000000003to2iu",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.g2dWN7PQiMRYWzyk",
               "quantity": 1,
-              "name": "Боевой посох / Quarterstaff"
+              "name": "Боевой посох / Quarterstaff",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000003tr5jm",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Ajyq6nGwF7FtLhDQ",
               "quantity": 1,
-              "name": "Булава / Mace"
+              "name": "Булава / Mace",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000o8hp8y",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.QRCsxkCwWNwswL9o",
               "quantity": 1,
-              "name": "Дубина / Greatclub"
+              "name": "Дубина / Greatclub",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000dgerbo",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.nfIRTECQIG81CvM4",
               "quantity": 1,
-              "name": "Дубинка / Club"
+              "name": "Дубинка / Club",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000dtvvcz",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.0E565kQUBmndJ1a2",
               "quantity": 1,
-              "name": "Кинжал / Dagger"
+              "name": "Кинжал / Dagger",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000003pw6xr",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.OG4nBBydvmfWYXIk",
               "quantity": 1,
-              "name": "Копьё / Spear"
+              "name": "Копьё / Spear",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ue32bd",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.XVK6TOL4sGItssAE",
               "quantity": 1,
-              "name": "Лёгкий молот / Light Hammer"
+              "name": "Лёгкий молот / Light Hammer",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000cu1ly5",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.DWLMnODrnHn8IbAG",
               "quantity": 1,
-              "name": "Пилум / Javelin"
+              "name": "Пилум / Javelin",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000cpka99",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.i4NeNZ30ycwPDHMx",
               "quantity": 1,
-              "name": "Серп / Sickle"
+              "name": "Серп / Sickle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000000vf7ah",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.eO7Fbv5WBk5zvGOc",
               "quantity": 1,
-              "name": "Топорик / Handaxe"
+              "name": "Топорик / Handaxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000d5adsk",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3rCO8MTIdPGSW6IJ",
               "quantity": 1,
-              "name": "Дротик / Dart"
+              "name": "Дротик / Dart",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000jtdiy1",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.GJv6WkD7D2J6rP6M",
               "quantity": 1,
-              "name": "Короткий лук / Shortbow"
+              "name": "Короткий лук / Shortbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000sxw5yv",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.ddWvQRLmnnIS0eLF",
               "quantity": 1,
-              "name": "Лёгкий арбалет / Light Crossbow"
+              "name": "Лёгкий арбалет / Light Crossbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000fmvrw3",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3gynWO9sN4OLGMWD",
               "quantity": 1,
-              "name": "Праща / Sling"
+              "name": "Праща / Sling",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000pr2vyg",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.DMejWAc8r8YvDPP1",
               "quantity": 1,
-              "name": "Алебарда / Halberd"
+              "name": "Алебарда / Halberd",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000007yw578",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.F0Df164Xv1gWcYt0",
               "quantity": 1,
-              "name": "Боевой молот / Warhammer"
+              "name": "Боевой молот / Warhammer",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000qojmsq",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.I0WocDSuNpGJayPb",
               "quantity": 1,
-              "name": "Боевой топор /Battleaxe"
+              "name": "Боевой топор /Battleaxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000vn5evv",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.rOG1OM2ihgPjOvFW",
               "quantity": 1,
-              "name": "Глефа / Glaive"
+              "name": "Глефа / Glaive",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000kmc58h",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.xMkP8BmFzElcsMaR",
               "quantity": 1,
-              "name": "Двуручный меч / Greatsword"
+              "name": "Двуручный меч / Greatsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ff36a2",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.DizirD7eqjh8n95A",
               "quantity": 1,
-              "name": "Двуручный молот / Maul"
+              "name": "Двуручный молот / Maul",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000qhi5wv",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.1Lxk6kmoRhG8qQ0u",
               "quantity": 1,
-              "name": "Двуручный топор / Greataxe"
+              "name": "Двуручный топор / Greataxe",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000020d0e1",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.10ZP2Bu3vnCuYMIB",
               "quantity": 1,
-              "name": "Длинный меч / Longsword"
+              "name": "Длинный меч / Longsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000iyx2n0",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.RnuxdHUAIgxccVwj",
               "quantity": 1,
-              "name": "Кавалерийская пика / Lance"
+              "name": "Кавалерийская пика / Lance",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000else9w",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.2YdfjN1PIIrSHZii",
               "quantity": 1,
-              "name": "Клевец / War pick"
+              "name": "Клевец / War pick",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000001er5f0",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.QKTyxoO0YDnAsbYe",
               "quantity": 1,
-              "name": "Кнут / Whip"
+              "name": "Кнут / Whip",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000exptdn",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000r099v1",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dX8AxCh9o0A9CkT3",
               "quantity": 1,
-              "name": "Моргенштерн / Morningstar"
+              "name": "Моргенштерн / Morningstar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000001amgso",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.tC0kcqZT9HHAO0PD",
               "quantity": 1,
-              "name": "Пика / Pike"
+              "name": "Пика / Pike",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000q83q0r",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.Tobce1hexTnDk4sV",
               "quantity": 1,
-              "name": "Рапира / Rapier"
+              "name": "Рапира / Rapier",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000o7slbn",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.fbC0Mg1a73wdFbqO",
               "quantity": 1,
-              "name": "Скимитар / Scimitar"
+              "name": "Скимитар / Scimitar",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000b3lgn4",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.F65ANO66ckP8FDMa",
               "quantity": 1,
-              "name": "Трезубец / Trident"
+              "name": "Трезубец / Trident",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000r46fo2",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.UrH3sMdnUDckIHJ6",
               "quantity": 1,
-              "name": "Цеп / Flail"
+              "name": "Цеп / Flail",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000008wgi11",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3cymOVja8jXbzrdT",
               "quantity": 1,
-              "name": "Длинный лук / Longbow"
+              "name": "Длинный лук / Longbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000qa75he",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.wNWK6yJMHG9ANqQV",
               "quantity": 1,
-              "name": "Духовая трубка / Blowgun"
+              "name": "Духовая трубка / Blowgun",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000009mlzyq",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.qaSro7kFhxD6INbZ",
               "quantity": 1,
-              "name": "Ручной арбалет / Hand Crossbow"
+              "name": "Ручной арбалет / Hand Crossbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000r7z5bq",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.aEiM49V8vWpWw7rU",
               "quantity": 1,
-              "name": "Сеть / Net"
+              "name": "Сеть / Net",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000p28u0k",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.RmP0mYRn2J7K26rX",
               "quantity": 1,
-              "name": "Тяжёлый арбалет / Heavy Crossbow"
+              "name": "Тяжёлый арбалет / Heavy Crossbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000s5h3wn",
           "name": null,
           "components": [
             {
+              "id": "00000000004rnpvp",
               "uuid": "Compendium.kraywell-compendium.items.7YzM0QePRk40QkQM",
               "quantity": 1,
-              "name": "Псионически настроенное оружие"
+              "name": "Псионически настроенное оружие",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -519,34 +778,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000wdanjs",
           "name": null,
           "components": [
             {
+              "id": "0000000000ldm0jc",
               "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
-              "quantity": "2",
-              "name": "Необычная Псионическая Эссенция"
+              "quantity": 2,
+              "name": "Необычная Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wdanjr",
           "name": null,
           "components": [
             {
+              "id": "0000000000bq8tte",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VCmTBRhGKpTlLFXC",
               "quantity": 1,
-              "name": "Кристалл (20 зм)"
+              "name": "Кристалл (20 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005mwqll",
           "name": null,
           "components": [
             {
+              "id": "00000000006o1ulh",
               "uuid": "Compendium.kraywell-compendium.items.ktEYqhJ29szm7Lxz",
               "quantity": 1,
-              "name": "Резонирующий кристалл"
+              "name": "Резонирующий кристалл",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -565,44 +839,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000fran1x",
           "name": null,
           "components": [
             {
+              "id": "00000000005dysdc",
               "uuid": "Compendium.kraywell-compendium.items.oOnvTb6pe2zoDIVx",
-              "quantity": "2",
-              "name": "Редкая Псионическая Эссенция"
+              "quantity": 2,
+              "name": "Редкая Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fran1w",
           "name": null,
           "components": [
             {
+              "id": "0000000000unojpg",
               "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
-              "quantity": "1",
-              "name": "Необычная Псионическая Эссенция"
+              "quantity": 1,
+              "name": "Необычная Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fran1v",
           "name": null,
           "components": [
             {
+              "id": "00000000000zfr8a",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ItiijZOPUgo3auG2",
               "quantity": 1,
-              "name": "Кристалл (100 зм)"
+              "name": "Кристалл (100 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000c3bayc",
           "name": null,
           "components": [
             {
+              "id": "00000000002fp44n",
               "uuid": "Compendium.kraywell-compendium.items.ybWUzdxmYTA49rGC",
               "quantity": 1,
-              "name": "Усиливающий кристалл +2"
+              "name": "Усиливающий кристалл +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -621,54 +915,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000qi4eqi",
           "name": null,
           "components": [
             {
+              "id": "00000000006msp23",
               "uuid": "Compendium.kraywell-compendium.items.oOnvTb6pe2zoDIVx",
-              "quantity": "1",
-              "name": "Редкая Псионическая Эссенция"
+              "quantity": 1,
+              "name": "Редкая Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qi4eqh",
           "name": null,
           "components": [
             {
+              "id": "00000000002aums8",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qi4eqg",
           "name": null,
           "components": [
             {
+              "id": "00000000000hht20",
               "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
-              "quantity": "2",
-              "name": "Необычная Псионическая Эссенция"
+              "quantity": 2,
+              "name": "Необычная Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qi4eqf",
           "name": null,
           "components": [
             {
+              "id": "0000000000luuwzi",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ItiijZOPUgo3auG2",
               "quantity": 1,
-              "name": "Кристалл (100 зм)"
+              "name": "Кристалл (100 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000y58qnt",
           "name": null,
           "components": [
             {
+              "id": "0000000000d02ij4",
               "uuid": "Compendium.kraywell-compendium.items.12M1thE4LAM3GyBD",
               "quantity": 1,
-              "name": "Кристалл пси-лезвия +2"
+              "name": "Кристалл пси-лезвия +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -687,44 +1006,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000wic9fa",
           "name": null,
           "components": [
             {
+              "id": "0000000000nguomj",
               "uuid": "Compendium.kraywell-compendium.items.oOnvTb6pe2zoDIVx",
-              "quantity": "2",
-              "name": "Редкая Псионическая Эссенция"
+              "quantity": 2,
+              "name": "Редкая Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wic9fb",
           "name": null,
           "components": [
             {
+              "id": "0000000000cksng9",
               "uuid": "Compendium.kraywell-compendium.items.JGzYwkr2gaB0u4K2",
-              "quantity": "2",
-              "name": "Необычная Псионическая Эссенция"
+              "quantity": 2,
+              "name": "Необычная Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wic9fc",
           "name": null,
           "components": [
             {
+              "id": "0000000000fje2wh",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ItiijZOPUgo3auG2",
               "quantity": 1,
-              "name": "Кристалл (100 зм)"
+              "name": "Кристалл (100 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000gqo4a1",
           "name": null,
           "components": [
             {
+              "id": "0000000000q1y1ue",
               "uuid": "Compendium.kraywell-compendium.items.Nnje1deUHAjJro0I",
               "quantity": 1,
-              "name": "Оттискивающий кристалл"
+              "name": "Оттискивающий кристалл",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -743,44 +1082,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000smg5fu",
           "name": null,
           "components": [
             {
+              "id": "0000000000ia5ri7",
               "uuid": "Compendium.kraywell-compendium.items.oOnvTb6pe2zoDIVx",
-              "quantity": "2",
-              "name": "Редкая Псионическая Эссенция"
+              "quantity": 2,
+              "name": "Редкая Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000smg5fv",
           "name": null,
           "components": [
             {
+              "id": "0000000000bbudqr",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000smg5fw",
           "name": null,
           "components": [
             {
+              "id": "00000000007jentu",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.qygrAJat62A7XnSP",
               "quantity": 1,
-              "name": "Повязка на глаза (10)"
+              "name": "Повязка на глаза (10)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000wov99n",
           "name": null,
           "components": [
             {
+              "id": "0000000000c1iejf",
               "uuid": "Compendium.kraywell-compendium.items.qnUhipVQo5s3v7m2",
               "quantity": 1,
-              "name": "Чистота разума"
+              "name": "Чистота разума",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -799,44 +1158,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000p6d751",
           "name": null,
           "components": [
             {
+              "id": "0000000000unoppv",
               "uuid": "Compendium.kraywell-compendium.items.Ud6FG2ICRVeE8TCu",
-              "quantity": "4",
-              "name": "Очень Редкая Псионическая Эссенция"
+              "quantity": 4,
+              "name": "Очень Редкая Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p6d750",
           "name": null,
           "components": [
             {
+              "id": "0000000000xqysa7",
               "uuid": "Compendium.kraywell-compendium.items.oOnvTb6pe2zoDIVx",
-              "quantity": "2",
-              "name": "Редкая Псионическая Эссенция"
+              "quantity": 2,
+              "name": "Редкая Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p6d74z",
           "name": null,
           "components": [
             {
+              "id": "0000000000b5khsm",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vNgBl5hhnivdLZkU",
               "quantity": 1,
-              "name": "Кристалл (200 зм)"
+              "name": "Кристалл (200 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000048k86c",
           "name": null,
           "components": [
             {
+              "id": "0000000000va9tgn",
               "uuid": "Compendium.kraywell-compendium.items.TMdNYEdKPtgOLOdj",
               "quantity": 1,
-              "name": "Усиливающий кристалл +3"
+              "name": "Усиливающий кристалл +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -855,54 +1234,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000lryeqs",
           "name": null,
           "components": [
             {
+              "id": "0000000000epqgpo",
               "uuid": "Compendium.kraywell-compendium.items.Ud6FG2ICRVeE8TCu",
-              "quantity": "2",
-              "name": "Очень Редкая Псионическая Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lryeqt",
           "name": null,
           "components": [
             {
+              "id": "0000000000x44nrs",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "1",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lryequ",
           "name": null,
           "components": [
             {
+              "id": "00000000008mcb22",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lryeqv",
           "name": null,
           "components": [
             {
+              "id": "0000000000g388jw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.vNgBl5hhnivdLZkU",
               "quantity": 1,
-              "name": "Кристалл (200 зм)"
+              "name": "Кристалл (200 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000vut2x1",
           "name": null,
           "components": [
             {
+              "id": "0000000000lqkud4",
               "uuid": "Compendium.kraywell-compendium.items.ohaU8QWG12eIDLD2",
               "quantity": 1,
-              "name": "Кристалл пси-лезвия +3"
+              "name": "Кристалл пси-лезвия +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -921,44 +1325,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000p2kfbd",
           "name": null,
           "components": [
             {
+              "id": "0000000000d5ettd",
               "uuid": "Compendium.kraywell-compendium.items.Ud6FG2ICRVeE8TCu",
-              "quantity": "3",
-              "name": "Очень Редкая Псионическая Эссенция"
+              "quantity": 3,
+              "name": "Очень Редкая Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p2kfbc",
           "name": null,
           "components": [
             {
+              "id": "00000000006iy9ub",
               "uuid": "Compendium.kraywell-compendium.items.oOnvTb6pe2zoDIVx",
-              "quantity": "2",
-              "name": "Редкая Псионическая Эссенция"
+              "quantity": 2,
+              "name": "Редкая Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000p2kfbb",
           "name": null,
           "components": [
             {
+              "id": "0000000000x3xwxq",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EseZkGM9QLTwaUKS",
               "quantity": 1,
-              "name": "Кристалл (50 зм)"
+              "name": "Кристалл (50 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000007ic6q0",
           "name": null,
           "components": [
             {
+              "id": "0000000000q67gh3",
               "uuid": "Compendium.kraywell-compendium.items.y9og3qxK50PQMUr4",
               "quantity": 1,
-              "name": "Осколок разума"
+              "name": "Осколок разума",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -977,44 +1401,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000v3s89l",
           "name": null,
           "components": [
             {
+              "id": "0000000000gptdmg",
               "uuid": "Compendium.kraywell-compendium.items.qIJrgi31KsSgjvP5",
-              "quantity": "1",
-              "name": "Легендарная Псионическая Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v3s89k",
           "name": null,
           "components": [
             {
+              "id": "0000000000sza8gw",
               "uuid": "Compendium.kraywell-compendium.items.Ud6FG2ICRVeE8TCu",
-              "quantity": "2",
-              "name": "Очень Редкая Псионическая Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v3s89j",
           "name": null,
           "components": [
             {
+              "id": "0000000000h7n2mq",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VCmTBRhGKpTlLFXC",
               "quantity": 1,
-              "name": "Кристалл (20 зм)"
+              "name": "Кристалл (20 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000xjyf6g",
           "name": null,
           "components": [
             {
+              "id": "0000000000b2xpde",
               "uuid": "Compendium.kraywell-compendium.items.jWXhiYAdZmSebVJu",
               "quantity": 1,
-              "name": "Осколок души"
+              "name": "Осколок души",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

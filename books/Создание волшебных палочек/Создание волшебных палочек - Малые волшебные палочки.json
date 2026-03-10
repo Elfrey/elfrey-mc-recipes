@@ -13,24 +13,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000g6vlu0",
           "name": null,
           "components": [
             {
+              "id": "00000000006ihuv4",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000001bqn89",
           "name": null,
           "components": [
             {
+              "id": "00000000005rrtpu",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.byoWxfvIyUpNL97s",
               "quantity": 1,
-              "name": "Малая волшебная  палочка Заговора / Lesser Wand of Cantrip"
+              "name": "Малая волшебная  палочка Заговора / Lesser Wand of Cantrip",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -49,34 +59,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000i3lgfo",
           "name": null,
           "components": [
             {
+              "id": "0000000000636vb3",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция / Common Arcane Essence"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция / Common Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i3lgfp",
           "name": null,
           "components": [
             {
+              "id": "0000000000uv3n6l",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000003rqij9",
           "name": null,
           "components": [
             {
+              "id": "0000000000v62eiq",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.piGaZ7UVR7NVjpCV",
               "quantity": 1,
-              "name": "Малая волшебная  палочка 1-го круга / Lesser Wand of 1st-Level Spell"
+              "name": "Малая волшебная  палочка 1-го круга / Lesser Wand of 1st-Level Spell",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -95,34 +120,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000sdv8fo",
           "name": null,
           "components": [
             {
+              "id": "0000000000b4fpjt",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция / Common Arcane Essence"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция / Common Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000sdv8fn",
           "name": null,
           "components": [
             {
+              "id": "0000000000mydtxn",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000o6uu0d",
           "name": null,
           "components": [
             {
+              "id": "0000000000t3jpfp",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.rQzebrtwyjFKW8iW",
               "quantity": 1,
-              "name": "Малая волшебная  палочка 2-го круга / Lesser Wand of 2nd-Level Spell"
+              "name": "Малая волшебная  палочка 2-го круга / Lesser Wand of 2nd-Level Spell",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -141,34 +181,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000wuwiff",
           "name": null,
           "components": [
             {
+              "id": "0000000000b38z3n",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wuwifg",
           "name": null,
           "components": [
             {
+              "id": "00000000007rw909",
               "uuid": "Compendium.kraywell-compendium.items.wYNaUojSWmPLgVYA",
-              "quantity": "1",
-              "name": "Необычная Ветвь / Uncommon Branch"
+              "quantity": 1,
+              "name": "Необычная Ветвь / Uncommon Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000rk3vec",
           "name": null,
           "components": [
             {
+              "id": "0000000000t15y2l",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sksf69UcZWLbY09n",
               "quantity": 1,
-              "name": "Малая волшебная  палочка 3-го круга / Lesser Wand of 3rd-Level Spell"
+              "name": "Малая волшебная  палочка 3-го круга / Lesser Wand of 3rd-Level Spell",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -187,34 +242,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000xflbkg",
           "name": null,
           "components": [
             {
+              "id": "0000000000a1folq",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция / Uncommon Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xflbkh",
           "name": null,
           "components": [
             {
+              "id": "00000000008tpji6",
               "uuid": "Compendium.kraywell-compendium.items.wYNaUojSWmPLgVYA",
-              "quantity": "1",
-              "name": "Необычная Ветвь / Uncommon Branch"
+              "quantity": 1,
+              "name": "Необычная Ветвь / Uncommon Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000pnn38x",
           "name": null,
           "components": [
             {
+              "id": "00000000004yygee",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OKCVUmPH8K6ip5yN",
               "quantity": 1,
-              "name": "Малая волшебная  палочка 4-го круга / Lesser Wand of 4th-Level Spell"
+              "name": "Малая волшебная  палочка 4-го круга / Lesser Wand of 4th-Level Spell",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -233,34 +303,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000gendoz",
           "name": null,
           "components": [
             {
+              "id": "0000000000mg55ol",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gendp0",
           "name": null,
           "components": [
             {
+              "id": "0000000000ld00wl",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь / Rare Branch"
+              "quantity": 1,
+              "name": "Редкая Ветвь / Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000es16gc",
           "name": null,
           "components": [
             {
+              "id": "0000000000fx2wa4",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.pWD1Ic93CROKDcx0",
               "quantity": 1,
-              "name": "Малая волшебная  палочка 5-го круга / Lesser Wand of 5th-Level Spell"
+              "name": "Малая волшебная  палочка 5-го круга / Lesser Wand of 5th-Level Spell",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -279,34 +364,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000000mak6i",
           "name": null,
           "components": [
             {
+              "id": "0000000000ip1j8i",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция / Rare Arcane Essence"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция / Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000000mak6h",
           "name": null,
           "components": [
             {
+              "id": "0000000000hlwegi",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь / Rare Branch"
+              "quantity": 1,
+              "name": "Редкая Ветвь / Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000fteltj",
           "name": null,
           "components": [
             {
+              "id": "0000000000sm3ktk",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.8vTGf9cZhA74vXUM",
               "quantity": 1,
-              "name": "Малая волшебная  палочка 6-го круга / Lesser Wand of 6th-Level Spell"
+              "name": "Малая волшебная  палочка 6-го круга / Lesser Wand of 6th-Level Spell",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -325,34 +425,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000hn8i1z",
           "name": null,
           "components": [
             {
+              "id": "0000000000tr6h7d",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hn8i1y",
           "name": null,
           "components": [
             {
+              "id": "0000000000ew0ml3",
               "uuid": "Compendium.kraywell-compendium.items.IEn7J7NLPqoa6zAk",
-              "quantity": "1",
-              "name": "Очень Редкая Ветвь / Very Rare Branch"
+              "quantity": 1,
+              "name": "Очень Редкая Ветвь / Very Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000om9nvq",
           "name": null,
           "components": [
             {
+              "id": "0000000000e3ba5x",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.t1kZ7OkZRBwiVKUP",
               "quantity": 1,
-              "name": "Малая волшебная  палочка 7-го круга / Lesser Wand of 7th-Level Spell"
+              "name": "Малая волшебная  палочка 7-го круга / Lesser Wand of 7th-Level Spell",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -371,34 +486,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000yo6fxg",
           "name": null,
           "components": [
             {
+              "id": "0000000000xia3ng",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция / Very Rare Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yo6fxf",
           "name": null,
           "components": [
             {
+              "id": "0000000000in4916",
               "uuid": "Compendium.kraywell-compendium.items.IEn7J7NLPqoa6zAk",
-              "quantity": "1",
-              "name": "Очень Редкая Ветвь / Very Rare Branch"
+              "quantity": 1,
+              "name": "Очень Редкая Ветвь / Very Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005z64e5",
           "name": null,
           "components": [
             {
+              "id": "0000000000z39ei3",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ryRJukPDggMZiF27",
               "quantity": 1,
-              "name": "Малая волшебная  палочка 8-го круга / Lesser Wand of 8th-Level Spell"
+              "name": "Малая волшебная  палочка 8-го круга / Lesser Wand of 8th-Level Spell",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -417,34 +547,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000jbzo67",
           "name": null,
           "components": [
             {
+              "id": "0000000000x7cawz",
               "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
-              "quantity": "1",
-              "name": "Легендарная Арканная Эссенция / Legendary Arcane Essence"
+              "quantity": 1,
+              "name": "Легендарная Арканная Эссенция / Legendary Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000jbzo68",
           "name": null,
           "components": [
             {
+              "id": "000000000058wmld",
               "uuid": "Compendium.kraywell-compendium.items.YqV4knKttTcPgsoC",
-              "quantity": "1",
-              "name": "Легендарная Ветвь / Legendary Branch"
+              "quantity": 1,
+              "name": "Легендарная Ветвь / Legendary Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ygi5b4",
           "name": null,
           "components": [
             {
+              "id": "0000000000dpl2q7",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.6l3xDUmi1ukUBvHy",
               "quantity": 1,
-              "name": "Малая волшебная  палочка 9-го круга / Lesser Wand of 9th-Level Spell"
+              "name": "Малая волшебная  палочка 9-го круга / Lesser Wand of 9th-Level Spell",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

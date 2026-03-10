@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000007dthkz",
           "name": null,
           "components": [
             {
+              "id": "0000000000z1dbb2",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
-              "quantity": "1",
-              "name": "Обычная Первичная Эссенция / Common Primal Essence"
+              "quantity": 1,
+              "name": "Обычная Первичная Эссенция / Common Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007dthky",
           "name": null,
           "components": [
             {
+              "id": "0000000000bzrymt",
               "uuid": "Compendium.kraywell-compendium.items.eOwU5533Gna5obG2",
-              "quantity": "1",
-              "name": "Обычные Магические Чернила / Common Magical Ink"
+              "quantity": 1,
+              "name": "Обычные Магические Чернила / Common Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000cfd7cu",
           "name": null,
           "components": [
             {
+              "id": "0000000000mvzys7",
               "uuid": "Compendium.kraywell-compendium.items.Item.ogK1qso5woSmg0He",
               "quantity": 1,
-              "name": "Древняя руна: Свет / Light"
+              "name": "Древняя руна: Свет / Light",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -59,44 +74,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000yas7au",
           "name": null,
           "components": [
             {
+              "id": "0000000000ic1q7f",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yas7at",
           "name": null,
           "components": [
             {
+              "id": "0000000000fnysr0",
               "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
-              "quantity": "1",
-              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+              "quantity": 1,
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yas7as",
           "name": null,
           "components": [
             {
+              "id": "0000000000rtli92",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "2",
-              "name": "Необычный Реактивный Реагент / Uncommon Reactive Reagent"
+              "quantity": 2,
+              "name": "Необычный Реактивный Реагент / Uncommon Reactive Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005k3b2t",
           "name": null,
           "components": [
             {
+              "id": "0000000000cxpsp6",
               "uuid": "Compendium.kraywell-compendium.items.Item.ULu8uH59c7Zwlf2N",
               "quantity": 1,
-              "name": "Древняя руна: Огонь / Fire"
+              "name": "Древняя руна: Огонь / Fire",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -115,54 +150,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000006zj6wg",
           "name": null,
           "components": [
             {
+              "id": "0000000000k59ibf",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006zj6wh",
           "name": null,
           "components": [
             {
+              "id": "0000000000gvu0pa",
               "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
-              "quantity": "1",
-              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+              "quantity": 1,
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006zj6wi",
           "name": null,
           "components": [
             {
+              "id": "000000000030igfd",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
-              "quantity": "1",
-              "name": "Обычная Первичная Эссенция / Common Primal Essence"
+              "quantity": 1,
+              "name": "Обычная Первичная Эссенция / Common Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006zj6wj",
           "name": null,
           "components": [
             {
+              "id": "00000000005pwly8",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция / Common Arcane Essence"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция / Common Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006vvjsf",
           "name": null,
           "components": [
             {
+              "id": "00000000000xcfi0",
               "uuid": "Compendium.kraywell-compendium.items.lriwSAt4NdSM7WuH",
               "quantity": 1,
-              "name": "Древняя руна: Молния / Lightning"
+              "name": "Древняя руна: Молния / Lightning",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -181,44 +241,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000h07z97",
           "name": null,
           "components": [
             {
+              "id": "00000000003sbyjq",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000h07z98",
           "name": null,
           "components": [
             {
+              "id": "0000000000x8rkgz",
               "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
-              "quantity": "1",
-              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+              "quantity": 1,
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000h07z99",
           "name": null,
           "components": [
             {
+              "id": "0000000000jdg072",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
-              "quantity": "2",
-              "name": "Обычная Первичная Эссенция / Common Primal Essence"
+              "quantity": 2,
+              "name": "Обычная Первичная Эссенция / Common Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000xcrqv8",
           "name": null,
           "components": [
             {
+              "id": "0000000000t8y3oc",
               "uuid": "Compendium.kraywell-compendium.items.H5JqgcweudEqxsMG",
               "quantity": 1,
-              "name": "Ледяное масло / Frost Oil"
+              "name": "Ледяное масло / Frost Oil",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -237,54 +317,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000tbsg9h",
           "name": null,
           "components": [
             {
+              "id": "0000000000aczilm",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tbsg9g",
           "name": null,
           "components": [
             {
+              "id": "0000000000nn10ct",
               "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
-              "quantity": "1",
-              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+              "quantity": 1,
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tbsg9f",
           "name": null,
           "components": [
             {
+              "id": "00000000004wlz16",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция / Common Arcane Essence"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция / Common Arcane Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tbsg9e",
           "name": null,
           "components": [
             {
+              "id": "0000000000jqgp2k",
               "uuid": "Compendium.kraywell-compendium.items.fd8yTaU2XEpZKAD6",
-              "quantity": "1",
-              "name": "Обычная Божественная Эссенция / Common Divine Essence"
+              "quantity": 1,
+              "name": "Обычная Божественная Эссенция / Common Divine Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000hmnhas",
           "name": null,
           "components": [
             {
+              "id": "0000000000z22w7r",
               "uuid": "Compendium.kraywell-compendium.items.Item.xJzQdymVHNh5caey",
               "quantity": 1,
-              "name": "Древняя руна: Зрение / Vision"
+              "name": "Древняя руна: Зрение / Vision",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -303,44 +408,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000001llimr",
           "name": null,
           "components": [
             {
+              "id": "000000000039gf0e",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "1",
-              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+              "quantity": 1,
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000001llims",
           "name": null,
           "components": [
             {
+              "id": "0000000000xrn40b",
               "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
-              "quantity": "1",
-              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+              "quantity": 1,
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000001llimt",
           "name": null,
           "components": [
             {
+              "id": "0000000000de89r3",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.EeujT8xaZCFHkTcK",
               "quantity": 1,
-              "name": "Свиток заклинания: Увеличение/уменьшение / Enlarge/Reduce"
+              "name": "Свиток заклинания: Увеличение/уменьшение / Enlarge/Reduce",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000i1w8lw",
           "name": null,
           "components": [
             {
+              "id": "0000000000rihccy",
               "uuid": "Compendium.kraywell-compendium.items.DZjsURxEVkx9a3Ql",
               "quantity": 1,
-              "name": "Древняя руна: Размер / Size"
+              "name": "Древняя руна: Размер / Size",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -359,54 +484,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000t87gsf",
           "name": null,
           "components": [
             {
+              "id": "0000000000chvflu",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция / Rare Primal Essence"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция / Rare Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000t87gse",
           "name": null,
           "components": [
             {
+              "id": "0000000000nlzun7",
               "uuid": "Compendium.kraywell-compendium.items.ovmq6MdYKEaUeJm0",
-              "quantity": "1",
-              "name": "Необычные Магические Чернила / Uncommon Magical Ink"
+              "quantity": 1,
+              "name": "Необычные Магические Чернила / Uncommon Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000t87gsd",
           "name": null,
           "components": [
             {
+              "id": "00000000001boofo",
               "uuid": "Compendium.kraywell-compendium.items.t3ON4hhqI8q1BjAT",
-              "quantity": "4",
-              "name": "Редкий Лечебный Реагент / Rare Curative Reagent"
+              "quantity": 4,
+              "name": "Редкий Лечебный Реагент / Rare Curative Reagent",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000t87gsc",
           "name": null,
           "components": [
             {
+              "id": "0000000000ahfwg6",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция / Uncommon Divine Essence"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция / Uncommon Divine Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000kpq0zi",
           "name": null,
           "components": [
             {
+              "id": "0000000000yv502x",
               "uuid": "Compendium.kraywell-compendium.items.dBzOykRYmeW1CvyK",
               "quantity": 1,
-              "name": "Древняя руна: Выносливость / Vigor"
+              "name": "Древняя руна: Выносливость / Vigor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -425,44 +575,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ic16px",
           "name": null,
           "components": [
             {
+              "id": "0000000000yshdq2",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "3",
-              "name": "Редкая Первичная Эссенция / Rare Primal Essence"
+              "quantity": 3,
+              "name": "Редкая Первичная Эссенция / Rare Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ic16py",
           "name": null,
           "components": [
             {
+              "id": "0000000000rs11kf",
               "uuid": "Compendium.kraywell-compendium.items.aZhCcS3Rn8YLv0xa",
-              "quantity": "3",
-              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence"
+              "quantity": 3,
+              "name": "Необычная Первичная Эссенция / Uncommon Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ic16pz",
           "name": null,
           "components": [
             {
+              "id": "0000000000d823hp",
               "uuid": "Compendium.kraywell-compendium.items.2hRuzE9CCfIbMXIV",
-              "quantity": "1",
-              "name": "Редкие Магические Чернила / Rare Magical Ink"
+              "quantity": 1,
+              "name": "Редкие Магические Чернила / Rare Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000003ht4ai",
           "name": null,
           "components": [
             {
+              "id": "0000000000aapwi1",
               "uuid": "Compendium.kraywell-compendium.items.89hhOh3VUd75HIQw",
               "quantity": 1,
-              "name": "Древняя руна: Разрушение / Destruction"
+              "name": "Древняя руна: Разрушение / Destruction",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -481,34 +651,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000lczsr6",
           "name": null,
           "components": [
             {
+              "id": "0000000000ujd6au",
               "uuid": "Compendium.kraywell-compendium.items.2hRuzE9CCfIbMXIV",
-              "quantity": "1",
-              "name": "Редкие Магические Чернила / Rare Magical Ink"
+              "quantity": 1,
+              "name": "Редкие Магические Чернила / Rare Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lczsr5",
           "name": null,
           "components": [
             {
+              "id": "00000000000pd5a3",
               "uuid": "Compendium.kraywell-compendium.items.Item.eGG8CbqpTxxau5ud",
-              "quantity": "3",
-              "name": "Редкая Первичная Эссенция / Rare Primal Essence"
+              "quantity": 3,
+              "name": "Редкая Первичная Эссенция / Rare Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000jj4hu7",
           "name": null,
           "components": [
             {
+              "id": "0000000000x8b6da",
               "uuid": "Compendium.kraywell-compendium.items.0fumFd66ncfPFFeW",
               "quantity": 1,
-              "name": "Древняя руна: Жестокость / Brutality"
+              "name": "Древняя руна: Жестокость / Brutality",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -527,44 +712,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000tfnwsz",
           "name": null,
           "components": [
             {
+              "id": "0000000000vvyk3q",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "1",
-              "name": "Очень Редкая Первичная Эссенция / Very Rare Primal Essence"
+              "quantity": 1,
+              "name": "Очень Редкая Первичная Эссенция / Very Rare Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tfnwt0",
           "name": null,
           "components": [
             {
+              "id": "0000000000b6dl6d",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "2",
-              "name": "Редкая Первичная Эссенция / Rare Primal Essence"
+              "quantity": 2,
+              "name": "Редкая Первичная Эссенция / Rare Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tfnwt1",
           "name": null,
           "components": [
             {
+              "id": "0000000000fs5go1",
               "uuid": "Compendium.kraywell-compendium.items.MwoMKo4Yfo1aXs5T",
-              "quantity": "1",
-              "name": "Очень Редкие Магические Чернила / Very Rare Magical Ink"
+              "quantity": 1,
+              "name": "Очень Редкие Магические Чернила / Very Rare Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000007j6oyc",
           "name": null,
           "components": [
             {
+              "id": "0000000000cyvp1s",
               "uuid": "Compendium.kraywell-compendium.items.bq99tr0YhvslWqsf",
               "quantity": 1,
-              "name": "Древняя руна: Гнев / Wrath"
+              "name": "Древняя руна: Гнев / Wrath",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -583,54 +788,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000yo6v4e",
           "name": null,
           "components": [
             {
+              "id": "00000000001m36p9",
               "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
-              "quantity": "1",
-              "name": "Легендарная Божественная Эссенция / Legendary Divine Essence"
+              "quantity": 1,
+              "name": "Легендарная Божественная Эссенция / Legendary Divine Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yo6v4d",
           "name": null,
           "components": [
             {
+              "id": "0000000000h6q4uc",
               "uuid": "Compendium.kraywell-compendium.items.OmZAu4ZF22H3kHFK",
-              "quantity": "1",
-              "name": "Легендарная Первичная Эссенция / Legendary Primal Essence"
+              "quantity": 1,
+              "name": "Легендарная Первичная Эссенция / Legendary Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yo6v4c",
           "name": null,
           "components": [
             {
+              "id": "0000000000gcqdd1",
               "uuid": "Compendium.kraywell-compendium.items.bTvNFMIXHMpSvst6",
-              "quantity": "1",
-              "name": "Легендарные Магические Чернила / Legendary Magical Ink"
+              "quantity": 1,
+              "name": "Легендарные Магические Чернила / Legendary Magical Ink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000yo6v4b",
           "name": null,
           "components": [
             {
+              "id": "00000000004zy1h2",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "4",
-              "name": "Редкая Первичная Эссенция / Rare Primal Essence"
+              "quantity": 4,
+              "name": "Редкая Первичная Эссенция / Rare Primal Essence",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005zj7df",
           "name": null,
           "components": [
             {
+              "id": "0000000000lxn98r",
               "uuid": "Compendium.kraywell-compendium.items.Item.r21AO6Gj0qgMwuQ1",
               "quantity": 1,
-              "name": "Древняя руна: Смерть / Death"
+              "name": "Древняя руна: Смерть / Death",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

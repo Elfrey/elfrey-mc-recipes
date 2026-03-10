@@ -13,44 +13,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000052zvol",
           "name": null,
           "components": [
             {
+              "id": "0000000000dp0j71",
               "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
               "quantity": 1,
-              "name": "Необычный Лечебный Реагент"
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000052zvom",
           "name": null,
           "components": [
             {
+              "id": "00000000007clil7",
               "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
               "quantity": 1,
-              "name": "Необычные Расходные Материалы"
+              "name": "Необычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000052zvon",
           "name": null,
           "components": [
             {
+              "id": "0000000000g13b9b",
               "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
               "quantity": 1,
-              "name": "Обычные Расходные Материалы"
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000iwcxzu",
           "name": null,
           "components": [
             {
+              "id": "0000000000ox2v77",
               "uuid": "Compendium.kraywell-compendium.items.rHwEGvaTsZc5436s",
               "quantity": 1,
-              "name": "Эльфийский хлеб"
+              "name": "Эльфийский хлеб",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -75,24 +95,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000tpl4q1",
           "name": null,
           "components": [
             {
+              "id": "0000000000s293en",
               "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
-              "quantity": "2",
-              "name": "Обычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000010f4ie",
           "name": null,
           "components": [
             {
+              "id": "0000000000krhflr",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.gRB5Rr36oGomj9zs",
               "quantity": 1,
-              "name": "Железный Рацион"
+              "name": "Железный Рацион",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

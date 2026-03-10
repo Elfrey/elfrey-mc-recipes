@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000tlp124",
           "name": null,
           "components": [
             {
+              "id": "0000000000uav51u",
               "uuid": "Compendium.laaru-dnd5-hw.items.qrWiKSBMFOAtwPAt",
-              "quantity": "1",
-              "name": "Амулет / Amulet"
+              "quantity": 1,
+              "name": "Амулет / Amulet",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tlp123",
           "name": null,
           "components": [
             {
+              "id": "00000000004cqhdv",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4AfaiTeCGTjVYoVH",
               "quantity": 1,
-              "name": "Свиток заклинания: Необнаружимость / Nondetection"
+              "name": "Свиток заклинания: Необнаружимость / Nondetection",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000093lkmz",
           "name": null,
           "components": [
             {
+              "id": "00000000009lr6bc",
               "uuid": "Compendium.laaru-dnd5-hw.items.9mb6Kpff7q1CqEEg",
               "quantity": 1,
-              "name": "Амулет необнаружимости / Amulet of Proof against Detection and Location"
+              "name": "Амулет необнаружимости / Amulet of Proof against Detection and Location",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -59,54 +74,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000lf60o4",
           "name": null,
           "components": [
             {
+              "id": "0000000000zbv896",
               "uuid": "Compendium.laaru-dnd5-hw.goods.mWnASvTFJB0kCG1H",
               "quantity": 1,
-              "name": "Золотой медальон"
+              "name": "Золотой медальон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lf60o5",
           "name": null,
           "components": [
             {
+              "id": "00000000001ynhd2",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OZOl1kaltt7Qf7kH",
               "quantity": 1,
-              "name": "Свиток заклинания: Волшебная стрела / Magic missile"
+              "name": "Свиток заклинания: Волшебная стрела / Magic missile",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lf60o6",
           "name": null,
           "components": [
             {
+              "id": "0000000000wohfxd",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3oUsGGOT3Sc6NDoV",
               "quantity": 1,
-              "name": "Свиток заклинания: Щит / Shield"
+              "name": "Свиток заклинания: Щит / Shield",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lf60o7",
           "name": null,
           "components": [
             {
+              "id": "0000000000tnj82d",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3Pc0ptySrOWdJ0lz",
               "quantity": 1,
-              "name": "Свиток заклинания: Защита от энергии / Protection from Energy"
+              "name": "Свиток заклинания: Защита от энергии / Protection from Energy",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000s5uurf",
           "name": null,
           "components": [
             {
+              "id": "0000000000judfyq",
               "uuid": "Compendium.laaru-dnd5-hw.items.4W9taxJ8azVHVjgJ",
               "quantity": 1,
-              "name": "Брошь щита / Brooch of Shielding"
+              "name": "Брошь щита / Brooch of Shielding",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -125,54 +165,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000089dfoy",
           "name": null,
           "components": [
             {
+              "id": "0000000000qrh540",
               "uuid": "Compendium.laaru-dnd5-hw.goods.mWnASvTFJB0kCG1H",
               "quantity": 1,
-              "name": "Золотой медальон"
+              "name": "Золотой медальон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000089dfox",
           "name": null,
           "components": [
             {
+              "id": "000000000088y9ty",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3kaWGynGo3OK302o",
               "quantity": 1,
-              "name": "Свиток заклинания: Обнаружение мыслей / Detect Thoughts"
+              "name": "Свиток заклинания: Обнаружение мыслей / Detect Thoughts",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000089dfow",
           "name": null,
           "components": [
             {
+              "id": "0000000000rk7ujf",
               "uuid": "Compendium.kraywell-compendium.items.Item.a6BDLM9QZqUfqsTf",
               "quantity": 1,
-              "name": "Необычная Арканная Эссенция"
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000089dfov",
           "name": null,
           "components": [
             {
+              "id": "0000000000aynq6w",
               "uuid": "Compendium.kraywell-compendium.items.Item.JGzYwkr2gaB0u4K2",
               "quantity": 1,
-              "name": "Необычная Псионическая Эссенция"
+              "name": "Необычная Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000vfkh75",
           "name": null,
           "components": [
             {
+              "id": "0000000000k4c81m",
               "uuid": "Compendium.laaru-dnd5-hw.items.XV2Tn0GykWnCUfsT",
               "quantity": 1,
-              "name": "Медальон чтения мыслей / Medallion of Thoughts"
+              "name": "Медальон чтения мыслей / Medallion of Thoughts",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -191,54 +256,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000005y2id2",
           "name": null,
           "components": [
             {
+              "id": "00000000000dfkjc",
               "uuid": "Compendium.laaru-dnd5-hw.goods.mWnASvTFJB0kCG1H",
               "quantity": 1,
-              "name": "Золотой медальон"
+              "name": "Золотой медальон",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005y2id3",
           "name": null,
           "components": [
             {
+              "id": "00000000005dpw8e",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3kaWGynGo3OK302o",
               "quantity": 1,
-              "name": "Свиток заклинания: Обнаружение мыслей / Detect Thoughts"
+              "name": "Свиток заклинания: Обнаружение мыслей / Detect Thoughts",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005y2id4",
           "name": null,
           "components": [
             {
+              "id": "00000000008xul2r",
               "uuid": "Compendium.kraywell-compendium.items.Item.a6BDLM9QZqUfqsTf",
               "quantity": 1,
-              "name": "Необычная Арканная Эссенция"
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005y2id5",
           "name": null,
           "components": [
             {
+              "id": "0000000000tl0znk",
               "uuid": "Compendium.kraywell-compendium.items.Item.JGzYwkr2gaB0u4K2",
               "quantity": 1,
-              "name": "Необычная Псионическая Эссенция"
+              "name": "Необычная Псионическая Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000pdhkwn",
           "name": null,
           "components": [
             {
+              "id": "0000000000yxr9f9",
               "uuid": "Compendium.laaru-dnd5-hw.items.sX5srcL75pLWDlMP",
               "quantity": 1,
-              "name": "Ожерелье адаптации / Necklace of Adaptation"
+              "name": "Ожерелье адаптации / Necklace of Adaptation",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -257,54 +347,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000rk63m6",
           "name": null,
           "components": [
             {
+              "id": "0000000000gl8c7g",
               "uuid": "Compendium.kraywell-compendium.items.fd8yTaU2XEpZKAD6",
-              "quantity": "2",
-              "name": "Обычная Божественная Эссенция"
+              "quantity": 2,
+              "name": "Обычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rk63m7",
           "name": null,
           "components": [
             {
+              "id": "0000000000zak6i9",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.l9BoxgpTJmVR0JNP",
               "quantity": 1,
-              "name": "Золотой медальон (50 зм)"
+              "name": "Золотой медальон (50 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rk63m8",
           "name": null,
           "components": [
             {
+              "id": "0000000000gzydmq",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.SJMdnvqTm3WZhWIp",
               "quantity": 1,
-              "name": "Свиток заклинания: Очищение еды и питья / Purify Food and Drink"
+              "name": "Свиток заклинания: Очищение еды и питья / Purify Food and Drink",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rk63m9",
           "name": null,
           "components": [
             {
+              "id": "0000000000s3bzyf",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.DKGIqjItvkvHl4Xp",
               "quantity": 1,
-              "name": "Свиток заклинания: Низшее восстановление / Lesser Restoration"
+              "name": "Свиток заклинания: Низшее восстановление / Lesser Restoration",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005dl85t",
           "name": null,
           "components": [
             {
+              "id": "0000000000enbacx",
               "uuid": "Compendium.laaru-dnd5-hw.items.31KogbCa2QzNUDDc",
               "quantity": 1,
-              "name": "Оберег против болезней / Periapt of Health"
+              "name": "Оберег против болезней / Periapt of Health",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -323,54 +438,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000o2t1zp",
           "name": null,
           "components": [
             {
+              "id": "0000000000ajtpc9",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "1",
-              "name": "Необычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000o2t1zq",
           "name": null,
           "components": [
             {
+              "id": "0000000000cis9bc",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.l9BoxgpTJmVR0JNP",
               "quantity": 1,
-              "name": "Золотой медальон (50 зм)"
+              "name": "Золотой медальон (50 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000o2t1zr",
           "name": null,
           "components": [
             {
+              "id": "0000000000z74oy4",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lgXJcc9IkCaahsc0",
               "quantity": 1,
-              "name": "Свиток заклинания: Исцеление ран / Cure Wounds"
+              "name": "Свиток заклинания: Исцеление ран / Cure Wounds",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000o2t1zs",
           "name": null,
           "components": [
             {
+              "id": "0000000000auijeg",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4kUehpwW7dtjH23Q",
               "quantity": 1,
-              "name": "Свиток заклинания: Исцеляющий молебен / Prayer of Healing"
+              "name": "Свиток заклинания: Исцеляющий молебен / Prayer of Healing",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000vjj47q",
           "name": null,
           "components": [
             {
+              "id": "0000000000mqb232",
               "uuid": "Compendium.laaru-dnd5-hw.items.ki5XDniaaY5dxSyl",
               "quantity": 1,
-              "name": "Оберег затягивания ран / Periapt of Wound Closure"
+              "name": "Оберег затягивания ран / Periapt of Wound Closure",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -389,54 +529,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000dfo382",
           "name": null,
           "components": [
             {
+              "id": "000000000097sd17",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "2",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 2,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dfo381",
           "name": null,
           "components": [
             {
+              "id": "0000000000e270sv",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "2",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dfo380",
           "name": null,
           "components": [
             {
+              "id": "0000000000hj1xiq",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.A1nSl1qtblYhCurv",
               "quantity": 1,
-              "name": "Золотой медальон (10 зм)"
+              "name": "Золотой медальон (10 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dfo37z",
           "name": null,
           "components": [
             {
+              "id": "0000000000dvl487",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.aZEseNo3Zx2Xfuwd",
               "quantity": 1,
-              "name": "Свиток заклинания: Иной облик / Alter self"
+              "name": "Свиток заклинания: Иной облик / Alter self",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000d2mbox",
           "name": null,
           "components": [
             {
+              "id": "0000000000gcbqf3",
               "uuid": "Compendium.kraywell-compendium.items.GmSuRSsbr1AUByxV",
               "quantity": 1,
-              "name": "Талисман дикаря"
+              "name": "Талисман дикаря",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -455,44 +620,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000006g9sp",
           "name": null,
           "components": [
             {
+              "id": "0000000000xdnpoh",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "1",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000006g9sq",
           "name": null,
           "components": [
             {
+              "id": "00000000000zqcg5",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000006g9sr",
           "name": null,
           "components": [
             {
+              "id": "00000000006wj6dr",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.yPzKcfr1UAOCMjkX",
               "quantity": 1,
-              "name": "Золотой медальон (200 зм)"
+              "name": "Золотой медальон (200 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000008xp7hi",
           "name": null,
           "components": [
             {
+              "id": "0000000000ip3l1j",
               "uuid": "Compendium.laaru-dnd5-hw.items.unaw9plf7LWBTHAV",
               "quantity": 1,
-              "name": "Амулет здоровья / Amulet of Health"
+              "name": "Амулет здоровья / Amulet of Health",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -511,104 +696,154 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000v9qbk3",
           "name": null,
           "components": [
             {
+              "id": "0000000000kklgil",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "6",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 6,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v9qbk2",
           "name": null,
           "components": [
             {
+              "id": "0000000000ske7a8",
               "uuid": "Compendium.laaru-dnd5-hw.goods.zsZZcbA8oV7uqsUO",
-              "quantity": "6",
-              "name": "Драгоценный камень (50 зм)"
+              "quantity": 6,
+              "name": "Драгоценный камень (50 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v9qbk1",
           "name": null,
           "components": [
             {
+              "id": "0000000000mxchrt",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.QZahZnoEWjM9yU4O",
               "quantity": 1,
-              "name": "Свиток заклинания: Планарный союзник / Planar Ally"
+              "name": "Свиток заклинания: Планарный союзник / Planar Ally",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v9qbk0",
           "name": null,
           "components": [
             {
+              "id": "00000000005chv7s",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.SGQi3ppeXbLYxgYg",
               "quantity": 1,
-              "name": "Свиток заклинания: Путешествие с ветром / Wind Walk"
+              "name": "Свиток заклинания: Путешествие с ветром / Wind Walk",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v9qbjz",
           "name": null,
           "components": [
             {
+              "id": "00000000007wrzyw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.8FDD8xmhtz8GUobm",
               "quantity": 1,
-              "name": "Свиток заклинания: Клеймящая кара / Branding Smite"
+              "name": "Свиток заклинания: Клеймящая кара / Branding Smite",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v9qbjy",
           "name": null,
           "components": [
             {
+              "id": "0000000000u2mg9i",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.E5TZLMfPnvUoFRBU",
               "quantity": 1,
-              "name": "Свиток заклинания: Высшее восстановление / Greater Restoration"
+              "name": "Свиток заклинания: Высшее восстановление / Greater Restoration",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v9qbjx",
           "name": null,
           "components": [
             {
+              "id": "0000000000275ogw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lgXJcc9IkCaahsc0",
               "quantity": 1,
-              "name": "Свиток заклинания: Исцеление ран / Cure Wounds"
+              "name": "Свиток заклинания: Исцеление ран / Cure Wounds",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v9qbjw",
           "name": null,
           "components": [
             {
+              "id": "0000000000d9ykm2",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.DKGIqjItvkvHl4Xp",
               "quantity": 1,
-              "name": "Свиток заклинания: Низшее восстановление / Lesser Restoration"
+              "name": "Свиток заклинания: Низшее восстановление / Lesser Restoration",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v9qbjv",
           "name": null,
           "components": [
             {
+              "id": "000000000059idy8",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.rkg1eYAPDVLezZ4R",
               "quantity": 1,
-              "name": "Свиток заклинания: Благословение / Bless"
+              "name": "Свиток заклинания: Благословение / Bless",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000sfll4y",
           "name": null,
           "components": [
             {
+              "id": "00000000009gkj1o",
               "uuid": "Compendium.laaru-dnd5-hw.items.ds9feZxCHlyR4KlF",
               "quantity": 1,
-              "name": "Ожерелье молитвeнных чёток / Necklace of Prayer Beads"
+              "name": "Ожерелье молитвeнных чёток / Necklace of Prayer Beads",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -627,54 +862,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000a22xxf",
           "name": null,
           "components": [
             {
+              "id": "0000000000uuw2zv",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a22xxg",
           "name": null,
           "components": [
             {
+              "id": "0000000000lz17fh",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "1",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a22xxh",
           "name": null,
           "components": [
             {
+              "id": "0000000000txtbai",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.KxSFJ9SyfmzgIXHi",
               "quantity": 1,
-              "name": "Золотой медальон (650 зм)"
+              "name": "Золотой медальон (650 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000a22xxi",
           "name": null,
           "components": [
             {
+              "id": "0000000000dw9z37",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.0jrjGbzn9YRUbw8l",
               "quantity": 1,
-              "name": "Свиток заклинания: Планарный переход / Plane shift"
+              "name": "Свиток заклинания: Планарный переход / Plane shift",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000v1rrng",
           "name": null,
           "components": [
             {
+              "id": "0000000000ehvlce",
               "uuid": "Compendium.laaru-dnd5-hw.items.ivswg1N0SjLkvL8U",
               "quantity": 1,
-              "name": "Планарный амулет / Amulet of the Planes"
+              "name": "Планарный амулет / Amulet of the Planes",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -693,44 +953,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000008yyz08",
           "name": null,
           "components": [
             {
+              "id": "0000000000fsibpt",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "1",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008yyz09",
           "name": null,
           "components": [
             {
+              "id": "0000000000veh2u4",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ucn03qudZAeCi1x5",
               "quantity": 1,
-              "name": "Медальон в форме скарабея"
+              "name": "Медальон в форме скарабея",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008yyz0a",
           "name": null,
           "components": [
             {
+              "id": "0000000000v5xwni",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OPmVnUv0tp1zpFxD",
               "quantity": 1,
-              "name": "Свиток заклинания: Аура святости / Holy aura"
+              "name": "Свиток заклинания: Аура святости / Holy aura",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000002mnaxl",
           "name": null,
           "components": [
             {
+              "id": "000000000083px9c",
               "uuid": "Compendium.laaru-dnd5-hw.items.I45Qcd7b5s2v52uf",
               "quantity": 1,
-              "name": "Защитный скарабей / Scarab of Protection"
+              "name": "Защитный скарабей / Scarab of Protection",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -749,54 +1029,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000cu08mi",
           "name": null,
           "components": [
             {
+              "id": "0000000000lu424p",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.gO39cFfdKuodCVFn",
               "quantity": 1,
-              "name": "Талисман (1 000 зм)"
+              "name": "Талисман (1 000 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000cu08mh",
           "name": null,
           "components": [
             {
+              "id": "0000000000sal00b",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Gdu7iQ1dlETLJQXR",
               "quantity": 1,
-              "name": "Свиток заклинания: Врата / Gate"
+              "name": "Свиток заклинания: Врата / Gate",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000cu08mg",
           "name": null,
           "components": [
             {
+              "id": "00000000005v9yba",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.c4qrfqEdEnFVqU10",
               "quantity": 1,
-              "name": "Свиток заклинания: Раскол / Fissure"
+              "name": "Свиток заклинания: Раскол / Fissure",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000cu08mf",
           "name": null,
           "components": [
             {
+              "id": "0000000000rtkmgf",
               "uuid": "Compendium.kraywell-compendium.items.Item.qHBqZU07foGitJmq",
               "quantity": 1,
-              "name": "Легендарная Божественная Эссенция"
+              "name": "Легендарная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000vq5o95",
           "name": null,
           "components": [
             {
+              "id": "0000000000ijqjla",
               "uuid": "Compendium.laaru-dnd5-hw.items.WgXQLYorU9yDoQPy",
               "quantity": 1,
-              "name": "Талисман чистого добра / Talisman of Pure Good"
+              "name": "Талисман чистого добра / Talisman of Pure Good",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -815,54 +1120,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000hffmua",
           "name": null,
           "components": [
             {
+              "id": "0000000000jqggvs",
               "uuid": "Compendium.kraywell-compendium.items.Item.qHBqZU07foGitJmq",
               "quantity": 1,
-              "name": "Легендарная Божественная Эссенция"
+              "name": "Легендарная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hffmub",
           "name": null,
           "components": [
             {
+              "id": "0000000000kmjkpo",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.gO39cFfdKuodCVFn",
               "quantity": 1,
-              "name": "Талисман (1 000 зм)"
+              "name": "Талисман (1 000 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hffmuc",
           "name": null,
           "components": [
             {
+              "id": "0000000000dogady",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.c4qrfqEdEnFVqU10",
               "quantity": 1,
-              "name": "Свиток заклинания: Раскол / Fissure"
+              "name": "Свиток заклинания: Раскол / Fissure",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hffmud",
           "name": null,
           "components": [
             {
+              "id": "0000000000plxs3n",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Gdu7iQ1dlETLJQXR",
               "quantity": 1,
-              "name": "Свиток заклинания: Врата / Gate"
+              "name": "Свиток заклинания: Врата / Gate",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000okqzyb",
           "name": null,
           "components": [
             {
+              "id": "0000000000lz452v",
               "uuid": "Compendium.laaru-dnd5-hw.items.gfgNMiOnmSgMmlDh",
               "quantity": 1,
-              "name": "Талисман запредельного зла / Talisman of Ultimate Evil"
+              "name": "Талисман запредельного зла / Talisman of Ultimate Evil",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -881,34 +1211,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000klxbb0",
           "name": null,
           "components": [
             {
+              "id": "0000000000683x54",
               "uuid": "Compendium.kraywell-compendium.items.h2JCAiof2FxnqM35",
-              "quantity": "1",
-              "name": "Легендарная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000klxbaz",
           "name": null,
           "components": [
             {
+              "id": "0000000000k77iyu",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.gO39cFfdKuodCVFn",
               "quantity": 1,
-              "name": "Талисман (1 000 зм)"
+              "name": "Талисман (1 000 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000003s0j2z",
           "name": null,
           "components": [
             {
+              "id": "0000000000lkge3p",
               "uuid": "Compendium.laaru-dnd5-hw.items.tQ1IWQPvILjjLK0u",
               "quantity": 1,
-              "name": "Талисман сферы / Talisman of the Sphere"
+              "name": "Талисман сферы / Talisman of the Sphere",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000jxrm2b",
           "name": null,
           "components": [
             {
+              "id": "0000000000jy0pjh",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000jxrm2a",
           "name": null,
           "components": [
             {
+              "id": "0000000000j7ciri",
               "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000okx9ki",
           "name": null,
           "components": [
             {
+              "id": "000000000086kp3h",
               "uuid": "Compendium.laaru-dnd5-hw.items.7h0RQJk4fjUSSXGl",
               "quantity": 1,
-              "name": "Инструменты алхимика / Alchemist's Supplies"
+              "name": "Инструменты алхимика / Alchemist's Supplies",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -59,44 +74,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000aqsf8u",
           "name": null,
           "components": [
             {
+              "id": "00000000004hvjqm",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000aqsf8v",
           "name": null,
           "components": [
             {
+              "id": "0000000000ynhokd",
               "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000aqsf8w",
           "name": null,
           "components": [
             {
+              "id": "0000000000rfo5ui",
               "uuid": "Compendium.kraywell-compendium.items.Item.JvROpigr0jg2osWb",
               "quantity": 1,
-              "name": "Обычные запчасти"
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ipedhr",
           "name": null,
           "components": [
             {
+              "id": "00000000008oum9n",
               "uuid": "Compendium.laaru-dnd5-hw.items.g1rdrcUNgGtCxfgL",
               "quantity": 1,
-              "name": "Инструменты пивовара / Brewer's Supplies"
+              "name": "Инструменты пивовара / Brewer's Supplies",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -115,34 +150,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000leoa4m",
           "name": null,
           "components": [
             {
+              "id": "0000000000m2nhon",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000leoa4l",
           "name": null,
           "components": [
             {
+              "id": "0000000000czlq11",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "2",
-              "name": "Металлолом"
+              "quantity": 2,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000kz7gez",
           "name": null,
           "components": [
             {
+              "id": "0000000000ycs7ea",
               "uuid": "Compendium.laaru-dnd5-hw.items.fIEQLBAJL2Zc4HpR",
               "quantity": 1,
-              "name": "Инструменты картографа / Cartographer's Tools"
+              "name": "Инструменты картографа / Cartographer's Tools",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -161,34 +211,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000fsvxwc",
           "name": null,
           "components": [
             {
+              "id": "0000000000k3tu3t",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fsvxwd",
           "name": null,
           "components": [
             {
+              "id": "0000000000lejso3",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "3",
-              "name": "Металлолом"
+              "quantity": 3,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000003ylf7h",
           "name": null,
           "components": [
             {
+              "id": "0000000000esj7yr",
               "uuid": "Compendium.laaru-dnd5-hw.items.zzPMdEjeYthp1ZHO",
               "quantity": 1,
-              "name": "Инструменты сапожника / Cobbler's Tools"
+              "name": "Инструменты сапожника / Cobbler's Tools",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -207,24 +272,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ms5j92",
           "name": null,
           "components": [
             {
+              "id": "00000000003efbqu",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "5",
-              "name": "Металлолом"
+              "quantity": 5,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000007g1qqd",
           "name": null,
           "components": [
             {
+              "id": "00000000008su8jr",
               "uuid": "Compendium.laaru-dnd5-hw.items.f3h5rMEijrkDMYLp",
               "quantity": 1,
-              "name": "Инструменты повара / Cook's Utensils"
+              "name": "Инструменты повара / Cook's Utensils",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -243,34 +318,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000jqve57",
           "name": null,
           "components": [
             {
+              "id": "0000000000y7p7dn",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "3",
-              "name": "Металлолом"
+              "quantity": 3,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000jqve56",
           "name": null,
           "components": [
             {
+              "id": "00000000002bydpi",
               "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000uio32y",
           "name": null,
           "components": [
             {
+              "id": "0000000000dwt95p",
               "uuid": "Compendium.laaru-dnd5-hw.items.43LtGV8o6kHZszZ8",
               "quantity": 1,
-              "name": "Инструменты стеклодува / Glassblower's Tools"
+              "name": "Инструменты стеклодува / Glassblower's Tools",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -289,34 +379,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000bmlwvs",
           "name": null,
           "components": [
             {
+              "id": "0000000000fbwr2t",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bmlwvr",
           "name": null,
           "components": [
             {
+              "id": "00000000007p47w7",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000001xm9pl",
           "name": null,
           "components": [
             {
+              "id": "000000000046b35k",
               "uuid": "Compendium.laaru-dnd5-hw.items.AxAheA3RxoImUa0K",
               "quantity": 1,
-              "name": "Инструменты кожевенника / Leatherworker's Tools"
+              "name": "Инструменты кожевенника / Leatherworker's Tools",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -335,34 +440,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000l5pe3s",
           "name": null,
           "components": [
             {
+              "id": "00000000004f8m6w",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "2",
-              "name": "Металлолом"
+              "quantity": 2,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000l5pe3t",
           "name": null,
           "components": [
             {
+              "id": "0000000000rgi7h9",
               "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000k0jf93",
           "name": null,
           "components": [
             {
+              "id": "0000000000mmuzkl",
               "uuid": "Compendium.laaru-dnd5-hw.items.5o3ajUBABxI6Lgky",
               "quantity": 1,
-              "name": "Инструменты ювелира / Jeweler's Tools"
+              "name": "Инструменты ювелира / Jeweler's Tools",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -381,34 +501,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000pbhsuk",
           "name": null,
           "components": [
             {
+              "id": "0000000000dnlmcn",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000pbhsul",
           "name": null,
           "components": [
             {
+              "id": "0000000000ecbtv7",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "5",
-              "name": "Металлолом"
+              "quantity": 5,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006xs0cz",
           "name": null,
           "components": [
             {
+              "id": "0000000000so9fr0",
               "uuid": "Compendium.laaru-dnd5-hw.items.k4xLSnyP8LDqAzOq",
               "quantity": 1,
-              "name": "Инструменты каменщика / Mason's Tools"
+              "name": "Инструменты каменщика / Mason's Tools",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -427,34 +562,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000nqmybs",
           "name": null,
           "components": [
             {
+              "id": "0000000000plbr05",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "3",
-              "name": "Необычные Запчасти"
+              "quantity": 3,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000nqmybt",
           "name": null,
           "components": [
             {
+              "id": "0000000000irb5e1",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "5",
-              "name": "Металлолом"
+              "quantity": 5,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000t0bs5z",
           "name": null,
           "components": [
             {
+              "id": "0000000000ghr9ic",
               "uuid": "Compendium.laaru-dnd5-hw.items.YN1Af9CjpThY5jlZ",
               "quantity": 1,
-              "name": "Инструменты механика / Tinker's Tools"
+              "name": "Инструменты механика / Tinker's Tools",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -473,24 +623,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000tu171d",
           "name": null,
           "components": [
             {
+              "id": "0000000000iz84gx",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000001x4fa8",
           "name": null,
           "components": [
             {
+              "id": "0000000000ghsijo",
               "uuid": "Compendium.laaru-dnd5-hw.items.AmIIB7ykJwex3dxl",
               "quantity": 1,
-              "name": "Инструменты ткача / Weaver's Tools"
+              "name": "Инструменты ткача / Weaver's Tools",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -509,24 +669,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000varjwk",
           "name": null,
           "components": [
             {
+              "id": "0000000000fpu7ic",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000rjjeeb",
           "name": null,
           "components": [
             {
+              "id": "0000000000rn2q7q",
               "uuid": "Compendium.laaru-dnd5-hw.items.UEH1LLG3LXdSVYAG",
               "quantity": 1,
-              "name": "Инструменты резчика / Woodcarver's Tools"
+              "name": "Инструменты резчика / Woodcarver's Tools",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -545,44 +715,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000khqz9j",
           "name": null,
           "components": [
             {
+              "id": "0000000000meg17q",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000khqz9i",
           "name": null,
           "components": [
             {
+              "id": "0000000000hm8l4z",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "1",
-              "name": "Необычные Запчасти"
+              "quantity": 1,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000khqz9h",
           "name": null,
           "components": [
             {
+              "id": "0000000000ibxkxn",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "3",
-              "name": "Металлолом"
+              "quantity": 3,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000007dgwcm",
           "name": null,
           "components": [
             {
+              "id": "00000000001bpgi1",
               "uuid": "Compendium.laaru-dnd5-hw.items.oCvzZIFNIoyeZ9HA",
               "quantity": 1,
-              "name": "Инструменты навигатора / Navigator's Tools"
+              "name": "Инструменты навигатора / Navigator's Tools",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -601,44 +791,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000n082im",
           "name": null,
           "components": [
             {
+              "id": "0000000000fe59gx",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000n082il",
           "name": null,
           "components": [
             {
+              "id": "0000000000fma65i",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "1",
-              "name": "Необычные Запчасти"
+              "quantity": 1,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000n082ik",
           "name": null,
           "components": [
             {
+              "id": "0000000000xz5kxw",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000000hv5i5",
           "name": null,
           "components": [
             {
+              "id": "0000000000jti6x9",
               "uuid": "Compendium.laaru-dnd5-hw.items.9puye1cmnzZ4x2rM",
               "quantity": 1,
-              "name": "Инструменты вора / Thieves' Tools"
+              "name": "Инструменты вора / Thieves' Tools",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -657,34 +867,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000e0lmo5",
           "name": null,
           "components": [
             {
+              "id": "0000000000rc94jy",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000e0lmo6",
           "name": null,
           "components": [
             {
+              "id": "0000000000kowsca",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bpmypm",
           "name": null,
           "components": [
             {
+              "id": "0000000000jc907d",
               "uuid": "Compendium.laaru-dnd5-hw.items.y94rdXgfgqphPyyj",
               "quantity": 1,
-              "name": "Набор травника / Herbalism Kit"
+              "name": "Набор травника / Herbalism Kit",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -703,44 +928,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000022prn4",
           "name": null,
           "components": [
             {
+              "id": "0000000000y7qpkd",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "1",
-              "name": "Необычные Запчасти"
+              "quantity": 1,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000022prn3",
           "name": null,
           "components": [
             {
+              "id": "0000000000sj0bqn",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "2",
-              "name": "Металлолом"
+              "quantity": 2,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000022prn2",
           "name": null,
           "components": [
             {
+              "id": "0000000000jvbbet",
               "uuid": "Compendium.kraywell-compendium.items.XvyMF34Mqq7LaVKN",
               "quantity": 1,
-              "name": "Дубленая Кожа"
+              "name": "Дубленая Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000a2m0un",
           "name": null,
           "components": [
             {
+              "id": "0000000000dgp6sw",
               "uuid": "Compendium.laaru-dnd5-hw.items.QusSANNMz9oYeJKh",
               "quantity": 1,
-              "name": "Волынка / Bagpipes"
+              "name": "Волынка / Bagpipes",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -759,34 +1004,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000kgd8cg",
           "name": null,
           "components": [
             {
+              "id": "00000000001wgn65",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kgd8cf",
           "name": null,
           "components": [
             {
+              "id": "0000000000mqsxtt",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000008kb2u7",
           "name": null,
           "components": [
             {
+              "id": "0000000000mjl9ro",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.RToaGnmJwEM49cu4",
               "quantity": 1,
-              "name": "Горн / Horn"
+              "name": "Горн / Horn",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

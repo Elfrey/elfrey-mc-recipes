@@ -13,24 +13,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000008pt7z0",
           "name": null,
           "components": [
             {
+              "id": "0000000000i2qgd0",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000h9z4jf",
           "name": null,
           "components": [
             {
+              "id": "0000000000puqck5",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lNY56TEGRxoH6Zkd",
               "quantity": 1,
-              "name": "Деревянный приклад / Wooden Stock"
+              "name": "Деревянный приклад / Wooden Stock",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -49,24 +59,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000taib4x",
           "name": null,
           "components": [
             {
+              "id": "0000000000qj75kn",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bz0co2",
           "name": null,
           "components": [
             {
+              "id": "000000000084daxm",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.cfnV0I3lq1lbaY5x",
               "quantity": 1,
-              "name": "Длинная рукоять / Long Haft"
+              "name": "Длинная рукоять / Long Haft",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -85,24 +105,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000kmzch2",
           "name": null,
           "components": [
             {
+              "id": "0000000000xuopaq",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000003w40op",
           "name": null,
           "components": [
             {
+              "id": "0000000000h4lr7s",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.lNY56TEGRxoH6Zkd",
               "quantity": 1,
-              "name": "Деревянный приклад / Wooden Stock"
+              "name": "Деревянный приклад / Wooden Stock",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -121,24 +151,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000306q1q",
           "name": null,
           "components": [
             {
+              "id": "0000000000mzzg0m",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000iqzlqb",
           "name": null,
           "components": [
             {
+              "id": "0000000000n5f621",
               "uuid": "Compendium.laaru-dnd5-hw.goods.tut1jbW3UCsrUjCG",
               "quantity": 1,
-              "name": "Шест / Pole"
+              "name": "Шест / Pole",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -157,44 +197,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000eook15",
           "name": null,
           "components": [
             {
+              "id": "0000000000nb5if5",
               "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
-              "quantity": "1",
-              "name": "Качественная Ветвь / Quality Branch"
+              "quantity": 1,
+              "name": "Качественная Ветвь / Quality Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000eook14",
           "name": null,
           "components": [
             {
+              "id": "0000000000dx71qz",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти / Parts"
+              "quantity": 1,
+              "name": "Обычные запчасти / Parts",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000eook13",
           "name": null,
           "components": [
             {
+              "id": "0000000000dw9wtl",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.hDOc8kfHGyQwOMDb",
-              "quantity": "3",
-              "name": "Отрезок лески / Length of String"
+              "quantity": 3,
+              "name": "Отрезок лески / Length of String",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000pos5co",
           "name": null,
           "components": [
             {
+              "id": "0000000000mpx2wp",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.HV77IP7ujKLfnfVi",
               "quantity": 1,
-              "name": "Удочка / Fishing Pole"
+              "name": "Удочка / Fishing Pole",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -213,24 +273,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000kjkc0g",
           "name": null,
           "components": [
             {
+              "id": "00000000009jcppd",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.MT4KM5z3xsSTW9Jy",
-              "quantity": "1",
-              "name": "Кусок дерева / Wood scraps"
+              "quantity": 1,
+              "name": "Кусок дерева / Wood scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000000y6mdr",
           "name": null,
           "components": [
             {
+              "id": "00000000009ehi6l",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.7uUvDQWSqcLHp0vL",
               "quantity": 1,
-              "name": "Резная Фигурка / Carved Figurine"
+              "name": "Резная Фигурка / Carved Figurine",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -249,24 +319,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000titkf0",
           "name": null,
           "components": [
             {
+              "id": "000000000004wh0s",
               "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
-              "quantity": "1",
-              "name": "Качественная Ветвь / Quality Branch"
+              "quantity": 1,
+              "name": "Качественная Ветвь / Quality Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bkowjf",
           "name": null,
           "components": [
             {
+              "id": "0000000000uwhe11",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.5jsBvN3QEO3KwrkT",
               "quantity": 1,
-              "name": "Качественная Резная Фигурка / Quality Figurine"
+              "name": "Качественная Резная Фигурка / Quality Figurine",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -285,24 +365,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000004n65q4",
           "name": null,
           "components": [
             {
+              "id": "0000000000kvecwr",
               "uuid": "Compendium.kraywell-compendium.items.bYaUQgMpkATEe2Xw",
-              "quantity": "1",
-              "name": "Редкая Ветвь / Rare Branch"
+              "quantity": 1,
+              "name": "Редкая Ветвь / Rare Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000001hly8r",
           "name": null,
           "components": [
             {
+              "id": "0000000000kkfuoj",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Tssxg68JMglgH5h3",
               "quantity": 1,
-              "name": "Шедевральная Резкая Фигурка / Superb Figurine"
+              "name": "Шедевральная Резкая Фигурка / Superb Figurine",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -321,24 +411,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000006ahmzz",
           "name": null,
           "components": [
             {
+              "id": "0000000000qlb915",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "1",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 1,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000lfu4q6",
           "name": null,
           "components": [
             {
+              "id": "0000000000obqsto",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.MT4KM5z3xsSTW9Jy",
-              "quantity": "5",
-              "name": "Кусок дерева / Wood scraps"
+              "quantity": 5,
+              "name": "Кусок дерева / Wood scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

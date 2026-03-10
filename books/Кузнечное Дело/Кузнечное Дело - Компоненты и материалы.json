@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000hqrb2w",
           "name": null,
           "components": [
             {
+              "id": "0000000000tjwtjt",
               "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
               "quantity": 1,
-              "name": "Слиток Стали"
+              "name": "Слиток Стали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hqrb2v",
           "name": null,
           "components": [
             {
+              "id": "00000000001i2kjv",
               "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
               "quantity": 1,
-              "name": "Слиток Адаманта"
+              "name": "Слиток Адаманта",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ll2o3b",
           "name": null,
           "components": [
             {
+              "id": "00000000001xmfn1",
               "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
               "quantity": 1,
-              "name": "Слиток Адамантита"
+              "name": "Слиток Адамантита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -65,24 +80,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000fatft4",
           "name": null,
           "components": [
             {
+              "id": "0000000000d6dsug",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "5",
-              "name": "Металлолом"
+              "quantity": 5,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000qa4jjb",
           "name": null,
           "components": [
             {
+              "id": "0000000000itofvz",
               "uuid": "Compendium.kraywell-compendium.items.Item.JvROpigr0jg2osWb",
               "quantity": 1,
-              "name": "Обычные запчасти"
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -107,24 +132,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000gkqo4r",
           "name": null,
           "components": [
             {
+              "id": "0000000000bu28lx",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "5",
-              "name": "Металлолом"
+              "quantity": 5,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000d9hmhi",
           "name": null,
           "components": [
             {
+              "id": "0000000000o3u9qv",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.V9ZIv3uOSFrXYIKd",
-              "quantity": "5",
-              "name": "Пряжка"
+              "quantity": 5,
+              "name": "Пряжка",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -149,24 +184,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000003010kd",
           "name": null,
           "components": [
             {
+              "id": "0000000000u6zg23",
               "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
               "quantity": 1,
-              "name": "Слиток Железа"
+              "name": "Слиток Железа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000im2ns4",
           "name": null,
           "components": [
             {
+              "id": "0000000000ici50k",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "20",
-              "name": "Металлолом"
+              "quantity": 20,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -191,24 +236,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000lw8kaq",
           "name": null,
           "components": [
             {
+              "id": "00000000002mwvy6",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "20",
-              "name": "Металлолом"
+              "quantity": 20,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000yxfuap",
           "name": null,
           "components": [
             {
+              "id": "00000000009rhs5l",
               "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
               "quantity": 1,
-              "name": "Слиток Железа"
+              "name": "Слиток Железа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -233,24 +288,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000h6m3v5",
           "name": null,
           "components": [
             {
+              "id": "0000000000j6jfwu",
               "uuid": "Compendium.kraywell-compendium.items.Item.EpVmgI0yj2gznyQ6",
-              "quantity": "10",
-              "name": "Железная руда"
+              "quantity": 10,
+              "name": "Железная руда",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000w66c7m",
           "name": null,
           "components": [
             {
+              "id": "00000000008sxc0m",
               "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
-              "quantity": "10",
-              "name": "Слиток Железа"
+              "quantity": 10,
+              "name": "Слиток Железа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -275,34 +340,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000v7f9ao",
           "name": null,
           "components": [
             {
+              "id": "0000000000cq3kdr",
               "uuid": "Compendium.kraywell-compendium.items.Item.EpVmgI0yj2gznyQ6",
-              "quantity": "10",
-              "name": "Железная руда"
+              "quantity": 10,
+              "name": "Железная руда",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000v7f9an",
           "name": null,
           "components": [
             {
+              "id": "000000000079mhps",
               "uuid": "Compendium.kraywell-compendium.items.Item.O3WXOpln1gnScZkg",
               "quantity": 1,
-              "name": "Обычные Расходные Материалы"
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000uf4j8v",
           "name": null,
           "components": [
             {
+              "id": "0000000000onu19c",
               "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
-              "quantity": "10",
-              "name": "Слиток Стали"
+              "quantity": 10,
+              "name": "Слиток Стали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -327,24 +407,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ovotji",
           "name": null,
           "components": [
             {
+              "id": "0000000000a13rcy",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OPRBZh6a8qdoPl3C",
-              "quantity": "20",
-              "name": "Кусочек серебра"
+              "quantity": 20,
+              "name": "Кусочек серебра",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006o6e5r",
           "name": null,
           "components": [
             {
+              "id": "0000000000oriyp0",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.yOEZ7hHRfGjAUNO7",
               "quantity": 1,
-              "name": "Слиток Серебра"
+              "name": "Слиток Серебра",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -369,24 +459,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000009el6kx",
           "name": null,
           "components": [
             {
+              "id": "00000000003j4knw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.yOEZ7hHRfGjAUNO7",
               "quantity": 1,
-              "name": "Слиток Серебра"
+              "name": "Слиток Серебра",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ath7vy",
           "name": null,
           "components": [
             {
+              "id": "0000000000raly1u",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OPRBZh6a8qdoPl3C",
-              "quantity": "20",
-              "name": "Кусочек серебра"
+              "quantity": 20,
+              "name": "Кусочек серебра",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -411,69 +511,115 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000003y2yo4",
           "name": null,
           "components": [
             {
+              "id": "0000000000gaech2",
               "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
               "quantity": 1,
-              "name": "Слиток Адаманта"
+              "name": "Слиток Адаманта",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ku9tnd",
               "uuid": "Compendium.kraywell-compendium.items.Item.WMebUY9hROnd3KqM",
               "quantity": 1,
-              "name": "Слиток Адамантита"
+              "name": "Слиток Адамантита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000wr2qu8",
               "uuid": "Compendium.kraywell-compendium.items.Item.OX4N1c3rihjrdX0V",
               "quantity": 1,
-              "name": "Слиток Бронзы"
+              "name": "Слиток Бронзы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000b7kmbb",
               "uuid": "Compendium.kraywell-compendium.items.Item.P9PVz71cy6dZLcBY",
               "quantity": 1,
-              "name": "Слиток Железа"
+              "name": "Слиток Железа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000yli78a",
               "uuid": "Compendium.kraywell-compendium.items.Item.Qzr4t9bqgXmVlZTj",
               "quantity": 1,
-              "name": "Слиток Метеорита"
+              "name": "Слиток Метеорита",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000fjcxar",
               "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
               "quantity": 1,
-              "name": "Слиток Мифрила"
+              "name": "Слиток Мифрила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ve3d35",
               "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
               "quantity": 1,
-              "name": "Слиток Огнестали"
+              "name": "Слиток Огнестали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000p2ceeq",
               "uuid": "Compendium.kraywell-compendium.items.Item.hDdXid2MfXdiisLm",
               "quantity": 1,
-              "name": "Слиток Стали"
+              "name": "Слиток Стали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000qgegqm",
               "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
               "quantity": 1,
-              "name": "Слиток Темностали"
+              "name": "Слиток Темностали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000052dgah",
               "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
               "quantity": 1,
-              "name": "Слиток Хладостали"
+              "name": "Слиток Хладостали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000gbzhet",
           "name": null,
           "components": [
             {
+              "id": "00000000008yx46p",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.nJkIHRsAdpwgSqbJ",
               "quantity": 1,
-              "name": "Необычные Детали"
+              "name": "Необычные Детали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -498,24 +644,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000rdyfog",
           "name": null,
           "components": [
             {
+              "id": "0000000000jnd5v8",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.1z1TZCPVFduJ7lc6",
-              "quantity": "20",
-              "name": "Кусочек золота"
+              "quantity": 20,
+              "name": "Кусочек золота",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006qdxfj",
           "name": null,
           "components": [
             {
+              "id": "0000000000a6kd94",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3ZE11ma5fA9STGyo",
               "quantity": 1,
-              "name": "Слиток золота"
+              "name": "Слиток золота",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -540,24 +696,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000bogflv",
           "name": null,
           "components": [
             {
+              "id": "0000000000go6ei4",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3ZE11ma5fA9STGyo",
               "quantity": 1,
-              "name": "Слиток золота"
+              "name": "Слиток золота",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000aa9xq4",
           "name": null,
           "components": [
             {
+              "id": "0000000000czb3qo",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.1z1TZCPVFduJ7lc6",
-              "quantity": "20",
-              "name": "Кусочек золота"
+              "quantity": 20,
+              "name": "Кусочек золота",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -582,24 +748,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ynqfzh",
           "name": null,
           "components": [
             {
+              "id": "0000000000ngw824",
               "uuid": "Compendium.kraywell-compendium.items.Item.kn6ZpmvSZJhJ3uHi",
               "quantity": 1,
-              "name": "Мифриловая Руда"
+              "name": "Мифриловая Руда",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ccrpoy",
           "name": null,
           "components": [
             {
+              "id": "0000000000an257k",
               "uuid": "Compendium.kraywell-compendium.items.Item.UoxA44FZnPXUWBPt",
               "quantity": 1,
-              "name": "Слиток Мифрила"
+              "name": "Слиток Мифрила",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -624,24 +800,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000pmxjk4",
           "name": null,
           "components": [
             {
+              "id": "0000000000eed2zk",
               "uuid": "Compendium.kraywell-compendium.items.Item.V8rjqptEw5cD6hlL",
               "quantity": 1,
-              "name": "Адамантовая руда"
+              "name": "Адамантовая руда",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000a0ygt9",
           "name": null,
           "components": [
             {
+              "id": "00000000005gic05",
               "uuid": "Compendium.kraywell-compendium.items.Item.Ptk5PN8pLtFKbajs",
               "quantity": 1,
-              "name": "Слиток Адаманта"
+              "name": "Слиток Адаманта",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -666,34 +852,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000uevihy",
           "name": null,
           "components": [
             {
+              "id": "00000000002pwqk9",
               "uuid": "Compendium.kraywell-compendium.items.Item.93qj7Iasv0aJ9I82",
               "quantity": 1,
-              "name": "Хладосталевая руда"
+              "name": "Хладосталевая руда",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000uevihx",
           "name": null,
           "components": [
             {
+              "id": "0000000000vul468",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
               "quantity": 1,
-              "name": "Обычная Первичная Эссенция"
+              "name": "Обычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000g0zfzv",
           "name": null,
           "components": [
             {
+              "id": "0000000000nqoxkh",
               "uuid": "Compendium.kraywell-compendium.items.Item.glufPJZw0C2WoqOK",
               "quantity": 1,
-              "name": "Слиток Хладостали"
+              "name": "Слиток Хладостали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -718,34 +919,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000kv8iph",
           "name": null,
           "components": [
             {
+              "id": "00000000001a16em",
               "uuid": "Compendium.kraywell-compendium.items.Item.YXDMsVd1QdTBagRG",
               "quantity": 1,
-              "name": "Темносталевая руда"
+              "name": "Темносталевая руда",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kv8ipi",
           "name": null,
           "components": [
             {
+              "id": "0000000000vd9jc5",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
               "quantity": 1,
-              "name": "Обычная Первичная Эссенция"
+              "name": "Обычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000b00dxm",
           "name": null,
           "components": [
             {
+              "id": "000000000098vo7g",
               "uuid": "Compendium.kraywell-compendium.items.Item.zlPijLumHBDt2OvC",
               "quantity": 1,
-              "name": "Слиток Темностали"
+              "name": "Слиток Темностали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -770,34 +986,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ltnnwl",
           "name": null,
           "components": [
             {
+              "id": "00000000001q1tei",
               "uuid": "Compendium.kraywell-compendium.items.Item.cQycYdS1kI64hVzQ",
               "quantity": 1,
-              "name": "Огнесталевая руда"
+              "name": "Огнесталевая руда",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ltnnwk",
           "name": null,
           "components": [
             {
+              "id": "00000000001ksfx6",
               "uuid": "Compendium.kraywell-compendium.items.Item.hvLwoGx3M7yTCWrN",
               "quantity": 1,
-              "name": "Обычная Арканная Эссенция"
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000xvobi4",
           "name": null,
           "components": [
             {
+              "id": "00000000004lwak9",
               "uuid": "Compendium.kraywell-compendium.items.Item.MLLY52Mh45GjZlcC",
               "quantity": 1,
-              "name": "Слиток Огнестали"
+              "name": "Слиток Огнестали",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

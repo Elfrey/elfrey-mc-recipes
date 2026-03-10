@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000599ywz",
           "name": null,
           "components": [
             {
+              "id": "0000000000xu4nfu",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000599ywy",
           "name": null,
           "components": [
             {
+              "id": "0000000000dkvnnm",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "2",
-              "name": "Металлолом"
+              "quantity": 2,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000hjo6ny",
           "name": null,
           "components": [
             {
+              "id": "00000000004q0p0p",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.PUMoFFOWzCGmydlX",
               "quantity": 1,
-              "name": "Шумовая Ловушка / Noise Trap"
+              "name": "Шумовая Ловушка / Noise Trap",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -59,34 +74,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000rgxq3r",
           "name": null,
           "components": [
             {
+              "id": "0000000000wmv41m",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rgxq3q",
           "name": null,
           "components": [
             {
+              "id": "0000000000k5no62",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000045zy92",
           "name": null,
           "components": [
             {
+              "id": "00000000002dxuif",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.dh0LRWPfNCozh6Ec",
               "quantity": 1,
-              "name": "Охотничья Ловушка / Hunting Trap"
+              "name": "Охотничья Ловушка / Hunting Trap",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -105,34 +135,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000l56mwf",
           "name": null,
           "components": [
             {
+              "id": "00000000007mdquc",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000l56mwg",
           "name": null,
           "components": [
             {
+              "id": "0000000000v8h30w",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "2",
-              "name": "Металлолом"
+              "quantity": 2,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000jkdzww",
           "name": null,
           "components": [
             {
+              "id": "0000000000iyzstt",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3r0Saf978P3tY0Nd",
               "quantity": 1,
-              "name": "Натяжной трос / Trip Wire"
+              "name": "Натяжной трос / Trip Wire",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

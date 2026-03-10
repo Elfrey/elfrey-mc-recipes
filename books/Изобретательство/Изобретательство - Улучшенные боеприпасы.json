@@ -13,59 +13,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000hd4cx6",
           "name": null,
           "components": [
             {
+              "id": "0000000000l81pmx",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hd4cx7",
           "name": null,
           "components": [
             {
+              "id": "0000000000zi4d1i",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
               "quantity": 1,
-              "name": "Арбалетный болт / Crossbow Bolt"
+              "name": "Арбалетный болт / Crossbow Bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000r8iosg",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
               "quantity": 1,
-              "name": "Стрела / Arrow"
+              "name": "Стрела / Arrow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000t03qiv",
               "uuid": "Compendium.laaru-dnd5-hw.items.z9SbsMIBZzuhZOqT",
               "quantity": 1,
-              "name": "Ядро для пращи / Sling Bullet"
+              "name": "Ядро для пращи / Sling Bullet",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000rb5a79",
               "uuid": "Compendium.laaru-dnd5-hw.items.gBQ8xqTA5f8wP5iu",
               "quantity": 1,
-              "name": "Игла для трубки / Blowgun Needle"
+              "name": "Игла для трубки / Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000957x18",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
               "quantity": 1,
-              "name": "Боеприпас для пистоля"
+              "name": "Боеприпас для пистоля",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000s9xvzl",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
               "quantity": 1,
-              "name": "Пули для старинного огнестрельного оружия"
+              "name": "Пули для старинного огнестрельного оружия",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000qkgjgr",
           "name": null,
           "components": [
             {
+              "id": "0000000000anhavk",
               "uuid": "Compendium.kraywell-compendium.items.Item.lwc3gullR2NEZl4T",
               "quantity": 1,
-              "name": "Свистящий снаряд"
+              "name": "Свистящий снаряд",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -84,69 +119,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000bs3snd",
           "name": null,
           "components": [
             {
+              "id": "0000000000xgul11",
               "uuid": "Compendium.laaru-dnd5-hw.items.aEiM49V8vWpWw7rU",
-              "quantity": "1",
-              "name": "Сеть / Net"
+              "quantity": 1,
+              "name": "Сеть / Net",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bs3sne",
           "name": null,
           "components": [
             {
+              "id": "0000000000fsxxgp",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bs3snf",
           "name": null,
           "components": [
             {
+              "id": "00000000008d0atd",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
               "quantity": 1,
-              "name": "Стрела / Arrow"
+              "name": "Стрела / Arrow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000v463np",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
               "quantity": 1,
-              "name": "Арбалетный болт / Crossbow Bolt"
+              "name": "Арбалетный болт / Crossbow Bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000002ptzsc",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
               "quantity": 1,
-              "name": "Ядро для пращи / Sling Bullet"
+              "name": "Ядро для пращи / Sling Bullet",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000008e9wx4",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
               "quantity": 1,
-              "name": "Игла для трубки / Blowgun Needle"
+              "name": "Игла для трубки / Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000kry8po",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
               "quantity": 1,
-              "name": "Боеприпас для пистоля"
+              "name": "Боеприпас для пистоля",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000gn7kb5",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
               "quantity": 1,
-              "name": "Пули для старинного огнестрельного оружия"
+              "name": "Пули для старинного огнестрельного оружия",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000dfe60m",
           "name": null,
           "components": [
             {
+              "id": "00000000005eksyu",
               "uuid": "Compendium.kraywell-compendium.items.M61nzvgYgea7FjQo",
               "quantity": 1,
-              "name": "Опутывающий снаряд"
+              "name": "Опутывающий снаряд",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -165,59 +240,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000009di40g",
           "name": null,
           "components": [
             {
+              "id": "0000000000txu58j",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009di40f",
           "name": null,
           "components": [
             {
+              "id": "0000000000pjvz6h",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
-              "quantity": "1",
-              "name": "Стрела / Arrow"
+              "quantity": 1,
+              "name": "Стрела / Arrow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000002sq6c5",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
-              "quantity": "1",
-              "name": "Арбалетный болт / Crossbow Bolt"
+              "quantity": 1,
+              "name": "Арбалетный болт / Crossbow Bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000v72a7i",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
-              "quantity": "1",
-              "name": "Ядро для пращи / Sling Bullet"
+              "quantity": 1,
+              "name": "Ядро для пращи / Sling Bullet",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000pimd2q",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
-              "quantity": "1",
-              "name": "Игла для трубки / Blowgun Needle"
+              "quantity": 1,
+              "name": "Игла для трубки / Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000gc9j9m",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
               "quantity": 1,
-              "name": "Боеприпас для пистоля"
+              "name": "Боеприпас для пистоля",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000h9opop",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
               "quantity": 1,
-              "name": "Пули для старинного огнестрельного оружия"
+              "name": "Пули для старинного огнестрельного оружия",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000034ggpd",
           "name": null,
           "components": [
             {
+              "id": "0000000000os8zg0",
               "uuid": "Compendium.kraywell-compendium.items.43BOToVa9oDwV59l",
-              "quantity": "1",
-              "name": "Доставляющий снаряд"
+              "quantity": 1,
+              "name": "Доставляющий снаряд",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -236,69 +346,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000035memj",
           "name": null,
           "components": [
             {
+              "id": "0000000000een8de",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "5",
-              "name": "Обычные запчасти"
+              "quantity": 5,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000035memi",
           "name": null,
           "components": [
             {
+              "id": "0000000000axz3tg",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
-              "quantity": "10",
-              "name": "Стрела / Arrow"
+              "quantity": 10,
+              "name": "Стрела / Arrow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000bt6p0w",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
-              "quantity": "10",
-              "name": "Арбалетный болт / Crossbow Bolt"
+              "quantity": 10,
+              "name": "Арбалетный болт / Crossbow Bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000gl5euh",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
-              "quantity": "10",
-              "name": "Ядро для пращи / Sling Bullet"
+              "quantity": 10,
+              "name": "Ядро для пращи / Sling Bullet",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000awphpp",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
-              "quantity": "10",
-              "name": "Игла для трубки / Blowgun Needle"
+              "quantity": 10,
+              "name": "Игла для трубки / Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000uy6emn",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
               "quantity": 1,
-              "name": "Боеприпас для пистоля"
+              "name": "Боеприпас для пистоля",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000002nrubo",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
               "quantity": 1,
-              "name": "Пули для старинного огнестрельного оружия"
+              "name": "Пули для старинного огнестрельного оружия",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000035memh",
           "name": null,
           "components": [
             {
+              "id": "0000000000b1b55x",
               "uuid": "Compendium.kraywell-compendium.items.OedOUNN3YNTvruCT",
               "quantity": 1,
-              "name": "Взрывчатый порошок"
+              "name": "Взрывчатый порошок",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000nfhrna",
           "name": null,
           "components": [
             {
+              "id": "0000000000wk8pec",
               "uuid": "Compendium.kraywell-compendium.items.Item.L9JwrZyKD7nMzXnk",
-              "quantity": "10",
-              "name": "Дальнобойный снаряд"
+              "quantity": 10,
+              "name": "Дальнобойный снаряд",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -317,79 +467,127 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000je6ehl",
           "name": null,
           "components": [
             {
+              "id": "0000000000xiifes",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "1",
-              "name": "Необычные Запчасти"
+              "quantity": 1,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000je6ehm",
           "name": null,
           "components": [
             {
+              "id": "0000000000w9wng0",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
               "quantity": 1,
-              "name": "Стрела / Arrow"
+              "name": "Стрела / Arrow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000009iqulo",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
               "quantity": 1,
-              "name": "Арбалетный болт / Crossbow Bolt"
+              "name": "Арбалетный болт / Crossbow Bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000x413i3",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
               "quantity": 1,
-              "name": "Ядро для пращи / Sling Bullet"
+              "name": "Ядро для пращи / Sling Bullet",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000w8n1c9",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
               "quantity": 1,
-              "name": "Игла для трубки / Blowgun Needle"
+              "name": "Игла для трубки / Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000009m8v03",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
               "quantity": 1,
-              "name": "Боеприпас для пистоля"
+              "name": "Боеприпас для пистоля",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000nzpdy8",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
               "quantity": 1,
-              "name": "Пули для старинного огнестрельного оружия"
+              "name": "Пули для старинного огнестрельного оружия",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000je6ehn",
           "name": null,
           "components": [
             {
+              "id": "0000000000g22c7c",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ajBlG1p7q5TF72mu",
               "quantity": 1,
-              "name": "Свиток заклинания: Опутывание / Entangle"
+              "name": "Свиток заклинания: Опутывание / Entangle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000gberd7",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.D8h3JiarnjJrExXa",
               "quantity": 1,
-              "name": "Свиток заклинания: Облако тумана / Fog Cloud"
+              "name": "Свиток заклинания: Облако тумана / Fog Cloud",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000st31c6",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.w5HbNcPXFLSyiAjN",
               "quantity": 1,
-              "name": "Свиток заклинания: Мультивыстрел / Multishot"
+              "name": "Свиток заклинания: Мультивыстрел / Multishot",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000yot8uy",
           "name": null,
           "components": [
             {
+              "id": "0000000000lfzg7r",
               "uuid": "Compendium.kraywell-compendium.items.WbzVWa7yQUUCWn1r",
               "quantity": 1,
-              "name": "Заклинательный снаряд"
+              "name": "Заклинательный снаряд",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -408,59 +606,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000jnub7y",
           "name": null,
           "components": [
             {
+              "id": "0000000000qj1vvp",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000jnub7z",
           "name": null,
           "components": [
             {
+              "id": "0000000000u8tnzv",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
               "quantity": 1,
-              "name": "Стрела / Arrow"
+              "name": "Стрела / Arrow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000007hnv5j",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
               "quantity": 1,
-              "name": "Арбалетный болт / Crossbow Bolt"
+              "name": "Арбалетный болт / Crossbow Bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000z542y8",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
               "quantity": 1,
-              "name": "Ядро для пращи / Sling Bullet"
+              "name": "Ядро для пращи / Sling Bullet",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000u7k1w4",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
               "quantity": 1,
-              "name": "Игла для трубки / Blowgun Needle"
+              "name": "Игла для трубки / Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000bnbug8",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
               "quantity": 1,
-              "name": "Боеприпас для пистоля"
+              "name": "Боеприпас для пистоля",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000lymei3",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
               "quantity": 1,
-              "name": "Пули для старинного огнестрельного оружия"
+              "name": "Пули для старинного огнестрельного оружия",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000qd825r",
           "name": null,
           "components": [
             {
+              "id": "0000000000jep5x7",
               "uuid": "Compendium.kraywell-compendium.items.gKmKgZfSjfDhqXfw",
               "quantity": 1,
-              "name": "Адаптивный снаряд"
+              "name": "Адаптивный снаряд",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -479,59 +712,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000frewvk",
           "name": null,
           "components": [
             {
+              "id": "0000000000mz8wnn",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "1",
-              "name": "Необычные Запчасти"
+              "quantity": 1,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000frewvj",
           "name": null,
           "components": [
             {
+              "id": "0000000000tijc3d",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
               "quantity": 1,
-              "name": "Стрела / Arrow"
+              "name": "Стрела / Arrow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000006rdj91",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
               "quantity": 1,
-              "name": "Арбалетный болт / Crossbow Bolt"
+              "name": "Арбалетный болт / Crossbow Bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000z5pn4e",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
               "quantity": 1,
-              "name": "Ядро для пращи / Sling Bullet"
+              "name": "Ядро для пращи / Sling Bullet",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000th9pzm",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
               "quantity": 1,
-              "name": "Игла для трубки / Blowgun Needle"
+              "name": "Игла для трубки / Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000cdm6cq",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
               "quantity": 1,
-              "name": "Боеприпас для пистоля"
+              "name": "Боеприпас для пистоля",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000l8c2ll",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
               "quantity": 1,
-              "name": "Пули для старинного огнестрельного оружия"
+              "name": "Пули для старинного огнестрельного оружия",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bzmufj",
           "name": null,
           "components": [
             {
+              "id": "0000000000l8utir",
               "uuid": "Compendium.kraywell-compendium.items.yIt3OZkUg2vUQ32L",
               "quantity": 1,
-              "name": "Прыгающий снаряд"
+              "name": "Прыгающий снаряд",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -550,59 +818,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000lijikg",
           "name": null,
           "components": [
             {
+              "id": "0000000000l9v0jh",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "1",
-              "name": "Необычные Запчасти"
+              "quantity": 1,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lijikf",
           "name": null,
           "components": [
             {
+              "id": "0000000000qwjxh3",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
               "quantity": 1,
-              "name": "Стрела / Arrow"
+              "name": "Стрела / Arrow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ldebnp",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
               "quantity": 1,
-              "name": "Арбалетный болт / Crossbow Bolt"
+              "name": "Арбалетный болт / Crossbow Bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000l9dmg2",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.z9SbsMIBZzuhZOqT",
               "quantity": 1,
-              "name": "Ядро для пращи / Sling Bullet"
+              "name": "Ядро для пращи / Sling Bullet",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000qxtjku",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
               "quantity": 1,
-              "name": "Игла для трубки / Blowgun Needle"
+              "name": "Игла для трубки / Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000028em1y",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.MIF3HdJHhIGVYH59",
               "quantity": 1,
-              "name": "Боеприпас для пистоля"
+              "name": "Боеприпас для пистоля",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000z6r6yv",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.dNpb3GCK9fRjZJ1x",
               "quantity": 1,
-              "name": "Пули для старинного огнестрельного оружия"
+              "name": "Пули для старинного огнестрельного оружия",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ob3q1t",
           "name": null,
           "components": [
             {
+              "id": "0000000000xb3a8x",
               "uuid": "Compendium.kraywell-compendium.items.Item.0zzClckdpjmkEsSC",
               "quantity": 1,
-              "name": "Рикошетный снаряд"
+              "name": "Рикошетный снаряд",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

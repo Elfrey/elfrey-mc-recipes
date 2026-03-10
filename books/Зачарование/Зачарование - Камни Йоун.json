@@ -13,54 +13,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000070guth",
           "name": null,
           "components": [
             {
+              "id": "0000000000v2e4gt",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "3",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 3,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000070gutg",
           "name": null,
           "components": [
             {
+              "id": "00000000008yq9mm",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "1",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000070gutf",
           "name": null,
           "components": [
             {
+              "id": "00000000001pouzg",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.wERJ6VNbO3BJouXO",
               "quantity": 1,
-              "name": "Розовый драгоценный камень (200 зм)"
+              "name": "Розовый драгоценный камень (200 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000070gute",
           "name": null,
           "components": [
             {
+              "id": "0000000000e1cy5z",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.MCAqRJcI8zVGAEBX",
               "quantity": 1,
-              "name": "Свиток заклинания: Магический доспех / Mage armor"
+              "name": "Свиток заклинания: Магический доспех / Mage armor",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000000xhloc",
           "name": null,
           "components": [
             {
+              "id": "0000000000bg0c01",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.oMfFuyo70fKH5yqv",
               "quantity": 1,
-              "name": "Камень Иун, Защита / Ioun Stone, Protection"
+              "name": "Камень Иун, Защита / Ioun Stone, Protection",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -79,54 +104,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000coe1y3",
           "name": null,
           "components": [
             {
+              "id": "0000000000ff6r3n",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "1",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000coe1y2",
           "name": null,
           "components": [
             {
+              "id": "00000000009620w7",
               "uuid": "Compendium.kraywell-compendium.items.eGG8CbqpTxxau5ud",
-              "quantity": "1",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000coe1y1",
           "name": null,
           "components": [
             {
+              "id": "000000000097mn1n",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
-              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000coe1y0",
           "name": null,
           "components": [
             {
+              "id": "0000000000ls1111",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.OvWIqwr1VC0g2I8f",
               "quantity": 1,
-              "name": "Темно-синий драгоценный камень (200 зм)"
+              "name": "Темно-синий драгоценный камень (200 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ygump2",
           "name": null,
           "components": [
             {
+              "id": "0000000000yoq3ie",
               "uuid": "Compendium.laaru-dnd5-hw.items.pJU6Lz0ZZTviCQLz",
               "quantity": 1,
-              "name": "Камень Иун, Бдительность / Ioun Stone, Awareness"
+              "name": "Камень Иун, Бдительность / Ioun Stone, Awareness",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -145,54 +195,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000buft3c",
           "name": null,
           "components": [
             {
+              "id": "000000000086a7ci",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "2",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000buft3d",
           "name": null,
           "components": [
             {
+              "id": "0000000000pck4hh",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000buft3e",
           "name": null,
           "components": [
             {
+              "id": "000000000070jh2v",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lknyI1R5Fl1ScAH8",
               "quantity": 1,
-              "name": "Свиток заклинания: Создание еды и питья / Create Food and Water"
+              "name": "Свиток заклинания: Создание еды и питья / Create Food and Water",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000buft3f",
           "name": null,
           "components": [
             {
+              "id": "00000000004dyt3p",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.VGyVuG1EXzoZXfTe",
               "quantity": 1,
-              "name": "Прозрачный драгоценый камень (200 зм)"
+              "name": "Прозрачный драгоценый камень (200 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ffqjrr",
           "name": null,
           "components": [
             {
+              "id": "000000000062uiix",
               "uuid": "Compendium.laaru-dnd5-hw.items.antxTqCQ4xxSUQJo",
               "quantity": 1,
-              "name": "Камень Иун, Сытость / Ioun Stone, Sustenance"
+              "name": "Камень Иун, Сытость / Ioun Stone, Sustenance",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -211,44 +286,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000flq7dw",
           "name": null,
           "components": [
             {
+              "id": "0000000000rc7u70",
               "uuid": "Compendium.kraywell-compendium.items.ar4cwYPgx4fKoMe3",
-              "quantity": "5",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 5,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000flq7dv",
           "name": null,
           "components": [
             {
+              "id": "0000000000ipxpen",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "4",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 4,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000flq7du",
           "name": null,
           "components": [
             {
+              "id": "00000000002x2oic",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sUmqzQtKwa2UnVzM",
               "quantity": 1,
-              "name": "Фиолетовый драгоценный камень (200 зм)"
+              "name": "Фиолетовый драгоценный камень (200 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000gvwsn7",
           "name": null,
           "components": [
             {
+              "id": "0000000000e884dz",
               "uuid": "Compendium.laaru-dnd5-hw.items.J6X2Sr5W39o457ma",
               "quantity": 1,
-              "name": "Камень Иун, Запас / Ioun Stone, Reserve"
+              "name": "Камень Иун, Запас / Ioun Stone, Reserve",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -267,44 +362,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ai9w29",
           "name": null,
           "components": [
             {
+              "id": "0000000000x8ytz8",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "4",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 4,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ai9w2a",
           "name": null,
           "components": [
             {
+              "id": "0000000000hqpgsi",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.SWYntxCPgzOQSwWn",
               "quantity": 1,
-              "name": "Бледно-голубой драгоценный камень (500 зм)"
+              "name": "Бледно-голубой драгоценный камень (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ai9w2b",
           "name": null,
           "components": [
             {
+              "id": "00000000002boe2p",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
-              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000q1cw5u",
           "name": null,
           "components": [
             {
+              "id": "0000000000f1qlrz",
               "uuid": "Compendium.laaru-dnd5-hw.items.TjANby2yEj0HaRSo",
               "quantity": 1,
-              "name": "Камень Иун, Сила / Ioun Stone, Strength"
+              "name": "Камень Иун, Сила / Ioun Stone, Strength",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -323,54 +438,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000u17fud",
           "name": null,
           "components": [
             {
+              "id": "0000000000hn3cq0",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "1",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000u17fue",
           "name": null,
           "components": [
             {
+              "id": "0000000000yhis7j",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "1",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000u17fuf",
           "name": null,
           "components": [
             {
+              "id": "000000000065byhz",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4Q7luIuqyYTXedlO",
               "quantity": 1,
-              "name": "Свиток заклинания: Рассеивание магии / Dispel Magic"
+              "name": "Свиток заклинания: Рассеивание магии / Dispel Magic",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000u17fug",
           "name": null,
           "components": [
             {
+              "id": "0000000000z9cyzn",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.fzFEEoDJTp09ip8n",
               "quantity": 1,
-              "name": "Бледно-лавандовый  драгоценный камень (500 зм)"
+              "name": "Бледно-лавандовый  драгоценный камень (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000b0mp8q",
           "name": null,
           "components": [
             {
+              "id": "0000000000ifwcws",
               "uuid": "Compendium.laaru-dnd5-hw.items.pBxhB9SO31jCvFFl",
               "quantity": 1,
-              "name": "Камень Иун, Поглощение / Ioun Stone, Absorption"
+              "name": "Камень Иун, Поглощение / Ioun Stone, Absorption",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -389,54 +529,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000qj07hc",
           "name": null,
           "components": [
             {
+              "id": "000000000082gb0t",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "2",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qj07hd",
           "name": null,
           "components": [
             {
+              "id": "00000000008rz4gq",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "2",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qj07he",
           "name": null,
           "components": [
             {
+              "id": "0000000000y9mkoy",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.N3V1cngOIbNoQadU",
               "quantity": 1,
-              "name": "Темно-красный драгоценный камень (500 зм)"
+              "name": "Темно-красный драгоценный камень (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qj07hf",
           "name": null,
           "components": [
             {
+              "id": "00000000006kspzl",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
-              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000qmhg01",
           "name": null,
           "components": [
             {
+              "id": "0000000000ffc361",
               "uuid": "Compendium.laaru-dnd5-hw.items.jZEQqr6h3ga1Ii9X",
               "quantity": 1,
-              "name": "Камень Иун, Подвижность / Ioun Stone, Agility"
+              "name": "Камень Иун, Подвижность / Ioun Stone, Agility",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -455,54 +620,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000007g0geg",
           "name": null,
           "components": [
             {
+              "id": "0000000000uw8l5d",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "2",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007g0gef",
           "name": null,
           "components": [
             {
+              "id": "00000000002tdzu4",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "2",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007g0gee",
           "name": null,
           "components": [
             {
+              "id": "0000000000737ut2",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.5Mlfm0ngFmYT8MKT",
               "quantity": 1,
-              "name": "Розовый драгоценный камень (500 зм)"
+              "name": "Розовый драгоценный камень (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007g0ged",
           "name": null,
           "components": [
             {
+              "id": "0000000000z41i6v",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
-              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ebd6qh",
           "name": null,
           "components": [
             {
+              "id": "000000000020tjs5",
               "uuid": "Compendium.laaru-dnd5-hw.items.m538Fx1wiAXS003y",
               "quantity": 1,
-              "name": "Камень Иун, Стойкость / Ioun Stone, Fortitude"
+              "name": "Камень Иун, Стойкость / Ioun Stone, Fortitude",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -521,54 +711,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ttat0e",
           "name": null,
           "components": [
             {
+              "id": "0000000000hlk0gb",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "2",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ttat0d",
           "name": null,
           "components": [
             {
+              "id": "00000000000r4kys",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "2",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ttat0c",
           "name": null,
           "components": [
             {
+              "id": "00000000004828vu",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.QuwfEFm8FwJuWFec",
               "quantity": 1,
-              "name": "Ярко синий драгоценный камень (500 зм)"
+              "name": "Ярко синий драгоценный камень (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ttat0b",
           "name": null,
           "components": [
             {
+              "id": "0000000000b15ok3",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
-              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000002jui4d",
           "name": null,
           "components": [
             {
+              "id": "00000000004w3b14",
               "uuid": "Compendium.laaru-dnd5-hw.items.drSZhpegy3m2xqz4",
               "quantity": 1,
-              "name": "Камень Иун, Проницательность / Ioun Stone, Insight"
+              "name": "Камень Иун, Проницательность / Ioun Stone, Insight",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -587,54 +802,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000009lz39o",
           "name": null,
           "components": [
             {
+              "id": "0000000000qcnzbq",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.QuwfEFm8FwJuWFec",
               "quantity": 1,
-              "name": "Ярко синий драгоценный камень (500 зм)"
+              "name": "Ярко синий драгоценный камень (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009lz39n",
           "name": null,
           "components": [
             {
+              "id": "0000000000tf857h",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
-              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009lz39m",
           "name": null,
           "components": [
             {
+              "id": "0000000000g9nwvn",
               "uuid": "Compendium.kraywell-compendium.items.Item.ZapzGoQtyPvbaDmy",
-              "quantity": "3",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 3,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009lz39l",
           "name": null,
           "components": [
             {
+              "id": "0000000000qxegx1",
               "uuid": "Compendium.kraywell-compendium.items.Item.FgIjMHzsMAP22g9s",
               "quantity": 1,
-              "name": "Очень Редкая Первичная Эссенция"
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000af2tn9",
           "name": null,
           "components": [
             {
+              "id": "0000000000xkzy9h",
               "uuid": "Compendium.laaru-dnd5-hw.items.JUdTnxada0PGp9lq",
               "quantity": 1,
-              "name": "Камень Иун, Интеллект / Ioun Stone, Intellect"
+              "name": "Камень Иун, Интеллект / Ioun Stone, Intellect",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -653,44 +893,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000wdrnvd",
           "name": null,
           "components": [
             {
+              "id": "0000000000o2rq4y",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "4",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 4,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wdrnve",
           "name": null,
           "components": [
             {
+              "id": "0000000000i0u756",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.5Mlfm0ngFmYT8MKT",
               "quantity": 1,
-              "name": "Розовый драгоценный камень (500 зм)"
+              "name": "Розовый драгоценный камень (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wdrnvf",
           "name": null,
           "components": [
             {
+              "id": "0000000000at0hu1",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
-              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000csxk4m",
           "name": null,
           "components": [
             {
+              "id": "0000000000j3tqpw",
               "uuid": "Compendium.laaru-dnd5-hw.items.rJw5esiO30lFfCrz",
               "quantity": 1,
-              "name": "Камень Иун, Лидерство / Ioun Stone, Leadership"
+              "name": "Камень Иун, Лидерство / Ioun Stone, Leadership",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -709,64 +969,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000006d0ua6",
           "name": null,
           "components": [
             {
+              "id": "0000000000x4kp6d",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "2",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006d0ua5",
           "name": null,
           "components": [
             {
+              "id": "000000000097zek3",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "2",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006d0ua4",
           "name": null,
           "components": [
             {
+              "id": "0000000000unv1mw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3h5ow5C4wTEimcwX",
               "quantity": 1,
-              "name": "Лавандовый драгоценный камень (500 зм)"
+              "name": "Лавандовый драгоценный камень (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006d0ua3",
           "name": null,
           "components": [
             {
+              "id": "0000000000vegycq",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Ag8pucYVg45kRygi",
               "quantity": 1,
-              "name": "Зеленый драгоценный камень (500 зм)"
+              "name": "Зеленый драгоценный камень (500 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006d0ua2",
           "name": null,
           "components": [
             {
+              "id": "0000000000ni0ko7",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.yXqZppFbVzQbbSVE",
               "quantity": 1,
-              "name": "Свиток заклинания: Поле антимагии / Antimagic Field"
+              "name": "Свиток заклинания: Поле антимагии / Antimagic Field",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000j9auy5",
           "name": null,
           "components": [
             {
+              "id": "0000000000704rz8",
               "uuid": "Compendium.laaru-dnd5-hw.items.LSXpce5Fu3TYHCc8",
               "quantity": 1,
-              "name": "Камень Иун, Высшее поглощение / Ioun Stone, Greater Absorption"
+              "name": "Камень Иун, Высшее поглощение / Ioun Stone, Greater Absorption",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -785,64 +1075,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000fh7yvz",
           "name": null,
           "components": [
             {
+              "id": "0000000000pz5j1c",
               "uuid": "Compendium.kraywell-compendium.items.qHBqZU07foGitJmq",
-              "quantity": "1",
-              "name": "Легендарная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Легендарная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fh7yw0",
           "name": null,
           "components": [
             {
+              "id": "0000000000mspx4w",
               "uuid": "Compendium.kraywell-compendium.items.ZapzGoQtyPvbaDmy",
-              "quantity": "1",
-              "name": "Очень Редкая Арканная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fh7yw1",
           "name": null,
           "components": [
             {
+              "id": "0000000000hqcbu4",
               "uuid": "Compendium.kraywell-compendium.items.FgIjMHzsMAP22g9s",
-              "quantity": "1",
-              "name": "Очень Редкая Первичная Эссенция"
+              "quantity": 1,
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fh7yw2",
           "name": null,
           "components": [
             {
+              "id": "0000000000amug7g",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.SVc5QBpSXVfNtxhm",
               "quantity": 1,
-              "name": "Зеленый драгоценный камень (1000зм)"
+              "name": "Зеленый драгоценный камень (1000зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fh7yw3",
           "name": null,
           "components": [
             {
+              "id": "0000000000aym7e7",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.a0lkZGzBbqcfN11U",
               "quantity": 1,
-              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability"
+              "name": "Свиток заклинания: Усиление характеристики / Enhance Ability",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000e08kio",
           "name": null,
           "components": [
             {
+              "id": "0000000000qq0gu9",
               "uuid": "Compendium.laaru-dnd5-hw.items.5bPRZclsh4XFIqWS",
               "quantity": 1,
-              "name": "Камень Иун, Мастерство / Ioun Stone, Mastery"
+              "name": "Камень Иун, Мастерство / Ioun Stone, Mastery",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -861,54 +1181,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000008n5xd1",
           "name": null,
           "components": [
             {
+              "id": "00000000006tugim",
               "uuid": "Compendium.kraywell-compendium.items.a1VbS8PL0koFscOe",
-              "quantity": "2",
-              "name": "Очень Редкая Божественная Эссенция"
+              "quantity": 2,
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008n5xd2",
           "name": null,
           "components": [
             {
+              "id": "00000000003beez8",
               "uuid": "Compendium.kraywell-compendium.items.tqZRUTXYMo8G5205",
-              "quantity": "2",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008n5xd3",
           "name": null,
           "components": [
             {
+              "id": "0000000000xsruau",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Jhls19rDYumYP6GQ",
               "quantity": 1,
-              "name": "Жемчуг (1000 зм)"
+              "name": "Жемчуг (1000 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008n5xd4",
           "name": null,
           "components": [
             {
+              "id": "0000000000u1fmia",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.GLjfDYSCx5RANHA5",
               "quantity": 1,
-              "name": "Свиток заклинания: Регенерация / Regenerate"
+              "name": "Свиток заклинания: Регенерация / Regenerate",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000csnpwm",
           "name": null,
           "components": [
             {
+              "id": "00000000006ajdce",
               "uuid": "Compendium.laaru-dnd5-hw.items.88l2JV8jr5jZ1PvD",
               "quantity": 1,
-              "name": "Камень Иун, Регенерация / Ioun Stone, Regeneration"
+              "name": "Камень Иун, Регенерация / Ioun Stone, Regeneration",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

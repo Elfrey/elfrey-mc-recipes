@@ -13,64 +13,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000r6iows",
           "name": null,
           "components": [
             {
+              "id": "000000000034zez1",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.kKWvbYeym8nk9ijt",
-              "quantity": "3",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 3,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r6iowt",
           "name": null,
           "components": [
             {
+              "id": "0000000000g0mpxc",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r6iowu",
           "name": null,
           "components": [
             {
+              "id": "0000000000xmel4c",
               "uuid": "Compendium.kraywell-compendium.items.Item.XvyMF34Mqq7LaVKN",
               "quantity": 1,
-              "name": "Дубленая Кожа"
+              "name": "Дубленая Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r6iowv",
           "name": null,
           "components": [
             {
+              "id": "0000000000tqwy4u",
               "uuid": "Compendium.kraywell-compendium.items.Item.BTF3HLUa23hV3vGl",
-              "quantity": "2",
-              "name": "Качественная Ветвь"
+              "quantity": 2,
+              "name": "Качественная Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000r6ioww",
           "name": null,
           "components": [
             {
+              "id": "0000000000xkh0ml",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "5",
-              "name": "Обычные запчасти"
+              "quantity": 5,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006dkfp9",
           "name": null,
           "components": [
             {
+              "id": "00000000004qqmwk",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.4oBe6sQ7jJAIP6MW",
               "quantity": 1,
-              "name": "Карета (Большая) / Carriage (Large)"
+              "name": "Карета (Большая) / Carriage (Large)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -89,54 +119,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000dal1n9",
           "name": null,
           "components": [
             {
+              "id": "0000000000gq1ni2",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.kKWvbYeym8nk9ijt",
-              "quantity": "2",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 2,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dal1na",
           "name": null,
           "components": [
             {
+              "id": "0000000000606y77",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dal1nb",
           "name": null,
           "components": [
             {
+              "id": "00000000007xacmm",
               "uuid": "Compendium.kraywell-compendium.items.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dal1nc",
           "name": null,
           "components": [
             {
+              "id": "0000000000mcjmc4",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
-              "quantity": "4",
-              "name": "Лоскутки кожи / Leather Scraps"
+              "quantity": 4,
+              "name": "Лоскутки кожи / Leather Scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000aov51y",
           "name": null,
           "components": [
             {
+              "id": "00000000009iqwrf",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.1f7BmmNZIsrRhax8",
               "quantity": 1,
-              "name": "Тележка (Большая) / Cart (Large)"
+              "name": "Тележка (Большая) / Cart (Large)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -155,64 +210,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000mutubz",
           "name": null,
           "components": [
             {
+              "id": "0000000000imghi6",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.kKWvbYeym8nk9ijt",
-              "quantity": "2",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 2,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mutuby",
           "name": null,
           "components": [
             {
+              "id": "0000000000dtie69",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "4",
-              "name": "Обычные запчасти"
+              "quantity": 4,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mutubx",
           "name": null,
           "components": [
             {
+              "id": "0000000000h6x1g6",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mutubw",
           "name": null,
           "components": [
             {
+              "id": "0000000000mwagv1",
               "uuid": "Compendium.kraywell-compendium.items.Item.BTF3HLUa23hV3vGl",
-              "quantity": "2",
-              "name": "Качественная Ветвь"
+              "quantity": 2,
+              "name": "Качественная Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mutubv",
           "name": null,
           "components": [
             {
+              "id": "0000000000vw8tvn",
               "uuid": "Compendium.kraywell-compendium.items.Item.XvyMF34Mqq7LaVKN",
-              "quantity": "2",
-              "name": "Дубленая Кожа"
+              "quantity": 2,
+              "name": "Дубленая Кожа",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000055477y",
           "name": null,
           "components": [
             {
+              "id": "0000000000ao39j6",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.PRZfczl9suXYc5hW",
               "quantity": 1,
-              "name": "Колесница (Большая) / Chariot (Large)"
+              "name": "Колесница (Большая) / Chariot (Large)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -231,54 +316,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000d4it80",
           "name": null,
           "components": [
             {
+              "id": "0000000000xv9cwv",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.kKWvbYeym8nk9ijt",
-              "quantity": "2",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 2,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000d4it81",
           "name": null,
           "components": [
             {
+              "id": "0000000000fyhb36",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000d4it82",
           "name": null,
           "components": [
             {
+              "id": "0000000000vlfzxb",
               "uuid": "Compendium.kraywell-compendium.items.Item.98esbLesShR01boL",
-              "quantity": "2",
-              "name": "Обычная Ветвь"
+              "quantity": 2,
+              "name": "Обычная Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000d4it83",
           "name": null,
           "components": [
             {
+              "id": "0000000000h8bss1",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
-              "quantity": "4",
-              "name": "Лоскутки кожи / Leather Scraps"
+              "quantity": 4,
+              "name": "Лоскутки кожи / Leather Scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000fwse6p",
           "name": null,
           "components": [
             {
+              "id": "0000000000ve3rld",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.8YGY8WNSUwKpx1Sd",
               "quantity": 1,
-              "name": "Сани (Большие) / Sled (Large)"
+              "name": "Сани (Большие) / Sled (Large)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -297,54 +407,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000nu5ka9",
           "name": null,
           "components": [
             {
+              "id": "0000000000g1g2se",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "4",
-              "name": "Обычные запчасти"
+              "quantity": 4,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000nu5kaa",
           "name": null,
           "components": [
             {
+              "id": "0000000000gjc31f",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.kKWvbYeym8nk9ijt",
-              "quantity": "3",
-              "name": "Единица Дерева / Unit of Lumber"
+              "quantity": 3,
+              "name": "Единица Дерева / Unit of Lumber",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000nu5kab",
           "name": null,
           "components": [
             {
+              "id": "0000000000k2ztni",
               "uuid": "Compendium.kraywell-compendium.items.Item.BTF3HLUa23hV3vGl",
-              "quantity": "2",
-              "name": "Качественная Ветвь"
+              "quantity": 2,
+              "name": "Качественная Ветвь",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000nu5kac",
           "name": null,
           "components": [
             {
+              "id": "0000000000q2tn00",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.522yWIvYGwd5JgLC",
-              "quantity": "4",
-              "name": "Лоскутки кожи / Leather Scraps"
+              "quantity": 4,
+              "name": "Лоскутки кожи / Leather Scraps",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000w1coum",
           "name": null,
           "components": [
             {
+              "id": "0000000000t1ug1m",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.IRmKIv7Zsd6MJgOE",
               "quantity": 1,
-              "name": "Повозка (Большая) / Wagon (Large)"
+              "name": "Повозка (Большая) / Wagon (Large)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

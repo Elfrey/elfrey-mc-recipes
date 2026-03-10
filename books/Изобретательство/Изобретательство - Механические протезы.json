@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000mmkwlz",
           "name": null,
           "components": [
             {
+              "id": "0000000000vlsm52",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mmkwly",
           "name": null,
           "components": [
             {
+              "id": "0000000000c9lc2y",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "8",
-              "name": "Металлолом"
+              "quantity": 8,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000c8t8ly",
           "name": null,
           "components": [
             {
+              "id": "00000000006wa6dy",
               "uuid": "Compendium.kraywell-compendium.items.mWR1I6PFnqGNvKNq",
               "quantity": 1,
-              "name": "Базовый протез ноги"
+              "name": "Базовый протез ноги",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -59,54 +74,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ani8t7",
           "name": null,
           "components": [
             {
+              "id": "0000000000wny9v2",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "4",
-              "name": "Обычные запчасти"
+              "quantity": 4,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ani8t6",
           "name": null,
           "components": [
             {
+              "id": "0000000000j0ngab",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ani8t5",
           "name": null,
           "components": [
             {
+              "id": "0000000000k25kpz",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "6",
-              "name": "Металлолом"
+              "quantity": 6,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ani8t4",
           "name": null,
           "components": [
             {
+              "id": "0000000000j37nl0",
               "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000sajgii",
           "name": null,
           "components": [
             {
+              "id": "0000000000hcpgtg",
               "uuid": "Compendium.kraywell-compendium.items.JuFGwy4dczs9UOy0",
               "quantity": 1,
-              "name": "Механическая рука"
+              "name": "Механическая рука",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -125,54 +165,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000qwe54b",
           "name": null,
           "components": [
             {
+              "id": "00000000001ab1i0",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "4",
-              "name": "Обычные запчасти"
+              "quantity": 4,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qwe54c",
           "name": null,
           "components": [
             {
+              "id": "0000000000i27abr",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qwe54d",
           "name": null,
           "components": [
             {
+              "id": "00000000003z84wj",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "8",
-              "name": "Металлолом"
+              "quantity": 8,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qwe54e",
           "name": null,
           "components": [
             {
+              "id": "0000000000rwiorm",
               "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000f3hh7w",
           "name": null,
           "components": [
             {
+              "id": "0000000000rqlqrt",
               "uuid": "Compendium.kraywell-compendium.items.XBOLKPEjmUqF7VIg",
               "quantity": 1,
-              "name": "Механическая нога"
+              "name": "Механическая нога",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -191,64 +256,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000009onel9",
           "name": null,
           "components": [
             {
+              "id": "0000000000gre4b4",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "4",
-              "name": "Обычные запчасти"
+              "quantity": 4,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009onel8",
           "name": null,
           "components": [
             {
+              "id": "00000000000s41g8",
               "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
-              "quantity": "1",
-              "name": "Экзотические Запчасти"
+              "quantity": 1,
+              "name": "Экзотические Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009onel7",
           "name": null,
           "components": [
             {
+              "id": "0000000000990i79",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "8",
-              "name": "Металлолом"
+              "quantity": 8,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009onel6",
           "name": null,
           "components": [
             {
+              "id": "0000000000twcq3q",
               "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000009onel5",
           "name": null,
           "components": [
             {
+              "id": "0000000000rzvtwd",
               "uuid": "Compendium.laaru-dnd5-hw.items.osLzOwQdPtrK3rQH",
               "quantity": 1,
-              "name": "Короткий меч / Shortsword"
+              "name": "Короткий меч / Shortsword",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000cq0kmc",
           "name": null,
           "components": [
             {
+              "id": "0000000000ksqr3g",
               "uuid": "Compendium.kraywell-compendium.items.BeKidZp7UuK8s7fU",
               "quantity": 1,
-              "name": "Боевая рука"
+              "name": "Боевая рука",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -267,64 +362,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000bn5wqq",
           "name": null,
           "components": [
             {
+              "id": "0000000000bbmjle",
               "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
-              "quantity": "1",
-              "name": "Экзотические Запчасти"
+              "quantity": 1,
+              "name": "Экзотические Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bn5wqp",
           "name": null,
           "components": [
             {
+              "id": "0000000000x6db9w",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bn5wqo",
           "name": null,
           "components": [
             {
+              "id": "00000000006zw5jv",
               "uuid": "Compendium.laaru-dnd5-hw.items.YN1Af9CjpThY5jlZ",
               "quantity": 1,
-              "name": "Инструменты механика / Tinker's Tools"
+              "name": "Инструменты механика / Tinker's Tools",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bn5wqn",
           "name": null,
           "components": [
             {
+              "id": "0000000000253yv3",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "6",
-              "name": "Металлолом"
+              "quantity": 6,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000bn5wqm",
           "name": null,
           "components": [
             {
+              "id": "0000000000tqmut2",
               "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
-              "quantity": "4",
-              "name": "Необычные Запчасти"
+              "quantity": 4,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000002eu5cv",
           "name": null,
           "components": [
             {
+              "id": "0000000000tl68x2",
               "uuid": "Compendium.kraywell-compendium.items.Ylf4iufRn7VPValn",
               "quantity": 1,
-              "name": "Специализированная механическая рука"
+              "name": "Специализированная механическая рука",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -343,54 +468,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000or8hbh",
           "name": null,
           "components": [
             {
+              "id": "0000000000ojk5zu",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "4",
-              "name": "Обычные запчасти"
+              "quantity": 4,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000or8hbi",
           "name": null,
           "components": [
             {
+              "id": "00000000008ka34y",
               "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
-              "quantity": "2",
-              "name": "Экзотические Запчасти"
+              "quantity": 2,
+              "name": "Экзотические Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000or8hbj",
           "name": null,
           "components": [
             {
+              "id": "0000000000z3ea8s",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000or8hbk",
           "name": null,
           "components": [
             {
+              "id": "0000000000mtqv1s",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "8",
-              "name": "Металлолом"
+              "quantity": 8,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ai8x2m",
           "name": null,
           "components": [
             {
+              "id": "00000000003u0dt9",
               "uuid": "Compendium.kraywell-compendium.items.Odjp4tEtFDKDqau1",
               "quantity": 1,
-              "name": "Подпружиненная нога"
+              "name": "Подпружиненная нога",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

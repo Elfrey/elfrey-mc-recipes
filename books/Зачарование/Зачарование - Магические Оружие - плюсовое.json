@@ -13,79 +13,121 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000s1qomb",
           "name": null,
           "components": [
             {
+              "id": "00000000004hd422",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000s1qoma",
           "name": null,
           "components": [
             {
+              "id": "0000000000xd229z",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
               "quantity": 1,
-              "name": "Арбалетный болт / Crossbow Bolt"
+              "name": "Арбалетный болт / Crossbow Bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000007pdqnx",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
               "quantity": 1,
-              "name": "Игла для трубки / Blowgun Needle"
+              "name": "Игла для трубки / Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ydvo8e",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
               "quantity": 1,
-              "name": "Стрела / Arrow"
+              "name": "Стрела / Arrow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000005qry74",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.6F7kYTToT2ctfJ6W",
               "quantity": 1,
-              "name": "Крылатые ядра для пращи / Winged Ammunition Sling Bullet"
+              "name": "Крылатые ядра для пращи / Winged Ammunition Sling Bullet",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000dqxrq6",
           "name": null,
           "components": [
             {
+              "id": "0000000000vuwdqz",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.ZjUOHSyND2VFXQeP",
               "quantity": 1,
-              "name": "Арбалетный болт +1 / Crossbow Bolt +1"
+              "name": "Арбалетный болт +1 / Crossbow Bolt +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dqxrq5",
           "name": null,
           "components": [
             {
+              "id": "0000000000r6jsab",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.eBYLvBqbuVO5hzyl",
               "quantity": 1,
-              "name": "Игла для трубки +1 / Blowgun Needle +1"
+              "name": "Игла для трубки +1 / Blowgun Needle +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dqxrq4",
           "name": null,
           "components": [
             {
+              "id": "00000000004mt0i6",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.tEWhsb2lYF4uvF0z",
               "quantity": 1,
-              "name": "Стрела +1 / Arrow +1"
+              "name": "Стрела +1 / Arrow +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dqxrq3",
           "name": null,
           "components": [
             {
+              "id": "0000000000r4ekpy",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.NYIib9KEYDUFe9GY",
               "quantity": 1,
-              "name": "Ядро для пращи +1 / Sling Bullet +1"
+              "name": "Ядро для пращи +1 / Sling Bullet +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -104,44 +146,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000q9anvq",
           "name": null,
           "components": [
             {
+              "id": "0000000000mbx8p9",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "2",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 2,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000q9anvr",
           "name": null,
           "components": [
             {
+              "id": "0000000000pf7fft",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "2",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000q9anvs",
           "name": null,
           "components": [
             {
+              "id": "0000000000p131oj",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
               "quantity": 1,
-              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000yzhblz",
           "name": null,
           "components": [
             {
+              "id": "000000000018kwf2",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.nl7cc7Z1HpSHbUdQ",
               "quantity": 1,
-              "name": "Алебарда +1 / Halberd +1"
+              "name": "Алебарда +1 / Halberd +1",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -160,79 +222,121 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000005gcmyq",
           "name": null,
           "components": [
             {
+              "id": "00000000002jokc5",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "2",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 2,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000005gcmyp",
           "name": null,
           "components": [
             {
+              "id": "000000000083vp7e",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
               "quantity": 1,
-              "name": "Арбалетный болт / Crossbow Bolt"
+              "name": "Арбалетный болт / Crossbow Bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000lusjtu",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
               "quantity": 1,
-              "name": "Игла для трубки / Blowgun Needle"
+              "name": "Игла для трубки / Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "000000000073238z",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
               "quantity": 1,
-              "name": "Стрела / Arrow"
+              "name": "Стрела / Arrow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000ntecan",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.6F7kYTToT2ctfJ6W",
               "quantity": 1,
-              "name": "Крылатые ядра для пращи / Winged Ammunition Sling Bullet"
+              "name": "Крылатые ядра для пращи / Winged Ammunition Sling Bullet",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000nmyw67",
           "name": null,
           "components": [
             {
+              "id": "0000000000tq3cd5",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.x1GUgZYjMubaFavx",
               "quantity": 1,
-              "name": "Арбалетный болт +2 / Crossbow Bolt +2"
+              "name": "Арбалетный болт +2 / Crossbow Bolt +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000nmyw66",
           "name": null,
           "components": [
             {
+              "id": "0000000000h2ewaj",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.bePrTVQvbqaQlSYi",
               "quantity": 1,
-              "name": "Игла для трубки +2 Blowgun Needle"
+              "name": "Игла для трубки +2 Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000nmyw65",
           "name": null,
           "components": [
             {
+              "id": "0000000000s0stnz",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.gLkbbUtGhQgYANM8",
               "quantity": 1,
-              "name": "Стрела +2 / Arrow +2"
+              "name": "Стрела +2 / Arrow +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000nmyw64",
           "name": null,
           "components": [
             {
+              "id": "00000000007n4g8k",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.BNJmdttKvIwC08Pd",
               "quantity": 1,
-              "name": "Ядро для пращи +2 / Sling Bullet +2"
+              "name": "Ядро для пращи +2 / Sling Bullet +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -251,89 +355,136 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000002gn4gu",
           "name": null,
           "components": [
             {
+              "id": "00000000007wcygp",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.SItCnYBqhzqBoaWG",
               "quantity": 1,
-              "name": "Арбалетный болт / Crossbow Bolt"
+              "name": "Арбалетный болт / Crossbow Bolt",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000m2bakj",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.gBQ8xqTA5f8wP5iu",
               "quantity": 1,
-              "name": "Игла для трубки / Blowgun Needle"
+              "name": "Игла для трубки / Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000006vjcia",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.3c7JXOzsv55gqJS5",
               "quantity": 1,
-              "name": "Стрела / Arrow"
+              "name": "Стрела / Arrow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000o0x31c",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.6F7kYTToT2ctfJ6W",
               "quantity": 1,
-              "name": "Крылатые ядра для пращи / Winged Ammunition Sling Bullet"
+              "name": "Крылатые ядра для пращи / Winged Ammunition Sling Bullet",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002gn4gv",
           "name": null,
           "components": [
             {
+              "id": "00000000009fkvbu",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
               "quantity": 1,
-              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002gn4gw",
           "name": null,
           "components": [
             {
+              "id": "00000000000p2lhn",
               "uuid": "Compendium.kraywell-compendium.items.Item.a6BDLM9QZqUfqsTf",
               "quantity": 1,
-              "name": "Необычная Арканная Эссенция"
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000008ohkap",
           "name": null,
           "components": [
             {
+              "id": "0000000000bx3v49",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.XXLznzi3rlanMhTM",
               "quantity": 1,
-              "name": "Арбалетный болт +3 / Crossbow Bolt +3"
+              "name": "Арбалетный болт +3 / Crossbow Bolt +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008ohkaq",
           "name": null,
           "components": [
             {
+              "id": "0000000000vzws4u",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.hX9bmvbfdn1wXjiV",
               "quantity": 1,
-              "name": "Игла для трубки +3 Blowgun Needle"
+              "name": "Игла для трубки +3 Blowgun Needle",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008ohkar",
           "name": null,
           "components": [
             {
+              "id": "0000000000t9vvda",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.IY5PveXrF7VoFlWg",
               "quantity": 1,
-              "name": "Стрела +3 / Arrow +3"
+              "name": "Стрела +3 / Arrow +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000008ohkas",
           "name": null,
           "components": [
             {
+              "id": "0000000000f4mbef",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.x9I9vdo4kafHDjcO",
               "quantity": 1,
-              "name": "Ядро для пращи +3 / Sling Bullet +3"
+              "name": "Ядро для пращи +3 / Sling Bullet +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -352,54 +503,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000096l248",
           "name": null,
           "components": [
             {
+              "id": "0000000000w58dnh",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
               "quantity": 1,
-              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000096l247",
           "name": null,
           "components": [
             {
+              "id": "0000000000igukeg",
               "uuid": "Compendium.kraywell-compendium.items.Item.ar4cwYPgx4fKoMe3",
-              "quantity": "2",
-              "name": "Редкая Арканная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000096l246",
           "name": null,
           "components": [
             {
+              "id": "0000000000kq769x",
               "uuid": "Compendium.kraywell-compendium.items.Item.tqZRUTXYMo8G5205",
-              "quantity": "2",
-              "name": "Редкая Божественная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000096l245",
           "name": null,
           "components": [
             {
+              "id": "0000000000x9tajj",
               "uuid": "Compendium.kraywell-compendium.items.Item.eGG8CbqpTxxau5ud",
-              "quantity": "2",
-              "name": "Редкая Первичная Эссенция"
+              "quantity": 2,
+              "name": "Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000002u061j",
           "name": null,
           "components": [
             {
+              "id": "000000000049xqhz",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.6ndqUhOySYVVQ5on",
               "quantity": 1,
-              "name": "Алебарда +2 / Halberd +2"
+              "name": "Алебарда +2 / Halberd +2",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -418,64 +594,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000002y5al4",
           "name": null,
           "components": [
             {
+              "id": "0000000000t1y7el",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.eVV6L5r5OtngaiCO",
-              "quantity": "2",
-              "name": "Свиток заклинания: Волшебное оружие / Magic weapon"
+              "quantity": 2,
+              "name": "Свиток заклинания: Волшебное оружие / Magic weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002y5al3",
           "name": null,
           "components": [
             {
+              "id": "00000000002pjkri",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.yPAMAkQBaj3JEql3",
-              "quantity": "1",
-              "name": "Свиток заклинания: Вострое оружие / Vorpal Weapon"
+              "quantity": 1,
+              "name": "Свиток заклинания: Вострое оружие / Vorpal Weapon",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002y5al2",
           "name": null,
           "components": [
             {
+              "id": "000000000051dpdr",
               "uuid": "Compendium.kraywell-compendium.items.Item.ZapzGoQtyPvbaDmy",
               "quantity": 1,
-              "name": "Очень Редкая Арканная Эссенция"
+              "name": "Очень Редкая Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002y5al1",
           "name": null,
           "components": [
             {
+              "id": "00000000002n78tz",
               "uuid": "Compendium.kraywell-compendium.items.Item.a1VbS8PL0koFscOe",
               "quantity": 1,
-              "name": "Очень Редкая Божественная Эссенция"
+              "name": "Очень Редкая Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000002y5al0",
           "name": null,
           "components": [
             {
+              "id": "0000000000pr5gj4",
               "uuid": "Compendium.kraywell-compendium.items.Item.FgIjMHzsMAP22g9s",
               "quantity": 1,
-              "name": "Очень Редкая Первичная Эссенция"
+              "name": "Очень Редкая Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000gzrafd",
           "name": null,
           "components": [
             {
+              "id": "00000000006xefgs",
               "uuid": "Compendium.laaru-dnd5-hw.items.Item.EU78dSbnr91QWZ7g",
               "quantity": 1,
-              "name": "Алебарда +3 / Halberd +3"
+              "name": "Алебарда +3 / Halberd +3",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

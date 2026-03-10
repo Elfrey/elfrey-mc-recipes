@@ -13,24 +13,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000a985cs",
           "name": null,
           "components": [
             {
+              "id": "00000000007sxqlg",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "5",
-              "name": "Металлолом"
+              "quantity": 5,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000xtuw3h",
           "name": null,
           "components": [
             {
+              "id": "00000000005oxdwt",
               "uuid": "Compendium.kraywell-compendium.items.Item.JvROpigr0jg2osWb",
               "quantity": 1,
-              "name": "Обычные запчасти"
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -49,64 +59,94 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000gox6ux",
           "name": null,
           "components": [
             {
+              "id": "0000000000uccpys",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gox6uw",
           "name": null,
           "components": [
             {
+              "id": "00000000007w7r48",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "2",
-              "name": "Металлолом"
+              "quantity": 2,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gox6uv",
           "name": null,
           "components": [
             {
+              "id": "0000000000v95h6r",
               "uuid": "Compendium.kraywell-compendium.items.Item.RopGsT9e4NsXd68Q",
               "quantity": 1,
-              "name": "Необычные Запчасти"
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000gv3r0o",
           "name": null,
           "components": [
             {
+              "id": "0000000000a2trw1",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Z9fLKEgLMb1U7JqR",
               "quantity": 1,
-              "name": "Автомагазин для ручного арбалета / Autoloader Hand Crossbow"
+              "name": "Автомагазин для ручного арбалета / Autoloader Hand Crossbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gv3r0n",
           "name": null,
           "components": [
             {
+              "id": "0000000000uzlw97",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.ltALpmFS5TPtXJsY",
               "quantity": 1,
-              "name": "Автомагазин для тяжелого арбалета / Autoloader Heavy Crossbow"
+              "name": "Автомагазин для тяжелого арбалета / Autoloader Heavy Crossbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000gv3r0m",
           "name": null,
           "components": [
             {
+              "id": "0000000000in8r16",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.cqXj0Pkpp6dQtAtM",
               "quantity": 1,
-              "name": "Автомазагин для лёгкого арбалета / Autoloader Light Crossbow"
+              "name": "Автомазагин для лёгкого арбалета / Autoloader Light Crossbow",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

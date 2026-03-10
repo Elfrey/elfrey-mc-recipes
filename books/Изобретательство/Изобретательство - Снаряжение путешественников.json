@@ -13,44 +13,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000hquvz4",
           "name": null,
           "components": [
             {
+              "id": "00000000001ecej7",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hquvz3",
           "name": null,
           "components": [
             {
+              "id": "0000000000e1d6jz",
               "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
-              "quantity": "1",
-              "name": "Стеклянная Колба"
+              "quantity": 1,
+              "name": "Стеклянная Колба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hquvz2",
           "name": null,
           "components": [
             {
+              "id": "0000000000essli6",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "3",
-              "name": "Металлолом"
+              "quantity": 3,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000lhzocf",
           "name": null,
           "components": [
             {
+              "id": "0000000000jvjnrn",
               "uuid": "Compendium.laaru-dnd5-hw.goods.UkWdyJYQTfVX2cJW",
               "quantity": 1,
-              "name": "Фонарь потайной / Bullseye Lantern"
+              "name": "Фонарь потайной / Bullseye Lantern",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -69,44 +89,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000s5czpl",
           "name": null,
           "components": [
             {
+              "id": "0000000000koyf3q",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000s5czpm",
           "name": null,
           "components": [
             {
+              "id": "000000000081xn2y",
               "uuid": "Compendium.kraywell-compendium.items.w2mbfwrZrWehpyRV",
-              "quantity": "1",
-              "name": "Стеклянная Колба"
+              "quantity": 1,
+              "name": "Стеклянная Колба",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000s5czpn",
           "name": null,
           "components": [
             {
+              "id": "0000000000yv8nwr",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "3",
-              "name": "Металлолом"
+              "quantity": 3,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000nmiv3q",
           "name": null,
           "components": [
             {
+              "id": "0000000000wx180n",
               "uuid": "Compendium.laaru-dnd5-hw.items.i159KL5gSWDP5Rhw",
               "quantity": 1,
-              "name": "Фонарь обычный / Hooded Lantern"
+              "name": "Фонарь обычный / Hooded Lantern",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -125,24 +165,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000it0kte",
           "name": null,
           "components": [
             {
+              "id": "0000000000squece",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "2",
-              "name": "Металлолом"
+              "quantity": 2,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000bcwpq7",
           "name": null,
           "components": [
             {
+              "id": "00000000008g8liv",
               "uuid": "Compendium.laaru-dnd5-hw.items.peflR4giVvb8bbtE",
               "quantity": 1,
-              "name": "Лампа / Lamp"
+              "name": "Лампа / Lamp",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -161,34 +211,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000xvc6mt",
           "name": null,
           "components": [
             {
+              "id": "0000000000ffjyoo",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "3",
-              "name": "Обычные запчасти"
+              "quantity": 3,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000xvc6ms",
           "name": null,
           "components": [
             {
+              "id": "0000000000u5m4r8",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "2",
-              "name": "Металлолом"
+              "quantity": 2,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000iuvvro",
           "name": null,
           "components": [
             {
+              "id": "00000000006xvmse",
               "uuid": "Compendium.laaru-dnd5-hw.goods.xwUWrV15s9jLnmfZ",
               "quantity": 1,
-              "name": "Замок / Lock"
+              "name": "Замок / Lock",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -207,44 +272,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000qr7u5o",
           "name": null,
           "components": [
             {
+              "id": "0000000000tbuy3j",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qr7u5n",
           "name": null,
           "components": [
             {
+              "id": "00000000000azccm",
               "uuid": "Compendium.laaru-dnd5-hw.items.xLmr5BfpXh9k6huh",
               "quantity": 1,
-              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000qr7u5m",
           "name": null,
           "components": [
             {
+              "id": "00000000007eohka",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "2",
-              "name": "Металлолом"
+              "quantity": 2,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000qbagln",
           "name": null,
           "components": [
             {
+              "id": "0000000000n0z6s1",
               "uuid": "Compendium.laaru-dnd5-hw.goods.tfDxZIKDpOkz6pbx",
               "quantity": 1,
-              "name": "Крюк-кошка / Grapping Hook"
+              "name": "Крюк-кошка / Grapping Hook",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -263,54 +348,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000cih1ev",
           "name": null,
           "components": [
             {
+              "id": "000000000011eh1w",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "4",
-              "name": "Обычные запчасти"
+              "quantity": 4,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000cih1ew",
           "name": null,
           "components": [
             {
+              "id": "0000000000w1twob",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "1",
-              "name": "Необычные Запчасти"
+              "quantity": 1,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000cih1ex",
           "name": null,
           "components": [
             {
+              "id": "0000000000mf73i0",
               "uuid": "Compendium.laaru-dnd5-hw.goods.TqyvIglHDj5kfohR",
-              "quantity": "10",
-              "name": "Колышек / Piton"
+              "quantity": 10,
+              "name": "Колышек / Piton",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000cih1ey",
           "name": null,
           "components": [
             {
+              "id": "0000000000c2rf0k",
               "uuid": "Compendium.laaru-dnd5-hw.items.paTQEc0X9JZ0Wych",
               "quantity": 1,
-              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)"
+              "name": "Пеньковая верёвка (50 футов) / Hempen Rope (50ft.)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ywbca0",
           "name": null,
           "components": [
             {
+              "id": "0000000000fcc1lt",
               "uuid": "Compendium.laaru-dnd5-hw.goods.ugzwHl8vYaPu2GNd",
               "quantity": 1,
-              "name": "Набор верхолаза / Climber's Kit"
+              "name": "Набор верхолаза / Climber's Kit",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -329,34 +439,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000rt06hs",
           "name": null,
           "components": [
             {
+              "id": "0000000000q7tmab",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "2",
-              "name": "Обычные запчасти"
+              "quantity": 2,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000rt06hr",
           "name": null,
           "components": [
             {
+              "id": "0000000000p8t42p",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
               "quantity": 1,
-              "name": "Металлолом"
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000006845tt",
           "name": null,
           "components": [
             {
+              "id": "000000000033wcv2",
               "uuid": "Compendium.laaru-dnd5-hw.goods.vJvb6fx3JVPmhG8x",
               "quantity": 1,
-              "name": "Весы торговые / Merchant's Scale"
+              "name": "Весы торговые / Merchant's Scale",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -375,34 +500,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000irt028",
           "name": null,
           "components": [
             {
+              "id": "00000000003rfdq5",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000irt027",
           "name": null,
           "components": [
             {
+              "id": "0000000000l1rk1d",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
               "quantity": 1,
-              "name": "Металлолом"
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000abduc1",
           "name": null,
           "components": [
             {
+              "id": "0000000000178bjd",
               "uuid": "Compendium.laaru-dnd5-hw.items.skm6hRI8A7xJj5qx",
               "quantity": 1,
-              "name": "Огниво / Tinderbox"
+              "name": "Огниво / Tinderbox",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -421,44 +561,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000m58smg",
           "name": null,
           "components": [
             {
+              "id": "000000000018qhn9",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000m58smh",
           "name": null,
           "components": [
             {
+              "id": "0000000000ic3k1v",
               "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
-              "quantity": "5",
-              "name": "Экзотические Запчасти"
+              "quantity": 5,
+              "name": "Экзотические Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000m58smi",
           "name": null,
           "components": [
             {
+              "id": "00000000001xyrva",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "2",
-              "name": "Металлолом"
+              "quantity": 2,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000kev4nd",
           "name": null,
           "components": [
             {
+              "id": "0000000000oa3rql",
               "uuid": "Compendium.laaru-dnd5-hw.goods.WCafDVKITxwnlf2x",
               "quantity": 1,
-              "name": "Подзорная труба / Spyglass"
+              "name": "Подзорная труба / Spyglass",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -477,34 +637,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000tinl22",
           "name": null,
           "components": [
             {
+              "id": "0000000000v3p693",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tinl23",
           "name": null,
           "components": [
             {
+              "id": "0000000000uphva3",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "2",
-              "name": "Металлолом"
+              "quantity": 2,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000004ygt4r",
           "name": null,
           "components": [
             {
+              "id": "0000000000091jtv",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.UspLCsXwwTMpKGk2",
               "quantity": 1,
-              "name": "Заводной таймер / Windup Timer"
+              "name": "Заводной таймер / Windup Timer",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -523,34 +698,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000us94jp",
           "name": null,
           "components": [
             {
+              "id": "0000000000y8mxqw",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "3",
-              "name": "Обычные запчасти"
+              "quantity": 3,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000us94jo",
           "name": null,
           "components": [
             {
+              "id": "0000000000z6ef5w",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "2",
-              "name": "Металлолом"
+              "quantity": 2,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000rjpfi4",
           "name": null,
           "components": [
             {
+              "id": "0000000000jbodsk",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.lLaQCderCbAkHMft",
               "quantity": 1,
-              "name": "Заводная игрушка / Clockwork Toy"
+              "name": "Заводная игрушка / Clockwork Toy",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -569,54 +759,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000007a6k4k",
           "name": null,
           "components": [
             {
+              "id": "00000000002t8hn3",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "3",
-              "name": "Обычные запчасти"
+              "quantity": 3,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007a6k4l",
           "name": null,
           "components": [
             {
+              "id": "0000000000s76xzc",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "1",
-              "name": "Необычные Запчасти"
+              "quantity": 1,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007a6k4m",
           "name": null,
           "components": [
             {
+              "id": "0000000000b3tvkq",
               "uuid": "Compendium.kraywell-compendium.items.qPul63Mck3GPwBC8",
-              "quantity": "1",
-              "name": "Экзотические Запчасти"
+              "quantity": 1,
+              "name": "Экзотические Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000007a6k4n",
           "name": null,
           "components": [
             {
+              "id": "000000000082ndy1",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
               "quantity": 1,
-              "name": "Металлолом"
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000g1zxrv",
           "name": null,
           "components": [
             {
+              "id": "0000000000e5bzct",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.YriflOI2pXIm5A6D",
               "quantity": 1,
-              "name": "Часы / Watch"
+              "name": "Часы / Watch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -635,44 +850,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000jsm3ke",
           "name": null,
           "components": [
             {
+              "id": "0000000000j9qmb9",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "2",
-              "name": "Необычные Запчасти"
+              "quantity": 2,
+              "name": "Необычные Запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000jsm3kd",
           "name": null,
           "components": [
             {
+              "id": "0000000000qren5f",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "4",
-              "name": "Металлолом"
+              "quantity": 4,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000jsm3kc",
           "name": null,
           "components": [
             {
+              "id": "00000000005d8kp2",
               "uuid": "Compendium.kraywell-compendium.items.Item.e6KCdCaiuFufij6l",
-              "quantity": "3",
-              "name": "Обычная Первичная Эссенция"
+              "quantity": 3,
+              "name": "Обычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000t0o6zx",
           "name": null,
           "components": [
             {
+              "id": "0000000000xnznvo",
               "uuid": "Compendium.kraywell-compendium.items.0QZAX6PIxLEch8lj",
               "quantity": 1,
-              "name": "Снаряжение для подводного дыхания"
+              "name": "Снаряжение для подводного дыхания",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -691,34 +926,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000fe8rg3",
           "name": null,
           "components": [
             {
+              "id": "0000000000r6ys68",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти"
+              "quantity": 1,
+              "name": "Обычные запчасти",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000fe8rg4",
           "name": null,
           "components": [
             {
+              "id": "0000000000nltp84",
               "uuid": "Compendium.kraywell-compendium.items.Item.WM5QIXEpjlD68jP5",
-              "quantity": "2",
-              "name": "Металлолом"
+              "quantity": 2,
+              "name": "Металлолом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000gkjz78",
           "name": null,
           "components": [
             {
+              "id": "0000000000v8inku",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.oOuBecIMBbTpglcg",
               "quantity": 1,
-              "name": "Дрель / Drill"
+              "name": "Дрель / Drill",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

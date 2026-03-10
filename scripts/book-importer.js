@@ -2,24 +2,6 @@ import { EMCR_CONST } from './consts.js';
 import { OwnershipManager } from './ownership-manager.js'
 
 
-function generateIdFromName(name) {
-    // Convert string to hash number
-    let hash = 0;
-    for (let i = 0; i < name.length; i++) {
-        const char = name.charCodeAt(i);
-        hash = ((hash << 5) - hash) + char;
-        hash = hash & hash; // Convert to 32-bit integer
-    }
-
-    // Convert hash to base36 and take last 16 characters
-    const positiveHash = Math.abs(hash);
-    const base36 = positiveHash.toString(36);
-
-    // Pad with zeros if needed to ensure 16 characters
-    const padded = '0'.repeat(16) + base36;
-    return padded.slice(-16);
-}
-
 class BookImporter extends FormApplication {
     static get defaultOptions() {
         return mergeObject(super.defaultOptions, {
@@ -39,15 +21,23 @@ class BookImporter extends FormApplication {
         this.books = [];
     }
 
-    _removeCircularRefs(obj, seen = new WeakSet()) {
-        if (typeof obj === 'object' && obj !== null) {
-            if (seen.has(obj)) return;
-            seen.add(obj);
-            for (const key of Object.keys(obj)) {
-                obj[key] = this._removeCircularRefs(obj[key], seen);
+    async _enrichComponents(things) {
+        const result = [];
+        for (const thing of things) {
+            const enriched = { ...thing };
+            enriched.components = [];
+            for (const comp of (thing.components || [])) {
+                const item = await fromUuid(comp.uuid).catch(() => null);
+                enriched.components.push({
+                    ...comp,
+                    img: comp.img || (item ? item.img : "icons/commodities/materials/powder-grey.webp"),
+                    tags: comp.tags || [],
+                    resourcePath: comp.resourcePath || "",
+                });
             }
+            result.push(enriched);
         }
-        return obj;
+        return result;
     }
 
     _onManageOwnership(event) {
@@ -83,7 +73,6 @@ class BookImporter extends FormApplication {
                         this.books.push({
                             ...bookData,
                             category: journal.name,
-
                             enabled: false
                         });
                     }
@@ -100,20 +89,16 @@ class BookImporter extends FormApplication {
 
         // Tab handling
         html.find('.emcr-tab-item').click(ev => {
-            // Remove active class from all tabs and contents
             html.find('.emcr-tab-item').removeClass('active');
             html.find('.emcr-tab-content').removeClass('active');
 
-            // Add active class to clicked tab and corresponding content
             const tab = ev.currentTarget.dataset.tab;
             ev.currentTarget.classList.add('active');
             html.find(`.emcr-tab-content[data-tab="${tab}"]`).addClass('active');
         });
 
         html.find('.emcr-book-checkbox').on('change', this._onToggleBook.bind(this));
-        html.find('.emcr-book-checkbox').on('change', this._onToggleBook.bind(this));
         html.find('#emcr-import-button').click(this._onImport.bind(this));
-
         html.find('#emcr-manage-ownership').click(this._onManageOwnership.bind(this));
     }
 
@@ -126,7 +111,6 @@ class BookImporter extends FormApplication {
         }
     }
 
-
     async _onImport(event) {
         event.preventDefault();
         const selectedBooks = this.books.filter(book => book.enabled);
@@ -137,33 +121,91 @@ class BookImporter extends FormApplication {
         }
 
         try {
-            let recipeBooks = game.settings.get(EMCR_CONST.MASTERCRAFTED_MODULE_ID, 'recipeBooks') || [];
-            const RecipeBook = ui.RecipeApp.RecipeBook;
+            // Find or create the Mastercrafted folder
+            const folderId = game.folders.find(f =>
+                f.type === "JournalEntry" && f.flags?.mastercrafted?.mainMastercraftedFolder
+            )?.id ?? (await Folder.create({
+                name: "Mastercrafted",
+                sorting: "a",
+                type: "JournalEntry",
+                flags: { mastercrafted: { mainMastercraftedFolder: true } },
+            })).id;
 
             for (const book of selectedBooks) {
-                const existingBookIndex = recipeBooks.findIndex(b => b.name === book.name);
-                const {
-                    category, documentName, enabled, path, id, ...restBook
-                } = book;
-                const newBook = new RecipeBook({
-                    ...restBook,
-                    id: id ? id : foundry.utils.randomID(),
-                });
-                const newBookParsed = this._removeCircularRefs(newBook);
+                const { category, enabled, documentName, path, id, ...bookData } = book;
 
-                if (existingBookIndex !== -1) {
-                    recipeBooks[existingBookIndex] = {
-                        ...newBookParsed
-                    };
-                    ui.notifications.info(game.i18n.format("emcr.notifications.updateSuccess", {name: book.name}));
+                const pages = [];
+                for (const recipe of (bookData.recipes || [])) {
+                    const ingredients = await this._enrichComponents(recipe.ingredients || []);
+                    const products = await this._enrichComponents(recipe.products || []);
+                    pages.push({
+                        name: recipe.name,
+                        type: "mastercrafted.mastercrafted",
+                        text: {
+                            content: recipe.description ? `<p>${recipe.description}</p>` : `<p></p>`,
+                            format: 1
+                        },
+                        ownership: { default: CONST.DOCUMENT_OWNERSHIP_LEVELS.INHERIT },
+                        flags: {
+                            mastercrafted: {
+                                img: recipe.img || "",
+                                ingredients,
+                                ingredientsInspection: recipe.ingredientsInspection || false,
+                                macroName: recipe.macroName || "",
+                                products,
+                                productInspection: recipe.productInspection || false,
+                                sound: recipe.sound || "",
+                                time: recipe.time || null,
+                                require: recipe.tools || recipe.require || "",
+                                toolDc: null,
+                                toolCheck: null,
+                                abilityCheck: null,
+                                abilityDc: null,
+                                expression: "",
+                                modifierList: [],
+                            }
+                        }
+                    });
+                }
+
+                const bookFlags = {
+                    mastercrafted: {
+                        description: bookData.description || "",
+                        img: bookData.img || "",
+                        ingredientsInspection: bookData.ingredientsInspection,
+                        productInspection: bookData.productInspection,
+                        sound: bookData.sound || "",
+                        require: bookData.tools || bookData.require || "",
+                    }
+                };
+
+                const existingJournal = game.journal.getName(bookData.name);
+
+                if (existingJournal) {
+                    await existingJournal.update({ flags: bookFlags });
+                    const pageIds = existingJournal.pages.map(p => p.id);
+                    if (pageIds.length) await existingJournal.deleteEmbeddedDocuments("JournalEntryPage", pageIds);
+                    await existingJournal.createEmbeddedDocuments("JournalEntryPage", pages);
+                    const recipeBook = { id: existingJournal.id, name: existingJournal.name, ownership: existingJournal.ownership, ...existingJournal.flags.mastercrafted };
+                    for (const page of existingJournal.pages) {
+                        await page.update({ flags: { mastercrafted: { recipeBook } } });
+                    }
+                    ui.notifications.info(game.i18n.format("emcr.notifications.updateSuccess", { name: bookData.name }));
                 } else {
-                    recipeBooks.push(newBookParsed);
-                    ui.notifications.info(game.i18n.format("emcr.notifications.importSuccess", {name: book.name}));
+                    const newJournal = await JournalEntry.create({
+                        name: bookData.name,
+                        folder: folderId,
+                        ownership: { default: CONST.DOCUMENT_OWNERSHIP_LEVELS.NONE },
+                        pages: pages,
+                        flags: bookFlags,
+                    });
+                    const recipeBook = { id: newJournal.id, name: newJournal.name, ownership: newJournal.ownership, ...newJournal.flags.mastercrafted };
+                    for (const page of newJournal.pages) {
+                        await page.update({ flags: { mastercrafted: { recipeBook } } });
+                    }
+                    ui.notifications.info(game.i18n.format("emcr.notifications.importSuccess", { name: bookData.name }));
                 }
             }
-
-            await game.settings.set(EMCR_CONST.MASTERCRAFTED_MODULE_ID, 'recipeBooks', recipeBooks);
-
         } catch (error) {
             console.error('Error importing books:', error);
             ui.notifications.error(game.i18n.localize("emcr.notifications.loadFailed"));

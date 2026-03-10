@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000i6nm23",
           "name": null,
           "components": [
             {
+              "id": "0000000000fw72w8",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000i6nm24",
           "name": null,
           "components": [
             {
+              "id": "0000000000vl48qb",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.tsB8f9VcfOUHeWKq",
               "quantity": 1,
-              "name": "Алмаз (25 зм)"
+              "name": "Алмаз (25 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000014vo8c",
           "name": null,
           "components": [
             {
+              "id": "0000000000xxemdl",
               "uuid": "Compendium.kraywell-compendium.items.iA8n66QO4jQzoS1m",
               "quantity": 1,
-              "name": "Бриллиантовый Алмаз"
+              "name": "Бриллиантовый Алмаз",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -59,34 +74,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000isl38n",
           "name": null,
           "components": [
             {
+              "id": "0000000000rf56xu",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
-              "quantity": "1",
-              "name": "Обычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000isl38m",
           "name": null,
           "components": [
             {
+              "id": "0000000000p2uqgj",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.Km5voNhf6itPDhKo",
               "quantity": 1,
-              "name": "Изумруд (25 зм)"
+              "name": "Изумруд (25 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000azkkuy",
           "name": null,
           "components": [
             {
+              "id": "0000000000to71z4",
               "uuid": "Compendium.kraywell-compendium.items.G7Sjg1kR1jk6jB8X",
               "quantity": 1,
-              "name": "Шипучий Изумруд"
+              "name": "Шипучий Изумруд",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -105,34 +135,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000003eb7xv",
           "name": null,
           "components": [
             {
+              "id": "0000000000siva36",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
-              "quantity": "1",
-              "name": "Обычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000003eb7xu",
           "name": null,
           "components": [
             {
+              "id": "0000000000nc8api",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.qrGhuYGx3FuJDarX",
               "quantity": 1,
-              "name": "Рубин (50 зм)"
+              "name": "Рубин (50 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000uwv0em",
           "name": null,
           "components": [
             {
+              "id": "0000000000lp67yw",
               "uuid": "Compendium.kraywell-compendium.items.nDyQW5jXzyrXTEbj",
               "quantity": 1,
-              "name": "Мерцающий Рубин"
+              "name": "Мерцающий Рубин",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -151,34 +196,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000kftjjq",
           "name": null,
           "components": [
             {
+              "id": "0000000000vont0o",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000kftjjr",
           "name": null,
           "components": [
             {
+              "id": "0000000000pysbpo",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.xWER7bNGLipqNdpY",
               "quantity": 1,
-              "name": "Синий сапфир (25 зм)"
+              "name": "Синий сапфир (25 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000029vw0n",
           "name": null,
           "components": [
             {
+              "id": "0000000000835xtz",
               "uuid": "Compendium.kraywell-compendium.items.R8kDiBTN7JcPDW2k",
               "quantity": 1,
-              "name": "Сияющий Сапфир"
+              "name": "Сияющий Сапфир",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -197,44 +257,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ou96ib",
           "name": null,
           "components": [
             {
+              "id": "0000000000p9ca8j",
               "uuid": "Compendium.kraywell-compendium.items.fd8yTaU2XEpZKAD6",
-              "quantity": "1",
-              "name": "Обычная Божественная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ou96ia",
           "name": null,
           "components": [
             {
+              "id": "0000000000eic1e8",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ou96i9",
           "name": null,
           "components": [
             {
+              "id": "0000000000ka8r81",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.It0pFzQrDXukwXFC",
               "quantity": 1,
-              "name": "Гранат (100 зм)"
+              "name": "Гранат (100 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000eo0rqq",
           "name": null,
           "components": [
             {
+              "id": "0000000000c8wp9f",
               "uuid": "Compendium.kraywell-compendium.items.OuAvNScj1eu4bRqD",
               "quantity": 1,
-              "name": "Сверкающий Гранат"
+              "name": "Сверкающий Гранат",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -253,34 +333,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000t0e8kp",
           "name": null,
           "components": [
             {
+              "id": "0000000000fhyjf9",
               "uuid": "Compendium.kraywell-compendium.items.a6BDLM9QZqUfqsTf",
-              "quantity": "1",
-              "name": "Необычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Необычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000t0e8kq",
           "name": null,
           "components": [
             {
+              "id": "0000000000ncaawn",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.IN5BaEiyFoXMsGwj",
               "quantity": 1,
-              "name": "Алмаз (100 зм)"
+              "name": "Алмаз (100 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000koik2y",
           "name": null,
           "components": [
             {
+              "id": "00000000009r47ki",
               "uuid": "Compendium.kraywell-compendium.items.oQPW5itOeSKbXJfI",
               "quantity": 1,
-              "name": "Магический Алмаз"
+              "name": "Магический Алмаз",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -299,44 +394,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000k641d0",
           "name": null,
           "components": [
             {
+              "id": "0000000000de8a53",
               "uuid": "Compendium.kraywell-compendium.items.hvLwoGx3M7yTCWrN",
-              "quantity": "1",
-              "name": "Обычная Арканная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Арканная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000k641cz",
           "name": null,
           "components": [
             {
+              "id": "0000000000lx9afy",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
-              "quantity": "1",
-              "name": "Обычная Первичная Эссенция"
+              "quantity": 1,
+              "name": "Обычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000k641cy",
           "name": null,
           "components": [
             {
+              "id": "00000000007cw0q0",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.XSA0aBZXksWJKnIr",
               "quantity": 1,
-              "name": "Драгоценный камень (50 зм)"
+              "name": "Драгоценный камень (50 зм)",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000he83cz",
           "name": null,
           "components": [
             {
+              "id": "0000000000eoiyf8",
               "uuid": "Compendium.kraywell-compendium.items.CswZA5apkkhanXXt",
               "quantity": 1,
-              "name": "Идеальное Инкрустирование"
+              "name": "Идеальное Инкрустирование",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

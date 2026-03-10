@@ -13,34 +13,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ntkomj",
           "name": null,
           "components": [
             {
+              "id": "0000000000873uek",
               "uuid": "Compendium.kraywell-compendium.items.Item.O3WXOpln1gnScZkg",
               "quantity": 1,
-              "name": "Обычные Расходные Материалы"
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ntkomi",
           "name": null,
           "components": [
             {
+              "id": "00000000000xlmd9",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.XJyfVKQfgL2wetlg",
               "quantity": 1,
-              "name": "Обычный свежий ингредиент"
+              "name": "Обычный свежий ингредиент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000orzvva",
           "name": null,
           "components": [
             {
+              "id": "00000000003lp0zf",
               "uuid": "Compendium.kraywell-compendium.items.Item.VlodWhBmmflVmosY",
               "quantity": 1,
-              "name": "Обычный пир"
+              "name": "Обычный пир",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -65,44 +80,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000b6clyb",
           "name": null,
           "components": [
             {
+              "id": "00000000005lzfl1",
               "uuid": "Compendium.kraywell-compendium.items.Item.lLcNNpjGKKYhZTpV",
               "quantity": 1,
-              "name": "Необычные Расходные Материалы"
+              "name": "Необычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000b6clyc",
           "name": null,
           "components": [
             {
+              "id": "0000000000grsvvn",
               "uuid": "Compendium.kraywell-compendium.items.Item.O3WXOpln1gnScZkg",
-              "quantity": "2",
-              "name": "Обычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000b6clyd",
           "name": null,
           "components": [
             {
+              "id": "0000000000lhcgg6",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.oBmw2d3kRx9tkgns",
               "quantity": 1,
-              "name": "Необычный свежий ингредиент"
+              "name": "Необычный свежий ингредиент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005b0lk4",
           "name": null,
           "components": [
             {
+              "id": "0000000000dckkcy",
               "uuid": "Compendium.kraywell-compendium.items.Item.1QkSumPZvlgUcQ9F",
               "quantity": 1,
-              "name": "Улучшенный пир"
+              "name": "Улучшенный пир",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -127,44 +162,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000wcqzm1",
           "name": null,
           "components": [
             {
+              "id": "00000000006t255l",
               "uuid": "Compendium.kraywell-compendium.items.Item.4Jyo5YRpe4LDzoBQ",
               "quantity": 1,
-              "name": "Необычное Мясо"
+              "name": "Необычное Мясо",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wcqzm0",
           "name": null,
           "components": [
             {
+              "id": "0000000000u5tnqy",
               "uuid": "Compendium.kraywell-compendium.items.Item.lLcNNpjGKKYhZTpV",
               "quantity": 1,
-              "name": "Необычные Расходные Материалы"
+              "name": "Необычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000wcqzlz",
           "name": null,
           "components": [
             {
+              "id": "0000000000tpgxxk",
               "uuid": "Compendium.kraywell-compendium.items.Item.O3WXOpln1gnScZkg",
-              "quantity": "2",
-              "name": "Обычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000055z4jc",
           "name": null,
           "components": [
             {
+              "id": "0000000000l0po4n",
               "uuid": "Compendium.kraywell-compendium.items.Item.wewmvVyQfC6ikSPd",
               "quantity": 1,
-              "name": "Обычный мясной пир"
+              "name": "Обычный мясной пир",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -189,54 +244,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000c5ciss",
           "name": null,
           "components": [
             {
+              "id": "00000000007me4vb",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.qLmOuBjvSo2NBSJz",
               "quantity": 1,
-              "name": "Необычное Мясо от существа которое наносит урон ядом"
+              "name": "Необычное Мясо от существа которое наносит урон ядом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c5cist",
           "name": null,
           "components": [
             {
+              "id": "0000000000l80tl5",
               "uuid": "Compendium.kraywell-compendium.items.Item.AKWDG56NdLlh5sPR",
-              "quantity": "2",
-              "name": "Необычный Ядовитый Реагент"
+              "quantity": 2,
+              "name": "Необычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c5cisu",
           "name": null,
           "components": [
             {
+              "id": "0000000000mm4iy8",
               "uuid": "Compendium.kraywell-compendium.items.Item.lLcNNpjGKKYhZTpV",
               "quantity": 1,
-              "name": "Необычные Расходные Материалы"
+              "name": "Необычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000c5cisv",
           "name": null,
           "components": [
             {
+              "id": "0000000000xrxz8u",
               "uuid": "Compendium.kraywell-compendium.items.Item.O3WXOpln1gnScZkg",
-              "quantity": "2",
-              "name": "Обычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000otwooj",
           "name": null,
           "components": [
             {
+              "id": "0000000000d8dai4",
               "uuid": "Compendium.kraywell-compendium.items.Item.KZ912pklrGU9aRzb",
               "quantity": 1,
-              "name": "Всё что не убивает тебя..."
+              "name": "Всё что не убивает тебя...",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -261,44 +341,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000j33r7b",
           "name": null,
           "components": [
             {
+              "id": "0000000000lgrslj",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.sknXwexy0RCoXJOX",
               "quantity": 1,
-              "name": "Необычное мясо, чья скорость плаванья больше чем ходьбы"
+              "name": "Необычное мясо, чья скорость плаванья больше чем ходьбы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000j33r7c",
           "name": null,
           "components": [
             {
+              "id": "0000000000mbwe3x",
               "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
-              "quantity": "2",
-              "name": "Необычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Необычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000j33r7d",
           "name": null,
           "components": [
             {
+              "id": "0000000000v0e6s1",
               "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
-              "quantity": "2",
-              "name": "Обычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000qt0r9k",
           "name": null,
           "components": [
             {
+              "id": "00000000004sknfb",
               "uuid": "Compendium.kraywell-compendium.items.Item.UQqidLMRh6rakiws",
               "quantity": 1,
-              "name": "Морской балбес"
+              "name": "Морской балбес",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -323,64 +423,97 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000z1kodl",
           "name": null,
           "components": [
             {
+              "id": "0000000000xerdhs",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.pFGtTrvRdXUFoEZ3",
               "quantity": 1,
-              "name": "редкий свежий ингредиент"
+              "name": "редкий свежий ингредиент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000z1kodk",
           "name": null,
           "components": [
             {
+              "id": "00000000005eqpnq",
               "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
               "quantity": 1,
-              "name": "Необычный Лечебный Реагент"
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000kphai9",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
               "quantity": 1,
-              "name": "Необычный Реактивный Реагент"
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000rij8jn",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
               "quantity": 1,
-              "name": "Необычный Ядовитый Реагент"
+              "name": "Необычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000z1kodj",
           "name": null,
           "components": [
             {
+              "id": "0000000000qgcrfy",
               "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
               "quantity": 1,
-              "name": "Необычные Расходные Материалы"
+              "name": "Необычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000z1kodi",
           "name": null,
           "components": [
             {
+              "id": "0000000000z4uk42",
               "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
-              "quantity": "2",
-              "name": "Обычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000hifeag",
           "name": null,
           "components": [
             {
+              "id": "0000000000clo8bv",
               "uuid": "Compendium.kraywell-compendium.items.Item.ATiaFo0Z9qGXuEru",
               "quantity": 1,
-              "name": "Чудесный пир"
+              "name": "Чудесный пир",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -405,74 +538,112 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "000000000004v3w6",
           "name": null,
           "components": [
             {
+              "id": "0000000000qu75hm",
               "uuid": "Compendium.kraywell-compendium.items.wL4UgfZb9ndS7J2L",
               "quantity": 1,
-              "name": "Редкое Мясо"
+              "name": "Редкое Мясо",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000004v3w7",
           "name": null,
           "components": [
             {
+              "id": "0000000000sx3rnz",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
               "quantity": 1,
-              "name": "Необычный Реактивный Реагент"
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000003vm2zo",
               "uuid": "Compendium.kraywell-compendium.items.qSorKIz0YZOXqeOX",
               "quantity": 1,
-              "name": "Необычный Лечебный Реагент"
+              "name": "Необычный Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000xkvmv2",
               "uuid": "Compendium.kraywell-compendium.items.AKWDG56NdLlh5sPR",
               "quantity": 1,
-              "name": "Необычный Ядовитый Реагент"
+              "name": "Необычный Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000004v3w8",
           "name": null,
           "components": [
             {
+              "id": "00000000006qp583",
               "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
               "quantity": 1,
-              "name": "Редкие расходные материалы"
+              "name": "Редкие расходные материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000004v3w9",
           "name": null,
           "components": [
             {
+              "id": "00000000004qpnw2",
               "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
               "quantity": 1,
-              "name": "Необычные Расходные Материалы"
+              "name": "Необычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "000000000004v3wa",
           "name": null,
           "components": [
             {
+              "id": "00000000003xs4s2",
               "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
-              "quantity": "2",
-              "name": "Обычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000007kh4h5",
           "name": null,
           "components": [
             {
+              "id": "0000000000f626pj",
               "uuid": "Compendium.kraywell-compendium.items.CfoKzB8RuFxviTOb",
               "quantity": 1,
-              "name": "Сытный мясной пир"
+              "name": "Сытный мясной пир",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -497,74 +668,109 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "00000000006kth4f",
           "name": null,
           "components": [
             {
+              "id": "0000000000qwiwbc",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.3wxm6RLZMOYO5lXw",
               "quantity": 1,
-              "name": "Редкое мясо от существа с сопротивлением к элементу или иммунитетом"
+              "name": "Редкое мясо от существа с сопротивлением к элементу или иммунитетом",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006kth4g",
           "name": null,
           "components": [
             {
+              "id": "0000000000yaytje",
               "uuid": "Compendium.kraywell-compendium.items.8VDj01mqzoLtj7ef",
-              "quantity": "2",
-              "name": "Необычный Реактивный Реагент"
+              "quantity": 2,
+              "name": "Необычный Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006kth4h",
           "name": null,
           "components": [
             {
+              "id": "0000000000543xl6",
               "uuid": "Compendium.kraywell-compendium.items.e6KCdCaiuFufij6l",
               "quantity": 1,
-              "name": "Обычная Первичная Эссенция"
+              "name": "Обычная Первичная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006kth4i",
           "name": null,
           "components": [
             {
+              "id": "0000000000fclu2v",
               "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
-              "quantity": "2",
-              "name": "Редкие расходные материалы"
+              "quantity": 2,
+              "name": "Редкие расходные материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006kth4j",
           "name": null,
           "components": [
             {
+              "id": "0000000000hclbew",
               "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
-              "quantity": "2",
-              "name": "Необычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Необычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "00000000006kth4k",
           "name": null,
           "components": [
             {
+              "id": "0000000000q13430",
               "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
-              "quantity": "2",
-              "name": "Обычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005s9ncg",
           "name": null,
           "components": [
             {
+              "id": "0000000000dyr94t",
               "uuid": "Compendium.kraywell-compendium.items.UXmu3RH97uSblmZl",
               "quantity": 1,
-              "name": "Элементальный пир"
+              "name": "Элементальный пир",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -589,54 +795,79 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000946m9q",
           "name": null,
           "components": [
             {
+              "id": "000000000032pze3",
               "uuid": "Compendium.kraywell-compendium.items.t3ON4hhqI8q1BjAT",
-              "quantity": "4",
-              "name": "Редкий Лечебный Реагент"
+              "quantity": 4,
+              "name": "Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000946m9p",
           "name": null,
           "components": [
             {
+              "id": "0000000000evuk9x",
               "uuid": "Compendium.kraywell-compendium.items.Rk4HbvV46bmQq7Z1",
-              "quantity": "2",
-              "name": "Необычная Божественная Эссенция"
+              "quantity": 2,
+              "name": "Необычная Божественная Эссенция",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000946m9o",
           "name": null,
           "components": [
             {
+              "id": "0000000000l7o8ih",
               "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
-              "quantity": "4",
-              "name": "Редкие расходные материалы"
+              "quantity": 4,
+              "name": "Редкие расходные материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000946m9n",
           "name": null,
           "components": [
             {
+              "id": "00000000001zt2fx",
               "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
-              "quantity": "4",
-              "name": "Обычные Расходные Материалы"
+              "quantity": 4,
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000004wftb1",
           "name": null,
           "components": [
             {
+              "id": "00000000007tnpfs",
               "uuid": "Compendium.kraywell-compendium.items.bDyOlgojWZPMOLH0",
               "quantity": 1,
-              "name": "Пир Героев"
+              "name": "Пир Героев",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -661,74 +892,112 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000tls2yk",
           "name": null,
           "components": [
             {
+              "id": "0000000000kdhtby",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.jpFqZDQPN1gk1uva",
               "quantity": 1,
-              "name": "Очень редкий свежий ингредиент"
+              "name": "Очень редкий свежий ингредиент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tls2yj",
           "name": null,
           "components": [
             {
+              "id": "00000000006uw0hl",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
               "quantity": 1,
-              "name": "Редкий Ядовитый Реагент"
+              "name": "Редкий Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000dhcknh",
               "uuid": "Compendium.kraywell-compendium.items.t3ON4hhqI8q1BjAT",
               "quantity": 1,
-              "name": "Редкий Лечебный Реагент"
+              "name": "Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "00000000007czmuc",
               "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
               "quantity": 1,
-              "name": "Редкий Реактивный Реагент"
+              "name": "Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tls2yi",
           "name": null,
           "components": [
             {
+              "id": "0000000000bb6s3s",
               "uuid": "Compendium.kraywell-compendium.items.Item.lLcNNpjGKKYhZTpV",
-              "quantity": "2",
-              "name": "Необычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Необычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tls2yh",
           "name": null,
           "components": [
             {
+              "id": "0000000000qn7dqv",
               "uuid": "Compendium.kraywell-compendium.items.Item.pyw3iCztJeEMwOSX",
-              "quantity": "2",
-              "name": "Редкие расходные материалы"
+              "quantity": 2,
+              "name": "Редкие расходные материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000tls2yg",
           "name": null,
           "components": [
             {
+              "id": "0000000000cez1af",
               "uuid": "Compendium.kraywell-compendium.items.Item.O3WXOpln1gnScZkg",
-              "quantity": "2",
-              "name": "Обычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "000000000090yxp7",
           "name": null,
           "components": [
             {
+              "id": "0000000000ocu0ks",
               "uuid": "Compendium.kraywell-compendium.items.Item.QFmTAdfj8FvC9qvp",
               "quantity": 1,
-              "name": "Отличный пир"
+              "name": "Отличный пир",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -753,74 +1022,112 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000hmbtzg",
           "name": null,
           "components": [
             {
+              "id": "0000000000wrh1x0",
               "uuid": "Compendium.kraywell-compendium.items.Item.Oqw2hrM1DIbvmqrI",
               "quantity": 1,
-              "name": "Очень Редкое Мясо"
+              "name": "Очень Редкое Мясо",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hmbtzh",
           "name": null,
           "components": [
             {
+              "id": "0000000000xtlxwx",
               "uuid": "Compendium.kraywell-compendium.items.OhffriZfAHsJ90Y4",
               "quantity": 1,
-              "name": "Редкий Ядовитый Реагент"
+              "name": "Редкий Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000dhdcrv",
               "uuid": "Compendium.kraywell-compendium.items.t3ON4hhqI8q1BjAT",
               "quantity": 1,
-              "name": "Редкий Лечебный Реагент"
+              "name": "Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000jlqal0",
               "uuid": "Compendium.kraywell-compendium.items.xTfhJGsI7x1WotjZ",
               "quantity": 1,
-              "name": "Редкий Реактивный Реагент"
+              "name": "Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hmbtzi",
           "name": null,
           "components": [
             {
+              "id": "0000000000drxqhp",
               "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
-              "quantity": "2",
-              "name": "Редкие расходные материалы"
+              "quantity": 2,
+              "name": "Редкие расходные материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hmbtzj",
           "name": null,
           "components": [
             {
+              "id": "0000000000wzswk9",
               "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
-              "quantity": "2",
-              "name": "Обычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000hmbtzk",
           "name": null,
           "components": [
             {
+              "id": "0000000000i4e6x1",
               "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
-              "quantity": "2",
-              "name": "Необычные Расходные Материалы"
+              "quantity": 2,
+              "name": "Необычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000in0ui5",
           "name": null,
           "components": [
             {
+              "id": "0000000000a2r6iy",
               "uuid": "Compendium.kraywell-compendium.items.Item.CfoKzB8RuFxviTOb",
               "quantity": 1,
-              "name": "Сытный мясной пир"
+              "name": "Сытный мясной пир",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -845,74 +1152,112 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000dwnlwz",
           "name": null,
           "components": [
             {
+              "id": "0000000000zdlo2p",
               "uuid": "Compendium.kraywell-compendium.items.lmeA6IXdcsZuIKwN",
               "quantity": 1,
-              "name": "Легендарное Мясо"
+              "name": "Легендарное Мясо",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dwnlx0",
           "name": null,
           "components": [
             {
+              "id": "0000000000e5a86d",
               "uuid": "Compendium.kraywell-compendium.items.lKj6NlZtvZiS2MQl",
               "quantity": 1,
-              "name": "Очень Редкий Реактивный Реагент"
+              "name": "Очень Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000h0chj5",
               "uuid": "Compendium.kraywell-compendium.items.SMplSIkHRu0GWtii",
               "quantity": 1,
-              "name": "Очень Редкий Лечебный Реагент"
+              "name": "Очень Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000awyzlr",
               "uuid": "Compendium.kraywell-compendium.items.FSHhU2kc6pgDLAf9",
               "quantity": 1,
-              "name": "Очень Редкий Ядовитый Реагент"
+              "name": "Очень Редкий Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dwnlx1",
           "name": null,
           "components": [
             {
+              "id": "0000000000e0ehd6",
               "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
-              "quantity": "3",
-              "name": "Редкие расходные материалы"
+              "quantity": 3,
+              "name": "Редкие расходные материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dwnlx2",
           "name": null,
           "components": [
             {
+              "id": "0000000000g0dyp7",
               "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
-              "quantity": "3",
-              "name": "Необычные Расходные Материалы"
+              "quantity": 3,
+              "name": "Необычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000dwnlx3",
           "name": null,
           "components": [
             {
+              "id": "0000000000oovrdb",
               "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
               "quantity": 1,
-              "name": "Обычные Расходные Материалы"
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000008bcbbg",
           "name": null,
           "components": [
             {
+              "id": "000000000041tq6b",
               "uuid": "Compendium.kraywell-compendium.items.Item.nPEVwZ35ivH3qyRb",
               "quantity": 1,
-              "name": "Легендарный мясной пир"
+              "name": "Легендарный мясной пир",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -937,74 +1282,112 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ufiznk",
           "name": null,
           "components": [
             {
+              "id": "00000000005brc7p",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.HJNcuF4vfeAFhd7b",
               "quantity": 1,
-              "name": "Легендарный свежий ингредиент"
+              "name": "Легендарный свежий ингредиент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ufiznl",
           "name": null,
           "components": [
             {
+              "id": "0000000000ilx4co",
               "uuid": "Compendium.kraywell-compendium.items.lKj6NlZtvZiS2MQl",
               "quantity": 1,
-              "name": "Очень Редкий Реактивный Реагент"
+              "name": "Очень Редкий Реактивный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000l9k7wy",
               "uuid": "Compendium.kraywell-compendium.items.SMplSIkHRu0GWtii",
               "quantity": 1,
-              "name": "Очень Редкий Лечебный Реагент"
+              "name": "Очень Редкий Лечебный Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             },
             {
+              "id": "0000000000rcxpuc",
               "uuid": "Compendium.kraywell-compendium.items.FSHhU2kc6pgDLAf9",
               "quantity": 1,
-              "name": "Очень Редкий Ядовитый Реагент"
+              "name": "Очень Редкий Ядовитый Реагент",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ufiznm",
           "name": null,
           "components": [
             {
+              "id": "0000000000o9i82x",
               "uuid": "Compendium.kraywell-compendium.items.pyw3iCztJeEMwOSX",
-              "quantity": "3",
-              "name": "Редкие расходные материалы"
+              "quantity": 3,
+              "name": "Редкие расходные материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ufiznn",
           "name": null,
           "components": [
             {
+              "id": "0000000000m9iqqw",
               "uuid": "Compendium.kraywell-compendium.items.lLcNNpjGKKYhZTpV",
-              "quantity": "3",
-              "name": "Необычные Расходные Материалы"
+              "quantity": 3,
+              "name": "Необычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ufizno",
           "name": null,
           "components": [
             {
+              "id": "0000000000dl0y2s",
               "uuid": "Compendium.kraywell-compendium.items.O3WXOpln1gnScZkg",
               "quantity": 1,
-              "name": "Обычные Расходные Материалы"
+              "name": "Обычные Расходные Материалы",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000nckrdr",
           "name": null,
           "components": [
             {
+              "id": "0000000000gc5eqb",
               "uuid": "Compendium.kraywell-compendium.items.zg2stKXY90jGyQjr",
               "quantity": 1,
-              "name": "Легендарный пир"
+              "name": "Легендарный пир",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }

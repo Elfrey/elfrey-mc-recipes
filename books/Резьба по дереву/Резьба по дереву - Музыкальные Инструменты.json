@@ -13,24 +13,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000anom3e",
           "name": null,
           "components": [
             {
+              "id": "0000000000oklsq6",
               "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
-              "quantity": "1",
-              "name": "Качественная Ветвь / Quality Branch"
+              "quantity": 1,
+              "name": "Качественная Ветвь / Quality Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000s520qh",
           "name": null,
           "components": [
             {
+              "id": "00000000008b64p3",
               "uuid": "Compendium.laaru-dnd5-hw.items.mzZSa8W5Vf7g7EpC",
               "quantity": 1,
-              "name": "Флейта / Flute"
+              "name": "Флейта / Flute",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -49,34 +59,49 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000iu03m3",
           "name": null,
           "components": [
             {
+              "id": "0000000000ma8nh9",
               "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
-              "quantity": "3",
-              "name": "Качественная Ветвь / Quality Branch"
+              "quantity": 3,
+              "name": "Качественная Ветвь / Quality Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000iu03m2",
           "name": null,
           "components": [
             {
+              "id": "00000000005ehptg",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.hDOc8kfHGyQwOMDb",
-              "quantity": "4",
-              "name": "Отрезок лески / Length of String"
+              "quantity": 4,
+              "name": "Отрезок лески / Length of String",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000c7hwfq",
           "name": null,
           "components": [
             {
+              "id": "0000000000tca4ir",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.Item.qNTyCJSFk2dYtUME",
               "quantity": 1,
-              "name": "Арфа / Harp"
+              "name": "Арфа / Harp",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -95,44 +120,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000lxkyd6",
           "name": null,
           "components": [
             {
+              "id": "0000000000kwtiim",
               "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
-              "quantity": "2",
-              "name": "Качественная Ветвь / Quality Branch"
+              "quantity": 2,
+              "name": "Качественная Ветвь / Quality Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lxkyd7",
           "name": null,
           "components": [
             {
+              "id": "0000000000ucq9vr",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.hDOc8kfHGyQwOMDb",
-              "quantity": "2",
-              "name": "Отрезок лески / Length of String"
+              "quantity": 2,
+              "name": "Отрезок лески / Length of String",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000lxkyd8",
           "name": null,
           "components": [
             {
+              "id": "0000000000jhkdrz",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "1",
-              "name": "Необычные Запчасти / Fancy Parts"
+              "quantity": 1,
+              "name": "Необычные Запчасти / Fancy Parts",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000r0e6mz",
           "name": null,
           "components": [
             {
+              "id": "0000000000pxvycu",
               "uuid": "Compendium.laaru-dnd5-hw.items.t4tIDgqVHrDqtGLX",
               "quantity": 1,
-              "name": "Лютня / Lute"
+              "name": "Лютня / Lute",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -151,44 +196,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ornjwn",
           "name": null,
           "components": [
             {
+              "id": "000000000084c9lt",
               "uuid": "Compendium.kraywell-compendium.items.98esbLesShR01boL",
-              "quantity": "4",
-              "name": "Обычная Ветвь / Common Branch"
+              "quantity": 4,
+              "name": "Обычная Ветвь / Common Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ornjwm",
           "name": null,
           "components": [
             {
+              "id": "0000000000a2shh7",
               "uuid": "Compendium.kraywell-compendium.items.KHOOuEKSawFdosbb",
-              "quantity": "1",
-              "name": "Сыромятная Кожа / Rawhide leather"
+              "quantity": 1,
+              "name": "Сыромятная Кожа / Rawhide leather",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ornjwl",
           "name": null,
           "components": [
             {
+              "id": "0000000000vya8pk",
               "uuid": "Compendium.kraywell-compendium.items.JvROpigr0jg2osWb",
-              "quantity": "1",
-              "name": "Обычные запчасти / Parts"
+              "quantity": 1,
+              "name": "Обычные запчасти / Parts",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000gwn8ee",
           "name": null,
           "components": [
             {
+              "id": "0000000000ox4o66",
               "uuid": "Compendium.laaru-dnd5-hw.items.Km7Z0Gi7g1sOpYN5",
               "quantity": 1,
-              "name": "Барабан / Drum"
+              "name": "Барабан / Drum",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -207,44 +272,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ubd5jx",
           "name": null,
           "components": [
             {
+              "id": "00000000008b28s5",
               "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
-              "quantity": "2",
-              "name": "Качественная Ветвь / Quality Branch"
+              "quantity": 2,
+              "name": "Качественная Ветвь / Quality Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ubd5jw",
           "name": null,
           "components": [
             {
+              "id": "0000000000ku0gwu",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.hDOc8kfHGyQwOMDb",
-              "quantity": "2",
-              "name": "Отрезок лески / Length of String"
+              "quantity": 2,
+              "name": "Отрезок лески / Length of String",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000ubd5jv",
           "name": null,
           "components": [
             {
+              "id": "0000000000w3bnig",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "1",
-              "name": "Необычные Запчасти / Fancy Parts"
+              "quantity": 1,
+              "name": "Необычные Запчасти / Fancy Parts",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000d06ap0",
           "name": null,
           "components": [
             {
+              "id": "000000000099rvfz",
               "uuid": "Compendium.laaru-dnd5-hw.items.USgCWYk9wIjt8uiM",
               "quantity": 1,
-              "name": "Цимбалы / Dulcimer"
+              "name": "Цимбалы / Dulcimer",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -263,44 +348,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000l23n8v",
           "name": null,
           "components": [
             {
+              "id": "00000000004ooks9",
               "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
-              "quantity": "2",
-              "name": "Качественная Ветвь / Quality Branch"
+              "quantity": 2,
+              "name": "Качественная Ветвь / Quality Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000l23n8u",
           "name": null,
           "components": [
             {
+              "id": "0000000000giodgw",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.hDOc8kfHGyQwOMDb",
-              "quantity": "2",
-              "name": "Отрезок лески / Length of String"
+              "quantity": 2,
+              "name": "Отрезок лески / Length of String",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000l23n8t",
           "name": null,
           "components": [
             {
+              "id": "0000000000py1kwa",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "1",
-              "name": "Необычные Запчасти / Fancy Parts"
+              "quantity": 1,
+              "name": "Необычные Запчасти / Fancy Parts",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000a5fr2q",
           "name": null,
           "components": [
             {
+              "id": "0000000000dken0x",
               "uuid": "Compendium.laaru-dnd5-hw.items.V8n8Jl3O7Sjj2SMa",
               "quantity": 1,
-              "name": "Лира / Lyre"
+              "name": "Лира / Lyre",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -319,24 +424,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000famgrp",
           "name": null,
           "components": [
             {
+              "id": "0000000000uzz9mb",
               "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
-              "quantity": "1",
-              "name": "Качественная Ветвь / Quality Branch"
+              "quantity": 1,
+              "name": "Качественная Ветвь / Quality Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000jor67a",
           "name": null,
           "components": [
             {
+              "id": "00000000009lem45",
               "uuid": "Compendium.laaru-dnd5-hw.items.mIPgrksFKvRtdlax",
               "quantity": 1,
-              "name": "Сиринга / Pan Flute"
+              "name": "Сиринга / Pan Flute",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -355,24 +470,34 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000ssh0kz",
           "name": null,
           "components": [
             {
+              "id": "0000000000tbg09x",
               "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
-              "quantity": "1",
-              "name": "Качественная Ветвь / Quality Branch"
+              "quantity": 1,
+              "name": "Качественная Ветвь / Quality Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "0000000000ri4fuc",
           "name": null,
           "components": [
             {
+              "id": "000000000030eb16",
               "uuid": "Compendium.laaru-dnd5-hw.items.frIyweGg6ZX9TJ1z",
               "quantity": 1,
-              "name": "Шалмей / Shawm"
+              "name": "Шалмей / Shawm",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
@@ -391,44 +516,64 @@
       "tools": "",
       "ingredients": [
         {
+          "id": "0000000000mm1zqi",
           "name": null,
           "components": [
             {
+              "id": "0000000000qqfu1a",
               "uuid": "Compendium.kraywell-compendium.items.BTF3HLUa23hV3vGl",
-              "quantity": "3",
-              "name": "Качественная Ветвь / Quality Branch"
+              "quantity": 3,
+              "name": "Качественная Ветвь / Quality Branch",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mm1zqj",
           "name": null,
           "components": [
             {
+              "id": "000000000050pjkn",
               "uuid": "Compendium.elfrey-mc-recipes.emcr-ignridienty.hDOc8kfHGyQwOMDb",
-              "quantity": "2",
-              "name": "Отрезок лески / Length of String"
+              "quantity": 2,
+              "name": "Отрезок лески / Length of String",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         },
         {
+          "id": "0000000000mm1zqk",
           "name": null,
           "components": [
             {
+              "id": "0000000000dny29b",
               "uuid": "Compendium.kraywell-compendium.items.RopGsT9e4NsXd68Q",
-              "quantity": "1",
-              "name": "Необычные Запчасти / Fancy Parts"
+              "quantity": 1,
+              "name": "Необычные Запчасти / Fancy Parts",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
       ],
       "products": [
         {
+          "id": "00000000005xq05n",
           "name": null,
           "components": [
             {
+              "id": "0000000000szdm0t",
               "uuid": "Compendium.laaru-dnd5-hw.items.tCqSKpLcmQSuynXD",
               "quantity": 1,
-              "name": "Виола / Viol"
+              "name": "Виола / Viol",
+              "img": "",
+              "tags": [],
+              "resourcePath": ""
             }
           ]
         }
